@@ -1,0 +1,154 @@
+Version:1.0
+Warhammer
+WHM-6R (Krakanroc)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:18 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous Prototype
+LA Armor:18
+RA Armor:18
+LT Armor:19
+RT Armor:19
+CT Armor:26
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:9
+Particle Cannon, Right Arm
+Particle Cannon, Left Arm
+SRM 6, Right Torso
+Medium Laser, Right Torso
+Small Laser, Right Torso
+Machine Gun, Right Torso
+Medium Laser, Left Torso
+Small Laser, Left Torso
+Machine Gun, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Heat Sink
+Particle Cannon
+Particle Cannon
+Particle Cannon
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Heat Sink
+Particle Cannon
+Particle Cannon
+Particle Cannon
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+-Empty-
+
+Left Torso:
+Medium Laser
+Small Laser
+Machine Gun
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+SRM 6
+SRM 6
+Medium Laser
+Small Laser
+Machine Gun
+IS Ammo SRM-6
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Ammo MG - Full
+Ferro-Fibrous Prototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

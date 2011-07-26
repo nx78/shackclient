@@ -1,0 +1,86 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<barrating>
+5
+</barrating>
+
+<Name>
+Yari Tank
+</Name>
+
+<Model>
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor>
+20
+16
+16
+16
+20
+</armor>
+
+<Body Equipment>
+Advanced Fire Control
+IS Ammo SRM-2
+IS Ammo AC/2
+IS Ammo AC/2
+IS Ammo MG - Full
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 2
+Autocannon/2
+Autocannon/2
+</Turret Equipment>
+

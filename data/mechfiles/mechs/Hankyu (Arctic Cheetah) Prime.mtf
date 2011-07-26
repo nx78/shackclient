@@ -1,0 +1,154 @@
+Version:1.0
+Hankyu (Arctic Cheetah)
+ Prime
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3037
+Source:Late Succession Wars
+Rules Level:2
+
+Mass:30
+Engine:240 XL Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:8
+Jump MP:6
+
+Armor:Ferro-Fibrous
+LA Armor:7
+RA Armor:7
+LT Armor:8
+RT Armor:8
+CT Armor:8
+HD Armor:9
+LL Armor:8
+RL Armor:8
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:8
+1 CLLRM5, Right Arm, Ammo:48
+1 CLLRM5, Left Arm
+1 CLERMediumLaser, Right Arm
+1 CLERMediumLaser, Left Arm
+1 CLFlamer, Right Torso
+1 CLActiveProbe, Right Torso
+1 CLTAG, Left Torso
+1 CLECMSuite, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLRM5
+CLERMediumLaser
+Endo Steel
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLRM5
+CLERMediumLaser
+Endo Steel
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLTAG
+CLECMSuite
+CLLRM5 Ammo
+Endo Steel
+Endo Steel
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLFlamer
+CLActiveProbe
+CLLRM5 Ammo
+Endo Steel
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

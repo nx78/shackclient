@@ -1,0 +1,95 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Bear
+</Name>
+
+<Model>
+Tank
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor>
+35
+30
+30
+30
+35
+</armor>
+
+<Body Equipment>
+IS Vehicle Flamer Ammo
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo SRM-6
+IS Ammo SRM-6
+IS Ammo SRM-2
+IS Ammo MG - Full
+IS Ammo AC/20
+IS Ammo AC/20
+</Body Equipment>
+
+<Front Equipment>
+Vehicle Flamer
+LRM 20
+LRM 20
+SRM 2
+SRM 2
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 6
+SRM 6
+Machine Gun
+Machine Gun
+Autocannon/20
+</Turret Equipment>
+

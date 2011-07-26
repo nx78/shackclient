@@ -1,0 +1,86 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Hover Tank
+</Name>
+
+<Model>
+(Ultra AC Prototype)
+</Model>
+<source>
+Late Succession Wars
+</source>
+
+<year>
+3039
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor>
+20
+16
+16
+16
+20
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ultra AC/5 Ammo
+IS Ultra AC/5 Ammo
+IS Ammo LRM-5
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISUltraAC5Prototype
+LRM 5
+LRM 5
+Medium Laser
+Medium Laser
+Medium Laser
+Small Laser
+</Turret Equipment>
+

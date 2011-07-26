@@ -1,0 +1,61 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+ConvFighter
+</UnitType>
+<Name>
+Guardian
+</Name>
+<Model>
+B
+</Model>
+<Tonnage>
+20
+</Tonnage>
+<SafeThrust>
+6
+</SafeThrust>
+<Armor>
+6
+3
+3
+4
+</Armor>
+<Nose Equipment>
+ISMediumLaser
+</Nose Equipment>
+<heatsinks>
+3
+</heatsinks>
+<sink_type>
+0
+</sink_type>
+<fuel>
+320
+</fuel>
+<type>
+IS Level 2
+</type>
+<year>
+3039
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>
+<vstol>
+</vstol>

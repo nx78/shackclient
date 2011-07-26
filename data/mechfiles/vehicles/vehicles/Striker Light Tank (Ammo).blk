@@ -1,0 +1,85 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Striker Light Tank
+</Name>
+
+<Model>
+(Ammo)
+</Model>
+
+<year>
+3052
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+28
+25
+25
+21
+26
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-15
+IS Ammo LRM-15
+IS Streak SRM 2 Ammo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+LRM 15
+ISStreakSRM2
+</Turret Equipment>
+

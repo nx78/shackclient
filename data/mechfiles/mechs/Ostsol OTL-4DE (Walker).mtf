@@ -1,0 +1,150 @@
+Version:1.1
+Ostsol
+OTL-4DE (Walker)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:60
+Engine:300 Fusion Engine
+Structure:Endo-Steel Prototype
+Myomer:Triple Strength Myomer
+
+Heat Sinks:16 Single
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:21
+RT Armor:21
+CT Armor:25
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:6
+1 ISLargeLaser, Right Torso
+1 ISLargeLaser, Left Torso
+1 ISMediumLaser, Center Torso (R)
+1 ISMediumLaser, Center Torso (R)
+1 ISMediumPulseLaserPrototype, Right Torso
+1 ISMediumPulseLaserPrototype, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Triple Strength Myomer
+
+Left Torso:
+ISLargeLaser
+ISLargeLaser
+ISMediumPulseLaserPrototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Triple Strength Myomer
+
+Right Torso:
+ISLargeLaser
+ISLargeLaser
+ISMediumPulseLaserPrototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel Prototype
+Endo-Steel Prototype
+Endo-Steel Prototype
+Triple Strength Myomer
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumLaser (R)
+ISMediumLaser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+Triple Strength Myomer
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-

@@ -1,0 +1,92 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Pegasus Scout Hover Tank
+</Name>
+
+<Model>
+(ECM Prototype)
+</Model>
+<source>
+Late Succession Wars
+</source>
+
+<year>
+3039
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+20
+18
+18
+18
+24
+</armor>
+
+<Body Equipment>
+ISCASE
+ISGuardianECMSuite
+IS Ammo SRM-6
+</Body Equipment>
+
+<Front Equipment>
+Small Laser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Medium Laser
+Medium Laser
+Medium Laser
+SRM 6
+SRM 6
+</Turret Equipment>
+

@@ -1,0 +1,151 @@
+Version:1.0
+Loki (Hellbringer)
+C
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3068
+Source:Jihad
+Rules Level:2
+
+Mass:65
+Engine:325 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:11
+RA Armor:11
+LT Armor:14
+RT Armor:14
+CT Armor:17
+HD Armor:9
+LL Armor:15
+RL Armor:15
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:5
+1 CLATM6, Right Arm, Ammo:30
+1 CLERLargeLaser, Left Arm
+2 CLERSmallLaser, Left Arm
+1 CLLBXAC20, Right Torso, Ammo:15
+2 CLERMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+CLERSmallLaser
+CLERSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLATM6
+CLATM6
+CLATM6
+CLATM6 ER Ammo
+CLATM6 Ammo
+CLATM6 HE Ammo
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLERMediumLaser
+CLLBXAC20 Ammo
+CLLBXAC20 CL Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20 CL Ammo
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

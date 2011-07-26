@@ -1,0 +1,162 @@
+Version:1.0
+Archer
+ARC-2R (Sabik Variant II)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:1
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:20 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard
+LA Armor:22
+RA Armor:22
+LT Armor:24
+RT Armor:24
+CT Armor:33
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:6
+RTR Armor:6
+RTC Armor:10
+
+Weapons:17
+Medium Laser, Right Arm
+Small Laser, Right Arm
+Small Laser, Right Arm
+Small Laser, Right Arm
+Small Laser, Right Arm
+Medium Laser, Left Arm
+Small Laser, Left Arm
+Small Laser, Left Arm
+Small Laser, Left Arm
+Small Laser, Left Arm
+Machine Gun, Right Torso
+Machine Gun, Right Torso (R)
+Particle Cannon, Left Torso
+Machine Gun, Left Torso
+Machine Gun, Left Torso (R)
+Medium Laser, Center Torso (R)
+Medium Laser, Center Torso (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+Small Laser
+Small Laser
+Small Laser
+Small Laser
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+Small Laser
+Small Laser
+Small Laser
+Small Laser
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+Heat Sink
+Particle Cannon
+Particle Cannon
+Particle Cannon
+Machine Gun
+Machine Gun (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Heat Sink
+Heat Sink
+Machine Gun
+Machine Gun (R)
+IS Ammo MG - Full
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser (R)
+Medium Laser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

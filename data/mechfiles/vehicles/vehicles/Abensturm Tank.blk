@@ -1,0 +1,81 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Abensturm
+</Name>
+
+<Model>
+Tank
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+25
+25
+25
+20
+25
+</armor>
+
+<Body Equipment>
+IS Ammo MG - Full
+IS Ammo LRM-5
+IS Ammo SRM-4
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+LRM 5
+SRM 4
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Large Laser
+Machine Gun
+Machine Gun
+</Turret Equipment>
+

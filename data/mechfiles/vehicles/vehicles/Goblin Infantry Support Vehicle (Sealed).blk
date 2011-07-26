@@ -1,0 +1,88 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Goblin Infantry Support Vehicle
+</Name>
+
+<Model>
+(Sealed)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+45.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+40
+32
+32
+26
+40
+</armor>
+
+<Body Equipment>
+Environmental Sealing
+ISAMS Ammo
+IS Machine Gun Ammo - Half
+IS Ammo SRM-6
+</Body Equipment>
+
+<Front Equipment>
+ISAntiMissileSystem
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 6
+ISSNPPC
+</Turret Equipment>
+

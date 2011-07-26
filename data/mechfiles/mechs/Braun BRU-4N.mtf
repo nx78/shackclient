@@ -1,0 +1,148 @@
+Version:1.0
+Braun 
+BRU-4N
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:80
+Engine:400 XL Engine
+Structure:Endo Steel Prototype
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:5
+Jump MP:5
+
+Armor:Standard
+LA Armor:18
+RA Armor:18
+LT Armor:16
+RT Armor:16
+CT Armor:19
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:5
+RTR Armor:5
+RTC Armor:8
+
+Weapons:3
+Machine Gun, Left Torso
+Chainsaw, Left Arm
+Chainsaw, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Machine Gun
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Jump Jet
+Endo Steel Prototype
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+IS Ammo MG - Full
+IS Ammo MG - Full
+IS Ammo MG - Full
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Jump Jet
+Endo Steel Prototype
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Endo Steel Prototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo Steel Prototype
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

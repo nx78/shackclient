@@ -1,0 +1,155 @@
+Version:1.0
+Rampage
+RMP-3NXL
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2890
+Source:Custom late SW
+Rules Level:4
+
+Mass:85
+Engine:255 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:26
+RA Armor:26
+LT Armor:27
+RT Armor:27
+CT Armor:40
+HD Armor:9
+LL Armor:35
+RL Armor:35
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:8
+SRM 2, Left Torso
+SRM 2, Left Torso
+Flamer, Left Torso
+Large Laser, Left Arm
+Autocannon/2, Right Arm
+Autocannon/2, Right Arm
+LRM 15, Right Torso
+Autocannon/5, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Large Laser
+Large Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Autocannon/2
+Autocannon/2
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Autocannon/5
+Autocannon/5
+SRM 2
+SRM 2
+Flamer
+Autocannon/5
+Autocannon/5
+IS Ammo SRM-2
+IS Ammo AC/5
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+LRM 15
+LRM 15
+LRM 15
+IS Ammo LRM-15
+IS Ammo AC/2
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Supercharger
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

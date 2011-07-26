@@ -1,0 +1,94 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Partisan Air Defense Tank
+</Name>
+
+<Model>
+(Cell)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+80.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+6
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+35
+26
+26
+21
+35
+</armor>
+
+<Body Equipment>
+ISC3SlaveUnit
+ISAMS Ammo
+IS LB 10-X AC Ammo
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+IS Ammo MG - Full
+IS Ammo AC/2
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISAntiMissileSystem
+ISLBXAC10
+ISLBXAC10
+Autocannon/2
+Autocannon/2
+</Turret Equipment>
+

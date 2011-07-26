@@ -1,0 +1,153 @@
+Version:1.0
+Ostroc
+OSR-5W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Source:Jihad
+Rules Level:2
+
+Mass:60
+Engine:300 Light Engine
+Structure:Endo Steel
+Myomer:Standard
+Gyro:Compact
+Cockpit:Small
+
+Heat Sinks:13 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Ferro-Fibrous
+LA Armor:20
+RA Armor:20
+LT Armor:21
+RT Armor:21
+CT Armor:30
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:5
+1 ISSNPPC, Right Torso
+1 ISERMediumLaser, Right Torso
+1 ISSNPPC, Left Torso
+1 ISERMediumLaser, Left Torso
+1 ISImprovedC3CPU, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+ISSNPPC
+ISSNPPC
+ISERMediumLaser
+Endo Steel
+Endo Steel
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+ISSNPPC
+ISSNPPC
+ISERMediumLaser
+Endo Steel
+Endo Steel
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Jump Jet
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+ISImprovedC3CPU
+ISImprovedC3CPU
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

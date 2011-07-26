@@ -1,0 +1,159 @@
+Version:1.1
+Mackie
+MSK-6SC
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:3
+
+Mass:100
+Engine:360 Fusion Engine
+Structure:Standard
+Myomer:Standard
+Cockpit:Primitive Cockpit
+Gyro:Standard Gyro
+
+Heat Sinks:15 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Industrial(Inner Sphere)
+LA Armor:24
+RA Armor:24
+LT Armor:20
+RT Armor:20
+CT Armor:30
+HD Armor:8
+LL Armor:28
+RL Armor:28
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:11
+Medium Laser, Center Torso
+Medium Laser, Center Torso
+Medium Laser, Right Arm
+Medium Laser, Left Torso
+Medium Laser, Left Arm
+Medium Laser, Right Torso
+Particle Cannon, Right Torso
+SRM 4, Right Leg
+SRM 4, Left Leg
+SRM 4, Left Leg
+SRM 4, Right Leg
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+Medium Laser (R)
+IS Ammo SRM-4
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Particle Cannon
+Particle Cannon
+Particle Cannon
+Medium Laser (R)
+IS Ammo SRM-4
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser
+Medium Laser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+SRM 4
+SRM 4
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+SRM 4
+SRM 4
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

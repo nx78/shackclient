@@ -1,0 +1,57 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+VTOL
+</UnitType>
+<Name>
+Nightshade
+</Name>
+<Tonnage>
+25
+</Tonnage>
+<cruiseMP>
+14
+</cruiseMP>
+<Armor>
+10
+6
+6
+8
+2
+</Armor>
+<transporters>
+TroopSpace: 0.5
+</transporters>
+<Front Equipment>
+ISMediumLaser
+</Front Equipment>
+<Body Equipment>
+ISGuardianECM
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2597
+</year>
+<source>
+Star League
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+VTOL
+</motion_type>

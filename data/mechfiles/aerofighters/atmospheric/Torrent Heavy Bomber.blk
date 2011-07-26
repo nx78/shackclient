@@ -1,0 +1,101 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+FixedWingSupport
+</UnitType>
+
+<Name>
+Torrent Heavy Bomber
+</Name>
+
+<Model>
+</Model>
+
+<Tonnage>
+200
+</Tonnage>
+
+<SafeThrust>
+4
+</SafeThrust>
+
+<Armor>
+20
+20
+20
+13
+</Armor>
+
+<barrating>
+6
+</barrating>
+<bararmor>
+15
+</bararmor>
+<Nose Equipment>
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMG Ammo (100)
+</Nose Equipment>
+
+<Aft Equipment>
+ISSRM6
+ISSRM6 Ammo
+</Aft Equipment>
+
+<Body Equipment>
+ISGuardianECMSuite
+Advanced Fire Control
+STOLChassisMod
+</Body Equipment>
+
+<heatsinks>
+0
+</heatsinks>
+
+<sink_type>
+0
+</sink_type>
+
+
+<fuel>
+371
+</fuel>
+
+<type>
+IS Level 2
+</type>
+
+<year>
+2400
+</year>
+
+<source>
+Age of War
+</source>
+
+<internal_type>
+0				
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<engine_type>				
+1		
+</engine_type>
+
+<motion_type>
+aerodyne
+</motion_type>

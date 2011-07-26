@@ -1,0 +1,89 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Thor
+</Name>
+
+<Model>
+(AC)
+</Model>
+
+<year>
+2821
+</year>
+
+<source>
+Early Succession Wars
+</source>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+55.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<internal_type>
+0
+</internal_type>
+
+<armor>
+30
+30
+30
+30
+24
+</armor>
+
+<Body Equipment>
+IS Ammo AC/10
+IS Machine Gun Ammo
+</Body Equipment>
+
+<Front Equipment>
+Autocannon/10
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Machine Gun
+Machine Gun
+Machine Gun
+Machine Gun
+CLRocketLauncher20Prototype
+CLRocketLauncher20Prototype
+</Turret Equipment>
+

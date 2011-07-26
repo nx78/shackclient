@@ -1,0 +1,70 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportTank
+</UnitType>
+<Barrating>
+7
+</Barrating>
+<Name>
+Merkava Heavy Tank
+</Name>
+<Model>
+Mk VII
+</Model>
+<Tonnage>
+75
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+17
+16
+16
+15
+16
+</Armor>
+<Turret Equipment>
+ISAC5
+ISLRM10
+ISSRM4
+ISMachine Gun
+</Turret Equipment>
+<Front Equipment>
+ISMachine Gun
+</Front Equipment>
+<Body Equipment>
+ISMG Ammo (100)
+ISSRM4 Ammo
+ISAC5 Ammo
+ISLRM10 Ammo
+Armored Chassis
+</Body Equipment>
+<type>
+IS Level 5
+</type>
+<year>
+2435
+</year>
+<source>
+Age of War
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

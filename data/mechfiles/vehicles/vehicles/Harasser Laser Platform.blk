@@ -1,0 +1,52 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Harasser Laser Platform
+</Name>
+<Tonnage>
+25
+</Tonnage>
+<cruiseMP>
+10
+</cruiseMP>
+<Armor>
+5
+5
+5
+4
+5
+</Armor>
+<Turret Equipment>
+ISMediumLaser
+ISMediumLaser
+</Turret Equipment>
+<type>
+IS
+</type>
+<year>
+2957
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Hover
+</motion_type>

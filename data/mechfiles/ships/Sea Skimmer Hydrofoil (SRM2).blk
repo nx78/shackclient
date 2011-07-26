@@ -1,0 +1,64 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Naval
+</UnitType>
+<Name>
+Sea Skimmer Hydrofoil
+</Name>
+<Model>
+(SRM2)
+</Model>
+<Tonnage>
+25
+</Tonnage>
+<cruiseMP>
+12
+</cruiseMP>
+<Armor>
+9
+7
+7
+4
+5
+</Armor>
+<Turret Equipment>
+ISSRM2
+ISSRM2
+</Turret Equipment>
+<Right Equipment>
+ISSRM2
+</Right Equipment>
+<Left Equipment>
+ISSRM2
+</Left Equipment>
+<Body Equipment>
+ISSRM2 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2867
+</year>
+<source>
+Early Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Hydrofoil
+</motion_type>

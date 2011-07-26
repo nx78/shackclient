@@ -1,0 +1,87 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+J. Edgar Light Hover Tank
+</Name>
+
+<Model>
+(BAP Prototype)
+</Model>
+<source>
+Late Succession Wars
+</source>
+
+<year>
+3039
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+25.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+11
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+25
+19
+19
+15
+29
+</armor>
+
+<Body Equipment>
+BeagleActiveProbe
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Medium Laser
+Medium Laser
+Medium Laser
+</Turret Equipment>
+

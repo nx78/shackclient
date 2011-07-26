@@ -1,0 +1,86 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+<barrating>
+5
+</barrating>
+
+<Name>
+Bill Tank
+</Name>
+<Model>
+II
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+29
+26
+26
+26
+29
+</armor>
+
+<Body Equipment>
+Advanced Fire Control
+IS Ammo AC/10
+IS Ammo AC/10
+IS Ammo LRM-15
+IS Ammo LRM-15
+IS Ammo LRM-15
+IS Ammo MG - Full
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Autocannon/10
+LRM 15
+Machine Gun
+</Turret Equipment>
+

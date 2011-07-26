@@ -1,0 +1,57 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Scimitar Medium Hover Tank
+</Name>
+<Tonnage>
+35
+</Tonnage>
+<cruiseMP>
+8
+</cruiseMP>
+<Armor>
+21
+18
+18
+18
+21
+</Armor>
+<Turret Equipment>
+ISAC5
+ISSRM2
+ISSRM2
+</Turret Equipment>
+<Body Equipment>
+ISSRM2 Ammo
+ISAC5 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2938
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Hover
+</motion_type>
+<source>
+Late Succession Wars
+</source>

@@ -1,0 +1,81 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Panzer II
+</Name>
+
+<Model>
+Tank
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+45.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+24
+20
+20
+12
+20
+</armor>
+
+<Body Equipment>
+IS Ammo AC/5
+IS Ammo AC/5
+IS Ammo AC/5
+IS Ammo MG - Full
+IS Ammo SRM-4
+</Body Equipment>
+
+<Front Equipment>
+SRM 4
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Autocannon/5
+Machine Gun
+Machine Gun
+</Turret Equipment>
+

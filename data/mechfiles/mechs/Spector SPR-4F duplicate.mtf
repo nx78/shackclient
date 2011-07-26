@@ -1,0 +1,130 @@
+Version:1.1
+Spector
+SPR-4F
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2639
+Rules Level:4
+
+Mass:35
+Engine:245 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:7
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:17
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:4
+1 ISLargeLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISGuardianECM, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMediumLaser
+ChameleonLightPolarizationField
+NullSignatureSystem
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargeLaser
+ISLargeLaser
+ChameleonLightPolarizationField
+NullSignatureSystem
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Jump Jet
+Jump Jet
+Jump Jet
+ChameleonLightPolarizationField
+NullSignatureSystem
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISGuardianECM
+ISGuardianECM
+Jump Jet
+Jump Jet
+Jump Jet
+ChameleonLightPolarizationField
+NullSignatureSystem
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+NullSignatureSystem
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ChameleonLightPolarizationField
+NullSignatureSystem
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ChameleonLightPolarizationField
+NullSignatureSystem

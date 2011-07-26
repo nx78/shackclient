@@ -1,0 +1,53 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Artillery
+</Name>
+<Model>
+Nuke
+</Model>
+<Tonnage>
+60
+</Tonnage>
+<cruiseMP>
+0
+</cruiseMP>
+<Armor>
+0
+0
+0
+0
+</Armor>
+<Front Equipment>
+ISLongTomArtillery
+</Front Equipment>
+<Body Equipment>
+ISLongTomArtillery Davy Crockett-M Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2750
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+1
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Wheeled
+</motion_type>

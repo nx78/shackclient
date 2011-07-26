@@ -1,0 +1,98 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Challenger MBT
+</Name>
+
+<Model>
+XIVs
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+90.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+56
+50
+50
+36
+56
+</armor>
+
+<Body Equipment>
+Environmental Sealing
+IS Ammo MML-7 LRM
+IS Ammo MML-7 SRM
+IS Ammo SRM-4
+IS Ammo SRTorpedo-4
+IS Streak SRM 2 Ammo
+ISAMS Ammo
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+</Body Equipment>
+
+<Front Equipment>
+SRM 4
+SRT 4
+</Front Equipment>
+
+<Right Equipment>
+ISStreakSRM2
+</Right Equipment>
+
+<Left Equipment>
+ISStreakSRM2
+</Left Equipment>
+
+<Rear Equipment>
+ISSmallPulseLaser
+</Rear Equipment>
+
+<Turret Equipment>
+ISERLargeLaser
+ISMML7
+ISAntiMissileSystem
+ISLBXAC10
+</Turret Equipment>
+

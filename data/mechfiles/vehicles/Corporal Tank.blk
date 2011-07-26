@@ -1,0 +1,82 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+<barrating>
+5
+</barrating>
+
+<Name>
+Corporal Tank
+</Name>
+
+<Model>
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor>
+15
+15
+15
+15
+20
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-10
+IS Ammo SRM-2
+IS Ammo MG - Full
+Advanced Fire Control
+</Body Equipment>
+
+<Front Equipment>
+LRM 10
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Medium Laser
+SRM 2
+</Turret Equipment>
+

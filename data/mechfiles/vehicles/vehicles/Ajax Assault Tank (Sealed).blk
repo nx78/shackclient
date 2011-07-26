@@ -1,0 +1,85 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Ajax Assault Tank
+</Name>
+
+<Model>
+(Sealed)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+90.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+76
+60
+60
+40
+68
+</armor>
+
+<Body Equipment>
+ISC3SlaveUnit
+Environmental Sealing
+ISGuardianECMSuite
+IS Ammo MML-9 LRM
+IS Ammo MML-9 SRM
+ISCASE
+IS Ammo SRTorpedo-6
+IS Ammo SRTorpedo-6
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISERLargeLaser
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISMML9
+SRT 6
+</Turret Equipment>
+

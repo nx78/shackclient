@@ -1,0 +1,100 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Maxim Heavy Hover Transport
+</Name>
+
+<Model>
+(Clan)
+</Model>
+
+<year>
+3052
+</year>
+
+<source>
+Clan
+</source>
+
+<type>
+Clan Level 2
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<transporters>
+TroopSpace: 6.0
+</transporters>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+2
+</armor_tech>
+
+<armor>
+25
+22
+22
+12
+24
+</armor>
+
+<Body Equipment>
+CLECMSuite
+Clan Ammo SRM-2
+Clan Streak SRM 6 Ammo
+Clan Ammo LRM-15
+Clan Ammo LRM-15
+Clan Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+CLLRM15
+</Front Equipment>
+
+<Right Equipment>
+CLSRM2
+</Right Equipment>
+
+<Left Equipment>
+CLSRM2
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLStreakSRM6
+CLMG
+CLMG
+</Turret Equipment>
+

@@ -1,0 +1,101 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Dropship
+</UnitType>
+<Name>
+DroST
+</Name>
+<Model>
+IIA
+</Model>
+<Tonnage>
+5300
+</Tonnage>
+<SafeThrust>
+5
+</SafeThrust>
+<Armor>
+160
+160
+160
+120
+</Armor>
+<Nose Equipment>
+ISAC5
+ISAC5 Ammo
+ISLargeLaser
+ISMediumLaser
+</Nose Equipment>
+<Left Side Equipment>
+ISAC5
+ISAC5 Ammo
+ISLargeLaser
+ISMediumLaser
+(R) ISMediumLaser
+</Left Side Equipment>
+<Right Side Equipment> 
+ISAC5
+ISAC5 Ammo
+ISLargeLaser
+ISMediumLaser
+(R) ISMediumLaser
+</Right Side Equipment>
+<Aft Equipment>
+ISMediumLaser
+</Aft Equipment>
+<structural_integrity>
+16
+</structural_integrity>
+<heatsinks>
+86
+</heatsinks>
+<sink_type>
+0
+</sink_type>
+<fuel>
+6000
+</fuel>
+<type>
+IS Level 1
+</type>
+<year>
+2442
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>
+
+<transporters>
+HeavyVehicleBay:4:3
+LightVehicleBay:4:3
+InfantryBay:4:2
+CargoBay:83:0
+</transporters>
+<escape_pod>
+1
+</escape_pod>
+<life_boat>
+2
+</life_boat>
+<crew>
+10
+</crew>
+<passengers>
+10
+</passengers>

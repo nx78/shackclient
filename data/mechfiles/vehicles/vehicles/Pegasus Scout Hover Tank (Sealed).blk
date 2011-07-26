@@ -1,0 +1,89 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Pegasus Scout Hover Tank
+</Name>
+
+<Model>
+(Sealed)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+4
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+20
+16
+16
+10
+17
+</armor>
+
+<Body Equipment>
+ISGuardianECMSuite
+Environmental Sealing
+IS Ammo MML-3 SRM
+IS Ammo MML-3 LRM
+</Body Equipment>
+
+<Front Equipment>
+BeagleActiveProbe
+ISTAG
+ISMediumPulseLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISMML3
+ISMML3
+</Turret Equipment>
+

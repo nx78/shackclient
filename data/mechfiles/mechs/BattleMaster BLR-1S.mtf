@@ -1,0 +1,152 @@
+Version:1.0
+BattleMaster
+BLR-1S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3025
+Source:Late Succession Wars
+Rules Level:1
+
+Mass:85
+Engine:340 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:20 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:24
+RA Armor:24
+LT Armor:28
+RT Armor:28
+CT Armor:40
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:6
+2 ISMediumLaser, Left Torso
+2 ISMediumLaser, Right Torso
+1 ISLRM15, Left Arm, Ammo:8
+1 ISLRM5, Left Torso, Ammo:24
+1 ISSRM2, Right Arm, Ammo:50
+1 ISSRM2, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLRM15
+ISLRM15
+ISLRM15
+ISLRM15 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSRM2
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+ISMediumLaser
+ISMediumLaser
+ISLRM5
+ISSRM2
+ISLRM5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Heat Sink
+Heat Sink
+ISMediumLaser
+ISMediumLaser
+ISSRM2 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

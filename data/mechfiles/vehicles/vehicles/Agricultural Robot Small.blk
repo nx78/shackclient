@@ -1,0 +1,82 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Agricultural Robot
+</Name>
+
+<Model>
+Small
+</Model>
+<barrating>
+10
+</barrating>
+<year>
+2400
+</year>
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+40.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<internal_type>
+1
+</internal_type>
+
+<armor>
+70
+60
+60
+50
+16
+</armor>
+
+<Body Equipment>
+</Body Equipment>
+
+<Front Equipment>
+Combine
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+</Turret Equipment>
+

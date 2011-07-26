@@ -1,0 +1,105 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Ferret Light Scout VTOL
+</Name>
+
+<Model>
+(TAG Prototype)
+</Model>
+
+<year>
+3039
+</year>
+<source>
+Late Succession Wars
+</source>
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+5.0
+</tonnage>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+15
+</cruiseMP>
+
+<armor>
+6
+6
+6
+4
+2
+</armor>
+
+<Body Equipment>
+</Body Equipment>
+
+<Front Equipment>
+ISTAG
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<history>
+Overview:
+     The Ferret Light Scout VTOL is a Federated Suns reconnaissance tilt rotator craft from the manufacturer that built the Boomerang Spotter plane.  First issued to Davion troops in 2904, the Ferret is now also in service with Steiner, Marik, and some worlds of the Periphery.
+     A single Ferret can effectively patrol a front 10 to 20 kilometers long.  With its high-speed abilities, it can move quickly from area to area, while its VTOL capabilities permit it to disregard obstacles that would stop a ground recon unit.  Although the Ferret's organic offensive capabilities are almost non-existent, it can call in long-range artillery fire and maintain contact with the enemy until a more suitable attack force moves into the area.
+     To further augment its reconnaissance role, the Ferret can drop remote sensors and a monitoring set onto one zone, then move on to another patrol zone, while still monitoring the first potential problem area.
+     Though it serves so well on screening operations, the Ferret's speed and troop-carrying ability make it effective in counterinsurgency operations, standard reconnaissance missions, rear-area insertions and extractions, battlefield pilot recovery, infantry squad transport, and as a spotter for artillery or other combat units.
+
+Capability:
+     The Ferret's limited armor protection is its prime disadvantage.  To keep payload and speed up, the designers used just enough armor to stop small-arms fire.  A hit from just about any 'Mech weapons system can bring down a Ferret.  This vulnerability is not considered critical, however, because the Ferret's mission is to avoid combat.  A Ferret is able to stay well outside the effective range of any hostile unit, but can still keep it under observation.
+     The Ferret's design keeps its offensive armament to a minimum for the same reason.  It would use its MainFire MiniGun only in self defense against the occasional infantry platoon that it might pass over.
+     Another interesting feature is the Ferret's IsBM Lantrin targeting and tracking system.  In addition to its normal targeting capabilities, the Heads-Up Display IsBM can also plug into any standard remote sensor monitoring set.  The Ferret's cargo bay can also carry up to 15 remote sensor units and a monitoring set in vertical drop chutes.  When the pilot flies over an area that he wishes to continuously observe, he just flips a switch and the sensor drops out.  Any activity is reported back to the monitoring set and passed on to the Lantrin system, which incorporates the information as part of the pilot's Heads-Up Display (HUD).
+
+
+Battle History:
+     In March 2915, House Kurita landed three 'Mech regiments, along with twelve support infantry and armor regiments, on Tamar, the provincial capital of the Tamar Pact.  Opposing them were the Stealthy Tigers, two light 'Mech battalions from the Eridani Light Horse, and five infantry and armor regiments of the Lyran Commonwealth.
+     During the opening stages of the battle, the 54th Combined Arms Combat Team advanced against a drop zone held by light and medium 'Mechs of the 4th Proserpina Hussars.  As the 54th approached the landing zone, their commanding officer, Colonel Richard Gunston, ordered a company of infantry, with their attached Ferrets, to make an airmobile assault into the center of the Kurita landing zone.  Meanwhile, the rest of the regiment struck the perimeter.  The slaughter was tremendous.  As soon as the Ferrets came within range, the Kuritans blasted them out of the sky.  The VTOLs' armor was useless against the firepower of the 'Mechs.  The sight of six Ferrets being turned into fiery pyres was too much for the rest of the ground assault elements.  They broke and ran, pursued closely by a company of Kurita 'Mechs.
+     Five months latter, a much battered and bruised 54th Combined Arms Combat team once again faced a force from the 4th Proserpina Hussars on Tamar.  In a flanking maneuver that was intended to encircle the capital city, the 4th was steadily pushing the 54th back. The 54th's new commander, Hauptmann-Kommandant Jennifer Miller, knew that she would have to make a stand in the Remanny Hills, just 50 kilometers away, or else the Kurita forces would be able to link up and cut off the city garrison.  She also knew that her regiment could not fight off the whole force of the Hussars, no matter where the fight took place.  She therefore ordered her remaining Ferrets and a company of infantry to raid the Hussar's rear areas.  The Ferrets were not to engage directly in combat; their mission was to locate convoys, supply dumps, and maintenance points, and then to ferry the infantry in to attack these targets.
+     The Ferrets and infantry did their job superbly.  They scattered remote sensors all along roads and trails, and then lifted the infantry into ambush positions after spotting a convoy.  The infantry was able to destroy maintenance units and re-arming points.  In the course of three days, the raiders had destroyed three ammunition convoys, one repair platform, one Locust under repair, and two communication relay centers.
+     Believing that a battalion of commandos was operating in their rear area, the 4th slowed its advance, and detached a battalion of light 'Mechs for rear-area security.  So it was that when the Hussars did assault the 54th's positions in the Remanny Hills, they were under-strength and facing an enemy who had the time to carefully prepare its defenses.  The 54th fought the Hussars to a standstill.  Two months later, the Kurita forces were forced off Tamar.
+
+Variants:
+     Variants of the Ferret abound.  Most eliminate the craft's troop-carrying capacity in favor of increased armor, thus making the Ferret a more robust vehicle.  Other variants do the opposite, with all the armor and weaponry removed to make the Ferret a light cargo transport.  This version is capable of lifting 2.75 tons without reducing performance, and 7.75 tons with a 50 percent reduction in airspeed.
+Famous Vehicles and Pilots:
+     Hatashi Williams
+     Hatashi Williams is a pilot of the Ferret the DragonFly.  While assigned to an infantry regiment guarding the New Avalon Institute of Science, he got into a rather loud argument with another student regarding the Ferret's maneuverability.  Seeking to give the student a practical demonstration, Hatashi finished off the last of his drink, grabbed the offending student by the scruff of the neck, and proceeded down to the airfield.  Strapping himself and his unwilling passenger into the tiny craft, Hatashi proceeded to demonstrate the full capabilities of a rotor wing aircraft.  While flying over, between, and under some of the Institute buildings, Hatashi calmly delivered a lecture on combat flying to the student.  Needless to say, the student was greatly impressed, but the Institute authorities were not.  One court-martial later, Hatashi and the DragonFly were reassigned to a combat unit on Quentin.  Though he was gone, Williams was not forgotten by the students and faculty of the Institute.
+
+
+Deployment:
+</history>
+

@@ -1,0 +1,151 @@
+Version:1.0
+Victor
+VTR-9A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2508
+Source:Age of War
+Rules Level:1
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Single
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:18
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:6
+RTR Armor:6
+RTC Armor:9
+
+Weapons:5
+1 ISAC20, Right Arm, Ammo:15
+2 ISMediumLaser, Left Arm
+2 ISFlamer, Right Torso
+1 ISSRM4, Left Torso, Ammo:25
+1 ISMachine Gun, Left Torso, Ammo:100
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+
+Left Torso:
+Heat Sink
+ISSRM4
+ISMachine Gun
+ISSRM4 Ammo
+ISMG Ammo (100)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISFlamer
+ISFlamer
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

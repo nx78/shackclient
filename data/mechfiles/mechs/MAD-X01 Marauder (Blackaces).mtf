@@ -1,0 +1,149 @@
+Version:1.0
+Marauder
+MAD-X01 (Blackaces)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:75
+Engine:225 Fusion Engine
+Structure:Endo Steel Prototype
+
+Heat Sinks:13 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:6
+Particle Cannon, Left Arm
+Large Laser, Left Arm
+Particle Cannon, Right Arm
+Large Laser, Right Arm
+ISLBXAC10Prototype, Left Torso
+Small Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Particle Cannon
+Particle Cannon
+Particle Cannon
+Large Laser
+Large Laser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Particle Cannon
+Particle Cannon
+Particle Cannon
+Large Laser
+Large Laser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Endo Steel Prototype
+-Empty-
+
+Left Torso:
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+
+Right Torso:
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Endo Steel Prototype
+Endo Steel Prototype
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo Steel Prototype
+Endo Steel Prototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+Small Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel Prototype
+IS LB 10-X AC Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel Prototype
+IS LB 10-X Cluster Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-

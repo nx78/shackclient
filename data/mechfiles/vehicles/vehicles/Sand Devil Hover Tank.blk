@@ -1,0 +1,60 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportTank
+</UnitType>
+<Name>
+Sand Devil Hover Tank
+</Name>
+<Tonnage>
+50
+</Tonnage>
+<cruiseMP>
+8
+</cruiseMP>
+<Armor>
+12
+11
+11
+10
+10
+</Armor>
+<Barrating>
+5
+</Barrating>
+<Turret Equipment>
+ISMediumLaser
+ISMediumLaser
+ISSmallLaser
+ISSmallLaser
+</Turret Equipment>
+<Body Equipment>
+Advanced Fire Control
+</Body Equipment>
+<type>
+IS Level 1
+</type>
+<year>
+2453
+</year>
+<source>
+Age of War
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Hover
+</motion_type>

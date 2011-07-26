@@ -1,0 +1,95 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Drillson Heavy Hover Tank
+</Name>
+
+<Model>
+(ER Laser Prototype)
+</Model>
+
+<year>
+3039
+</year>
+<source>
+Late Succession Wars
+</source>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+45.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+24
+20
+20
+19
+24
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ammo SRM-2
+IS Ammo SRM-2
+IS Ammo SRM-2
+</Body Equipment>
+
+<Front Equipment>
+SRM 2
+SRM 2
+SRM 2
+SRM 2
+SRM 2
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISERLargeLaserPrototype
+SRM 2
+SRM 2
+</Turret Equipment>
+

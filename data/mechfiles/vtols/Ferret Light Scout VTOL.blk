@@ -1,0 +1,57 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+VTOL
+</UnitType>
+<Name>
+Ferret Light Scout VTOL
+</Name>
+<Tonnage>
+5
+</Tonnage>
+<cruiseMP>
+15
+</cruiseMP>
+<Armor>
+2
+1
+1
+2
+2
+</Armor>
+<Front Equipment>
+ISMachine Gun
+</Front Equipment>
+<transporters>
+TroopSpace:1
+</transporters>
+<Body Equipment>
+ISMG Ammo (100)
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2904
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+VTOL
+</motion_type>

@@ -1,0 +1,61 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Cheetah
+</Name>
+<Model>
+F-14-S
+</Model>
+<Tonnage>
+25
+</Tonnage>
+<SafeThrust>
+12
+</SafeThrust>
+<Armor>
+26
+19
+19
+24
+</Armor>
+<Nose Equipment>
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2 Ammo
+</Nose Equipment>
+<heatsinks>
+10
+</heatsinks>
+<sink_type>
+0
+</sink_type>
+<fuel>
+320
+</fuel>
+<type>
+IS Level 2
+</type>
+<year>
+3057
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+2
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>

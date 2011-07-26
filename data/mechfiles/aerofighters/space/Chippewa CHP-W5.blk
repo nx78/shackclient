@@ -1,0 +1,80 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Chippewa
+</Name>
+<Model>
+CHP-W5
+</Model>
+<Tonnage>
+90
+</Tonnage>
+<SafeThrust>
+5
+</SafeThrust>
+<Armor>
+43
+24
+24
+29
+</Armor>
+<Nose Equipment>
+ISLRM15
+ISLRM15
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISSRM6
+ISSRM6 Ammo
+ISMediumLaser
+ISMediumLaser
+</Nose Equipment>
+<Left Wing Equipment>
+ISLargeLaser
+ISLargeLaser
+</Left Wing Equipment>
+<Right Wing Equipment>
+ISLargeLaser
+ISLargeLaser
+</Right Wing Equipment>
+<Aft Equipment>
+ISSmallLaser
+ISSmallLaser
+</Aft Equipment>
+<heatsinks>
+25
+</heatsinks>
+<sink_type>
+0
+</sink_type>
+<fuel>
+400
+</fuel>
+<type>
+IS Level 1
+</type>
+<year>
+3025
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>

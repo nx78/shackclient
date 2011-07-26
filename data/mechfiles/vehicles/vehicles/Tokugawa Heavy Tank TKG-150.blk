@@ -1,0 +1,81 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Tokugawa Heavy Tank
+</Name>
+
+<Model>
+TKG-150
+</Model>
+
+<year>
+2780
+</year>
+<source>
+Early Succession Wars
+</source>
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor>
+40
+33
+33
+26
+36
+</armor>
+
+<Body Equipment>
+IS Ammo AC/10
+IS Ammo AC/10
+IS Machine Gun Ammo - Half
+IS Ammo SRM-6
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Autocannon/10
+SRM 6
+</Turret Equipment>
+

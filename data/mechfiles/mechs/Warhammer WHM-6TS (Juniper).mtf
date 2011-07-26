@@ -1,0 +1,154 @@
+Version:1.0
+Warhammer
+WHM-6TS (Sage)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Endo-Steel Prototype
+Myomer:Standard
+
+Heat Sinks:18 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:20
+RT Armor:20
+CT Armor:31
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:8
+1 ISPPC, Right Arm
+1 ISPPC, Left Arm
+1 ISSRM4, Right Torso, Ammo:25
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISSRM4, Left Torso
+
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPPC
+ISPPC
+ISPPC
+ISMediumLaser
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPPC
+ISPPC
+ISPPC
+ISMediumLaser
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+
+Left Torso:
+ISSRM4
+ISMediumLaser
+Heat Sink
+Heat Sink
+Heat Sink
+Endo-Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISSRM4
+ISSRM4 Ammo
+ISMediumLaser
+Heat Sink
+Heat Sink
+Heat Sink
+Endo-Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo-Steel Prototype
+Endo-Steel Prototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel Prototype
+Endo-Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel Prototype
+Endo-Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

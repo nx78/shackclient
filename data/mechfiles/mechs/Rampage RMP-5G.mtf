@@ -1,0 +1,157 @@
+Version:1.0
+Rampage
+RMP-5G
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2767
+Rules Level:2
+
+Mass:85
+Engine:340 XL Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:40
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:10
+LB 10-X AC, Right Arm
+Large Pulse Laser, Center Torso
+LRM 10, Left Arm
+ISAntiMissileSystem, Right Torso
+Medium Laser, Right Torso
+Medium Laser, Right Torso
+Streak SRM 2, Left Torso
+Streak SRM 2, Left Torso
+Streak SRM 2, Left Torso
+Flamer, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+LRM 10
+LRM 10
+ISArtemisIV
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Ammo LRM-10 Artemis-capable
+Medium Laser
+Flamer
+IS Streak SRM 2 Ammo
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser
+ISAntiMissileSystem
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+IS LB 10-X Cluster Ammo
+IS LB 10-X AC Ammo
+ISAMS Ammo
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISLargePulseLaser
+ISLargePulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
+

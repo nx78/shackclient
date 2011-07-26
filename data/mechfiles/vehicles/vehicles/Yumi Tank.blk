@@ -1,0 +1,75 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Yumi
+</Name>
+
+<Model>
+Tank
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+20.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<transporters>
+TroopSpace: 6.0
+</transporters>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+6
+</cruiseMP>
+
+<armor>
+14
+12
+12
+10
+</armor>
+
+<Body Equipment>
+IS Ammo MG - Full
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

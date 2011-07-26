@@ -1,0 +1,134 @@
+Version:1.1
+Shadow Hawk
+SHD-2H (Hikari Tenjo)
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:55
+Engine:275 Fusion Engine
+Structure:Endo Steel Prototype
+Myomer:Standard
+
+Heat Sinks:12 Single
+Walk MP:5
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:17
+RT Armor:17
+CT Armor:23
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
+
+Weapons:7
+1 ISERLargeLaserPrototype, Left Torso
+1 ISLRM5, Right Torso, Ammo:24
+1 ISGuardianECM, Right Torso
+1 ISBeagleActiveProbe, Left Torso
+1 ISNarcBeacon, Left Arm, Ammo:6
+1 ISMediumLaser, Right Arm
+1 ISSmallLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+ISNarcBeacon
+ISNarcBeacon
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+
+Left Torso:
+ISERLargeLaserPrototype
+ISERLargeLaserPrototype
+ISBeagleActiveProbe
+ISBeagleActiveProbe
+Heat Sink
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+IS Ammo Narc
+-Empty-
+-Empty-
+ISCASE
+
+Right Torso:
+ISLRM5
+ISGuardianECM
+ISGuardianECM
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+ISLRM5 Ammo
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Endo Steel Prototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

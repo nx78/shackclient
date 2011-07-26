@@ -1,0 +1,137 @@
+Version:1.1
+Sunder
+SD1-OR
+
+Config:Biped Omnimech
+TechBase:Mixed (Clan Chassis)
+Era:3059
+Source:Clan Invasion
+Rules Level:4
+
+Mass:90
+Engine:360 XL Fusion Engine (Inner Sphere)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double (Inner Sphere)
+Base Chassis Heat Sinks: 15
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:41
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:9
+1 CLLargePulseLaser, Right Arm
+1 CLLargePulseLaser, Right Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Head
+1 CLERMediumLaser, Center Torso
+1 CLLBXAC10, Left Arm, Ammo:20
+1 CLStreakSRM6, Left Torso, Ammo:30
+1 CLStreakSRM6, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
+CLLBXAC10 Ammo
+CLLBXAC10 CL Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLERMediumLaser
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,151 @@
+Version:1.0
+Archer
+ARC-2R (Sabik Variant I)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:1
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard
+LA Armor:18
+RA Armor:18
+LT Armor:18
+RT Armor:18
+CT Armor:22
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:12
+RTR Armor:12
+RTC Armor:21
+
+Weapons:6
+LRM 20, Right Torso
+Medium Laser, Right Torso (R)
+LRM 20, Left Torso
+Medium Laser, Left Torso (R)
+Medium Laser, Center Torso (R)
+Medium Laser, Center Torso (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+IS Ammo LRM-20
+IS Ammo LRM-20
+Medium Laser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+IS Ammo LRM-20
+IS Ammo LRM-20
+Medium Laser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser (R)
+Medium Laser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

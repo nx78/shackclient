@@ -1,0 +1,156 @@
+Version:1.1
+Rook-X
+NH-1B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3077
+Source:Jihad
+Rules Level:4
+
+Mass:55
+Engine:200 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+Cockpit:Primitive Cockpit
+Gyro:Standard Gyro
+
+Heat Sinks:16 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Industrial(Inner Sphere)
+LA Armor:17
+RA Armor:17
+LT Armor:20
+RT Armor:20
+CT Armor:22
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:7
+ER PPC, Right Torso
+ER Medium Laser, Right Arm
+ER Medium Laser, Left Arm
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+ER Small Laser, Left Torso
+ER Small Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+Medium Laser
+ISERSmallLaser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Heat Sink
+ISERPPC
+ISERPPC
+ISERPPC
+PPC Capacitor
+Medium Laser
+ISERSmallLaser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Heat Sink
+Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

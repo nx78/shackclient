@@ -1,0 +1,80 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+<barrating>
+5
+</barrating>
+<Name>
+Clock Tank
+</Name>
+
+<Model>
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+40.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor>
+25
+20
+20
+15
+</armor>
+
+<Body Equipment>
+Advanced Fire Control
+ISAPMortarAmmo4
+ISAPMortarAmmo4
+ISAPMortarAmmo4
+ISAPMortarAmmo4
+IS Ammo LRM-10
+IS Ammo LRM-10
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+ISMekMortar4
+LRM 10
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

@@ -1,0 +1,154 @@
+Version:1.0
+Rifleman
+RFL-9T
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3071
+Source:Jihad
+Rules Level:2
+
+Mass:60
+Engine:240 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Stealth
+LA Armor:15
+RA Armor:15
+LT Armor:16
+RT Armor:16
+CT Armor:22
+HD Armor:9
+LL Armor:21
+RL Armor:21
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:8
+1 ISLPPC, Right Arm
+1 ISLAC5, Right Arm, Ammo: 40
+1 ISLPPC, Left Arm
+1 ISLAC5, Left Arm
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISGuardianECMSuite, Center Torso
+1 ISTargeting Computer, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLPPC
+ISLPPC
+ISLAC5
+ISLAC5
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLPPC
+ISLPPC
+ISLAC5
+ISLAC5
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISERMediumLaser
+ISLAC5 Ammo
+ISLAC5 Ammo
+ISCASE
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISERMediumLaser
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

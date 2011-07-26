@@ -1,0 +1,64 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Pike Support Vehicle
+</Name>
+<Model>
+(SRM6)
+</Model>
+<Tonnage>
+60
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+33
+25
+25
+25
+36
+</Armor>
+<Turret Equipment>
+ISAC2
+ISAC2
+ISAC2
+</Turret Equipment>
+<Front Equipment>
+ISSRM6
+ISSRM6
+</Front Equipment>
+<Body Equipment>
+ISSRM6 Ammo
+ISAC2 Ammo
+</Body Equipment>
+<type>
+IS Level 5
+</type>
+<year>
+2993
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

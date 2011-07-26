@@ -1,0 +1,83 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Tiger Medium Tank
+</Name>
+
+<Model>
+T-12
+</Model>
+
+<year>
+2480
+</year>
+<source>
+Age of War
+</source>
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+55.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor>
+20
+20
+20
+16
+20
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-4
+IS Ammo AC/10
+IS Ammo AC/10
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+Machine Gun
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 4
+Autocannon/10
+Machine Gun
+</Turret Equipment>
+

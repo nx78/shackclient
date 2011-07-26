@@ -1,0 +1,150 @@
+Version:1.0
+Marauder
+MAD-6L
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Source:Jihad
+Rules Level:2
+
+Mass:75
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Triple Strength
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Stealth
+LA Armor:22
+RA Armor:22
+LT Armor:24
+RT Armor:24
+CT Armor:34
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:4
+1 ISPlasmaRifle, Right Arm, Ammo:30
+1 ISPlasmaRifle, Left Arm
+1 ISPPC, Left Torso
+1 ISGuardianECM, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifle Ammo
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPPC
+ISPPC
+ISPPC
+Stealth
+Stealth
+TSM
+TSM
+TSM
+-Empty-
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Stealth
+Stealth
+TSM
+TSM
+TSM
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECM
+ISGuardianECM
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Stealth
+Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

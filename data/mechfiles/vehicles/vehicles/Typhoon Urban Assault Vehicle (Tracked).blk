@@ -1,0 +1,95 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Typhoon Urban Assault Vehicle
+</Name>
+
+<Model>
+(Tracked)
+</Model>
+
+<year>
+3057
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+70.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+43
+40
+40
+32
+42
+</armor>
+
+<Body Equipment>
+IS Streak SRM 2 Ammo
+IS Ammo AC/20
+IS Ammo AC/20
+IS Ammo AC/20
+IS Ammo SRM-6
+</Body Equipment>
+
+<Front Equipment>
+BeagleActiveProbe
+ISStreakSRM2
+ISStreakSRM2
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+ISSmallPulseLaser
+</Rear Equipment>
+
+<Turret Equipment>
+ISStreakSRM2
+ISStreakSRM2
+Autocannon/20
+SRM 6
+Medium Laser
+Medium Laser
+</Turret Equipment>
+

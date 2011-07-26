@@ -1,0 +1,76 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Maxim Heavy Hover Transport
+</Name>
+<Tonnage>
+50
+</Tonnage>
+<cruiseMP>
+8
+</cruiseMP>
+<Armor>
+20
+20
+20
+12
+16
+</Armor>
+<Turret Equipment>
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISSRM6
+</Turret Equipment>
+<Front Equipment>
+ISLRM5
+ISLRM5
+</Front Equipment>
+<Left Equipment>
+ISSRM2
+</Left Equipment>
+<Right Equipment>
+ISSRM2
+</Right Equipment>
+<Rear Equipment>
+ISLRM5
+</Rear Equipment>
+<transporters>
+TroopSpace:3
+</transporters>
+<Body Equipment>
+ISSRM6 Ammo
+ISSRM2 Ammo
+ISMG Ammo (200)
+ISLRM5 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2689
+</year>
+<source>
+Star League
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Hover
+</motion_type>

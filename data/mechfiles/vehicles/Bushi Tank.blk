@@ -1,0 +1,93 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<barrating>
+5
+</barrating>
+
+<Name>
+Bushi Tank
+</Name>
+
+<Model>
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+70.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+29
+25
+25
+24
+25
+</armor>
+
+<Body Equipment>
+IS Vehicle Flamer Ammo
+IS Vehicle Flamer Ammo
+IS Vehicle Flamer Ammo
+IS Ammo LRM-15
+IS Ammo LRM-15
+IS Ammo SRM-4
+IS Ammo AC/10
+IS Ammo AC/10
+IS Machine Gun Ammo - Half
+Advanced Fire Control
+</Body Equipment>
+
+<Front Equipment>
+Vehicle Flamer
+LRM 15
+</Front Equipment>
+
+<Right Equipment>
+Vehicle Flamer
+</Right Equipment>
+
+<Left Equipment>
+Vehicle Flamer
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 4
+Autocannon/10
+Machine Gun
+Machine Gun
+</Turret Equipment>
+

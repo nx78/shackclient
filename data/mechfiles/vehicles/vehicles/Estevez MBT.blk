@@ -1,0 +1,88 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Estevez MBT
+</Name>
+
+<year>
+2300
+</year>
+<source>
+Age of War
+</source>
+<barrating>
+8
+</barrating>
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+80.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+35
+32
+32
+30
+35
+</armor>
+
+<Body Equipment>
+Armored Chassis
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+IS Machine Gun Ammo
+Basic Fire Control
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+ISVehicularGrenadeLauncher
+</Right Equipment>
+
+<Left Equipment>
+ISVehicularGrenadeLauncher
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Heavy Rifle
+Machine Gun
+Machine Gun
+</Turret Equipment>
+

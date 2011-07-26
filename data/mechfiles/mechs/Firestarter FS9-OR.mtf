@@ -1,0 +1,133 @@
+Version:1.1
+Firestarter
+FS9-OR
+
+Config:Biped Omnimech
+TechBase:Mixed (IS Chassis)
+Era:3059
+Source:Clan Invasion
+Rules Level:4
+
+Mass:45
+Engine:270 XL Fusion Engine (Inner Sphere)
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:12 Double (Inner Sphere)
+Base Chassis Heat Sinks: 12
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor (Clan)
+LA Armor:12
+RA Armor:12
+LT Armor:16
+RT Armor:16
+CT Armor:20
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:5
+1 ISFlamer, Center Torso
+1 ISFlamer (R), Center Torso (R)
+1 CLLRM10, Right Arm, Ammo:24
+1 CLERLargeLaser, Left Arm
+1 CLERLargeLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERLargeLaser
+CLERLargeLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLRM10
+CLArtemisIV
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Jump Jet
+Jump Jet
+Jump Jet
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Jump Jet
+Jump Jet
+Jump Jet
+CLLRM10 Ammo (Clan) Artemis-capable
+CLLRM10 Ammo (Clan) Artemis-capable
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISFlamer
+ISFlamer (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

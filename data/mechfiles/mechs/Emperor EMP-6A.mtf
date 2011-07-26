@@ -1,0 +1,153 @@
+Version:1.0
+Emperor
+EMP-6A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2612
+Source:Star League
+Rules Level:2
+
+Mass:90
+Engine:270 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:30
+RT Armor:30
+CT Armor:48
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:7
+1 ISLBXAC10, Right Arm, Ammo:40
+1 ISLBXAC10, Left Arm
+1 ISLargeLaser, Right Arm
+1 ISLargeLaser, Left Arm
+1 ISMediumPulseLaser, Right Torso
+1 ISMediumPulseLaser, Left Torso
+1 ISMediumLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLargeLaser
+ISLargeLaser
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLargeLaser
+ISLargeLaser
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumPulseLaser
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+ISCASE
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumPulseLaser
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+ISCASE
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

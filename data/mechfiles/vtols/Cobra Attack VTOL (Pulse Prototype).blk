@@ -1,0 +1,85 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Cobra Attack VTOL
+</Name>
+
+<Model>
+(Pulse Prototype)
+</Model>
+
+<year>
+3040
+</year>
+
+<type>
+IS Level 5
+</type>
+<source>
+Late Succession Wars
+</source>
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+10
+</cruiseMP>
+
+<armor>
+16
+10
+10
+10
+2
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-2
+ISAMS Ammo
+</Body Equipment>
+
+<Front Equipment>
+SRM 2
+SRM 2
+SRM 2
+SRM 2
+ISAntiMissileSystem
+ISMediumPulseLaserPrototype
+ISMediumPulseLaserPrototype
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+
+

@@ -1,0 +1,152 @@
+Version:1.0
+Archer
+ARC-7S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3072
+Source:Jihad
+Rules Level:2
+
+Mass:70
+Engine:280 Light Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Heavy Ferro-Fibrous Armor
+LA Armor:22
+RA Armor:22
+LT Armor:22
+RT Armor:22
+CT Armor:33
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:6
+1 ISStreakSRM2, Right Arm, Ammo:100
+1 ISStreakSRM2, Left Arm
+1 ISLRM20, Right Torso, Ammo:24
+1 ISLRM20, Left Torso
+1 ISERMediumLaser, Center Torso
+1 ISSmallPulseLaser, Head (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISStreakSRM2
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISStreakSRM2
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+ISLRM20 Ammo
+ISLRM20 Ammo
+ISStreakSRM2 Ammo
+ISCASE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+ISLRM20 Ammo
+ISLRM20 Ammo
+ISStreakSRM2 Ammo
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISERMediumLaser
+Heavy Ferro-Fibrous Armor
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallPulseLaser (R)
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heavy Ferro-Fibrous Armor
+Heavy Ferro-Fibrous Armor
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

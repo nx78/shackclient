@@ -1,0 +1,66 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Air Car
+</Name>
+
+<Model>
+(3025)
+</Model>
+
+<year>
+3025
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+40.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+11
+</cruiseMP>
+
+<armor>
+8
+8
+8
+8
+</armor>
+
+<Body Equipment>
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

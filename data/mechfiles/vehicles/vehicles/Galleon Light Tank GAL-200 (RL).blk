@@ -1,0 +1,85 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Galleon Light Tank
+</Name>
+
+<Model>
+GAL-200 (RL)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+6
+</cruiseMP>
+
+<internal_type>
+0
+</internal_type>
+
+<armor>
+14
+13
+13
+14
+18
+</armor>
+
+<Body Equipment>
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Machine Gun
+Machine Gun
+CLRocketLauncher20Prototype
+CLRocketLauncher20Prototype
+</Turret Equipment>
+

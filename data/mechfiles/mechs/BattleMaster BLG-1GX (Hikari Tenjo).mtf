@@ -1,0 +1,137 @@
+Version:1.1
+BattleMaster
+BLG-1GX (Hikari Tenjo)
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:85
+Engine:340 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:24
+RA Armor:24
+LT Armor:28
+RT Armor:28
+CT Armor:40
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:10
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser (R), Left Torso (R)
+1 ISMediumLaser (R), Right Torso (R)
+1 ISSRM6, Right Torso, Ammo:15
+1 ISGaussRiflePrototype, Right Arm, Ammo:8
+1 ISMachine Gun, Left Arm, Ammo:200
+1 ISMachine Gun, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMachine Gun
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+
+Left Torso:
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser (R)
+ISMG Ammo (200)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISSRM6
+ISSRM6
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser (R)
+ISSRM6 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISGauss Ammo
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

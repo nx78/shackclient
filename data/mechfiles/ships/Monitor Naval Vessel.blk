@@ -1,0 +1,70 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Naval
+</UnitType>
+<Name>
+Monitor Naval Vessel
+</Name>
+<Tonnage>
+75
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+22
+22
+22
+22
+40
+</Armor>
+<Turret Equipment>
+ISAC20
+ISAC20
+</Turret Equipment>
+<Right Equipment>
+ISSRM2
+</Right Equipment>
+<Left Equipment>
+ISSRM2
+</Left Equipment>
+<Rear Equipment>
+ISSRM2
+</Rear Equipment>
+<transporters>
+TroopSpace:1.5
+</transporters>
+<Body Equipment>
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+ISSRM2 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2910
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Naval
+</motion_type>

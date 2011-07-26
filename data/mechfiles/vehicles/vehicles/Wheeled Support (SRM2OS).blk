@@ -1,0 +1,69 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportTank
+</UnitType>
+<Name>
+Wheeled Support
+</Name>
+<Model>
+(SRM2OS)
+</Model>
+<Tonnage>
+30
+</Tonnage>
+<cruiseMP>
+5
+</cruiseMP>
+<Armor>
+14
+10
+10
+6
+8
+</Armor>
+<Barrating>
+4
+</Barrating>
+<Turret Equipment>
+ISSRM2OS
+ISSRM2OS
+</Turret Equipment>
+<Right Equipment>
+ISMachine Gun
+</Right Equipment>
+<Left Equipment>
+ISMachine Gun
+</Left Equipment>
+<Body Equipment>
+ISMG Ammo (200)
+ISMG Ammo (200)
+Advanced Fire Control
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2480
+</year>
+<source>
+Age of War
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Wheeled
+</motion_type>

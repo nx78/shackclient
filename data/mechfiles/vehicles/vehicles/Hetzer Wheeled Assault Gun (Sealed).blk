@@ -1,0 +1,82 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Hetzer Wheeled Assault Gun
+</Name>
+
+<Model>
+(Sealed)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+40.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+32
+32
+32
+32
+</armor>
+
+<Body Equipment>
+Environmental Sealing
+ISC3iUnit
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISRotaryAC5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

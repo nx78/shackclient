@@ -1,0 +1,57 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Skulker Wheeled Scout Tank
+</Name>
+<Model>
+(SRM)
+</Model>
+<Tonnage>
+20
+</Tonnage>
+<cruiseMP>
+7
+</cruiseMP>
+<Armor>
+18
+18
+18
+18
+</Armor>
+<Front Equipment>
+ISSRM4
+</Front Equipment>
+<Body Equipment>
+ISSRM4 Ammo
+ISSRM4 Ammo
+</Body Equipment>
+<type>
+IS Level 1
+</type>
+<year>
+2901
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Wheeled
+</motion_type>

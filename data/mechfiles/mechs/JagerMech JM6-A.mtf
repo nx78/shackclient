@@ -1,0 +1,152 @@
+Version:1.0
+JagerMech
+JM6-A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2774
+Source:Star League
+Rules Level:1
+
+Mass:65
+Engine:260 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:11
+RA Armor:11
+LT Armor:17
+RT Armor:17
+CT Armor:20
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:6
+1 ISAC2, Right Arm, Ammo:45
+1 ISAC2, Left Arm
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISLRM15, Right Arm, Ammo:16
+1 ISLRM15, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISAC2
+ISLRM15
+ISLRM15
+ISLRM15
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISAC2
+ISLRM15
+ISLRM15
+ISLRM15
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISMediumLaser
+ISAC2 Ammo
+ISLRM15 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISMediumLaser
+ISLRM15 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

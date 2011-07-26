@@ -1,0 +1,59 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+BattleArmor
+</UnitType>
+<Name>
+Raiden
+</Name>
+<Model>
+(Original)
+</Model>
+<chassis>
+biped
+</chassis>
+<weightclass>
+2
+</weightclass>
+<Trooper Count>
+4
+</Trooper Count>
+<Tonnage>
+4
+</Tonnage>
+<BV>
+209
+</BV>
+<cruiseMP>
+1
+</cruiseMP>
+<jumpingMP>
+3
+</jumpingMP>
+<Armor>
+7
+</Armor>
+<Squad Equipment>
+BA Small Laser
+SRM1 (OS)
+BABattleClaw
+</Squad Equipment>
+<type>
+IS Level 2
+</type>
+<year>
+3052
+</year>
+<source>
+Clan
+</source>
+
+<motion_type>
+Jump
+</motion_type>

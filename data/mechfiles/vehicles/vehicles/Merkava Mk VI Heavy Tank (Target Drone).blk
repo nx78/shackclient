@@ -1,0 +1,91 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Merkava Heavy Tank
+</Name>
+
+<Model>
+Mk VI (Target Drone)
+</Model>
+
+<year>
+2439
+</year>
+<source>
+Age of War
+</source>
+<Barrating>
+7
+</Barrating>
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+65.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<internal_type>
+1
+</internal_type>
+
+<armor>
+17
+16
+16
+15
+16
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-2
+IS Ammo AC/5
+IS Ammo AC/5
+Advanced Fire Control
+Armored Chassis
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Auto Cannon/5
+SRM 2
+</Turret Equipment>
+<armor_type>
+0
+</armor_type>
+

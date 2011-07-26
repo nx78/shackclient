@@ -1,0 +1,160 @@
+Version:1.0
+Koshi (Mist Lynx)
+G
+
+Config:Biped Omni
+TechBase:Clan
+Era:3068
+Source:Jihad
+Rules Level:2
+
+Mass:25
+Engine:175 XL (Clan) Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:6
+
+Armor:Ferro-Fibrous
+LA Armor:4
+RA Armor:4
+LT Armor:7
+RT Armor:7
+CT Armor:10
+HD Armor:9
+LL Armor:5
+RL Armor:5
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:14
+ER Small Laser, Right Leg
+ER Small Laser, Left Leg
+ER Small Laser, Right Arm
+Heavy Machine Gun, Right Arm
+Heavy Machine Gun, Right Arm
+Heavy Machine Gun, Right Arm
+Heavy Machine Gun, Right Arm
+CLHMGA, Right Arm
+ER Small Laser, Left Arm
+Heavy Machine Gun, Left Arm
+Heavy Machine Gun, Left Arm
+Heavy Machine Gun, Left Arm
+Heavy Machine Gun, Left Arm
+CLHMGA, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERSmallLaser
+CLHeavyMG
+CLHeavyMG
+CLHeavyMG
+CLHeavyMG
+CLHMGA
+Endo Steel
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERSmallLaser
+CLHeavyMG
+CLHeavyMG
+CLHeavyMG
+CLHeavyMG
+CLHMGA
+Endo Steel
+Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Jump Jet
+Jump Jet
+Jump Jet
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+Jump Jet
+Jump Jet
+Jump Jet
+Clan Heavy Machine Gun Ammo - Full
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo Steel
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLActiveProbe
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLERSmallLaser
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLERSmallLaser
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

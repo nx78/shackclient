@@ -1,0 +1,85 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Hunter Light Support Tank
+</Name>
+
+<Model>
+(Armor Prototype)
+</Model>
+
+<year>
+3039
+</year>
+<source>
+Late Succession Wars
+</source>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+32
+24
+24
+18
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Machine Gun Ammo - Half
+ISCASE
+</Body Equipment>
+
+<Front Equipment>
+LRM 20
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+Machine Gun
+</Rear Equipment>
+

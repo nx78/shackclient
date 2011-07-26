@@ -1,0 +1,151 @@
+Version:1.0
+Thunderbolt
+TDR-11SE
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3071
+Source:Jihad
+Rules Level:2
+
+Mass:65
+Engine:260 Light Fusion Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:19
+RA Armor:19
+LT Armor:22
+RT Armor:22
+CT Armor:28
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:7
+RTR Armor:7
+RTC Armor:9
+
+Weapons:5
+1 ISSNPPC, Right Arm
+1 ISMML7, Left Torso, Ammo:31
+3 ISERMediumLaser, Left Torso
+1 ISGuardianECMSuite, Center Torso
+1 ISTargeting Computer, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISSNPPC
+ISSNPPC
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+Endo Steel
+Endo Steel
+Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+ISMML7 LRM Ammo
+ISMML7 SRM Ammo
+ISCASE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+Endo Steel
+Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

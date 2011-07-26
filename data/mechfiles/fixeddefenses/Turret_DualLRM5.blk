@@ -1,0 +1,38 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+GunEmplacement
+</UnitType>
+<Name>
+Dual LRM5 Turret
+</Name>
+<Year>
+3025
+</Year>
+<Type>
+IS Level 1
+</Type>
+<ConstructionFactor>
+50
+</ConstructionFactor>
+<Height>
+3
+</Height>
+<Turret>
+50
+</Turret>
+<Turret Equipment>
+ISLRM5
+ISLRM5
+</Turret Equipment>
+<Building Equipment>
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISLRM10 Ammo
+</Building Equipment>

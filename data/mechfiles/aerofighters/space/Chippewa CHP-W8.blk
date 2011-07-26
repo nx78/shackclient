@@ -1,0 +1,83 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Chippewa
+</Name>
+<Model>
+CHP-W8
+</Model>
+<Tonnage>
+90
+</Tonnage>
+<SafeThrust>
+5
+</SafeThrust>
+<Armor>
+82
+44
+44
+28
+</Armor>
+<Nose Equipment>
+ISMML7
+ISArtemisIV
+ISMML7
+ISArtemisIV
+ISMML7
+ISArtemisIV
+ISMML7 LRM Ammo Artemis-capable
+ISMML7 LRM Ammo Artemis-capable
+ISMML7 SRM Ammo Artemis-capable
+ISMML7 LRM Ammo Artemis-capable
+ISMML7 SRM Ammo Artemis-capable
+</Nose Equipment>
+<Right Wing Equipment>
+ISLargePulseLaser
+ISLargePulseLaser
+ISMediumLaser
+</Right Wing Equipment>
+<Left Wing Equipment>
+ISLargePulseLaser
+ISLargePulseLaser
+ISMediumLaser
+</Left Wing Equipment>
+<Aft Equipment>
+ISERSmallLaser
+ISERSmallLaser
+</Aft Equipment>
+<heatsinks>
+25
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+400
+</fuel>
+<type>
+IS Level 2
+</type>
+<year>
+3069
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+6
+</armor_type>
+<engine_type>
+2
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>

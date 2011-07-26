@@ -1,0 +1,90 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Odin Scout Tank
+</Name>
+
+<Model>
+(Spotter)
+</Model>
+
+<year>
+3068
+</year>
+
+<type>
+Clan Level 3
+</type>
+
+<tonnage>
+20.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+6
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+6
+</armor_tech>
+
+<armor>
+6
+6
+6
+4
+6
+</armor>
+
+<Body Equipment>
+CLActiveProbe
+CLECMSuite
+CLAPGaussRifle Ammo
+CLNarc Pods
+CLNarc Pods
+CLCASE
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLAPGaussRifle
+CLAPGaussRifle
+CLNarcBeacon
+CLTAG
+</Turret Equipment>
+

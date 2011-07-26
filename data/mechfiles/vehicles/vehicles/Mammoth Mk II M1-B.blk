@@ -1,0 +1,71 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportTank
+</UnitType>
+<Name>
+Mammoth Mk II
+</Name>
+<Model>
+M1-B
+</Model>
+<Tonnage>
+100
+</Tonnage>
+<cruiseMP>
+4
+</cruiseMP>
+<Armor>
+42
+36
+36
+32
+42
+</Armor>
+<Barrating>
+7
+</Barrating>
+<Turret Equipment>
+ISAC10
+Vehicle Flamer
+</Turret Equipment>
+<Front Equipment>
+ISLRM15
+</Front Equipment>
+<Rear Equipment>
+Vehicle Flamer
+</Rear Equipment>
+<Body Equipment>
+ISAC10 Ammo
+ISAC10 Ammo
+ISAC10 Ammo
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISLRM15 Ammo
+Vehicle Flamer Ammo
+Advanced Fire Control
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2480
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

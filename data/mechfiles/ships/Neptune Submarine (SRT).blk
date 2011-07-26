@@ -1,0 +1,66 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Neptune Submarine
+</Name>
+<Model>
+(SRT)
+</Model>
+<Tonnage>
+100
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+80
+60
+60
+40
+</Armor>
+<Front Equipment>
+ISLRTorpedo20
+ISSRT6
+ISSRT6
+ISSRT6
+ISSRT6
+ISSRT6
+</Front Equipment>
+<Body Equipment>
+ISLRTorpedo20 Ammo
+ISLRTorpedo20 Ammo
+ISSRT6 Ammo
+ISSRT6 Ammo
+ISSRT6 Ammo
+ISSRT6 Ammo
+</Body Equipment>
+<type>
+IS Level 2
+</type>
+<year>
+2805
+</year>
+<source>
+Early Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Submarine
+</motion_type>

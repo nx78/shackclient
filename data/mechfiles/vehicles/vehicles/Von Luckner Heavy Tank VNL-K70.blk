@@ -1,0 +1,70 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Von Luckner Heavy Tank
+</Name>
+<Model>
+VNL-K70
+</Model>
+<Tonnage>
+75
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+41
+30
+30
+30
+45
+</Armor>
+<Turret Equipment>
+ISAC10
+ISPPC
+ISSRM4
+ISMachine Gun
+</Turret Equipment>
+<Front Equipment>
+ISFlamer
+</Front Equipment>
+<Rear Equipment>
+ISLRM10
+</Rear Equipment>
+<Body Equipment>
+ISAC10 Ammo
+ISAC10 Ammo
+ISSRM4 Ammo
+ISMG Ammo (100)
+ISLRM10 Ammo
+</Body Equipment>
+<type>
+IS Level 1
+</type>
+<year>
+3008
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

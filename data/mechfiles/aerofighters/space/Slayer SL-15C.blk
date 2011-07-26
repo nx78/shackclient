@@ -1,0 +1,76 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Slayer
+</Name>
+<Model>
+SL-15C
+</Model>
+<Tonnage>
+80
+</Tonnage>
+<SafeThrust>
+6
+</SafeThrust>
+<Armor>
+84
+50
+50
+48
+</Armor>
+<Nose Equipment>
+ISSRM6
+ISSRM6 Ammo
+ISSRM6 Ammo
+ISMediumLaser
+</Nose Equipment>
+<Right Wing Equipment>
+ISMediumLaser
+ISMediumLaser
+</Right Wing Equipment>
+<Left Wing Equipment>
+ISMediumLaser
+ISMediumLaser
+</Left Wing Equipment>
+<Aft Equipment>
+ISLRM15
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISMediumLaser
+</Aft Equipment>
+<heatsinks>
+20
+</heatsinks>
+<sink_type>
+0
+</sink_type>
+<fuel>
+800
+</fuel>
+<type>
+IS Level 1
+</type>
+<year>
+3025
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>

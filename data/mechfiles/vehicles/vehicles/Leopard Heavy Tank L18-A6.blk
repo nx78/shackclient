@@ -1,0 +1,69 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportTank
+</UnitType>
+<Name>
+Leopard Heavy Tank
+</Name>
+<Model>
+L18-A6
+</Model>
+<Tonnage>
+70
+</Tonnage>
+<cruiseMP>
+4
+</cruiseMP>
+<Armor>
+32
+28
+28
+24
+32
+</Armor>
+<Barrating>
+7
+</Barrating>
+<Turret Equipment>
+ISAC5
+ISMachine Gun
+ISMekMortar1
+</Turret Equipment>
+<Front Equipment>
+ISMachine Gun
+</Front Equipment>
+<Body Equipment>
+ISMG Ammo (200)
+ISAC5 Ammo
+ISAC5 Ammo
+ISAPMortarAmmo1
+Advanced Fire Control
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2480
+</year>
+<source>
+Age of War
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

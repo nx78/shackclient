@@ -1,0 +1,87 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Vader
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+2500
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor>
+30
+20
+20
+20
+14
+</armor>
+
+<Body Equipment>
+IS Ammo AC/10
+IS Vehicle Flamer Ammo
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+Vehicle Flamer
+Vehicle Flamer
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Autocannon/10
+Machine Gun
+Machine Gun
+Machine Gun
+Machine Gun
+</Turret Equipment>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>

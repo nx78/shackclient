@@ -1,0 +1,99 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Demolisher Heavy Tank
+</Name>
+
+<Model>
+(LB-X Prototype)
+</Model>
+
+<year>
+3039
+</year>
+<source>
+Late Succession Wars
+</source>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+80.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+50
+30
+30
+28
+50
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ammo AC/20
+IS Ammo AC/20
+IS LB 10-X Cluster Ammo
+IS LB 10-X Cluster Ammo
+IS Vehicle Flamer Ammo
+IS Machine Gun Ammo - Half
+BeagleActiveProbe
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+Vehicle Flamer
+</Rear Equipment>
+
+<Turret Equipment>
+Autocannon/20
+ISLBXAC10Prototype
+Medium Laser
+Medium Laser
+Medium Laser
+</Turret Equipment>
+

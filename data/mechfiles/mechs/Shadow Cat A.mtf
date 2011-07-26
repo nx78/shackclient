@@ -1,0 +1,150 @@
+Version:1.0
+Shadow Cat
+A
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3003
+Source:Late Succession Wars
+Rules Level:2
+
+Mass:45
+Engine:270 XL Engine
+Structure:Endo Steel
+Myomer:MASC
+
+Heat Sinks:13 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Ferro-Fibrous
+LA Armor:10
+RA Armor:10
+LT Armor:18
+RT Armor:18
+CT Armor:20
+HD Armor:8
+LL Armor:18
+RL Armor:18
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:4
+1 CLERLargeLaser, Left Arm
+1 CLERLargeLaser, Right Arm
+1 CLStreakSRM6, Right Torso, Ammo:30
+1 CLActiveProbe, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERLargeLaser
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERLargeLaser
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLActiveProbe
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
+CLStreakSRM6 Ammo
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLMASC
+CLMASC
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

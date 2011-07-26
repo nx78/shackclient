@@ -1,0 +1,150 @@
+Version:1.0
+Rifleman
+C
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3050
+Source:Clan Invasion
+Rules Level:4
+
+Mass:60
+Engine:240 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:15
+RA Armor:15
+LT Armor:15
+RT Armor:15
+CT Armor:22
+HD Armor:6
+LL Armor:12
+RL Armor:12
+RTL Armor:2
+RTR Armor:2
+RTC Armor:4
+
+Weapons:4
+1 CLLargePulseLaser, Right Arm
+1 CLLargePulseLaser, Left Arm
+1 CLLBXAC5, Right Arm, Ammo:20
+1 CLLBXAC5, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLBXAC5 Ammo
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

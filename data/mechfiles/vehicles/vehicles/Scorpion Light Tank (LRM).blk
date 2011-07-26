@@ -1,0 +1,59 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Scorpion Light Tank
+</Name>
+<Model>
+(LRM)
+</Model>
+<Tonnage>
+25
+</Tonnage>
+<cruiseMP>
+4
+</cruiseMP>
+<Armor>
+20
+14
+14
+12
+20
+</Armor>
+<Turret Equipment>
+ISLRM10
+ISLRM5
+</Turret Equipment>
+<Body Equipment>
+ISLRM10 Ammo
+ISLRM5 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2813
+</year>
+<source>
+Early Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

@@ -1,0 +1,148 @@
+Version:1.0
+Sunder
+SD1-OD
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3063
+Source:Civil War
+Rules Level:2
+
+Mass:90
+Engine:360 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:41
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:2
+2 ISPPC, Right Arm
+1 ISLBXAC20, Left Arm, Ammo:10
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+ISPPC
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+ISLBXAC20 (Split)
+ISLBXAC20 Ammo
+ISLBXAC20 CL Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

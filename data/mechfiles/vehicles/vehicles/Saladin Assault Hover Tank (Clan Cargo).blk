@@ -1,0 +1,84 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Saladin Assault Hover Tank
+</Name>
+
+<Model>
+(Clan Cargo)
+</Model>
+
+<year>
+2946
+</year>
+
+<type>
+Clan Level 2
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+-1
+</armor_tech>
+
+<armor>
+17
+7
+7
+7
+</armor>
+
+<Body Equipment>
+Cargo Container (10 tons)
+Cargo (1 ton)
+Cargo (1 ton)
+Cargo (1 ton)
+Cargo (1 ton)
+Cargo (1 ton)
+Cargo (1 ton)
+Cargo (1 ton)
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

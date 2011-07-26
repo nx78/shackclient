@@ -1,0 +1,79 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<barrating>
+5
+</barrating>
+
+<Name>
+Katana Tank
+</Name>
+
+<Model>
+II
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+35
+35
+35
+23
+</armor>
+
+<Body Equipment>
+Advanced Fire Control
+Communications Equipment (3 ton)
+IS Ammo SRM-4
+IS Ammo MG - Full
+</Body Equipment>
+
+<Front Equipment>
+PPC
+Machine Gun
+SRM 4
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

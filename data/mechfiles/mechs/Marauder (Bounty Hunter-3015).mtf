@@ -1,0 +1,135 @@
+Version:1.0
+Marauder
+(Bounty Hunter-3015)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3015
+Source:Late Succession Wars
+Rules Level:2
+
+Mass:75
+Engine:225 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:18 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:36
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:8
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Left Torso
+1 ISPPC, Right Torso
+1 ISMediumLaser, Right Torso
+1 ISPPC, Left Arm
+1 ISMediumLaser, Left Arm
+1 ISPPC, Right Arm
+1 ISMediumLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPPC
+ISPPC
+ISPPC
+ISMediumLaser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPPC
+ISPPC
+ISPPC
+ISMediumLaser
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumLaser
+-Empty-
+-Empty-
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISPPC
+ISPPC
+ISPPC
+ISMediumLaser
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

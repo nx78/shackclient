@@ -1,0 +1,149 @@
+Version:1.0
+Thunderbolt
+TDR-5SP
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:65
+Engine:260 Fusion Engine
+Structure:Endo Steel Prototype
+Myomer:Standard
+
+Heat Sinks:10 Single, 5 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:24
+RT Armor:24
+CT Armor:30
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:6
+RTR Armor:6
+RTC Armor:11
+
+Weapons:5
+1 ISLargeLaser, Right Arm
+1 ISLRM15, Right Torso, Ammo:16
+3 ISMediumPulseLaserPrototype, Left Torso
+1 ISSRM2, Right Torso, Ammo:50
+2 ISMachine Gun, Left Arm, Ammo:100
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMachine Gun
+ISMachine Gun
+ISMG Ammo (100)
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeLaser
+ISLargeLaser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+
+Left Torso:
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+
+Right Torso:
+ISLRM15
+ISLRM15
+ISLRM15
+ISSRM2
+ISSRM2 Ammo
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISLRM15 Ammo
+ISLRM15 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo Steel Prototype
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-

@@ -1,0 +1,149 @@
+Version:1.0
+Warhammer
+WHM-8K
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3073
+Source:Jihad
+Rules Level:2
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Light Ferro-Fibrous
+LA Armor:22
+RA Armor:22
+LT Armor:22
+RT Armor:22
+CT Armor:34
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:4
+1 ISHPPC, Right Arm
+1 ISHPPC, Left Arm
+1 ISStreakSRM4, Right Torso, Ammo:25
+1 ISC3SlaveUnit, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISHPPC
+ISHPPC
+ISHPPC
+ISHPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISHPPC
+ISHPPC
+ISHPPC
+ISHPPC
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISStreakSRM4
+ISStreakSRM4 Ammo
+ISCASE
+Endo-Steel
+Endo-Steel
+Light Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Light Ferro-Fibrous
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-

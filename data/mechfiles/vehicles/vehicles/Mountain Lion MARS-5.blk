@@ -1,0 +1,69 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportTank
+</UnitType>
+<Name>
+Mountain Lion
+</Name>
+<Model>
+MARS-5
+</Model>
+<Tonnage>
+75
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+30
+25
+25
+24
+36
+</Armor>
+<Barrating>
+5
+</Barrating>
+<Turret Equipment>
+ISMekMortar8
+ISMekMortar8
+</Turret Equipment>
+<Body Equipment>
+ISAPMortarAmmo8
+ISAPMortarAmmo8
+ISAPMortarAmmo8
+ISAPMortarAmmo8
+ISAPMortarAmmo8
+ISAPMortarAmmo8
+ISAPMortarAmmo8
+ISAPMortarAmmo8
+Advanced Fire Control
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2480
+</year>
+<source>
+Age of War
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

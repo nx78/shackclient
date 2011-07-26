@@ -1,0 +1,81 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Striker Light Tank
+</Name>
+
+<Model>
+(Sealed)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+35.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+6
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+24
+20
+20
+18
+22
+</armor>
+
+<Body Equipment>
+Environmental Sealing
+ISGuardianECMSuite
+IS Light Machine Gun Ammo - Half
+IS Ammo MML-5 LRM
+IS Ammo MML-5 SRM
+IS Ammo MML-5 SRM
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Light Machine Gun
+ISMML5
+ISMML5
+</Turret Equipment>
+

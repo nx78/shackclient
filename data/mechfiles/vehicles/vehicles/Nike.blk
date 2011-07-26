@@ -1,0 +1,86 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Nike
+</Name>
+
+<Model>
+</Model>
+
+<year>
+3079
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+90.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+6
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+35
+20
+20
+20
+35
+</armor>
+<Barrating>
+9
+</Barrating>
+<Body Equipment>
+Advanced Fire Control
+Armored Chassis
+IS Ammo LAC/2
+IS Ammo LAC/2
+IS LB 5-X AC Ammo
+IS LB 5-X Cluster Ammo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISLBXAC5
+ISLBXAC5
+Light Auto Cannon/2
+Light Auto Cannon/2
+</Turret Equipment>
+
+<source>
+Jihad
+</source>

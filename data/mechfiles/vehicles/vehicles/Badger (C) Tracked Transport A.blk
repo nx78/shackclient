@@ -1,0 +1,90 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Badger (C) Tracked Transport
+</Name>
+
+<Model>
+A
+</Model>
+
+<year>
+2875
+</year>
+
+<type>
+Clan Level 2
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+TroopSpace: 5.0
+</transporters>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+6
+</cruiseMP>
+
+<omni>
+1
+</omni>
+
+<armor>
+20
+18
+18
+14
+18
+</armor>
+
+<Body Equipment>
+Clan Machine Gun Ammo - Full
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLERSmallLaser
+CLERSmallLaser
+CLERSmallLaser
+CLMG
+CLMG
+CLMG
+CLMG
+CLMG
+CLMG
+</Turret Equipment>
+

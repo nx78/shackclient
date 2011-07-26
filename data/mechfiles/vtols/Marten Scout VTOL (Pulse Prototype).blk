@@ -1,0 +1,79 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Marten Scout VTOL
+</Name>
+
+<Model>
+(Pulse Prototype)
+</Model>
+
+<year>
+3040
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+15.0
+</tonnage>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+13
+</cruiseMP>
+
+<armor>
+7
+5
+5
+5
+2
+</armor>
+
+<Body Equipment>
+ISAMS Ammo
+</Body Equipment>
+
+<Front Equipment>
+BeagleActiveProbe
+ISAntiMissileSystem
+ISMediumPulseLaserPrototype
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<history>
+</history>
+

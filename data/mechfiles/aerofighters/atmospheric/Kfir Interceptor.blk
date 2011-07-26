@@ -1,0 +1,104 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+ConvFighter
+</UnitType>
+
+<Name>
+Kfir
+</Name>
+
+<Model>
+Interceptor
+</Model>
+
+<Tonnage>
+15
+</Tonnage>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<Armor>
+7
+3
+3
+2
+</Armor>
+
+<Nose Equipment>
+Machine Gun
+IS Machine Gun Ammo
+</Nose Equipment>
+
+<Left Wing Equipment>
+Machine Gun
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+Machine Gun
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<heatsinks>
+0
+</heatsinks>
+
+<sink_type>
+0
+</sink_type>
+
+<fuel>
+320
+</fuel>
+
+<type>
+IS Level 1
+</type>
+
+<year>
+2358
+</year>
+
+<source>
+Custom
+</source>
+
+<internal_type>
+0				
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<barrating>
+5
+</barrating>
+
+<engine_type>				
+0
+</engine_type>
+
+<motion_type>
+aerodyne
+</motion_type>

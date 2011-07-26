@@ -1,0 +1,149 @@
+Version:1.0
+Avatar
+AV1-OF
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3064
+Source:Civil War
+Rules Level:2
+
+Mass:70
+Engine:280 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:22
+RT Armor:22
+CT Armor:30
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:3
+1 ISLBXAC20, Right Arm, Ammo:20
+1 ISERPPC, Left Arm
+2 ISMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERPPC
+ISERPPC
+ISERPPC
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLBXAC20 CL Ammo
+ISLBXAC20 Ammo
+ISCASE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 CL Ammo
+ISLBXAC20 Ammo
+ISCASE
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

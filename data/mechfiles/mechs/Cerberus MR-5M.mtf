@@ -1,0 +1,154 @@
+Version:1.0
+Cerberus
+MR-5M
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3055
+Source:Clan Invasion
+Rules Level:2
+
+Mass:95
+Engine:380 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:26
+RA Armor:26
+LT Armor:28
+RT Armor:28
+CT Armor:40
+HD Armor:9
+LL Armor:27
+RL Armor:27
+RTL Armor:12
+RTR Armor:12
+RTC Armor:15
+
+Weapons:8
+1 ISGaussRifle, Left Arm, Ammo:16
+2 ISMediumPulseLaser, Left Torso
+2 ISMediumPulseLaser, Right Torso
+1 ISMachine Gun, Left Torso (R)
+1 ISMachine Gun, Right Torso (R), Ammo:100
+1 ISAntiMissileSystem, Head, Ammo:12
+1 ISERPPC, Right Arm
+2 ISMediumPulseLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+ISGauss Ammo
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERPPC
+ISERPPC
+ISERPPC
+ISMediumPulseLaser
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISMachine Gun (R)
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISMachine Gun (R)
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMG Ammo (100)
+ISAMS Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

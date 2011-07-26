@@ -1,0 +1,86 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Hwacha
+</Name>
+
+<Model>
+HW1
+</Model>
+<Barrating>
+6
+</Barrating>
+<year>
+3078
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+<source>
+Jihad
+</source>
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+6
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+15
+12
+12
+10
+13
+</armor>
+
+<Body Equipment>
+Advanced Fire Control
+IS MRM 20 Ammo
+IS MRM 20 Ammo
+IS MRM 20 Ammo
+IS MRM 20 Ammo
+IS MRM 20 Ammo
+IS MRM 20 Ammo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+MRM 20
+MRM 20
+MRM 20
+</Turret Equipment>
+

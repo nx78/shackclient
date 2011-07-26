@@ -1,0 +1,108 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Behemoth Heavy Tank
+</Name>
+
+<Model>
+(Gauss Prototype)
+</Model>
+
+<year>
+3040
+</year>
+<source>
+Late Succession Wars
+</source>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+60
+48
+48
+34
+60
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Gauss Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+IS Ammo SRM-6
+IS Ammo SRM-6
+IS Ammo SRM-2
+IS Ammo MG - Full
+ISAMS Ammo
+ISAMS Ammo
+ISAMS Ammo
+</Body Equipment>
+
+<Front Equipment>
+SRM 2
+SRM 2
+Machine Gun
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+SRM 2
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+SRM 2
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISGaussRiflePrototype
+ISGaussRiflePrototype
+SRM 6
+SRM 6
+ISAntiMissileSystem
+</Turret Equipment>
+

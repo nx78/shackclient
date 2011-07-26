@@ -1,0 +1,151 @@
+Version:1.0
+Patriot
+PKM-2C
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Source:Jihad
+Rules Level:3
+
+Mass:65
+Engine:260 XL Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:19
+RA Armor:19
+LT Armor:22
+RT Armor:22
+CT Armor:31
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:4
+TAG, Right Torso
+Heavy PPC, Right Arm
+Arrow IV, Left Arm
+AMS, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Heavy PPC
+Heavy PPC
+Heavy PPC
+Heavy PPC
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+ISArrowIV
+Endo Steel
+Endo Steel
+Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISTAG
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIV Homing Ammo
+ISArrowIV Homing Ammo
+ISAMS Ammo
+ISCASE
+Endo Steel
+Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

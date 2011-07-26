@@ -1,0 +1,158 @@
+Version:1.0
+BLK
+10.5 KNT
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3025
+Source:Prototype
+Rules Level:3
+
+Mass:75
+Engine:300 Fusion Engine(IS)
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:11
+PPC, Right Arm
+PPC, Left Torso
+Small Laser, Head
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+Medium Laser, Center Torso
+Large Laser, Right Torso
+Medium Laser, Right Torso
+Medium Laser, Left Arm
+Medium Laser, Left Torso
+Medium Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Medium Laser
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+PPC
+PPC
+PPC
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+PPC
+PPC
+PPC
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Medium Laser
+Endo Steel
+Endo Steel
+Endo Steel
+Medium Laser
+Endo Steel
+
+Right Torso:
+Large Laser
+Large Laser
+Endo Steel
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Medium Laser
+Endo Steel
+Endo Steel
+Endo Steel
+Medium Laser
+Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser
+Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Small Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

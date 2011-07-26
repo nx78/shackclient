@@ -1,0 +1,99 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Von Luckner Heavy Tank
+</Name>
+
+<Model>
+VNL-K65N (LB)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+75.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<internal_type>
+0
+</internal_type>
+
+<armor>
+54
+40
+40
+30
+33
+</armor>
+
+<Body Equipment>
+IS Ammo AC/20
+IS Ammo AC/20
+IS Ammo AC/20
+IS Ammo LRM-15
+IS Ammo LRM-15
+IS Streak SRM 2 Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISSmallPulseLaser
+LRM 15
+ISArtemisIV
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+Small Laser
+</Rear Equipment>
+
+<Turret Equipment>
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+Autocannon/20
+</Turret Equipment>
+

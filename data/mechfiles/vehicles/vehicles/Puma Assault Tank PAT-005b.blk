@@ -1,0 +1,97 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Puma Assault Tank
+</Name>
+
+<Model>
+PAT-005b (Royal)
+</Model>
+
+<year>
+2725
+</year>
+
+<source>
+Star League
+</source>
+
+<type>
+IS Level 2
+</type>
+
+
+<armor_type>
+0
+</armor_type>
+
+<tonnage>
+95.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+48
+32
+32
+24
+48
+</armor>
+
+<Body Equipment>
+IS Vehicle Flamer Ammo
+IS Streak SRM 2 Ammo
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo LRM-20
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+Medium Laser
+ISStreakSRM2
+ISStreakSRM2
+</Front Equipment>
+
+<Right Equipment>
+LRM 20
+ISArtemisIV
+</Right Equipment>
+
+<Left Equipment>
+LRM 20
+ISArtemisIV
+</Left Equipment>
+
+<Rear Equipment>
+ISSmallPulseLaser
+Vehicle Flamer
+</Rear Equipment>
+
+<Turret Equipment>
+ISERPPC
+</Turret Equipment>

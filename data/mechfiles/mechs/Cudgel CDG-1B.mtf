@@ -1,0 +1,151 @@
+Version:1.0
+Cudgel
+CDG-1B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3053
+Source:Clan Invasion
+Rules Level:3
+
+Mass:80
+Engine:400 XL Engine
+Structure:Endo Steel
+Myomer:MASC
+
+Heat Sinks:14 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:25
+RA Armor:25
+LT Armor:26
+RT Armor:26
+CT Armor:35
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:5
+1 ISSmallPulseLaser, Right Torso
+5 ISMachine Gun, Right Torso, Ammo:200
+1 ISSmallPulseLaser, Left Torso
+5 ISMachine Gun, Left Torso
+1 ISSRM6, Left Torso, Ammo:15
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISSRM6
+ISSRM6
+ISSmallPulseLaser
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISSmallPulseLaser
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISSRM6 Ammo
+ISMG Ammo (200)
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

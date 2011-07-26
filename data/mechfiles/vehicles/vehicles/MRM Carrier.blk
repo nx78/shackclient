@@ -1,0 +1,83 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+MRM Carrier
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+3063
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+-1
+</armor_tech>
+
+<armor>
+14
+14
+14
+11
+</armor>
+
+<Body Equipment>
+IS MRM 30 Ammo
+IS MRM 30 Ammo
+IS MRM 30 Ammo
+ISC3SlaveUnit
+</Body Equipment>
+
+<Front Equipment>
+MRM 30
+MRM 30
+MRM 30
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

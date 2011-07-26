@@ -1,0 +1,78 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Cobra Attack VTOL
+</Name>
+
+<Model>
+(LB-X Prototype)
+</Model>
+
+<year>
+3039
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor>
+10
+10
+10
+8
+2
+</armor>
+
+<Body Equipment>
+IS LB 10-X AC Ammo
+IS LB 10-X AC Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISLBXAC10Prototype
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<history>
+</history>
+

@@ -1,0 +1,57 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Mobile Headquarters
+</Name>
+<Tonnage>
+25
+</Tonnage>
+<cruiseMP>
+6
+</cruiseMP>
+<Armor>
+16
+19
+19
+16
+10
+</Armor>
+<Turret Equipment>
+ISMediumLaser
+</Turret Equipment>
+<Body Equipment>
+Communications Equipment (7 ton)
+</Body Equipment>
+<transporters>
+TroopSpace:0.5
+</transporters>
+<type>
+IS Level 1
+</type>
+<year>
+2620
+</year>
+<source>
+Star League
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+Wheeled
+</motion_type>

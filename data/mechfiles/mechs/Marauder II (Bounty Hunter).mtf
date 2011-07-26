@@ -1,0 +1,134 @@
+Version:1.0
+Marauder II
+(Bounty Hunter)
+
+Config:Biped
+TechBase:Clan
+Era:3064
+Source:Civil War
+Rules Level:2
+
+Mass:100
+Engine:300 Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Ferro-Fibrous
+LA Armor:34
+RA Armor:34
+LT Armor:31
+RT Armor:31
+CT Armor:46
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:16
+
+Weapons:7
+1 CLGaussRifle, Right Torso, Ammo:16
+1 CLERPPC, Left Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLERPPC, Right Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLMediumPulseLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERPPC
+CLERPPC
+CLMediumPulseLaser
+CLMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERPPC
+CLERPPC
+CLMediumPulseLaser
+CLMediumPulseLaser
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Jump Jet
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGauss Ammo
+CLGauss Ammo
+Ferro-Fibrous
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

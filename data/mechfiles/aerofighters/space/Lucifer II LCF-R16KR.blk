@@ -1,0 +1,78 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Lucifer II
+</Name>
+<Model>
+LCF-R16KR
+</Model>
+<Tonnage>
+65
+</Tonnage>
+<SafeThrust>
+6
+</SafeThrust>
+<Armor>
+34
+24
+24
+25
+</Armor>
+<Nose Equipment>
+ISERLargeLaser
+ISERLargeLaser
+ISLRM20
+ISLRM20 Ammo
+ISLRM20 Ammo
+ISSRM6
+ISSRM6
+ISSRM6 Ammo
+ISSRM6 Ammo
+</Nose Equipment>
+<Left Wing Equipment>
+ISSmallPulseLaser
+</Left Wing Equipment>
+<Right Wing Equipment> 
+ISSmallPulseLaser
+</Right Wing Equipment>
+<Aft Equipment> 
+ISMediumPulseLaser
+</Aft Equipment>
+<heatsinks>
+20
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+400
+</fuel>
+<type>
+IS
+</type>
+<year>
+3054
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+1
+</armor_type>
+<engine_type>
+2
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>
+
+

@@ -1,0 +1,153 @@
+Version:1.0
+Kingfisher
+ Prime
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:2887
+Source:Early Succession Wars
+Rules Level:2
+
+Mass:90
+Engine:360 Fusion Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:13
+
+Weapons:7
+1 CLLargePulseLaser, Right Arm
+1 CLStreakSRM6, Left Arm, Ammo:15
+1 CLERSmallLaser, Left Arm
+1 CLLargePulseLaser, Center Torso
+1 CLMediumPulseLaser, Right Torso
+1 CLLRM10, Left Torso, Ammo:12
+1 CLMediumPulseLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLStreakSRM6
+CLStreakSRM6
+CLERSmallLaser
+CLStreakSRM6 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+CLLRM10
+CLMediumPulseLaser
+CLLRM10 Ammo
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Torso:
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLMediumPulseLaser
+Endo Steel
+Endo Steel
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLargePulseLaser
+CLLargePulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

@@ -1,0 +1,152 @@
+Version:1.0
+Longbow
+LGB-7V
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2652
+Source:Star League
+Rules Level:2
+
+Mass:85
+Engine:255 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:26
+RT Armor:26
+CT Armor:41
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:6
+1 ISLRM20, Right Arm, Ammo:36
+1 ISLRM20, Left Arm
+1 ISERLargeLaser, Center Torso
+2 ISMediumPulseLaser, Left Torso
+2 ISMediumPulseLaser, Right Torso
+1 ISMediumPulseLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISArtemisIV
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISCASE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISLRM20 Ammo Artemis-capable
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISERLargeLaser
+ISERLargeLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumPulseLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

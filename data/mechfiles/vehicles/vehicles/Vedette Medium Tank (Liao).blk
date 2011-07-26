@@ -1,0 +1,62 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Vedette Medium Tank
+</Name>
+<Model>
+(Liao)
+</Model>
+<Tonnage>
+50
+</Tonnage>
+<cruiseMP>
+5
+</cruiseMP>
+<Armor>
+20
+18
+18
+20
+20
+</Armor>
+<Turret Equipment>
+ISMediumLaser
+ISMediumLaser
+</Turret Equipment>
+<Front Equipment>
+ISMachine Gun
+</Front Equipment>
+<Body Equipment>
+ISMG Ammo (200)
+ISMG Ammo (200)
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2968
+</year>
+<source>
+Sw-L
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

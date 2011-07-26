@@ -1,0 +1,77 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Aero
+</UnitType>
+<Name>
+Riever
+</Name>
+<Model>
+F-700
+</Model>
+<Tonnage>
+100
+</Tonnage>
+<SafeThrust>
+6
+</SafeThrust>
+<Armor>
+81
+60
+60
+47
+</Armor>
+<Nose Equipment>
+ISAC20
+ISLRM10
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+ISLRM10 Ammo
+ISLRM10 Ammo
+</Nose Equipment>
+<Right Wing Equipment>
+ISSRM6
+ISSRM6
+ISSRM6 Ammo
+ISSRM6 Ammo
+</Right Wing Equipment>
+<Left Wing Equipment>
+ISSRM6
+ISSRM6
+ISSRM6 Ammo
+ISSRM6 Ammo
+</Left Wing Equipment>
+<heatsinks>
+20
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+400
+</fuel>
+<type>
+IS Level 2
+</type>
+<year>
+3057
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+2
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>

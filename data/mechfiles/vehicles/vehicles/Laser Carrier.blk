@@ -1,0 +1,60 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Laser Carrier
+</Name>
+<Tonnage>
+60
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+12
+12
+12
+12
+</Armor>
+<Front Equipment>
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+</Front Equipment>
+<transporters>
+TroopSpace:1.2
+</transporters>
+<type>
+IS
+</type>
+<year>
+2874
+</year>
+<source>
+Early Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

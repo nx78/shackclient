@@ -1,0 +1,132 @@
+Version:1.1
+Crusader
+CRD-3P
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2500
+Rules Level:5
+
+Mass:65
+Engine:195 I.C.E. Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Industrial
+LA Armor:15
+RA Armor:15
+LT Armor:16
+RT Armor:16
+CT Armor:20
+HD Armor:6
+LL Armor:10
+RL Armor:10
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:6
+1 ISLRM10 (OS), Left Torso
+1 ISLRM10 (OS), Right Torso
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMachine Gun, Left Arm, Ammo:200
+1 ISMachine Gun, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumLaser
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISLRM10 (OS)
+ISLRM10 (OS)
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISLRM10 (OS)
+ISLRM10 (OS)
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+ISMG Ammo (200)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

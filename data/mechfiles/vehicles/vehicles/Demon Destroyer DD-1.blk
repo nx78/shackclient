@@ -1,0 +1,82 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Demon Destroyer
+</Name>
+
+<Model>
+DD-1
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Naval
+</motion_type>
+
+<engine_type>
+3
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+60
+40
+40
+20
+40
+</armor>
+
+<Body Equipment>
+ISSRTorpedo6 Ammo
+ISSRTorpedo6 Ammo
+ISGuardianECMSuite
+BeagleActiveProbe
+</Body Equipment>
+
+<Front Equipment>
+SRT 6
+</Front Equipment>
+
+<Right Equipment>
+SRT 6
+</Right Equipment>
+
+<Left Equipment>
+SRT 6
+</Left Equipment>
+
+<Rear Equipment>
+SRT 6
+</Rear Equipment>
+
+<Turret Equipment>
+Medium Laser
+Medium Laser
+Large Laser
+</Turret Equipment>

@@ -1,0 +1,102 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Von Luckner Heavy Tank
+</Name>
+
+<Model>
+VNL-K65N (LB-X)
+</Model>
+
+<year>
+2750
+</year>
+
+<source>
+Star League
+</source>
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+75.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<internal_type>
+0
+</internal_type>
+
+<armor>
+41
+40
+40
+31
+45
+</armor>
+
+<Body Equipment>
+IS LB 10-X AC Ammo
+IS LB 10-X AC Ammo
+IS LB 10-X AC Cluster Ammo
+IS LB 10-X AC Cluster Ammo
+IS Ammo LRM-10 Artemis Capable
+IS Streak SRM 2 Ammo
+</Body Equipment>
+
+<Front Equipment>
+LRM 10
+ISArtemisIV
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISStreakSRM2
+ISSmallPulseLaser
+ISLBXAC10
+ISLBXAC10
+</Turret Equipment>
+

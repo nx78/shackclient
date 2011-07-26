@@ -1,0 +1,82 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Behemoth Heavy Tank
+</Name>
+<Tonnage>
+100
+</Tonnage>
+<cruiseMP>
+2
+</cruiseMP>
+<Armor>
+46
+38
+38
+40
+46
+</Armor>
+<Turret Equipment>
+ISAC10
+ISAC10
+ISSRM6
+ISSRM6
+</Turret Equipment>
+<Front Equipment>
+ISLRM5
+ISLRM5
+ISLRM5
+ISLRM5
+ISSRM2
+ISSRM2
+ISMachine Gun
+ISMachine Gun
+</Front Equipment>
+<Right Equipment>
+ISSRM2
+ISMachine Gun
+</Right Equipment>
+<Left Equipment>
+ISSRM2
+ISMachine Gun
+</Left Equipment>
+<Body Equipment>
+ISLRM5 Ammo
+ISLRM5 Ammo
+ISSRM6 Ammo
+ISSRM6 Ammo
+ISSRM2 Ammo
+ISMG Ammo (200)
+ISAC10 Ammo
+ISAC10 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2952
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>
+<source>
+Late Succession Wars
+</source>

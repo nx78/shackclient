@@ -1,0 +1,84 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+
+<UnitType>
+SupportTank
+</UnitType>
+<barrating>
+5
+</barrating>
+
+<Name>
+Cossack Tank
+</Name>
+
+<Model>
+II
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+20
+20
+20
+15
+21
+</armor>
+
+<Body Equipment>
+Advanced Fire Control
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+Medium Laser
+</Front Equipment>
+
+<Right Equipment>
+Small Laser
+Small Laser
+</Right Equipment>
+
+<Left Equipment>
+Small Laser
+Small Laser
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Large Laser
+</Turret Equipment>
+

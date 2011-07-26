@@ -1,0 +1,107 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Behemoth Artillery Crawler
+</Name>
+
+<Model>
+Fire Support System
+</Model>
+
+<year>
+3040
+</year>
+<source>
+Late Succession Wars
+</source>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+35
+34
+34
+24
+25
+</armor>
+
+<Body Equipment>
+ISCASE
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVHomingAmmo
+ISArrowIVHomingAmmo
+ISArrowIVHomingAmmo
+ISAMS Ammo
+ISAMS Ammo
+IS Ammo MG - Full
+ISGuardianECMSuite
+</Body Equipment>
+
+<Front Equipment>
+ISArrowIV
+ISArrowIV
+ISArrowIV
+Machine Gun
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Medium Laser
+Medium Laser
+Medium Laser
+ISAntiMissileSystem
+ISAntiMissileSystem
+ISTAG
+</Turret Equipment>
+

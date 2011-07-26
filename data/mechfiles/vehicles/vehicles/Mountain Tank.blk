@@ -1,0 +1,86 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Mountain
+</Name>
+
+<Model>
+Tank
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor>
+25
+25
+25
+25
+28
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-10
+IS Ammo LRM-10
+IS Ammo LRM-10
+IS Ammo LRM-10
+IS Ammo MG - Full
+IS Ammo SRM-2
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Medium Laser
+LRM 10
+LRM 10
+LRM 10
+LRM 10
+SRM 2
+Machine Gun
+Machine Gun
+</Turret Equipment>
+

@@ -1,0 +1,153 @@
+Version:1.0
+Nobori-nin (Huntsman)
+C
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3048
+Source:Late Succession Wars
+Rules Level:2
+
+Mass:50
+Engine:250 XL Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Ferro-Fibrous
+LA Armor:16
+RA Armor:16
+LT Armor:18
+RT Armor:18
+CT Armor:25
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:7
+1 CLLRM15, Left Torso, Ammo:8
+1 CLLRM20, Right Torso, Ammo:6
+1 CLStreakSRM4, Right Arm, Ammo:25
+1 CLERMediumLaser, Left Torso
+1 CLERSmallLaser, Left Torso
+1 CLUltraAC5, Left Arm, Ammo:20
+1 CLFlamer, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5 Ammo
+Endo Steel
+Endo Steel
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLStreakSRM4
+CLStreakSRM4 Ammo
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLLRM15
+CLLRM15
+CLERMediumLaser
+CLERSmallLaser
+CLLRM15 Ammo
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLFlamer
+CLLRM20 Ammo
+Endo Steel
+Ferro-Fibrous
+Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

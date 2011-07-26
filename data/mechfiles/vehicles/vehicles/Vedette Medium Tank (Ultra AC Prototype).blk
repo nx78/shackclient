@@ -1,0 +1,93 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Vedette Medium Tank
+</Name>
+
+<Model>
+(Ultra AC Prototype)
+</Model>
+
+<year>
+3039
+</year>
+<source>
+Late Succession Wars
+</source>
+
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+30
+25
+25
+24
+30
+</armor>
+
+<Body Equipment>
+IS Ultra AC/5 Ammo
+IS Ultra AC/5 Ammo
+ISAMS Ammo
+ISAMS Ammo
+IS Machine Gun Ammo - Half
+ISCASE
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISUltraAC5Prototype
+ISAntiMissileSystem
+</Turret Equipment>
+

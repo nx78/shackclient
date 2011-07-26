@@ -1,0 +1,134 @@
+Version:1.1
+Avatar
+AV1-OR
+
+Config:Biped Omnimech
+TechBase:Mixed (Clan Chassis)
+Era:3059
+Source:Clan Invasion
+Rules Level:4
+
+Mass:70
+Engine:280 XL Fusion Engine (Inner Sphere)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double (Inner Sphere)
+Base Chassis Heat Sinks: 10
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor (Clan)
+LA Armor:16
+RA Armor:16
+LT Armor:22
+RT Armor:22
+CT Armor:30
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:6
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Center Torso
+1 ISMRM40, Right Arm, Ammo:12
+1 CLGaussRifle, Left Arm, Ammo:8
+1 CLERLargeLaser, Head
+1 CLStreakSRM4, Right Torso, Ammo:25
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+ISMRM40
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+CLGauss Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+CLStreakSRM4
+CLStreakSRM4 Ammo
+ISMRM40 Ammo
+ISMRM40 Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERLargeLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

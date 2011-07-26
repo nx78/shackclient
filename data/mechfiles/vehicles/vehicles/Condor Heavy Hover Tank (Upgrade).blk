@@ -1,0 +1,97 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Condor Heavy Hover Tank
+</Name>
+
+<Model>
+(Upgrade)
+</Model>
+
+<year>
+3066
+</year>
+
+<source>
+Civil War
+</source>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+50.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<internal_type>
+0
+</internal_type>
+
+<armor>
+31
+21
+21
+14
+20
+</armor>
+
+<Body Equipment>
+ISLRM15 Ammo
+ISLRM15 Ammo
+ISLBXAC5 Ammo
+ISLBXAC5 CL Ammo
+ISMG Ammo (100)
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+Machine Gun
+ISLBXAC5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+LRM 15
+</Turret Equipment>
+

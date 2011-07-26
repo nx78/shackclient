@@ -1,0 +1,154 @@
+Version:1.0
+Archer
+ARC-5S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3052
+Source:Clan Invasion Invasion
+Rules Level:2
+
+Mass:70
+Engine:280 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:24
+RT Armor:24
+CT Armor:33
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:6
+RTR Armor:6
+RTC Armor:10
+
+Weapons:8
+1 ISLRM15, Right Torso, Ammo:32
+1 ISLRM15, Left Torso
+1 ISStreakSRM2, Left Arm
+1 ISStreakSRM2, Right Arm, Ammo:100
+2 ISMediumPulseLaser, Center Torso (R)
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Right Arm
+1 ISNarcBeacon, Left Torso, Ammo:6
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISStreakSRM2
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISStreakSRM2
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISLRM15
+ISLRM15
+ISLRM15
+ISNarcBeacon
+ISNarcBeacon
+ISLRM15 Ammo Narc-capable
+ISStreakSRM2 Ammo
+ISNarc Pods
+ISCASE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISLRM15
+ISLRM15
+ISLRM15
+ISLRM15 Ammo Narc-capable
+ISLRM15 Ammo Narc-capable
+ISLRM15 Ammo Narc-capable
+ISStreakSRM2 Ammo
+ISCASE
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumPulseLaser (R)
+ISMediumPulseLaser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

@@ -1,0 +1,98 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+
+<UnitType>
+SupportTank
+</UnitType>
+<barrating>
+5
+</barrating>
+
+<Name>
+Valley Tank
+</Name>
+
+<Model>
+II
+</Model>
+
+<year>
+2380
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+75.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+22
+22
+22
+25
+21
+</armor>
+
+<Body Equipment>
+Advanced Fire Control
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo SRM-6
+IS Ammo SRM-6
+IS Ammo MG - Full
+IS Ammo MG - Full
+IS Ammo LRM-10
+IS Ammo LRM-10
+</Body Equipment>
+
+<Front Equipment>
+LRM 10
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+Small Laser
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+Small Laser
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Machine Gun
+Machine Gun
+LRM 20
+SRM 6
+SRM 6
+Large Laser
+SRM 6
+</Turret Equipment>
+

@@ -1,0 +1,50 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Hi-Scout Drone
+</Name>
+<Model>
+(NapFind)
+</Model>
+<Tonnage>
+2
+</Tonnage>
+<cruiseMP>
+25
+</cruiseMP>
+<Armor>
+0
+0
+0
+0
+</Armor>
+<type>
+IS Level 3
+</type>
+<year>
+3000
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Hover
+</motion_type>

@@ -1,0 +1,88 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Asshur Fast Reconnaissance Vehicle
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+2842
+</year>
+
+<type>
+Clan Level 3
+</type>
+
+<tonnage>
+20.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+6
+</armor_tech>
+
+<armor>
+14
+10
+10
+9
+13
+</armor>
+
+<Body Equipment>
+Clan Streak SRM 6 Ammo
+Clan Machine Gun Ammo - Half
+CLCASE
+</Body Equipment>
+
+<Front Equipment>
+CLMG
+CLMG
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLERMediumLaser
+CLERMediumLaser
+CLStreakSRM6
+</Turret Equipment>
+

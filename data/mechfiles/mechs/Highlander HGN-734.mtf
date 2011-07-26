@@ -1,0 +1,151 @@
+Version:1.0
+Highlander
+HGN-734
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3062
+Source:Civil War
+Rules Level:2
+
+Mass:90
+Engine:270 Light Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:30
+RA Armor:30
+LT Armor:28
+RT Armor:28
+CT Armor:42
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:10
+RTR Armor:10
+RTC Armor:16
+
+Weapons:5
+1 ISLBXAC20, Right Arm, Ammo:15
+2 ISERMediumLaser, Left Arm
+1 ISERLargeLaser, Right Torso
+2 ISStreakSRM6, Left Torso, Ammo:15
+1 ISMediumPulseLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERMediumLaser
+ISERMediumLaser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISStreakSRM6
+ISStreakSRM6
+ISStreakSRM6
+ISStreakSRM6
+ISStreakSRM6 Ammo
+ISLBXAC20 CL Ammo
+ISLBXAC20 Ammo
+ISLBXAC20 CL Ammo
+ISCASE
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLBXAC20 (Split)
+ISLBXAC20 (Split)
+ISERLargeLaser
+ISERLargeLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+ISMediumPulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

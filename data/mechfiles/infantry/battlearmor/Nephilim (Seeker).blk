@@ -1,0 +1,55 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+BattleArmor
+</UnitType>
+<Name>
+Nephilim
+</Name>
+<Model>
+(Seeker)
+</Model>
+<chassis>
+biped
+</chassis>
+<weightclass>
+4
+</weightclass>
+<Trooper Count>
+6
+</Trooper Count>
+<cruiseMP>
+2
+</cruiseMP>
+<Armor>
+16
+</Armor>
+<Squad Equipment>
+ISBAMachine Gun
+ISSRM3:Body
+BA-SRM3 Ammo
+BA-SRM3 Ammo
+BA-SRM3 Ammo
+BAHeavyBattleClaw
+Mimetic Armor
+BAP (2 Hex)
+BASearchlight
+</Squad Equipment>
+<type>
+IS Level 2
+</type>
+<year>
+3071
+</year>
+<source>
+Jihad
+</source>
+<motion_type>
+Jump
+</motion_type>

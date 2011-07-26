@@ -1,0 +1,149 @@
+Version:1.0
+Rifleman
+RFL-3N (3039 III)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:60
+Engine:240 Fusion Engine
+Structure:Endo Steel Prototype
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard
+LA Armor:15
+RA Armor:15
+LT Armor:15
+RT Armor:15
+CT Armor:22
+HD Armor:6
+LL Armor:12
+RL Armor:12
+RTL Armor:2
+RTR Armor:2
+RTC Armor:4
+
+Weapons:4
+Large Laser, Right Arm
+Ultra AC/5 Prototype, Right Arm
+Large Laser, Left Arm
+Ultra AC/5 Prototype, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Large Laser
+Large Laser
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+Endo Steel Prototype
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Large Laser
+Large Laser
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+ISUltraAC5Prototype
+Endo Steel Prototype
+-Empty-
+
+Left Torso:
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISUltraAC5 Ammo
+ISUltraAC5 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo Steel Prototype
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

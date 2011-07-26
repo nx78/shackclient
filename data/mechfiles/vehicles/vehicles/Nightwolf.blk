@@ -1,0 +1,81 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Nightwolf
+</Name>
+
+<Model>
+
+</Model>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<year>
+2500
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<armor>
+31
+21
+21
+14
+17
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-4
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+SRM 4
+SRM 4
+</Turret Equipment>
+

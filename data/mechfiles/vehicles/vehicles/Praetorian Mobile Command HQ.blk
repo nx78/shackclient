@@ -1,0 +1,87 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Praetorian Mobile Command HQ
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+3132
+</year>
+
+<type>
+IS Level 4
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+60
+44
+44
+32
+28
+</armor>
+
+<Body Equipment>
+ISArmoredMotiveSystem
+Communications Equipment (10 ton)
+Cargo (1 ton)
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+ISAntiPersonnelPod
+</Right Equipment>
+
+<Left Equipment>
+ISAntiPersonnelPod
+</Left Equipment>
+
+<Rear Equipment>
+ISAntiPersonnelPod
+</Rear Equipment>
+
+<Turret Equipment>
+ISERMediumLaser
+</Turret Equipment>
+

@@ -1,0 +1,150 @@
+Version:1.0
+Turkina
+D
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3062
+Source:Civil War
+Rules Level:2
+
+Mass:95
+Engine:285 XL Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:32
+RA Armor:32
+LT Armor:30
+RT Armor:30
+CT Armor:45
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
+
+Weapons:4
+2 CLATM12, Right Arm, Ammo:50
+2 CLATM12, Left Arm
+1 CLERMediumLaser, Center Torso
+1 CLERMediumLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Jump Jet
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 ER Ammo
+CLATM12 ER Ammo
+CLATM12 HE Ammo
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Jump Jet
+CLATM12 Ammo
+CLATM12 Ammo
+CLATM12 ER Ammo
+CLATM12 HE Ammo
+CLATM12 HE Ammo
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLERMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

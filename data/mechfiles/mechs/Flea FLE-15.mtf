@@ -1,0 +1,153 @@
+Version:1.0
+Flea
+FLE-15
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2523
+Source:Age of War
+Rules Level:1
+
+Mass:20
+Engine:120 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:6
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:4
+RA Armor:4
+LT Armor:5
+RT Armor:5
+CT Armor:8
+HD Armor:5
+LL Armor:4
+RL Armor:4
+RTL Armor:3
+RTR Armor:3
+RTC Armor:3
+
+Weapons:7
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun, Right Arm, Ammo:200
+1 ISFlamer, Center Torso
+1 ISSmallLaser, Right Torso (R)
+1 ISSmallLaser, Left Torso (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumLaser
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMediumLaser
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+ISSmallLaser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Heat Sink
+ISSmallLaser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISFlamer
+ISMG Ammo (200)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

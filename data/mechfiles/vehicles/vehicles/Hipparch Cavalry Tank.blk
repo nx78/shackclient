@@ -1,0 +1,78 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Hipparch Cavalry Tank
+</Name>
+
+<Model>
+
+</Model>
+
+<year>
+2562
+</year>
+<source>
+Historical Reunification War
+</source>
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+30.0
+</tonnage>
+
+<motion_type>
+Hover
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<armor>
+14
+13
+13
+12
+12
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-2
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+IS Medium Laser
+ISSmall Laser
+IS SRM-2
+</Turret Equipment>
+

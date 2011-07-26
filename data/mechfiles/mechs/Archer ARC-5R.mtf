@@ -1,0 +1,150 @@
+Version:1.0
+Archer
+ARC-5R
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3052
+Source:Clan Invasion Invasion
+Rules Level:2
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:29
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:5
+RTR Armor:5
+RTC Armor:8
+
+Weapons:4
+1 ISLRM15, Right Torso, Ammo:32
+1 ISLRM15, Left Torso
+1 ISERLargeLaser, Left Arm
+1 ISERLargeLaser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERLargeLaser
+ISERLargeLaser
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISERLargeLaser
+ISERLargeLaser
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Right Torso:
+ISLRM15
+ISLRM15
+ISLRM15
+ISArtemisIV
+ISLRM15 Ammo Artemis-capable
+ISLRM15 Ammo Artemis-capable
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

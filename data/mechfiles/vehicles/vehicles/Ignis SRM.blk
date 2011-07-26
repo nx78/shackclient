@@ -1,0 +1,72 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Ignis
+</Name>
+<Model>
+SRM
+</Model>
+<Tonnage>
+30
+</Tonnage>
+<cruiseMP>
+4
+</cruiseMP>
+<Armor>
+54
+25
+25
+17
+23
+</Armor>
+<Turret Equipment>
+ISSRM2
+ISSRM2
+ISMachine Gun
+</Turret Equipment>
+<Front Equipment>
+</Front Equipment>
+<Right Equipment>
+Vehicle Flamer
+</Right Equipment>
+<Left Equipment>
+Vehicle Flamer
+</Left Equipment>
+<Rear Equipment>
+</Rear Equipment>
+<transporters>
+TroopSpace:1
+</transporters>
+<Body Equipment>
+Ammo Vehicle Flamer
+ISMG Ammo (100)
+ISSRM2 Ammo
+ISSRM2 Ammo
+</Body Equipment>
+<type>
+IS Level 1
+</type>
+<year>
+2500
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

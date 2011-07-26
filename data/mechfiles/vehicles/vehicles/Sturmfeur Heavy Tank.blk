@@ -1,0 +1,62 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Sturmfeur Heavy Tank
+</Name>
+<Tonnage>
+85
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+66
+66
+66
+48
+66
+</Armor>
+<Turret Equipment>
+ISLRM20
+ISMachine Gun
+ISMachine Gun
+</Turret Equipment>
+<Front Equipment>
+ISLRM20
+</Front Equipment>
+<Body Equipment>
+ISMG Ammo (200)
+ISLRM20 Ammo
+ISLRM20 Ammo
+ISLRM20 Ammo
+</Body Equipment>
+<type>
+IS Level 1
+</type>
+<year>
+3018
+</year>
+<source>
+Sw-L
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

@@ -1,0 +1,67 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+ConvFighter
+</UnitType>
+<Name>
+Medium Strike Fighter
+</Name>
+<Model>
+Defender II
+</Model>
+<Tonnage>
+25
+</Tonnage>
+<SafeThrust>
+6
+</SafeThrust>
+<Armor>
+7
+6
+6
+5
+</Armor>
+<Nose Equipment>
+ISLRM5 Ammo Artemis-capable
+</Nose Equipment>
+<Left Wing Equipment>
+ISLRM5
+ISArtemisIV
+</Left Wing Equipment>
+<Right Wing Equipment>
+ISLRM5
+ISArtemisIV
+</Right Wing Equipment>
+<heatsinks>
+0
+</heatsinks>
+<sink_type>
+0
+</sink_type>
+<fuel>
+480
+</fuel>
+<type>
+IS Level 2
+</type>
+<year>
+3039
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+aerodyne
+</motion_type>

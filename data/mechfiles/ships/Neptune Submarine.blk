@@ -1,0 +1,64 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Neptune Submarine
+</Name>
+
+<year>
+2950
+</year>
+
+<source>
+Late Succession Wars
+</source>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Submarine
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+78
+58
+58
+38
+</armor>
+
+<Body Equipment>
+IS Ammo LRTorpedo-20
+ISSRTorpedo6 Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISLargeLaser
+LRT 20
+SRT 6
+SRT 6
+</Front Equipment>

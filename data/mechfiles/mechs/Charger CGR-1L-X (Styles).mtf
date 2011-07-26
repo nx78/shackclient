@@ -1,0 +1,152 @@
+Version:1.0
+Charger
+CGR-1L-X (Styles)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Standard
+Myomer:Triple-Strength
+
+Heat Sinks:20 Single
+Walk MP:4
+Jump MP:4
+
+Armor:Standard
+LA Armor:24
+RA Armor:24
+LT Armor:23
+RT Armor:23
+CT Armor:32
+HD Armor:9
+LL Armor:31
+RL Armor:31
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:7
+Medium Laser, Right Torso
+Medium Laser, Right Torso
+Large Laser, Right Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Pulse Laser Prototype, Center Torso
+Medium Pulse Laser Prototype, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+TSM
+TSM
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+TSM
+TSM
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Medium Laser
+Medium Laser
+ISGuardianECMSuite
+ISGuardianECMSuite
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+TSM
+TSM
+TSM
+TSM
+
+Right Torso:
+Medium Laser
+Medium Laser
+Large Laser
+Large Laser
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+TSM
+TSM
+TSM
+TSM
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumPulseLaserPrototype
+ISMediumPulseLaserPrototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

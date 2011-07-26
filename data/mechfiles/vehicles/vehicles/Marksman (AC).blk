@@ -1,0 +1,90 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Marksman
+</Name>
+
+<Model>
+(AC)
+</Model>
+
+<year>
+2821
+</year>
+
+<source>
+Early Succession Wars
+</source>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+65.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<internal_type>
+0
+</internal_type>
+
+<armor>
+54
+20
+20
+20
+22
+</armor>
+
+<Body Equipment>
+IS Ammo AC/20
+IS Ammo AC/20
+IS Ammo AC/20
+</Body Equipment>
+
+<Front Equipment>
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+Autocannon/20
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Large Laser
+</Turret Equipment>
+

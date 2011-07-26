@@ -1,0 +1,77 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Skulker Wheeled Scout Tank
+</Name>
+
+<Model>
+(C3M)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+20.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+18
+18
+18
+16
+</armor>
+
+<Body Equipment>
+ISC3MasterUnit
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

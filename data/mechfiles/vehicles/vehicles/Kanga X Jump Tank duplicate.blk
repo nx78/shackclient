@@ -1,0 +1,71 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Kanga
+</Name>
+<model>
+X Jump Tank
+</model>
+<Tonnage>
+50
+</Tonnage>
+<cruiseMP>
+8
+</cruiseMP>
+<jumpMP>
+6
+</jumpMP>
+<Armor>
+25
+24
+24
+20
+22
+</Armor>
+<Front Equipment>
+
+</Front Equipment>
+<Turret Equipment>
+CLLargeChemLaser
+CLStreakLRM10
+CLStreakSRM4
+</Turret Equipment>
+<Body Equipment>
+CLLargeChemLaserAmmo
+CLStreakLRM10 Ammo
+CLStreakLRM10 Ammo
+CLStreakSRM4 Ammo
+Jump Jet
+Jump Jet
+Jump Jet
+Jump Jet
+Jump Jet
+Jump Jet
+</Body Equipment>
+<type>
+Clan Level 4
+</type>
+<year>
+3075
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Hover
+</motion_type>

@@ -1,0 +1,95 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+ConvFighter
+</UnitType>
+
+<Name>
+Hurricane
+</Name>
+
+<Model>
+</Model>
+
+<Tonnage>
+25
+</Tonnage>
+
+<SafeThrust>
+6
+</SafeThrust>
+
+<Armor>
+10
+7
+7
+5
+</Armor>
+
+<Nose Equipment>
+Machine Gun
+CLRocketLauncher15Prototype
+IS Machine Gun Ammo - Half
+Basic Fire Control
+</Nose Equipment>
+
+<Left Wing Equipment>
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<heatsinks>
+0
+</heatsinks>
+
+<sink_type>
+0
+</sink_type>
+
+<fuel>
+150
+</fuel>
+
+<type>
+IS Level 1
+</type>
+
+<year>
+2297
+</year>
+
+<source>
+XTRO Primitives Vol I
+</source>
+
+<internal_type>
+0				
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<barrating>
+5
+</barrating>
+
+<engine_type>				
+0
+</engine_type>
+
+<motion_type>
+aerodyne
+</motion_type>

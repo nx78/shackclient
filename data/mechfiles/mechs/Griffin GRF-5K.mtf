@@ -1,0 +1,150 @@
+Version:1.0
+Griffin
+GRF-5K
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Source:Jihad
+Rules Level:2
+
+Mass:55
+Engine:275 Light Engine
+Structure:Standard
+Myomer:Standard
+Gyro:Heavy Duty
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:8
+
+Armor:Light Ferro-Fibrous
+LA Armor:16
+RA Armor:16
+LT Armor:18
+RT Armor:18
+CT Armor:26
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:3
+1 ISLightPPC, Right Arm
+1 ISLRM10, Right Torso, Ammo:12
+1 ISERMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLightPPC
+ISLightPPC
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+Light Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ImprovedJump Jet
+ISLRM10
+ISLRM10
+ISLRM10 Ammo
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISERMediumLaser
+Light Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ImprovedJump Jet
+ImprovedJump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

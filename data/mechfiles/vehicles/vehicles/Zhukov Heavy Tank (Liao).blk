@@ -1,0 +1,81 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Zhukov Heavy Tank
+</Name>
+
+<Model>
+(Liao)
+</Model>
+
+<year>
+3075
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+75.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+44
+32
+32
+24
+44
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ammo SRM-4
+IS LB 10-X Cluster Ammo
+ISC3SlaveUnit
+ISGuardianECMSuite
+IS LB 10-X AC Ammo
+</Body Equipment>
+
+<Front Equipment>
+SRM 4
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISLBXAC10
+ISLBXAC10
+</Turret Equipment>
+

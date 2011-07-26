@@ -1,0 +1,81 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Pack Rat LRPV
+</Name>
+
+<Model>
+(BAP)
+</Model>
+<source>
+Late Succession Wars
+</source>
+
+<year>
+3039
+</year>
+
+<type>
+IS Level 5
+</type>
+
+<tonnage>
+20.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<transporters>
+TroopSpace: 1
+</transporters>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<armor>
+16
+16
+16
+16
+</armor>
+
+<Body Equipment>
+BeagleActiveProbe
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+Medium Laser
+Medium Laser
+ISTAG
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+Small Laser
+</Rear Equipment>
+

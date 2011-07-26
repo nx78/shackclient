@@ -1,0 +1,129 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Dropship
+</UnitType>
+<Name>
+Cassiopeia 100
+</Name>
+<Model>
+</Model>
+<Tonnage>
+2000
+</Tonnage>
+<SafeThrust>
+4
+</SafeThrust>
+<Armor>
+90
+80
+80
+70
+</Armor>
+<Nose Equipment>
+ISAC5
+ISAC5
+ISAC5 Ammo
+ISAC5 Ammo
+</Nose Equipment>
+<Left Side Equipment>
+ISAC5
+ISAC5
+ISAC5 Ammo
+ISLRM5
+ISLRM5
+ISLRM5 Ammo
+ISMediumLaser
+ISMediumLaser 
+(R) ISAC5
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISAC5 Ammo
+(R) ISSRM2 Ammo
+(R) ISSRM2 Ammo
+</Left Side Equipment>
+<Right Side Equipment> 
+ISAC5
+ISAC5
+ISAC5 Ammo
+ISLRM5
+ISLRM5
+ISLRM5 Ammo
+ISMediumLaser
+ISMediumLaser 
+(R) ISAC5
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISSRM2
+(R) ISAC5 Ammo
+(R) ISSRM2 Ammo
+(R) ISSRM2 Ammo
+</Right Side Equipment>
+<Aft Equipment> 
+ISLRM5
+ISLRM5
+ISLRM5 Ammo
+ISMediumLaser
+ISMediumLaser
+</Aft Equipment>
+<structural_integrity>
+12
+</structural_integrity>
+<heatsinks>
+78
+</heatsinks>
+<sink_type>
+0
+</sink_type>
+<fuel>
+6000
+</fuel>
+<type>
+IS Level 1
+</type>
+<year>
+2375
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+spheroid
+</motion_type>
+
+<transporters>
+HeavyVehicleBay:4:2
+LightVehicleBay:8:2
+InfantryBay:4:2
+</transporters>
+<escape_pod>
+2
+</escape_pod>
+<life_boat>
+0
+</life_boat>
+<crew>
+23
+</crew>
+<passengers>
+0
+</passengers>

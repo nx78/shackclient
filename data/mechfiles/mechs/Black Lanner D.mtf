@@ -1,0 +1,156 @@
+Version:1.0
+Black Lanner
+D
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3052
+Source:Clan Invasion
+Rules Level:2
+
+Mass:55
+Engine:385 XL Engine
+Structure:Endo Steel
+Myomer:MASC
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:13
+RA Armor:13
+LT Armor:16
+RT Armor:16
+CT Armor:25
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:10
+1 CLMediumPulseLaser, Left Arm
+1 CLERSmallLaser, Left Arm
+2 CLMG, Left Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLERSmallLaser, Right Arm
+2 CLMG, Right Arm, Ammo:100
+1 CLSRM6, Right Torso, Ammo:30
+1 CLSRM6, Left Torso
+1 CLFlamer, Left Torso
+1 CLActiveProbe, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLMediumPulseLaser
+CLERSmallLaser
+CLMG
+CLMG
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLMediumPulseLaser
+CLERSmallLaser
+CLMG
+CLMG
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLSRM6
+CLFlamer
+CLMG Ammo (100)
+Endo Steel
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLSRM6
+CLSRM6 Ammo
+CLSRM6 Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLMASC
+CLMASC
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLActiveProbe
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

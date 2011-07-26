@@ -1,0 +1,56 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Hetzer Wheeled Assault Gun
+</Name>
+<Model>
+(Laser)
+</Model>
+<Tonnage>
+40
+</Tonnage>
+<cruiseMP>
+4
+</cruiseMP>
+<Armor>
+34
+26
+26
+26
+</Armor>
+<Front Equipment>
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+</Front Equipment>
+<type>
+IS
+</type>
+<year>
+2889
+</year>
+<source>
+Early Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Wheeled
+</motion_type>

@@ -1,0 +1,132 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Dropship
+</UnitType>
+<Name>
+Overlord-C
+</Name>
+<Model>
+</Model>
+<Tonnage>
+11550
+</Tonnage>
+<SafeThrust>
+3
+</SafeThrust>
+<Armor>
+350
+300
+300
+250
+</Armor>
+<Nose Equipment>
+CLUltraAC5
+CLERLargeLaser
+CLLRM20
+CLLRM20
+CLERPPC
+CLERPPC
+CLLargePulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLLRM20 Ammo (Clan) Artemis-capable:60
+CLUltraAC5 Ammo:20
+CLArtemisIV
+CLArtemisIV
+</Nose Equipment>
+<Left Side Equipment>
+CLUltraAC20
+CLUltraAC5
+CLERLargeLaser
+CLERPPC
+CLLargePulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLUltraAC20 Ammo:25
+CLUltraAC5 Ammo:40
+(R) CLUltraAC5
+(R) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(R) CLUltraAC5 Ammo:40
+</Left Side Equipment>
+<Right Side Equipment>
+CLUltraAC20
+CLUltraAC5
+CLERLargeLaser
+CLERPPC
+CLLargePulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLUltraAC20 Ammo:25
+CLUltraAC5 Ammo:40
+(R) CLUltraAC5
+(R) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(R) CLUltraAC5 Ammo:40
+</Right Side Equipment>
+<Aft Equipment>
+CLUltraAC5
+CLLRM20
+CLERPPC
+CLERPPC
+CLLRM20 Ammo (Clan) Artemis-capable:36
+CLUltraAC5 Ammo:40
+CLArtemisIV
+</Aft Equipment>
+<structural_integrity>
+18
+</structural_integrity>
+<heatsinks>
+122
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+2160
+</fuel>
+<type>
+Clan Level 2
+</type>
+<year>
+2818
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+1
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+spheroid
+</motion_type>
+<transporters>
+MechBay:15:3
+MechBay:15:3
+MechBay:15:3
+CargoBay:1181:1
+</transporters>
+<escape_pod>
+3
+</escape_pod>
+<life_boat>
+3
+</life_boat>
+<crew>
+43
+</crew>
+<passengers>
+0
+</passengers>

@@ -1,0 +1,150 @@
+Version:1.0
+Enforcer
+ENF-4RX2 (Willie)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:50
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Single
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous Prototype(Inner Sphere)
+LA Armor:14
+RA Armor:14
+LT Armor:17
+RT Armor:17
+CT Armor:25
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:3
+Small Laser, Left Torso
+ER Large Laser Prototype, Left Arm
+Autocannon/10, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERLargeLaserPrototype
+ISERLargeLaserPrototype
+Ferro-Fibrous Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Ferro-Fibrous Prototype
+
+Left Torso:
+Heat Sink
+Heat Sink
+Small Laser
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+IS Ammo AC/10
+ISCASE
+Heat Sink
+Heat Sink
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Ferro-Fibrous Prototype
+Ferro-Fibrous Prototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous Prototype
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous Prototype
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous Prototype
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
+

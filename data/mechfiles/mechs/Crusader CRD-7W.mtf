@@ -1,0 +1,153 @@
+Version:1.0
+Crusader
+CRD-7W
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Source:Jihad
+Rules Level:2
+
+Mass:65
+Engine:260 XL Engine
+Structure:Standard
+Myomer:Standard
+Gyro:XL
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Light Ferro-Fibrous Armor
+LA Armor:20
+RA Armor:20
+LT Armor:24
+RT Armor:24
+CT Armor:33
+HD Armor:9
+LL Armor:27
+RL Armor:27
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:6
+1 ISMML9, Right Arm, Ammo:59
+1 ISERMediumLaser, Right Arm
+1 ISMML9, Left Arm
+1 ISERMediumLaser, Left Arm
+1 ISMML5, Right Torso, Ammo:108
+1 ISMML5, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISArtemisIV
+ISERMediumLaser
+ISMML9 SRM Ammo Artemis-capable
+ISMML9 LRM Ammo Artemis-capable
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISArtemisIV
+ISERMediumLaser
+ISMML9 SRM Ammo Artemis-capable
+ISMML9 LRM Ammo Artemis-capable
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMML5
+ISMML5
+ISMML5
+ISArtemisIV
+ISMML5 SRM Ammo Artemis-capable
+ISMML5 LRM Ammo Artemis-capable
+ISMML5 LRM Ammo Artemis-capable
+ISCASE
+Light Ferro-Fibrous Armor
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMML5
+ISMML5
+ISMML5
+ISArtemisIV
+ISMML5 SRM Ammo Artemis-capable
+ISMML5 LRM Ammo Artemis-capable
+ISMML9 LRM Ammo Artemis-capable
+ISCASE
+Light Ferro-Fibrous Armor
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous Armor
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous Armor
+Light Ferro-Fibrous Armor
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Light Ferro-Fibrous Armor
+Light Ferro-Fibrous Armor
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+

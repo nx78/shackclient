@@ -1,0 +1,58 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Demolisher Heavy Tank
+</Name>
+<Tonnage>
+80
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+40
+30
+30
+20
+40
+</Armor>
+<Turret Equipment>
+ISAC20
+ISAC20
+</Turret Equipment>
+<Body Equipment>
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+ISAC20 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2803
+</year>
+<source>
+Early Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

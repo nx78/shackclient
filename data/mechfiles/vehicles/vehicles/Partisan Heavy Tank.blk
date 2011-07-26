@@ -1,0 +1,63 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Partisan Heavy Tank
+</Name>
+<Tonnage>
+80
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+22
+18
+18
+16
+22
+</Armor>
+<Turret Equipment>
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+</Turret Equipment>
+<Front Equipment>
+ISMachine Gun
+ISMachine Gun
+</Front Equipment>
+<Body Equipment>
+ISMG Ammo (100)
+ISAC5 Ammo
+ISAC5 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2996
+</year>
+<source>
+Late Succession Wars
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>

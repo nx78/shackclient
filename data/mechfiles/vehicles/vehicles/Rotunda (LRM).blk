@@ -1,0 +1,78 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Rotunda
+</Name>
+
+<Model>
+(LRM)
+</Model>
+
+<year>
+2821
+</year>
+
+<source>
+Early Succession Wars
+</source>
+
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+20.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<internal_type>
+0
+</internal_type>
+
+<armor>
+9
+9
+9
+5
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-5
+</Body Equipment>
+
+<Front Equipment>
+LRM 5
+LRM 5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>

@@ -1,0 +1,156 @@
+Version:1.0
+Patron MilitiaMech
+PTN-2
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3076
+Source:Jihad
+Rules Level:4
+
+Mass:15
+Engine:30 Fuel Cell Engine(IS)
+Structure:Industrial
+Myomer:Standard
+
+Heat Sinks:1 Single
+Walk MP:2
+Jump MP:0
+
+Armor:Commercial(Inner Sphere)
+LA Armor:2
+RA Armor:2
+LT Armor:2
+RT Armor:2
+CT Armor:3
+HD Armor:3
+LL Armor:2
+RL Armor:2
+RTL Armor:2
+RTR Armor:2
+RTC Armor:2
+
+Weapons:9
+Light Machine Gun, Right Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Left Arm
+Light Machine Gun, Left Arm
+Rocket Launcher 10, Right Torso
+Rocket Launcher 10, Right Torso
+Rocket Launcher 10, Right Torso
+Rocket Launcher 10, Right Torso
+Rocket Launcher 10, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Light Machine Gun
+Light Machine Gun
+IS Light Machine Gun Ammo - Half
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Light Machine Gun
+Light Machine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Searchlight
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+RL10
+RL10
+RL10
+RL10
+RL10
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

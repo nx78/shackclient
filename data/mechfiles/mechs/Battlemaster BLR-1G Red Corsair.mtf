@@ -1,0 +1,136 @@
+Version:1.1
+Battlemaster
+BLR-1G Red Corsair
+
+Config:Biped
+TechBase:Clan
+Era:3055
+Source:Clan Invasion
+Rules Level:3
+
+Mass:85
+Engine:340 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:21 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:28
+RT Armor:28
+CT Armor:44
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:9
+1 CLLargePulseLaser, Center Torso
+1 CLERPPC, Left Arm
+1 CLERPPC, Right Arm
+1 CLMediumPulseLaser, Right Torso
+1 CLMediumPulseLaser, Right Torso
+1 CLMediumPulseLaser (R), Right Torso (R)
+1 CLMediumPulseLaser, Left Torso
+1 CLMediumPulseLaser, Left Torso
+1 CLMediumPulseLaser (R), Left Torso (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERPPC
+CLERPPC
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERPPC
+CLERPPC
+
+Left Torso:
+Engine
+Engine
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser (R)
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser (R)
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+CLLargePulseLaser
+CLLargePulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CommandConsole
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDouble Heat Sink
+CLDouble Heat Sink

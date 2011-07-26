@@ -1,0 +1,85 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Marsden MBT
+</Name>
+<source>
+Age of War
+</source>
+<Model>
+I
+</Model>
+
+<year>
+2396
+</year>
+<barrating>
+7
+</barrating>
+<type>
+IS Level 1
+</type>
+
+<tonnage>
+65.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+30
+26
+26
+25
+27
+</armor>
+
+<Body Equipment>
+Armored Chassis
+IS Ammo SRM-6
+IS Ammo SRM-6
+IS Ammo AC/5
+IS Machine Gun Ammo - Half
+Advanced Fire Control
+</Body Equipment>
+
+<Front Equipment>
+SRM 6
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Autocannon/5
+Machine Gun
+</Turret Equipment>
+

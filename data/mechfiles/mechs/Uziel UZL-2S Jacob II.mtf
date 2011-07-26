@@ -1,0 +1,154 @@
+Version:1.1
+Uziel
+UZL-2S Jacob II
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3071
+Source:Jihad
+Rules Level:4
+
+Mass:50
+Engine:250 XL Engine(IS)
+Structure:Endo Steel
+Myomer:Standard
+Cockpit:Standard Cockpit
+Gyro:XL Gyro
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Light Ferro-Fibrous(Inner Sphere)
+LA Armor:14
+RA Armor:14
+LT Armor:16
+RT Armor:16
+CT Armor:20
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:5
+Light Auto Cannon/5, Left Arm
+Light Auto Cannon/5, Right Arm
+Medium Pulse Laser, Left Torso
+Streak SRM 6, Left Torso
+Medium Pulse Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+ISAES
+ISAES
+Endo Steel
+Endo Steel
+Endo Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+ISAES
+ISAES
+Endo Steel
+Endo Steel
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+Light Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumPulseLaser
+ISStreakSRM6
+ISStreakSRM6
+IS Streak SRM 6 Ammo
+IS Ammo LAC/5
+IS Ammo LAC/5
+Supercharger
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMediumPulseLaser
+IS Ammo LAC/5
+IS Ammo LAC/5
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Light Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Light Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

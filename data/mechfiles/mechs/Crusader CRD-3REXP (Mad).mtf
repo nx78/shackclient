@@ -1,0 +1,153 @@
+Version:1.0
+Crusader
+CRD-3REXP (Mad)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Rules Level:5
+
+Mass:65
+Engine:260 Fusion Engine
+Structure:Endo Steel Prototype
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:33
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:7
+SRM 6, Left Leg
+Medium Pulse Laser Prototype, Left Arm
+SRM 6, Right Leg
+Medium Pulse Laser Prototype, Right Arm
+LRM 15, Left Torso
+LRM 15, Right Torso
+Machine Gun, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaserPrototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaserPrototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+IS Ammo LRM-15
+LRM 15
+LRM 15
+LRM 15
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+IS Machine Gun Ammo - Half
+-Empty-
+-Empty-
+
+Right Torso:
+IS Ammo LRM-15
+IS Ammo SRM-6
+LRM 15
+LRM 15
+LRM 15
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+Endo Steel Prototype
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo Steel Prototype
+Machine Gun
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+SRM 6
+SRM 6
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+SRM 6
+SRM 6
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
