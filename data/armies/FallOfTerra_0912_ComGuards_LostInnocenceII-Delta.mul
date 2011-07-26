@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Champion" model="CHP-1N" type="Biped">
+      <pilot name="Demi-Precentor Epsilon-VI (retired) Sharon Gardbaum" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="8" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-4M" type="Biped">
+      <pilot name="Adept Epsilon-II Derek Wildgust" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Chameleon" model="CLN-7V" type="Biped">
+      <pilot name="Adept Epsilon-II Anne Jaruszewski" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crusader" model="CRD-3R" type="Biped">
+      <pilot name="Cadet Epsilon-II George Onorati" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="12" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ontos Heavy Tank" model="(3053)" type="Tracked">
+      <pilot name="Regular Crew" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="2" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="4" type="IS Ammo SRM-4" shots="25"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Rommel Tank" model="" type="Tracked">
+      <pilot name="Regular Crew" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo LRM-5" shots="24"/>
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+         <slot index="3" type="IS Ammo AC/20" shots="5"/>
+         <slot index="4" type="IS Ammo AC/20" shots="5"/>
+         <slot index="5" type="IS Ammo AC/20" shots="5"/>
+         <slot index="N/A" type="IS Ammo LRM-5" shots="24" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Phoenix Hawk" model="PXH-1" type="Biped">
+      <pilot name="Adept Epsilon-VI Beth Laurence" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hammer" model="HMR-3M" type="Biped">
+      <pilot name="Adept Epsilon-IV Diane Erin" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS Ammo LRM-5 Artemis-capable" shots="24"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="5" type="IS Ammo LRM-5 Artemis-capable" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Whitworth" model="WTH-2" type="Biped">
+      <pilot name="Adept Epsilon-II Klaus Erkhart" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="4" type="Empty"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="4" type="Empty"/>
+      </location>
+   </entity>
+
+   <entity chassis="Assassin" model="ASN-23" type="Biped">
+      <pilot name="Adept Epsilon-I Brian Wilkes" gunnery="5" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-5 Artemis-capable" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Wasp" model="WSP-1A" type="Biped">
+      <pilot name="Adept Epsilon-I Johanna Harris" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Firestarter" model="FS9-H" type="Biped">
+      <pilot name="Acolyte Epsilon-III Guiseppe Tonolini" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="5" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+   </entity>
+
+</unit>

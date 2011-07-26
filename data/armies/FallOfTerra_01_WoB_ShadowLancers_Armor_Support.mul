@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+<unit>
+
+   <entity chassis="Manticore Heavy Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Manticore Heavy Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Bulldog Medium Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+      <location index="1"> Front
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Bulldog Medium Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+      <location index="1"> Front
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

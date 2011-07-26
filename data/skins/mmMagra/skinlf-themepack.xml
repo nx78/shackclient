@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<skinlf-themepack require="1.2.8">
+
+  <!--
+    Information about this themepack
+  -->
+  <property name="skin.name"
+	    value="mmMagra-X"/>
+  <property name="skin.description"
+	    value="MM Magra-x Visual Style of Francisco Ocasio (KOL)"/>
+  <property name="skin.url"
+	    value="http://www.studiotwentyeight.com"/>
+
+  <!--
+    SkinLF custom properties
+  -->
+  <property name="JDesktopPane.backgroundEnabled" value="false" />
+  <property name="JSplitPane.alternateUI" value="true" />
+  <property name="PopupMenu.animation" value="false" />
+
+  <!--
+    Fonts
+  -->
+  <font name="Global" value="SansSerif,0,11"/>
+  <font name="InternalFrame.titleFont" value="Tahoma,1,11"/>
+  <font name="TabbedPane.font" value="Tahoma,0,11"/>
+  <font name="MenuBar.font" value="Tahoma,0,11"/>
+  <font name="MenuItem.font" value="Tahoma,0,11"/>
+  <font name="PopupMenu.font" value="Tahoma,0,11"/>
+  <font name="Menu.font" value="Tahoma,0,11"/>
+
+
+
+  <!--
+    Icons
+  -->
+  <icon name="InternalFrame.icon" value="icons/Window.gif"/>
+
+  <icon name="FileView.directoryIcon" value="icons/TreeClosed.gif"/>
+  <icon name="FileView.fileIcon" value="icons/File.gif"/>
+  <icon name="FileView.computerIcon" value="icons/Computer.gif"/>
+  <icon name="FileView.hardDriveIcon" value="icons/HardDrive.gif"/>
+  <icon name="FileView.floppyDriveIcon" value="icons/FloppyDrive.gif"/>
+
+  <icon name="FileChooser.newFolderIcon" value="icons/NewFolder.gif"/>
+  <icon name="FileChooser.upFolderIcon" value="icons/UpFolder.gif"/>
+  <icon name="FileChooser.homeFolderIcon" value="icons/HomeFolder.gif"/>
+
+  <icon name="Tree.openIcon" value="icons/TreeOpen.gif"/>
+  <icon name="Tree.closedIcon" value="icons/TreeClosed.gif"/>
+  <icon name="Tree.leafIcon" value="icons/TreeLeaf.gif"/>
+  <icon name="Tree.expandedIcon" value="icons/TreeExpanded.gif"/>
+  <icon name="Tree.collapsedIcon" value="icons/TreeCollapsed.gif"/>  
+
+  <icon name="OptionPane.errorIcon" value="icons/Error.gif"/>
+  <icon name="OptionPane.informationIcon" value="icons/Inform.gif"/>
+  <icon name="OptionPane.warningIcon" value="icons/Warn.gif"/>
+  <icon name="OptionPane.questionIcon" value="icons/Question.gif"/>
+
+  <!--
+    Borders
+  -->
+  <property name="TextField.border" type="LineBorder" color="#8AA7BE" padding="2"/>
+  <property name="PasswordField.border" type="LineBorder" color="#8AA7BE" padding="2"/>
+
+  <property name="TextArea.border" type="EmptyBorder" value="2,2,2,2"/>
+  <property name="EditorPane.border" type="EmptyBorder" value="2,2,2,2"/>
+  <property name="TextPane.border" type="EmptyBorder" value="2,2,2,2"/>
+  <property name="List.border" type="EmptyBorder" value="0,0,0,0"/>
+  <property name="Table.border" type="EmptyBorder" value="0,0,0,0"/>
+  <property name="Tree.border" type="EmptyBorder" value="0,0,0,0"/>
+
+  <property name="ScrollPane.border" type="LineBorder" color="#8AA7BE" padding="0"/>
+  <property name="Spinner.border" type="LineBorder" color="#8AA7BE" padding="0"/>
+  <property name="PopupMenu.border" type="LineBorder" color="#8AA7BE" padding="2"/>
+
+  <property name="Menu.selectionForeground" type="Color" value="#000000"/>
+  <property name="MenuItem.selectionForeground" type="Color" value="#000000"/>
+  <property name="CheckBoxMenuItem.selectionForeground" type="Color" value="#000000"/>
+  <property name="RadioButtonMenuItem.selectionForeground" type="Color" value="#000000"/>
+
+  <!--
+    Skin Definition
+  -->
+  <skin>
+    <skin url="gtk/gtkrc"></skin>
+    <skin url="kde/kde.themerc"></skin>
+  </skin>
+
+</skinlf-themepack>

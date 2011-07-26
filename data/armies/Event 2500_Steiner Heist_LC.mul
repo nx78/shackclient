@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Heavy APC" model="Tank" type="Tracked" commander="false" deployment="0">
+      <pilot name="Kamran Skender" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="5"> Turret
+         <slot index="2" type="ISSRM6OS" munition="IS Ammo SRM-6" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(AC5)" type="Tracked" commander="false" deployment="0">
+      <pilot name="Teddie Acton" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/5" shots="20"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(AC5)" type="Tracked" commander="false" deployment="0">
+      <pilot name="Pavlushka Pertusov" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/5" shots="20"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(AC5)" type="Tracked" commander="false" deployment="0">
+      <pilot name="Marguerita Guillet" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/5" shots="20"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(AC5)" type="Tracked" commander="false" deployment="0">
+      <pilot name="Timofei McIvor" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/5" shots="20"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(ML)" type="Tracked" commander="false" deployment="0">
+      <pilot name="Nasimah Jamshedipur" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(ML)" type="Tracked" commander="false" deployment="0">
+      <pilot name="Johan Orsag" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Mackie" model="MSK-6S" type="Biped" commander="false" deployment="0">
+      <pilot name="Gökçe Yildizoglu" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Ammo AC/10" shots="10"/>
+         <slot index="2" type="IS Ammo AC/10" shots="10"/>
+      </location>
+   </entity>
+
+</unit>

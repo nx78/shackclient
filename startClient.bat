@@ -1,0 +1,1 @@
+start javaw -Xmx512m -jar MekWarsClient.jar

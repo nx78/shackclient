@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Berserker" model="BRZ-A3" type="Biped" commander="false" deployment="0">
+      <pilot name="Gimli" nick="" gunnery="3" piloting="1" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="ISAMS Ammo" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Imp" model="IMP-3E" type="Biped" commander="false" deployment="0">
+      <pilot name="Gandalf" nick="" gunnery="2" piloting="2" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="10" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="11" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Emperor" model="EMP-6A" type="Biped" commander="false" deployment="0">
+      <pilot name="Theoden" nick="" gunnery="2" piloting="3" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="8" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="9" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="8" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="9" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Grand Crusader" model="GRN-D-01" type="Biped" commander="false" deployment="0">
+      <pilot name="Legolas" nick="" gunnery="0" piloting="3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="ISAMS Ammo" shots="12"/>
+         <slot index="12" type="ISAMS Ammo" shots="12"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="10" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="11" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="10" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="11" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-3K" type="Biped" commander="false" deployment="0">
+      <pilot name="Eomer" nick="" gunnery="3" piloting="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="5" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hauptmann" model="HA1-OB" type="Biped" commander="false" deployment="0">
+      <pilot name="Aragorn" nick="" gunnery="1" piloting="2" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ultra AC/20 Ammo" shots="5"/>
+         <slot index="10" type="IS Ultra AC/20 Ammo" shots="5"/>
+         <slot index="11" type="IS Ultra AC/20 Ammo" shots="5"/>
+      </location>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-1A1" type="Biped" commander="false" deployment="0">
+      <pilot name="Folga" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-1A1" type="Biped" commander="false" deployment="0">
+      <pilot name="Walda" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-1A1" type="Biped" commander="false" deployment="0">
+      <pilot name="Desowin" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-1A1" type="Biped" commander="false" deployment="0">
+      <pilot name="Radagall" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-1A1" type="Biped" commander="false" deployment="0">
+      <pilot name="Folgred" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-1A1" type="Biped" commander="false" deployment="0">
+      <pilot name="Thengel" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-1A1" type="Biped" commander="false" deployment="0">
+      <pilot name="Gram" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-2R" type="Biped" commander="false" deployment="0">
+      <pilot name="Haldir" nick="" gunnery="2" piloting="3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-2R" type="Biped" commander="false" deployment="0">
+      <pilot name="Edain" nick="" gunnery="3" piloting="4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-2R" type="Biped" commander="false" deployment="0">
+      <pilot name="Malain" nick="" gunnery="2" piloting="4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-2R" type="Biped" commander="false" deployment="0">
+      <pilot name="Calain" nick="" gunnery="3" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-2R" type="Biped" commander="false" deployment="0">
+      <pilot name="Calis" nick="" gunnery="2" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Catapult" model="CPLT-C4" type="Biped" commander="false" deployment="0">
+      <pilot name="Rodere" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Catapult" model="CPLT-C4" type="Biped" commander="false" deployment="0">
+      <pilot name="Wrabel" nick="" gunnery="5" piloting="6" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Catapult" model="CPLT-C4" type="Biped" commander="false" deployment="0">
+      <pilot name="Dusdan" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Dervish" model="DV-6M" type="Biped" commander="false" deployment="0">
+      <pilot name="Swido" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="6" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="6" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Dervish" model="DV-6M" type="Biped" commander="false" deployment="0">
+      <pilot name="Gal" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="6" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="6" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Phoenix Hawk" model="PXH-1" type="Biped" commander="false" deployment="0">
+      <pilot name="Parald" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+   </entity>
+
+   <entity chassis="Phoenix Hawk" model="PXH-1" type="Biped" commander="false" deployment="0">
+      <pilot name="Melaa" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+   </entity>
+
+   <entity chassis="Shadow Hawk" model="SHD-2H" type="Biped" commander="false" deployment="0">
+      <pilot name="Uffal" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="4" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo AC/5" shots="20"/>
+      </location>
+   </entity>
+
+   <entity chassis="Shadow Hawk" model="SHD-2H" type="Biped" commander="false" deployment="0">
+      <pilot name="Gram" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="4" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo AC/5" shots="20"/>
+      </location>
+   </entity>
+
+   <entity chassis="Whitworth" model="WTH-1S" type="Biped" commander="false" deployment="0">
+      <pilot name="Ird" nick="" gunnery="3" piloting="4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Whitworth" model="WTH-1S" type="Biped" commander="false" deployment="0">
+      <pilot name="Stin" nick="" gunnery="3" piloting="4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crusader" model="CRD-3R" type="Biped" commander="false" deployment="0">
+      <pilot name="Danno" nick="Guard 1" gunnery="3" piloting="3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="12" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crusader" model="CRD-3R" type="Biped" commander="false" deployment="0">
+      <pilot name="Banno" nick="Guard 2" gunnery="3" piloting="3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="12" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+
+</unit>

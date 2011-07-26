@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<MegaMekSettings>
+	<store name="ClientSettings">
+		<preference name="Locale" value="en"/>
+		<preference name="GameLogFilename" value="game.log"/>
+		<preference name="LastPlayerCategory" value="-- No Camo --"/>
+		<preference name="LastPlayerColor" value="1"/>
+		<preference name="LastPlayerCamoName" value="MERC - Eridani Light Horse - 19th Heavy Cavalry.gif"/>
+		<preference name="KeepGameLog" value="true"/>
+		<preference name="StampFilenames" value="true"/>
+		<preference name="ShowUnitId" value="false"/>
+		<preference name="MapTileset" value="atmospheric.tileset"/>
+		<preference name="LastPlayerName" value="WoB"/>
+		<preference name="megamek.megamek.goalplayers" value="2"/>
+		<preference name="megamek.megamek.metaservername" value="http://www.damour.info/cgi-bin/james/metaserver"/>
+	</store>
+	<store name="megamek.client.ui.AWT.GUIPreferences">
+		<preference name="MechSelectorShowAdvanced" value="false"/>
+		<preference name="NagForNoAction" value="false"/>
+		<preference name="MinimapZoom" value="0"/>
+		<preference name="MechSelectorIncludeLevel" value="true"/>
+		<preference name="MechSelectorIncludeBV" value="true"/>
+		<preference name="WindowSizeWidth" value="1024"/>
+		<preference name="MechSelectorIncludeYear" value="true"/>
+		<preference name="DisplayPosY" value="0"/>
+		<preference name="DisplayPosX" value="0"/>
+		<preference name="RulerSizeHeight" value="256"/>
+		<preference name="NagForBotReadme" value="false"/>
+		<preference name="DisplaySizeWidth" value="281"/>
+		<preference name="MiniReportPosX" value="779"/>
+		<preference name="MinimapPosY" value="477"/>
+		<preference name="MinimapPosX" value="669"/>
+		<preference name="NagForMapEdReadme" value="false"/>
+		<preference name="DisplaySizeHeight" value="569"/>
+		<preference name="MechSelectorIncludeCost" value="true"/>
+		<preference name="NagForReadme" value="false"/>
+		<preference name="RulerPosY" value="71"/>
+		<preference name="WindowPosY" value="0"/>
+		<preference name="RulerPosX" value="319"/>
+		<preference name="WindowPosX" value="0"/>
+		<preference name="MiniReportSizeHeight" value="462"/>
+		<preference name="WindowSizeHeight" value="723"/>
+		<preference name="NagForPSR" value="false"/>
+		<preference name="SoundMute" value="true"/>
+	</store>
+	<store name="megamek.client.ui.swing.GUIPreferences">
+		<preference name="UseIsometric" value="true"/>
+		<preference name="MinimapZoom" value="0"/>
+		<preference name="MinimapPosY" value="382"/>
+		<preference name="MinimapPosX" value="822"/>
+		<preference name="DisplayPosY" value="109"/>
+		<preference name="DisplayPosX" value="425"/>
+		<preference name="NagForNoAction" value="false"/>
+		<preference name="WindowSizeHeight" value="715"/>
+		<preference name="WindowPosY" value="0"/>
+		<preference name="MapZoomIndex" value="6"/>
+		<preference name="WindowPosX" value="0"/>
+		<preference name="AdvancedChatbox2AutoSlidedown" value="false"/>
+		<preference name="WindowSizeWidth" value="1024"/>
+	</store>
+</MegaMekSettings>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Mackie" model="MSK-6S" type="Biped" commander="false" deployment="2">
+      <pilot name="Aleksandr Malinowski" nick="" gunnery="3" piloting="4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Ammo AC/10" shots="10"/>
+         <slot index="2" type="IS Ammo AC/10" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Mackie" model="MSK-6S" type="Biped" commander="false" deployment="2">
+      <pilot name="Ginnojou Lobah" nick="" gunnery="3" piloting="4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Ammo AC/10" shots="10"/>
+         <slot index="2" type="IS Ammo AC/10" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Merkava" model="MK. VII" type="Tracked" commander="false" deployment="2">
+      <pilot name="Cristina Sabenorio" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="2" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="3" type="IS Ammo AC/5" shots="20"/>
+         <slot index="4" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="5" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Merkava" model="MK. VII" type="Tracked" commander="false" deployment="0">
+      <pilot name="Sarar Poda" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="2" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="3" type="IS Ammo AC/5" shots="20"/>
+         <slot index="4" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="5" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(ML)" type="Tracked" commander="false" deployment="2">
+      <pilot name="Khanh De" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(ML)" type="Tracked" commander="false" deployment="2">
+      <pilot name="Jordan Sawer" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(ML)" type="Tracked" commander="false" deployment="2">
+      <pilot name="Tuva Arnouts" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Medium Tank" model="(ML)" type="Tracked" commander="false" deployment="2">
+      <pilot name="Elle Manwaring" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Light Hover Tank" model="(ML)" type="Hover" commander="false" deployment="2">
+      <pilot name="Hae-weon Kuk" nick="" gunnery="4" piloting="4" ejected="false"/>
+      <movement speed="8"/>
+   </entity>
+
+   <entity chassis="Light Hover Tank" model="(ML)" type="Hover" commander="false" deployment="2">
+      <pilot name="Nadhir McKelvey" nick="" gunnery="4" piloting="4" ejected="false"/>
+      <movement speed="8"/>
+   </entity>
+
+</unit>

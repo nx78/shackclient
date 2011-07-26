@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Mobile Tactical Command HQ" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="3" piloting="4" advantages="tactical_genius"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="Clan Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="Clan Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

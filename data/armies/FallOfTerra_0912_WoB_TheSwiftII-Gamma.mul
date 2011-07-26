@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Griffin" model="GRF-3M" type="Biped">
+      <pilot name="Adept Epsilon-II Ravi Battacharya" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="10" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Shadow Hawk" model="SHD-5M" type="Biped">
+      <pilot name="Adept Epsilon-II Tessa Cogan" gunnery="3" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Ultra AC/5 Ammo" shots="20"/>
+      </location>
+   </entity>
+
+   <entity chassis="Galleon Light Tank" model="(3050)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="7"/>
+   </entity>
+
+   <entity chassis="Regulator Hovertank" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="9"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Gauss Ammo" shots="8"/>
+         <slot index="2" type="IS Gauss Ammo" shots="8"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Saracen Medium Hover Tank" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="8"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="2" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Striker Light Tank" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

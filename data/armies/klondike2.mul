@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="ScavengerMech" model="SC-V-1 (Vampyr)" type="Quad" commander="false" deployment="0">
+      <pilot name="Marwan Shaabani" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Mercury" model="MCY-99" type="Biped" commander="false" deployment="0">
+      <pilot name="Fudail bin Baha" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Hussar" model="HSR-200-D" type="Biped" commander="false" deployment="0">
+      <pilot name="Renee Lissenberg" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Toro" model="TR-A-1" type="Biped" commander="false" deployment="0">
+      <pilot name="Siran Makhmurian" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="4" type="Empty"/>
+      </location>
+   </entity>
+
+   <entity chassis="Quasit" model="QUA-51T" type="Biped" commander="false" deployment="0">
+      <pilot name="Desi Guada" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo SRM-4" shots="25"/>
+         <slot index="2" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Quasit" model="QUA-51T" type="Biped" commander="false" deployment="0">
+      <pilot name="Rafal Buliszak" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo SRM-4" shots="25"/>
+         <slot index="2" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Toro" model="TR-A-6" type="Biped" commander="false" deployment="0">
+      <pilot name="Dario Beltean" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="2" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="2" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Harvester Ant" model="KIC-3 (MG)" type="Quad" commander="false" deployment="0">
+      <pilot name="Gioconda Honshorst" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+
+   <entity chassis="Harvester Ant" model="KIC-3 (MG)" type="Quad" commander="false" deployment="0">
+      <pilot name="Julien Thibaut" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+
+   <entity chassis="Harvester Ant" model="KIC-3 (MG)" type="Quad" commander="false" deployment="0">
+      <pilot name="Sabeeha bin Wafiq" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+
+   <entity chassis="Harvester Ant" model="KIC-3" type="Quad" commander="false" deployment="0">
+      <pilot name="Edmond Huguet" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Harvester Ant" model="KIC-3" type="Quad" commander="false" deployment="0">
+      <pilot name="Stumpy Abdul-Khaliq" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Carbine ConstructionMech" model="CON-7" type="Biped" commander="false" deployment="0">
+      <pilot name="Graeme Weld" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Carbine ConstructionMech" model="CON-7" type="Biped" commander="false" deployment="0">
+      <pilot name="Dagne Herder" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Harvester Ant" model="KIC-3 (LRM)" type="Quad" commander="false" deployment="0">
+      <pilot name="Laura Salcedo" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Harvester Ant" model="KIC-3 (LRM)" type="Quad" commander="false" deployment="0">
+      <pilot name="Nobuyoshi Macha" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crosscut LoggerMech" model="ED-X2 (Flamer)" type="Biped" commander="false" deployment="0">
+      <pilot name="Dyane Silot" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Left Arm
+         <slot index="5" type="IS Vehicle Flamer Ammo" shots="20"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crosscut LoggerMech" model="ED-X2 (Flamer)" type="Biped" commander="false" deployment="0">
+      <pilot name="Wilford Shol" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Left Arm
+         <slot index="5" type="IS Vehicle Flamer Ammo" shots="20"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crosscut LoggerMech" model="ED-X4" type="Biped" commander="false" deployment="0">
+      <pilot name="Zef MacRaith" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Crosscut LoggerMech" model="ED-X4" type="Biped" commander="false" deployment="0">
+      <pilot name="Ian Shima" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Whitworth" model="WTH-1Sub" type="Biped" commander="false" deployment="0">
+      <pilot name="Boutros Abdul-Azim" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="5" type="IS Ammo LRTorpedo-10" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="5" type="IS Ammo LRTorpedo-10" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Wyvern" model="WVE-5N" type="Biped" commander="false" deployment="0">
+      <pilot name="Gilby Ii" nick="" gunnery="4" piloting="5" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ymir" model="BWP-1X" type="Biped" commander="false" deployment="0">
+      <pilot name="Bosworth Rundle" nick="" gunnery="4" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="5" type="IS Ammo SRM-2" shots="50"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="6" type="IS Ammo AC/2" shots="45"/>
+      </location>
+   </entity>
+
+</unit>

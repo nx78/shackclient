@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+<entity chassis="Warhammer" model="WHM-7M" type="Biped">
+      <pilot name="Adept Epsilon-IV Sharen Adzhed" gunnery="3" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="11" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+         <slot index="12" type="ISAMS Ammo" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Wyvern" model="WVE-9N" type="Biped">
+      <pilot name="Adept Epsilon-III Richard Willey" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="8" type="IS Ammo LRM-10 Narc-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Assassin" model="ASN-23" type="Biped">
+      <pilot name="Adept Epsilon-I Stefan Schwarz" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-5 Artemis-capable" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crab" model="CRB-27" type="Biped">
+      <pilot name="Adept Epsilon-III Louise Myers" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Zephyr" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="3" piloting="4" initB="0" commandB="0"/>
+      <movement speed="9"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+         <slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+         <slot index="N/A" type="IS Ammo SRM-6 Narc-capable" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6 Narc-capable" shots="15" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Condor Heavy Hover Tank" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="3" piloting="4" initB="0" commandB="0"/>
+      <movement speed="8"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/5" shots="20"/>
+         <slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Ammo AC/5" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

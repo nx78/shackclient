@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Heavy Wheeled APC" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="6"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Heavy Wheeled APC" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="6"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Foot Platoon" model="(Rifle)" type="Leg">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Jump Platoon" model="(Laser)" type="Jump">
+      <pilot name="Unnamed" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Jump Platoon" model="(SRM)" type="Jump">
+      <pilot name="Unnamed" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(Rifle)" type="Motorized">
+      <pilot name="Unnamed" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+</unit>

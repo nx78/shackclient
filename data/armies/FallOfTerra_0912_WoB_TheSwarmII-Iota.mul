@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Karnov UR Transport" model="3058" type="VTOL">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="10"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Karnov UR Transport" model="3058" type="VTOL">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="10"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Foot Platoon" model="Anti-Mech Foot Platoon (Rifle)" type="Leg">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Foot Platoon" model="Anti-Mech Foot Platoon (Laser)" type="Leg">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Jump Platoon" model="(SRM)" type="Jump">
+      <pilot name="Unnamed" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Jump Platoon" model="(Rifle)" type="Jump">
+      <pilot name="Unnamed" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+</unit>

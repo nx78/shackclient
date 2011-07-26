@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Phoenix Hawk" model="PXH-3S" type="Biped">
+      <pilot name="Adept Epsilon-VI Liam Daley" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="7" type="ISAMS Ammo" shots="12"/>
+         <slot index="8" type="ISAMS Ammo" shots="12"/>
+         <slot index="9" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+   </entity>
+
+   <entity chassis="Valkyrie" model="VLK-QD" type="Biped">
+      <pilot name="Adept Epsilon-II Sam Brown" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Spider" model="SDR-5V" type="Biped">
+      <pilot name="Adept Epsilon-I Wayne Parsons" gunnery="5" piloting="4" initB="0" commandB="0" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Grasshopper" model="GHR-5H" type="Biped">
+      <pilot name="Adept Epsilon-III Helen Priestley" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+   </entity>
+
+   <entity chassis="Marauder" model="MAD-5S" type="Biped">
+      <pilot name="Adept Epsilon-II Darren Merriman" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="10" type="IS Gauss Ammo" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Quickdraw" model="QKD-4H" type="Biped">
+      <pilot name="Adept Epsilon-II Vincent Tan" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="5" type="IS Ammo SRM-4" shots="25"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="5" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Wolverine" model="WVR-7K" type="Biped">
+      <pilot name="Adept Epsilon-I Mark West" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+</unit>

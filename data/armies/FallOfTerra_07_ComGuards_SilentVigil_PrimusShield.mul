@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Nexus" model="NXS1-A" type="Biped">
+      <pilot name="Adept Epsilon-V Laura Michaels" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="7" type="ISAMS Ammo" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Vulcan" model="VT-5M" type="Biped">
+      <pilot name="Adept Epsilon-III Constantine Bramman" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+   </entity>
+
+   <entity chassis="Whitworth" model="WTH-2" type="Biped">
+      <pilot name="Adept Epsilon-IV Ian Moore" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="4" type="Empty"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="4" type="Empty"/>
+      </location>
+   </entity>
+
+   <entity chassis="UrbanMech" model="UM-R63" type="Biped">
+      <pilot name="Adept Epsilon-II Nick Sharp" gunnery="3" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS LB 10-X Cluster Ammo" shots="10"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="4" type="Empty"/>
+      </location>
+   </entity>
+
+   <entity chassis="Jump Platoon" model="(Laser)" type="Jump">
+      <pilot name="ComGuards" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Jump Platoon" model="(Rifle)" type="Jump">
+      <pilot name="ComGuards" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Manticore Heavy Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="2" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Striker Light Tank" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Fury" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Gauss Ammo" shots="8"/>
+         <slot index="2" type="IS Gauss Ammo" shots="8"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Rhino" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="2" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-20" shots="6" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(Rifle)" type="Motorized">
+      <pilot name="Unnamed" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(SRM)" type="Motorized">
+      <pilot name="Unnamed" gunnery="4" piloting="6" initB="0" commandB="0"/>
+   </entity>
+
+</unit>

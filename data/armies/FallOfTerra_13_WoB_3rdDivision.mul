@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Rifleman" model="RFL-5M" type="Biped">
+      <pilot name="Adept Epsilon-III Samuel Lambert" gunnery="3" piloting="6" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="8" type="IS Ultra AC/5 Ammo" shots="20"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hunchback" model="HBK-4G" type="Biped">
+      <pilot name="Adept Epsilon-II Pierre Marchant" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo AC/20" shots="5"/>
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+      </location>
+   </entity>
+
+   <entity chassis="Centurion" model="CN9-D" type="Biped">
+      <pilot name="Acolyte Epsilon-I Chun Ip" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="5" type="IS LB 10-X AC Ammo" shots="10"/>
+         <slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+         <slot index="7" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Maxim Heavy Hover Transport" model="" type="Hover">
+      <pilot name="Crew" gunnery="3" piloting="4" initB="0" commandB="0"/>
+      <movement speed="8"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="2" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="3" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="4" type="IS Ammo LRM-5" shots="24"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-5" shots="24" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Foot Platoon" model="(Rifle)" type="Leg">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+   </entity>
+
+   <entity chassis="Marauder" model="MAD-5D" type="Biped">
+      <pilot name="Adept Epsilon-V Effen Asprilla" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-4M" type="Biped">
+      <pilot name="Adept Epsilon-IV Gillian Nottan" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crusader" model="CRD-5M" type="Biped">
+      <pilot name="Adept Epsilon-II Dana OReilly" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="10" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="11" type="ISAMS Ammo" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="11" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+
+   <entity chassis="Charger" model="CGR-3K" type="Biped">
+      <pilot name="Adept Epsilon-II Stuart Culyer" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="5" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Victor" model="VTR-9K" type="Biped">
+      <pilot name="Adept Epsilon-I Ian Morgan" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Gauss Ammo" shots="8"/>
+         <slot index="2" type="IS Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="2" type="IS Ammo SRM-4" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Regulator Hovertank" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="9"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Gauss Ammo" shots="8"/>
+         <slot index="2" type="IS Gauss Ammo" shots="8"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

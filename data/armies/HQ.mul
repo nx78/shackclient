@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Mobile Headquarters" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="3" piloting="4" advantages="tactical_genius"/>
+      <movement speed="6"/>
+   </entity>
+
+   <entity chassis="Foot Squad" model="(Laser)" type="Leg">
+      <pilot name="Unnamed" gunnery="3" piloting="5"/>
+   </entity>
+
+</unit>

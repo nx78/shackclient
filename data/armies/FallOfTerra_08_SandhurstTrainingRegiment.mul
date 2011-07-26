@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+   <entity chassis="Chameleon" model="CLN-7V" type="Biped">
+      <pilot name="Adept Epsilon-IV Gareth Pidgeon" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+   <entity chassis="Chameleon" model="CLN-7V" type="Biped">
+      <pilot name="Acolyte Epsilon-I Andy Ryan" gunnery="5" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+   <entity chassis="Locust" model="LCT-3M" type="Biped">
+      <pilot name="Acolyte Epsilon-I Elaine Cunningham" gunnery="4" piloting="6" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="1" type="ISAMS Ammo" shots="12"/>
+      </location>
+   </entity>
+   <entity chassis="Locust" model="LCT-3M" type="Biped">
+      <pilot name="Acolyte Epsilon-I Rebecca Wynberg" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="1" type="ISAMS Ammo" shots="12"/>
+      </location>
+   </entity>
+   <entity chassis="Catapult" model="CPLT-C1" type="Biped">
+      <pilot name="Acolyte Epsilon-I Kia Middlebeck" gunnery="5" piloting="6" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+   <entity chassis="Archer" model="ARC-5S" type="Biped">
+      <pilot name="Acolyte Epsilon-I Katsumi Mikimoto" gunnery="5" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+         <slot index="8" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+         <slot index="9" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+         <slot index="10" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+         <slot index="10" type="IS Streak SRM 2 Ammo" shots="50"/>
+         <slot index="11" type="ISNarc Pods" shots="6"/>
+      </location>
+   </entity>
+   <entity chassis="Hunchback" model="HBK-5M" type="Biped">
+      <pilot name="Adept Epsilon-III Fraçois Lehronique" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ammo AC/20" shots="5"/>
+      </location>
+   </entity>
+   <entity chassis="Blackjack" model="BJ-2" type="Biped">
+      <pilot name="Acolyte Epsilon-I Carlo Glenesk" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+   <entity chassis="Crusader" model="CRD-5M" type="Biped">
+      <pilot name="Acolyte Epsilon-I Edward Pask" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+         <slot index="10" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+         <slot index="11" type="ISAMS Ammo" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="11" type="IS Machine Gun Ammo - Half" shots="100"/>
+      </location>
+   </entity>
+   <entity chassis="Marauder" model="MAD-5D" type="Biped">
+      <pilot name="Acolyte Epsilon-I Hassan Okrand" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+   <entity chassis="Cyclops" model="CP-11-A" type="Biped">
+      <pilot name="Acolyte Epsilon-I Julie Birchall" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Ammo SRM-4 Narc-capable" shots="25"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="8" type="IS Gauss Ammo" shots="8"/>
+         <slot index="9" type="IS Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="4" type="IS Ammo LRM-10 Narc-capable" shots="12"/>
+      </location>
+   </entity>
+   <entity chassis="Warhammer" model="WHM-7S" type="Biped">
+      <pilot name="Acolyte Epsilon-III Kate Willis" gunnery="3" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+</unit>
