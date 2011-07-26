@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+
+<unit>
+
+   <entity chassis="Vedette Medium Tank" model="(3055)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ultra AC/5 Ammo" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Vedette Medium Tank" model="(3055)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ultra AC/5 Ammo" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Galleon Light Tank" model="(3050)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="7"/>
+   </entity>
+
+   <entity chassis="Galleon Light Tank" model="(3050)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="7"/>
+   </entity>
+
+   <entity chassis="Ontos Heavy Tank" model="(3053)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ontos Heavy Tank" model="(3053)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Patton Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-5" shots="24" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Patton Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-5" shots="24" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Manticore Heavy Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Manticore Heavy Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Bulldog Medium Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+      <location index="1"> Front
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Bulldog Medium Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+      <location index="1"> Front
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

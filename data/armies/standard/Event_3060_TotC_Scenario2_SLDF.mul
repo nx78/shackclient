@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Kage" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Sho-sa Michael Ryan" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Kage" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Kashira Raiko" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Kage" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Tai-i Ju Akida" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Kage" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Kashira Wu Takeda" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Kage" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Tai-i Keji Tetsunaba" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Kage" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Kashira Omi Blaine" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+</unit>

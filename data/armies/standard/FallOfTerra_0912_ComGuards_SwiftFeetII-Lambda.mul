@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="J. Edgar Light Hover Tank" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="11"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="J. Edgar Light Hover Tank" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="11"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Saladin Assault Hover Tank" model="" type="Hover">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="8"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/20" shots="5"/>
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+         <slot index="3" type="IS Ammo AC/20" shots="5"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hetzer Wheeled Assault Gun" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/20" shots="5"/>
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+         <slot index="3" type="IS Ammo AC/20" shots="5"/>
+         <slot index="4" type="IS Ammo AC/20" shots="5"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Partisan Air Defense Tank" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="2" type="IS LB 10-X AC Ammo" shots="10"/>
+         <slot index="3" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="4" type="IS Ammo AC/2" shots="45"/>
+         <slot index="N/A" type="IS LB 10-X Cluster Ammo" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS LB 10-X AC Ammo" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS LB 10-X Cluster Ammo" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sprint Scout Helicopter" model="" type="VTOL">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="13"/>
+   </entity>
+
+</unit>

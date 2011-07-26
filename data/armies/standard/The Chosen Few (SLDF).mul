@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Mongoose" model="MON-66b" type="Biped" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="1" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Hussar" model="HSR-200-Db" type="Biped" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="1" piloting="2" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Phoenix Hawk" model="PXH-1b" type="Biped" commander="true">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="2" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="8" type="IS Ammo MG - Full" shots="200"/>
+      </location>
+   </entity>
+
+   <entity chassis="Kintaro" model="KTO-19b" type="Biped" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="3" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="ISNarc Pods" shots="6"/>
+         <slot index="8" type="ISNarc Pods" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="5" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="7" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="8" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Lightning" model="" type="Hover" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="3" ejected="false"/>
+      <movement speed="11"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="2"> Right
+         <slot index="1" type="ISSRM4OS" munition="IS Ammo SRM-4" isDestroyed="false"/>
+      </location>
+      <location index="3"> Left
+         <slot index="1" type="ISSRM4OS" munition="IS Ammo SRM-4" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ripper" model="" type="VTOL" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="3" ejected="false"/>
+      <movement speed="12"/>
+   </entity>
+
+   <entity chassis="Zephyr" model="" type="Hover" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="3" ejected="false"/>
+      <movement speed="9"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Zephyr" model="" type="Hover" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="3" ejected="false"/>
+      <movement speed="9"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Citizens" model="0" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+</unit>

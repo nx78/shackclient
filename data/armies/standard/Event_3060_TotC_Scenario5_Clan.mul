@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Stormcrow" model="B" type="Biped" commander="false">
+      <pilot name="Star Colonel Cara" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="3" type="Clan Ultra AC/20 Ammo" shots="5"/>
+         <slot index="4" type="Clan Ultra AC/20 Ammo" shots="5"/>
+      </location>
+   </entity>
+
+   <entity chassis="Conjurer" model="CNR" type="Biped" commander="false">
+      <pilot name="MechWarrior Jif" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="5" type="Clan Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Rifleman IIC" model="RFL-IIC" type="Biped" commander="false">
+      <pilot name="MechWarrior Jon" nick="" gunnery="4" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Rifleman IIC" model="RFL-IIC" type="Biped" commander="false">
+      <pilot name="MechWarrior Rill" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Horned Owl" model="HDOL" type="Biped" commander="false">
+      <pilot name="MechWarrior Belna" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Harpy" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Machine Gun Ammo - Proto" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Harpy" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Machine Gun Ammo - Proto" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hydra" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Main Gun
+         <slot index="N/A" type="Clan Streak SRM 3 Ammo" shots="10" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Gorgon" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Main Gun
+         <slot index="N/A" type="Clan Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Minotaur" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Siren" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Light Machine Gun Ammo - Proto" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Siren" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Light Machine Gun Ammo - Proto" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Siren" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Light Machine Gun Ammo - Proto" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Satyr" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Satyr" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Centaur" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Ammo SRM-2" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="Clan Ammo Protomech LRM-3" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Centaur" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Ammo SRM-2" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="Clan Ammo Protomech LRM-3" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Centaur" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Torso
+         <slot index="N/A" type="Clan Ammo SRM-2" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="Clan Ammo Protomech LRM-3" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Gorgon" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Main Gun
+         <slot index="N/A" type="Clan Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Roc" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Roc" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Roc" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Roc" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Roc" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Roc" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Hydra" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Main Gun
+         <slot index="N/A" type="Clan Streak SRM 3 Ammo" shots="10" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hydra" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Main Gun
+         <slot index="N/A" type="Clan Streak SRM 3 Ammo" shots="10" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hydra" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="5"> Main Gun
+         <slot index="N/A" type="Clan Streak SRM 3 Ammo" shots="10" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Minotaur" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+   <entity chassis="Minotaur" model="" type="Jump" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+</unit>

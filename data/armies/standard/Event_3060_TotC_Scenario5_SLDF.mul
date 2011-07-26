@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Highlander" model="HGN-732" type="Biped" commander="false">
+      <pilot name="Captain Neil Campbell" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS Gauss Ammo" shots="8"/>
+         <slot index="5" type="IS Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="7" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="8" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="9" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="10" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Black Knight" model="BL-6-KNT" type="Biped" commander="false">
+      <pilot name="Sergeant Geoff Dundee" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Crab" model="CRB-27" type="Biped" commander="false">
+      <pilot name="Sergeant James Caldwell" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Crab" model="CRB-27" type="Biped" commander="false">
+      <pilot name="Private Annette McHenry" nick="" gunnery="4" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Wyvern" model="WVE-5N" type="Biped" commander="false">
+      <pilot name="Master Sergeant Julien Franks" nick="" gunnery="3" piloting="2" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Thug" model="THG-11E" type="Biped" commander="false">
+      <pilot name="Private Kensie Gray" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Black Knight" model="BL-6-KNT" type="Biped" commander="false">
+      <pilot name="Sergeant William Jameson" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Archer" model="ARC-4M" type="Biped" commander="false">
+      <pilot name="Sergeant Dawin Adtikson" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Centurion" model="CN9-D" type="Biped" commander="false">
+      <pilot name="Master Sergeant Tim McCaniheigh" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="5" type="IS LB 10-X AC Ammo" shots="10"/>
+         <slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+         <slot index="7" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Crab" model="CRB-27" type="Biped" commander="false">
+      <pilot name="Sergeant Juels Martin" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Hermes" model="HER-1S" type="Biped" commander="false">
+      <pilot name="Private Davniel Cobbs" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Mongoose" model="MON-66" type="Biped" commander="false">
+      <pilot name="Sergeant Brian Hayes" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+</unit>

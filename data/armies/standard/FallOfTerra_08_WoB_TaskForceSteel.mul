@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+   <entity chassis="Champion" model="CHP-1N" type="Biped">
+      <pilot name="Adept Epsilon-V Aenaeus Parvus" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="8" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+      </location>
+   </entity>
+   <entity chassis="Toyama" model="TYM-1A" type="Biped">
+      <pilot name="Adept Epsilon-IV Neil Garfield Barret" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="9" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="10" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+   </entity>
+   <entity chassis="Grand Crusader" model="GRN-D-01" type="Biped">
+      <pilot name="Adept Epsilon-III Zabu Weah" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="ISAMS Ammo" shots="12"/>
+         <slot index="12" type="ISAMS Ammo" shots="12"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="10" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="11" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="10" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="11" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+   <entity chassis="Albatross" model="ALB-3U" type="Biped">
+      <pilot name="Adept Epsilon-II Roberto Maldini" gunnery="5" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="10" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="7" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+   </entity>
+   <entity chassis="Victor" model="VTR-9K" type="Biped">
+      <pilot name="Adept Epsilon-II Sean Lamb" gunnery="5" piloting="4" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="1" type="IS Gauss Ammo" shots="8"/>
+         <slot index="2" type="IS Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="2" type="IS Ammo SRM-4" shots="25"/>
+      </location>
+   </entity>
+   <entity chassis="Marauder" model="MAD-5D" type="Biped">
+      <pilot name="Adept Epsilon-II Nigel Piggot" gunnery="3" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+</unit>

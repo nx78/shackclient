@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Kintaro" model="KTO-19" type="Biped">
+      <pilot name="Adept Epsilon-V Clodagh Roche-Kelly" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+         <slot index="4" type="ISNarc Pods" shots="6"/>
+         <slot index="5" type="ISNarc Pods" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo LRM-5 Narc-capable" shots="24"/>
+         <slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Blackjack" model="BJ-2" type="Biped">
+      <pilot name="Adept Epsilon-III Tony Reeves" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Griffin" model="GRF-3M" type="Biped">
+      <pilot name="Adept Epsilon-III Max Aitchison" gunnery="4" piloting="3" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="10" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Scorpion" model="SCP-10" type="Quad">
+      <pilot name="Adept Epsilon-II Charles Smith" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="1" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Trebuchet" model="TBT-7M" type="Biped">
+      <pilot name="Adept Epsilon-I David Marsland" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="7" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS Ammo LRM-15 Narc-capable" shots="8"/>
+         <slot index="7" type="ISNarc Pods" shots="6"/>
+         <slot index="8" type="ISNarc Pods" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Shadow Hawk" model="SHD-5M" type="Biped">
+      <pilot name="Adept Epsilon-II Modupe Olorwe-Okere" gunnery="5" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Ultra AC/5 Ammo" shots="20"/>
+      </location>
+   </entity>
+
+</unit>

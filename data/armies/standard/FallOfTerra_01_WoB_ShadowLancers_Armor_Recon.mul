@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<unit>
+
+   <entity chassis="Vedette Medium Tank" model="(3055)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ultra AC/5 Ammo" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Vedette Medium Tank" model="(3055)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="N/A" type="IS Ultra AC/5 Ammo" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Galleon Light Tank" model="(3050)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="7"/>
+   </entity>
+
+   <entity chassis="Galleon Light Tank" model="(3050)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5"/>
+      <movement speed="7"/>
+   </entity>
+
+</unit>

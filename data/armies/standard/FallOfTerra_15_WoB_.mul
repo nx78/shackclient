@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Fury" model="(Obs)" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="7"/>
+      <heat sinks="78"/>
+      <fuel left="5600"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Side
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="5" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="3" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="4" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="5" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="5" type="IS Ammo AC/10" shots="10"/>
+         <slot index="6" type="IS Ammo AC/10" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Union" model="(Obs)" type="Spheroid">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="11"/>
+      <heat sinks="90"/>
+      <fuel left="6450"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="6" type="IS Ammo AC/5" shots="20"/>
+         <slot index="10" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="13" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="6" type="IS Ammo AC/5" shots="20"/>
+         <slot index="7" type="IS Ammo AC/5" shots="20"/>
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="13" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="14" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="6" type="IS Ammo AC/5" shots="20"/>
+         <slot index="7" type="IS Ammo AC/5" shots="20"/>
+         <slot index="11" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="12" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="13" type="IS Ammo LRM-20" shots="6"/>
+         <slot index="14" type="IS Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Transgressor" model="TR-13" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="7"/>
+      <heat sinks="25"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Transgressor" model="TR-13" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="7"/>
+      <heat sinks="25"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Intruder" model="(Upgrade)" type="Spheroid">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="22"/>
+      <heat sinks="100"/>
+      <fuel left="9000"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="6" type="IS Ammo LRM-20" shots="12"/>
+         <slot index="9" type="IS Ultra AC/5 Ammo" shots="60"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="12"/>
+         <slot index="16" type="IS Gauss Ammo" shots="16"/>
+         <slot index="22" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+         <slot index="23" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+         <slot index="24" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="12"/>
+         <slot index="16" type="IS Gauss Ammo" shots="16"/>
+         <slot index="22" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+         <slot index="23" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+         <slot index="24" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="4" type="IS Ammo LRM-20 Artemis-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sabre" model="SB-27" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="11"/>
+      <heat sinks="10"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Sabre" model="SB-27" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="11"/>
+      <heat sinks="10"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Hamilcar" model="" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="9"/>
+      <heat sinks="58"/>
+      <fuel left="2910"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="IS Gauss Ammo" shots="8"/>
+         <slot index="4" type="IS Gauss Ammo" shots="8"/>
+         <slot index="5" type="IS Gauss Ammo" shots="8"/>
+         <slot index="6" type="IS Gauss Ammo" shots="8"/>
+         <slot index="7" type="IS Gauss Ammo" shots="8"/>
+         <slot index="13" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="14" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="18" type="IS Ammo SRM-4" shots="25"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="14" type="IS Ammo LRM-15 Artemis-capable" shots="16"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="14" type="IS Ammo LRM-15 Artemis-capable" shots="16"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="5" type="IS Ammo LRM-15" shots="16"/>
+         <slot index="10" type="IS Ammo SRM-4 Artemis-capable" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Riever" model="F-700A" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="10"/>
+      <heat sinks="20"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="4" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="5" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="6" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="9" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="4" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="4" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Riever" model="F-700A" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="10"/>
+      <heat sinks="20"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="4" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="5" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="6" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="9" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="4" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="4" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Transgressor" model="TR-14" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="7"/>
+      <heat sinks="25"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+         <slot index="3" type="IS Ammo AC/20" shots="5"/>
+      </location>
+   </entity>
+
+   <entity chassis="Transgressor" model="TR-14" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="7"/>
+      <heat sinks="25"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+         <slot index="3" type="IS Ammo AC/20" shots="5"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hannibal" model="" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="12"/>
+      <heat sinks="79"/>
+      <fuel left="2850"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="IS Ammo AC/10" shots="10"/>
+         <slot index="6" type="IS Ammo AC/5" shots="40"/>
+         <slot index="15" type="IS Ammo LRM-20 Artemis-capable" shots="12"/>
+         <slot index="22" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+         <slot index="25" type="ISNarc Pods" shots="12"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="3" type="IS Gauss Ammo" shots="16"/>
+         <slot index="10" type="IS Ammo LRM-20 Artemis-capable" shots="12"/>
+         <slot index="16" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+         <slot index="22" type="IS Ammo SRM-4 Artemis-capable" shots="25"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="3" type="IS Gauss Ammo" shots="16"/>
+         <slot index="10" type="IS Ammo LRM-20 Artemis-capable" shots="12"/>
+         <slot index="16" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+         <slot index="22" type="IS Ammo SRM-4 Artemis-capable" shots="25"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="3" type="IS Ammo AC/10" shots="10"/>
+         <slot index="14" type="IS Ammo SRM-4 Artemis-capable" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Leopard CV" model="(Upgrade)" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="7"/>
+      <heat sinks="70"/>
+      <fuel left="4000"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="4" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="5" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="4" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+         <slot index="5" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Stingray" model="F-92" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="6"/>
+      <heat sinks="20"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Stingray" model="F-92" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="6"/>
+      <heat sinks="20"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Stingray" model="F-92" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="6"/>
+      <heat sinks="20"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Stingray" model="F-92" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="6"/>
+      <heat sinks="20"/>
+      <fuel left="400"/>
+   </entity>
+
+   <entity chassis="Gotha" model="GTHA-500" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="6"/>
+      <heat sinks="14"/>
+      <fuel left="480"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="4" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Gotha" model="GTHA-500" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="6"/>
+      <heat sinks="14"/>
+      <fuel left="480"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="4" type="IS Ammo LRM-15" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Avenger" model="(Obs)" type="Aerodyne">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <structural integrity="12"/>
+      <heat sinks="70"/>
+      <fuel left="8000"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="IS Ammo AC/20" shots="15"/>
+         <slot index="6" type="IS Ammo AC/5" shots="40"/>
+         <slot index="8" type="IS Ammo AC/2" shots="45"/>
+         <slot index="11" type="IS Ammo LRM-20" shots="24"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="6" type="IS Ammo AC/5" shots="40"/>
+         <slot index="9" type="IS Ammo LRM-20" shots="18"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="6" type="IS Ammo AC/5" shots="40"/>
+         <slot index="9" type="IS Ammo LRM-20" shots="18"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="3" type="IS Ammo LRM-20" shots="18"/>
+      </location>
+   </entity>
+
+</unit>

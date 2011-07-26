@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="J-27 Ordance Transport" model="(+ Trailer)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="5"> Turret
+         <slot index="2" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="J-27 Ordance Transport" model="(+ Trailer)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="5"> Turret
+         <slot index="2" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="M.A.S.H. Truck" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="5"/>
+   </entity>
+
+   <entity chassis="Coolant Truck" model="(135-K)" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="2" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="3" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Flatbed Truck" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="5"/>
+   </entity>
+
+   <entity chassis="Flatbed Truck" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="5"/>
+   </entity>
+
+</unit>

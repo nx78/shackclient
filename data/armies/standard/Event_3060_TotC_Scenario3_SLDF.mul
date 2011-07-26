@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Maelstrom" model="MTR-5K" type="Biped" commander="false">
+      <pilot name="Major Josephine Maresso" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Cestus" model="CTS-6Y" type="Biped" commander="false">
+      <pilot name="Captain Chas Hook" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="11" type="IS Gauss Ammo" shots="8"/>
+      </location>
+      <location index="2"> Right Torso
+         <slot index="11" type="IS Gauss Ammo" shots="8"/>
+         <slot index="12" type="IS Gauss Ammo" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Penetrator" model="PTR-4D" type="Biped" commander="false">
+      <pilot name="Lieutenant Ronald Boice" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="ISAMS Ammo" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Caesar" model="CES-3R" type="Biped" commander="false">
+      <pilot name="Lieutenant Edwin Dahm" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Gauss Ammo" shots="8"/>
+         <slot index="12" type="IS Gauss Ammo" shots="8"/>
+      </location>
+   </entity>
+
+   <entity chassis="Thunderbolt" model="TDR-9SE" type="Biped" commander="false">
+      <pilot name="Captain Gladys Muller" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Nightsky" model="NGS-4S" type="Biped" commander="false">
+      <pilot name="Lieutenant Russell Andrey" nick="" gunnery="4" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Centurion" model="CN9-D" type="Biped" commander="false">
+      <pilot name="Paul Fiset" nick="" gunnery="3" piloting="5" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="5" type="IS LB 10-X AC Ammo" shots="10"/>
+         <slot index="6" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+         <slot index="7" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Dervish" model="DV-7D" type="Biped" commander="false">
+      <pilot name="Mike Kaplan" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="4" type="IS Streak SRM 2 Ammo" shots="50"/>
+         <slot index="5" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo LRM-10" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Battle Hawk" model="BH-K305" type="Biped" commander="false">
+      <pilot name="Lieutenant Michael Gau" nick="" gunnery="4" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Center Torso
+         <slot index="12" type="ISAMS Ammo" shots="12"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="9" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Blackjack" model="BJ-2" type="Biped" commander="false">
+      <pilot name="Paul Cukie" nick="" gunnery="4" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Enforcer" model="ENF-5D" type="Biped" commander="false">
+      <pilot name="Donald Dyehouse" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="7" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Wolfhound" model="WLF-2" type="Biped" commander="false">
+      <pilot name="Helen Balles" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="Anti-Mech Motorized Platoon (Laser)" type="Motorized" commander="false">
+      <pilot name="14th Recon Motorized" nick="" gunnery="4" piloting="6" initB="0" commandB="0" ejected="false"/>
+   </entity>
+
+</unit>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Alacorn Heavy Tank" model="Mk VI" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Gauss Ammo" shots="8"/>
+         <slot index="2" type="IS Gauss Ammo" shots="8"/>
+         <slot index="3" type="IS Gauss Ammo" shots="8"/>
+         <slot index="4" type="IS Gauss Ammo" shots="8"/>
+         <slot index="5" type="IS Gauss Ammo" shots="8"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ontos Heavy Tank" model="(3053)" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="2" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="3" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="4" type="IS Ammo SRM-4" shots="25"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Pike Support Vehicle" model="" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="2" type="IS Ammo AC/2" shots="45"/>
+         <slot index="3" type="IS Ammo AC/2" shots="45"/>
+         <slot index="4" type="IS Ammo AC/2" shots="45"/>
+         <slot index="5" type="IS Ammo AC/2" shots="45"/>
+         <slot index="6" type="IS Ammo AC/2" shots="45"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Von Luckner Heavy Tank" model="VNL-K65N" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/20" shots="5"/>
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+         <slot index="3" type="IS Ammo AC/20" shots="5"/>
+         <slot index="4" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="5" type="IS Ammo SRM-4" shots="25"/>
+         <slot index="6" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="7" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Von Luckner Heavy Tank" model="VNL-K65N" type="Tracked">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/20" shots="5"/>
+         <slot index="2" type="IS Ammo AC/20" shots="5"/>
+         <slot index="3" type="IS Ammo AC/20" shots="5"/>
+         <slot index="4" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="5" type="IS Ammo SRM-4" shots="25"/>
+         <slot index="6" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="7" type="IS Ammo LRM-10" shots="12"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/20" shots="5" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-10" shots="12" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Demon" model="" type="Wheeled">
+      <pilot name="Unnamed" gunnery="4" piloting="5" initB="0" commandB="0"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="3" type="IS Gauss Ammo" shots="8"/>
+         <slot index="4" type="IS Gauss Ammo" shots="8"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Gauss Ammo" shots="8" isDestroyed="false"/>
+      </location>
+   </entity>
+
+</unit>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Phoenix" model="PX-3R" type="Biped" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="2" piloting="2" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="4" type="IS Ammo SRM-2 Inferno" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Phoenix" model="PX-3R" type="Biped" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="2" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="3" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="4" type="IS Ammo SRM-2 Inferno" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Warhammer" model="WHM-6L" type="Biped" commander="true">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="3" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="6" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Firestarter" model="FS9-R" type="Biped" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="3" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Ignis" model="0" type="Tracked" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="2" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="3" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="4" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="5" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ignis" model="0" type="Tracked" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="2" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="3" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="4" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="5" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ignis" model="0" type="Tracked" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="2" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="3" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="4" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="5" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Ignis" model="0" type="Tracked" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="2" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="3" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="4" type="IS Vehicle Flamer Ammo" shots="20"/>
+         <slot index="5" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Vehicle Flamer Ammo" shots="20" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(Flamer)" type="Motorized" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="6" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(Flamer)" type="Motorized" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="6" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(Flamer)" type="Motorized" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="6" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(Flamer)" type="Motorized" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="6" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Heavy Tracked APC" model="" type="Tracked" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="4" ejected="false"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Heavy Tracked APC" model="" type="Tracked" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="4" ejected="false"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Heavy Platoon" model="(Inferno)" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Heavy Platoon" model="(Inferno)" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Heavy Platoon" model="(Flamer)" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Heavy Platoon" model="(Flamer)" type="Leg" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="3" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+</unit>

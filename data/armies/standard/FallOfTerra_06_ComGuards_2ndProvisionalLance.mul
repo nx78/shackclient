@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Stalker" model="STK-5M" type="Biped">
+      <pilot name="Adept Epsilon-IV Lewis Smith" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="12" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="10" type="IS Ammo LRM-10 Narc-capable" shots="12"/>
+         <slot index="11" type="IS Ammo LRM-10 Narc-capable" shots="12"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="10" type="IS Ammo LRM-10 Narc-capable" shots="12"/>
+         <slot index="11" type="IS Ammo LRM-10 Narc-capable" shots="12"/>
+      </location>
+      <location index="7"> Left Leg
+         <slot index="5" type="ISNarc Pods" shots="6"/>
+         <slot index="6" type="ISNarc Pods" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Hunchback" model="HBK-5M" type="Biped">
+      <pilot name="Adept Epsilon-III Gary Connon" gunnery="4" piloting="4" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ammo AC/20" shots="5"/>
+      </location>
+   </entity>
+
+   <entity chassis="Champion" model="CHP-3N" type="Biped">
+      <pilot name="Adept Epsilon-III Charlotte Aird" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="10" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="11" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="9" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Flea" model="FLE-17" type="Biped">
+      <pilot name="Adept Epsilon-II Lizabet Backman" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="4"> Right Arm
+         <slot index="4" type="Empty"/>
+      </location>
+      <location index="5"> Left Arm
+         <slot index="4" type="Empty"/>
+      </location>
+   </entity>
+
+   <entity chassis="Javelin" model="JVN-10P" type="Biped">
+      <pilot name="Adept Epsilon-I Rick Cowling" gunnery="5" piloting="5" initB="0" commandB="0" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Jenner" model="JR7-K" type="Biped">
+      <pilot name="Adept Epsilon-III Abi Ekoku" gunnery="4" piloting="5" initB="0" commandB="0" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="3" type="IS Ammo SRM-4" shots="25"/>
+      </location>
+   </entity>
+
+</unit>

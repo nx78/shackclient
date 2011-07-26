@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Perseus" model="P1B" type="Biped" commander="false">
+      <pilot name="Captain Dame Annalise Proctor" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="4" type="IS Gauss Ammo" shots="8"/>
+      </location>
+      <location index="7"> Left Leg
+         <slot index="5" type="ISAMS Ammo" shots="12"/>
+         <slot index="6" type="ISAMS Ammo" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Albatross" model="ALB-3U" type="Biped" commander="false">
+      <pilot name="Lieutenant Sir Charles Murray" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="10" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="7" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Wolverine" model="WVR-7M" type="Biped" commander="false">
+      <pilot name="Sir Harry Bertram" nick="" gunnery="2" piloting="4" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Mongoose" model="MON-66" type="Biped" commander="false">
+      <pilot name="Dame Lydia Chachor" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Awesome" model="AWS-9M" type="Biped" commander="false">
+      <pilot name="Lieutenant Sir Carl Ostenson" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="7"> Left Leg
+         <slot index="5" type="IS Streak SRM 2 Ammo" shots="50"/>
+      </location>
+   </entity>
+
+   <entity chassis="Albatross" model="ALB-3U" type="Biped" commander="false">
+      <pilot name="Sir John Lorek" nick="" gunnery="2" piloting="4" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="10" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="11" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="6" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="7" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Firestarter" model="FS9-OB" type="Biped" commander="false">
+      <pilot name="Dame Marcie Kane" nick="" gunnery="2" piloting="2" initB="0" commandB="0" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Hermes II" model="HER-5S" type="Biped" commander="false">
+      <pilot name="Sir Ralph Murdock" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ultra AC/5 Ammo" shots="20"/>
+      </location>
+   </entity>
+
+   <entity chassis="Marauder" model="MAD-5M" type="Biped" commander="false">
+      <pilot name="Lieutenant Dame Donna Carr" nick="" gunnery="2" piloting="3" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="3"> Left Torso
+         <slot index="10" type="IS LB 10-X Cluster Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Guillotine" model="GLT-5M" type="Biped" commander="false">
+      <pilot name="Sir Robert Holmes" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="9" type="IS Ammo SRM-6" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Blackjack" model="BJ2-OC" type="Biped" commander="false">
+      <pilot name="Sir Austin Boyle" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="5" type="IS LB 10-X Cluster Ammo" shots="10"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="5" type="IS LB 10-X AC Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Thorn" model="THE-N" type="Biped" commander="false">
+      <pilot name="Sir Jarvis Muto" nick="" gunnery="3" piloting="3" initB="0" commandB="0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="2" type="IS Ammo LRM-5" shots="24"/>
+      </location>
+      <location index="4"> Right Arm
+         <slot index="4" type="Empty"/>
+      </location>
+   </entity>
+
+</unit>

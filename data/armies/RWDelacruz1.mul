@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Mammoth Mk I" model="M1-AA" type="Tracked" commander="true" deployment="0" externalId="429309" quirks="anti_air::poor_target_short">
+      <pilot name="Eva Sundermann" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/2" shots="29"/>
+         <slot index="2" type="IS Ammo AC/2" shots="45"/>
+         <slot index="3" type="IS Ammo AC/2" shots="45"/>
+         <slot index="4" type="IS Ammo LRM-15" shots="7"/>
+         <slot index="5" type="IS Ammo LRM-15" shots="8"/>
+         <slot index="6" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="29" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="45" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="7" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-15" shots="8" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Rampage" model="RMP-5G" type="Biped" commander="false" deployment="0" externalId="456955">
+      <pilot name="Cpt. Nadal &quot;Shark&quot; Gallardo" nick="" gunnery="3" piloting="5" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+      <location index="2"> Right Torso
+         <slot index="10" type="IS LB 10-X Cluster Ammo" shots="10"/>
+         <slot index="11" type="IS LB 10-X AC Ammo" shots="7"/>
+         <slot index="12" type="ISAMS Ammo" shots="12"/>
+      </location>
+      <location index="3"> Left Torso
+         <slot index="4" type="IS Ammo LRM-10" shots="9"/>
+         <slot index="7" type="IS Streak SRM 2 Ammo" shots="46"/>
+      </location>
+   </entity>
+
+   <entity chassis="Alacorn Heavy Tank" model="Mk III" type="Tracked" commander="false" deployment="0" externalId="456718">
+      <pilot name="Caranda Alessi" nick="" gunnery="4" piloting="4" ejected="false"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/10" shots="1"/>
+         <slot index="2" type="IS Ammo AC/10" shots="10"/>
+         <slot index="3" type="IS Ammo AC/10" shots="10"/>
+         <slot index="4" type="IS Ammo AC/10" shots="10"/>
+         <slot index="5" type="IS Ammo AC/10" shots="10"/>
+         <slot index="6" type="IS Ammo AC/10" shots="10"/>
+         <slot index="7" type="IS Ammo AC/10" shots="10"/>
+         <slot index="8" type="IS Ammo AC/10" shots="10"/>
+         <slot index="9" type="IS Ammo AC/10" shots="10"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="1" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Lynx" model="LNX-9Q" type="Biped" commander="false" deployment="0" externalId="445380">
+      <pilot name="Kanti Harris" nick="" gunnery="4" piloting="4" ejected="false" autoeject="true"/>
+   </entity>
+
+   <entity chassis="Road Warrior" model="" type="Wheeled" commander="false" deployment="0" externalId="434886">
+      <pilot name="Rayyana bin Azzam" nick="" gunnery="4" piloting="4" ejected="false"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/10" shots="9"/>
+         <slot index="2" type="IS Ammo AC/10" shots="10"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="9" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Road Warrior" model="" type="Wheeled" commander="false" deployment="0" externalId="455343">
+      <pilot name="Major Hana Yuriko" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="2"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/10" shots="10"/>
+         <slot index="2" type="IS Ammo AC/10" shots="10"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo AC/10" shots="10" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Turhan" model="" type="Wheeled" commander="false" deployment="0" externalId="426465">
+      <pilot name="Suvi Jokela" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Thor" model="" type="Wheeled" commander="false" deployment="0" externalId="444697">
+      <pilot name="Kanti Harris" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="ISThumperAmmo" shots="16"/>
+         <slot index="2" type="ISThumperAmmo" shots="20"/>
+         <slot index="N/A" type="ISThumperAmmo" shots="16" isDestroyed="false"/>
+         <slot index="N/A" type="ISThumperAmmo" shots="20" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Beatie Hover Tank" model="" type="Hover" commander="false" deployment="0" externalId="453711" quirks="imp_target_short::poor_target_med::poor_target_long">
+      <pilot name="Frederica Alvarado" nick="" gunnery="5" piloting="5" ejected="false" advantages="maneuvering_ace"/>
+      <movement speed="10"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-6" shots="9"/>
+         <slot index="2" type="IS Ammo SRM-6" shots="15"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="9" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-6" shots="15" isDestroyed="false"/>
+      </location>
+      <location index="3"> Left
+         <armor points="14"/>
+      </location>
+      <location index="4"> Rear
+         <armor points="2"/>
+      </location>
+   </entity>
+
+   <entity chassis="Nightwolf" model="" type="Wheeled" commander="false" deployment="0" externalId="456457">
+      <pilot name="Mafileokaveka Lemana" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="5"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-4" shots="25"/>
+         <slot index="N/A" type="IS Ammo SRM-4" shots="25" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Harpoon" model="" type="Hover" commander="false" deployment="0" externalId="456832">
+      <pilot name="Sgt. Leocadia &quot;Ace&quot; Juarez" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="8"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo SRM-2" shots="45"/>
+         <slot index="2" type="IS Ammo SRM-2" shots="50"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="45" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo SRM-2" shots="50" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Light Tank" model="(LRM5)" type="Tracked" commander="false" deployment="0" externalId="420452">
+      <pilot name="Paola Riario" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="3"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo LRM-5" shots="24"/>
+         <slot index="2" type="IS Ammo LRM-5" shots="24"/>
+         <slot index="3" type="IS Machine Gun Ammo - Half" shots="100"/>
+         <slot index="N/A" type="IS Ammo LRM-5" shots="24" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo LRM-5" shots="24" isDestroyed="false"/>
+         <slot index="N/A" type="IS Machine Gun Ammo - Half" shots="100" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Willy" model="" type="Tracked" commander="false" deployment="0" externalId="455825">
+      <pilot name="Cp. Shizuka &quot;Houou&quot; Nakamura" nick="" gunnery="4" piloting="5" ejected="false"/>
+      <movement speed="4"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo AC/2" shots="42"/>
+         <slot index="N/A" type="IS Ammo AC/2" shots="42" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Light Hover Tank" model="(MG)" type="Hover" commander="false" deployment="0" externalId="417802">
+      <pilot name="Romel Gaston" nick="" gunnery="3" piloting="4" ejected="false"/>
+      <movement speed="8"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+      <location index="0"> Body
+         <slot index="1" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="2" type="IS Ammo MG - Full" shots="200"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+         <slot index="N/A" type="IS Ammo MG - Full" shots="200" isDestroyed="false"/>
+      </location>
+   </entity>
+
+   <entity chassis="Anti-Mech Jump Platoon" model="(Flamer)" type="Jump" commander="false" deployment="0" externalId="410438">
+      <pilot name="T‰hti Sunter" nick="" gunnery="2" piloting="3" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Foot Platoon" model="(Inferno)" type="Leg" commander="false" deployment="0" externalId="427261">
+      <pilot name="Sitaara Cheema" nick="" gunnery="3" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Foot Platoon" model="(Inferno)" type="Leg" commander="false" deployment="0" externalId="426044">
+      <pilot name="Ensign Tim &quot;TJ&quot; Block" nick="" gunnery="3" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Anti-Mech Motorized Platoon" model="(LRM)" type="Motorized" commander="false" deployment="0" externalId="429079">
+      <pilot name="Nichole Tuwile" nick="" gunnery="3" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+   <entity chassis="Motorized Platoon" model="(SRM)" type="Motorized" commander="false" deployment="0" externalId="421223">
+      <pilot name="Julietta Sousa" nick="" gunnery="2" piloting="5" ejected="false"/>
+      <location index="1"> Field Guns
+         <armor points="0" type="Internal"/>
+      </location>
+   </entity>
+
+</unit>

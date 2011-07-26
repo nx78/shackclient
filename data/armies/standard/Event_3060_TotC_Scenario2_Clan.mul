@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Clan Elemental" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Star Commander Joan" nick="" gunnery="3" piloting="4" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Point
+         <slot index="3" type="BA-SRM2 Ammo" shots="1"/>
+         <slot index="4" type="BA-SRM2 Ammo" shots="1"/>
+      </location>
+   </entity>
+
+   <entity chassis="Clan Elemental" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Point Commander Jatik" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Point
+         <slot index="3" type="BA-SRM2 Ammo" shots="1"/>
+         <slot index="4" type="BA-SRM2 Ammo" shots="1"/>
+      </location>
+   </entity>
+
+   <entity chassis="Clan Elemental" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Point Commander  Suth" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Point
+         <slot index="3" type="BA-SRM2 Ammo" shots="1"/>
+         <slot index="4" type="BA-SRM2 Ammo" shots="1"/>
+      </location>
+   </entity>
+
+   <entity chassis="Clan Elemental" model="(Laser)" type="Jump" commander="false">
+      <pilot name="Point Commander  Lynx" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Point
+         <slot index="3" type="BA-SRM2 Ammo" shots="1"/>
+         <slot index="4" type="BA-SRM2 Ammo" shots="1"/>
+      </location>
+   </entity>
+
+</unit>

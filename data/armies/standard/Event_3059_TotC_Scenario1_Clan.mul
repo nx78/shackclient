@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Congress" model="Clan" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="75"/>
+      <heat sinks="604"/>
+      <fuel left="5000"/>
+      <KF integrity="16"/>
+      <sail integrity="4"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="Ammo Killer Whale" shots="10"/>
+      </location>
+      <location index="1"> Left Front Side
+         <slot index="4" type="Ammo NAC/10" shots="74"/>
+      </location>
+      <location index="2"> Right Front Side
+         <slot index="4" type="Ammo NAC/10" shots="74"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="4" type="Ammo NAC/30" shots="50"/>
+      </location>
+      <location index="4"> Aft Left Side
+         <slot index="4" type="Ammo NAC/20" shots="76"/>
+         <slot index="6" type="Ammo NAC/30" shots="25"/>
+      </location>
+      <location index="5"> Aft Right Side
+         <slot index="4" type="Ammo NAC/20" shots="76"/>
+         <slot index="6" type="Ammo NAC/30" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Vandal" model="Prime" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="14"/>
+      <heat sinks="10"/>
+      <fuel left="320"/>
+   </entity>
+
+   <entity chassis="Vandal" model="Prime" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="14"/>
+      <heat sinks="10"/>
+      <fuel left="320"/>
+   </entity>
+
+   <entity chassis="Vandal" model="Prime" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="14"/>
+      <heat sinks="10"/>
+      <fuel left="320"/>
+   </entity>
+
+   <entity chassis="Vandal" model="Prime" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="14"/>
+      <heat sinks="10"/>
+      <fuel left="320"/>
+   </entity>
+
+   <entity chassis="Visigoth" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="16"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Visigoth" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="16"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Kirghiz" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="10"/>
+      <heat sinks="26"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Kirghiz" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="10"/>
+      <heat sinks="26"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Kirghiz" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="10"/>
+      <heat sinks="26"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Kirghiz" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="10"/>
+      <heat sinks="26"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Union-C" model="" type="Spheroid" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="12"/>
+      <heat sinks="126"/>
+      <fuel left="7500"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="13" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="14" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="15" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="16" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="17" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="10" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="11" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Union-C" model="" type="Spheroid" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="12"/>
+      <heat sinks="126"/>
+      <fuel left="7500"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="13" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="14" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="15" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="16" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="17" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="10" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="11" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Whirlwind" model="Clan" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="40"/>
+      <heat sinks="545"/>
+      <fuel left="12500"/>
+      <KF integrity="11"/>
+      <sail integrity="4"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="4" type="Ammo NAC/25" shots="200"/>
+         <slot index="8" type="Ammo NAC/25" shots="200"/>
+         <slot index="11" type="Ammo Light N-Gauss" shots="100"/>
+         <slot index="17" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="18" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="19" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="20" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="1"> Left Front Side
+         <slot index="3" type="Ammo Light N-Gauss" shots="100"/>
+      </location>
+      <location index="2"> Right Front Side
+         <slot index="3" type="Ammo Light N-Gauss" shots="100"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="4" type="Ammo NAC/35" shots="200"/>
+         <slot index="7" type="Ammo NAC/35" shots="100"/>
+         <slot index="13" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="14" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="15" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="16" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Scytha" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="9"/>
+      <heat sinks="24"/>
+      <fuel left="320"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo SRM-6" shots="15"/>
+         <slot index="6" type="CLNarc Pods" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Scytha" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="9"/>
+      <heat sinks="24"/>
+      <fuel left="320"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo SRM-6" shots="15"/>
+         <slot index="6" type="CLNarc Pods" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Jengiz" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="8"/>
+      <heat sinks="27"/>
+      <fuel left="320"/>
+   </entity>
+
+   <entity chassis="Jengiz" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="8"/>
+      <heat sinks="27"/>
+      <fuel left="320"/>
+   </entity>
+
+   <entity chassis="Jengiz" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="8"/>
+      <heat sinks="20"/>
+      <fuel left="320"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="4" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="6" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="Clan Streak SRM 4 Ammo" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Jengiz" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="8"/>
+      <heat sinks="20"/>
+      <fuel left="320"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="4" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="6" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="Clan Streak SRM 4 Ammo" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Jengiz" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="8"/>
+      <heat sinks="20"/>
+      <fuel left="320"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="4" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="6" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="Clan Streak SRM 4 Ammo" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Jengiz" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="8"/>
+      <heat sinks="20"/>
+      <fuel left="320"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="4" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="6" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+         <slot index="3" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="2" type="Clan Streak SRM 4 Ammo" shots="25"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sabutai" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="15"/>
+      <fuel left="240"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="CLNarc Pods" shots="6"/>
+         <slot index="4" type="CLNarc Pods" shots="6"/>
+         <slot index="6" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sabutai" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="15"/>
+      <fuel left="240"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="CLNarc Pods" shots="6"/>
+         <slot index="4" type="CLNarc Pods" shots="6"/>
+         <slot index="6" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="4" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Whirlwind" model="Clan" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="40"/>
+      <heat sinks="545"/>
+      <fuel left="12500"/>
+      <KF integrity="11"/>
+      <sail integrity="4"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="4" type="Ammo NAC/25" shots="200"/>
+         <slot index="8" type="Ammo NAC/25" shots="200"/>
+         <slot index="11" type="Ammo Light N-Gauss" shots="100"/>
+         <slot index="17" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="18" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="19" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="20" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="1"> Left Front Side
+         <slot index="3" type="Ammo Light N-Gauss" shots="100"/>
+      </location>
+      <location index="2"> Right Front Side
+         <slot index="3" type="Ammo Light N-Gauss" shots="100"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="4" type="Ammo NAC/35" shots="200"/>
+         <slot index="7" type="Ammo NAC/35" shots="100"/>
+         <slot index="13" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="14" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="15" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="16" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sulla" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="9"/>
+      <heat sinks="13"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ammo LRM-10 (Clan) Artemis-capable" shots="12"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ammo LRM-10 (Clan) Artemis-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sulla" model="A" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="9"/>
+      <heat sinks="13"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ammo LRM-10 (Clan) Artemis-capable" shots="12"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ammo LRM-10 (Clan) Artemis-capable" shots="12"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sulla" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="9"/>
+      <heat sinks="13"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Sulla" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="9"/>
+      <heat sinks="13"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Turk" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="12"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ultra AC/10 Ammo" shots="10"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ultra AC/10 Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Turk" model="B" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="12"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="1"> Left Wing
+         <slot index="2" type="Clan Ultra AC/10 Ammo" shots="10"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="2" type="Clan Ultra AC/10 Ammo" shots="10"/>
+      </location>
+   </entity>
+
+   <entity chassis="Turk" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="12"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Turk" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="12"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Turk" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="12"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Turk" model="C" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="7"/>
+      <heat sinks="12"/>
+      <fuel left="400"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="2" type="Clan Ammo LRM-20" shots="6"/>
+         <slot index="3" type="Clan Ammo LRM-20" shots="6"/>
+      </location>
+      <location index="1"> Left Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+      <location index="2"> Right Wing
+         <slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+   </entity>
+
+   <entity chassis="Invader" model="" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="1"/>
+      <heat sinks="116"/>
+      <fuel left="250"/>
+      <KF integrity="4"/>
+      <sail integrity="4"/>
+   </entity>
+
+   <entity chassis="Union-C" model="" type="Spheroid" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="12"/>
+      <heat sinks="126"/>
+      <fuel left="7500"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="13" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="14" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="15" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="16" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="17" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="10" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="11" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Union-C" model="" type="Spheroid" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="12"/>
+      <heat sinks="126"/>
+      <fuel left="7500"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="13" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="14" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="15" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="16" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="17" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="6" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="7" type="Clan Gauss Ammo" shots="8"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="3" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="4" type="Clan Gauss Ammo" shots="8"/>
+         <slot index="10" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="11" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="12" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+   </entity>
+
+   <entity chassis="Broadsword" model="" type="Aerodyne" commander="false">
+      <pilot name="Unnamed" nick="" gunnery="4" piloting="5" initB="0" commandB="0" ejected="false"/>
+      <structural integrity="9"/>
+      <heat sinks="79"/>
+      <fuel left="4000"/>
+      The first slot in a location is at index="1".
+      <location index="0"> Nose
+         <slot index="9" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="10" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="16" type="CLAMS Ammo" shots="24"/>
+         <slot index="17" type="CLAMS Ammo" shots="24"/>
+      </location>
+      <location index="1"> Left Side
+         <slot index="6" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="7" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="8" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="9" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="2"> Right Side
+         <slot index="6" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="7" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="8" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="9" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+         <slot index="10" type="Clan Ammo LRM-20 (Clan) Artemis-capable" shots="6"/>
+      </location>
+      <location index="3"> Aft
+         <slot index="6" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="7" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="8" type="Clan Streak SRM 6 Ammo" shots="15"/>
+         <slot index="9" type="Clan Streak SRM 6 Ammo" shots="15"/>
+      </location>
+   </entity>
+
+</unit>
