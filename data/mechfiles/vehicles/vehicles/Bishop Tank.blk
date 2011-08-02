@@ -4,25 +4,27 @@
 1
 </BlockVersion>
 
-<UnitType>
-Tank
-</UnitType>
 
-<blockversion>
-1
-</blockversion>
+<UnitType>
+SupportTank
+</UnitType>
+<barrating>
+5
+</barrating>
 
 <Name>
-Bishop
+Bishop Tank
 </Name>
-
 <Model>
-Tank
 </Model>
 
 <year>
-2750
+2380
 </year>
+
+<source>
+Age of War
+</source>
 
 <type>
 IS Level 1
@@ -53,6 +55,7 @@ Hover
 </armor>
 
 <Body Equipment>
+Advanced Fire Control
 IS Ammo SRM-4
 IS Ammo AC/5
 IS Ammo MG - Full

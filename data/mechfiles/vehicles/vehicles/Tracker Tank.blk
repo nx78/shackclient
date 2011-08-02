@@ -5,8 +5,11 @@
 </BlockVersion>
 
 <UnitType>
-Tank
+SupportTank
 </UnitType>
+<barrating>
+5
+</barrating>
 
 <blockversion>
 1
@@ -17,12 +20,15 @@ Tracker
 </Name>
 
 <Model>
-Tank
 </Model>
 
 <year>
-2750
+2380
 </year>
+
+<source>
+Age of War
+</source>
 
 <type>
 IS Level 1
@@ -52,6 +58,7 @@ Hover
 </armor>
 
 <Body Equipment>
+Advanced Fire Control
 IS Ammo SRM-2
 IS Ammo MG - Full
 </Body Equipment>

@@ -4,20 +4,20 @@
 1
 </BlockVersion>
 
-<UnitType>
-Tank
-</UnitType>
 
-<blockversion>
-1
-</blockversion>
+<UnitType>
+SupportTank
+</UnitType>
+<barrating>
+5
+</barrating>
 
 <Name>
-Torrent II
+Torrent Tank
 </Name>
 
 <Model>
-Tank
+II
 </Model>
 
 <year>
@@ -52,6 +52,7 @@ Tracked
 </armor>
 
 <Body Equipment>
+Advanced Fire Control
 IS Ammo MG - Full
 IS Ammo MG - Full
 </Body Equipment>

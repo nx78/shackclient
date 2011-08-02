@@ -5,24 +5,26 @@
 </BlockVersion>
 
 <UnitType>
-Tank
+SupportTank
 </UnitType>
-
-<blockversion>
-1
-</blockversion>
+<barrating>
+5
+</barrating>
 
 <Name>
-BITR
+BITR Tank
 </Name>
 
 <Model>
-Tank
 </Model>
 
 <year>
-2750
+2380
 </year>
+
+<source>
+Age of War
+</source>
 
 <type>
 IS Level 1
@@ -58,6 +60,7 @@ IS Ammo LRM-15
 IS Ammo LRM-15
 IS Ammo MG - Full
 IS Ammo LRM-15
+Advanced Fire Control
 </Body Equipment>
 
 <Front Equipment>

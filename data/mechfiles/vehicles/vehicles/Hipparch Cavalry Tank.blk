@@ -23,9 +23,7 @@ Hipparch Cavalry Tank
 <year>
 2562
 </year>
-<source>
-Historical Reunification War
-</source>
+
 <type>
 IS Level 1
 </type>
@@ -71,8 +69,8 @@ IS Ammo SRM-2
 </Rear Equipment>
 
 <Turret Equipment>
-IS Medium Laser
-ISSmall Laser
-IS SRM-2
+Medium Laser
+Small Laser
+SRM 2
 </Turret Equipment>
 

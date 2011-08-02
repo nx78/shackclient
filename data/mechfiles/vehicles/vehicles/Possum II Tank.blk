@@ -5,24 +5,28 @@
 </BlockVersion>
 
 <UnitType>
-Tank
+SupportTank
 </UnitType>
 
-<blockversion>
-1
-</blockversion>
+<barrating>
+5
+</barrating>
 
 <Name>
-Possum II
+Possum Tank
 </Name>
 
 <Model>
-Tank
+II
 </Model>
 
 <year>
-2750
+2380
 </year>
+
+<source>
+Age of War
+</source>
 
 <type>
 IS Level 1
@@ -57,6 +61,7 @@ TroopSpace: 5.0
 </armor>
 
 <Body Equipment>
+Advanced Fire Control
 IS Ammo LRM-5
 IS Ammo LRM-5
 IS Ammo MG - Full

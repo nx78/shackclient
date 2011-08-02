@@ -3,26 +3,27 @@
 <BlockVersion>
 1
 </BlockVersion>
-
 <UnitType>
-Tank
+SupportTank
 </UnitType>
-
-<blockversion>
-1
-</blockversion>
+<barrating>
+5
+</barrating>
 
 <Name>
-Midgard
+Midgard Tank
 </Name>
 
 <Model>
-Tank
 </Model>
 
 <year>
-2750
+2380
 </year>
+
+<source>
+Age of War
+</source>
 
 <type>
 IS Level 1
@@ -53,6 +54,7 @@ Tracked
 </armor>
 
 <Body Equipment>
+Advanced Fire Control
 IS Ammo AC/5
 IS Ammo AC/5
 IS Ammo AC/5

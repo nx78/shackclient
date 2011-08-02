@@ -5,24 +5,26 @@
 </BlockVersion>
 
 <UnitType>
-Tank
+SupportTank
 </UnitType>
-
-<blockversion>
-1
-</blockversion>
+<barrating>
+5
+</barrating>
 
 <Name>
-Sleipnir
+Sleipnir Tank
 </Name>
 
 <Model>
-Tank
 </Model>
 
 <year>
-2750
+2380
 </year>
+
+<source>
+Age of War
+</source>
 
 <type>
 IS Level 1
@@ -56,6 +58,7 @@ TroopSpace: 6.0
 </armor>
 
 <Body Equipment>
+Advanced Fire Control
 IS Ammo AC/2
 IS Machine Gun Ammo - Half
 </Body Equipment>
