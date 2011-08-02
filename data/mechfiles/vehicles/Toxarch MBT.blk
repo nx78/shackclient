@@ -1,0 +1,84 @@
+#building block data file
+
+<BlockVersion>
+1
+</BlockVersion>
+
+<UnitType>
+Tank
+</UnitType>
+
+<blockversion>
+1
+</blockversion>
+
+<Name>
+Toxarch
+</Name>
+
+<Model>
+MBT
+</Model>
+
+<year>
+2535
+</year>
+
+<source>
+Age of War
+</source>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+60.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+1
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+35
+35
+35
+20
+35
+</armor>
+
+<Body Equipment>
+ISSniperAmmo
+ISSniperAmmo
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+ISVehicularGrenadeLauncher
+</Right Equipment>
+
+<Left Equipment>
+ISVehicularGrenadeLauncher
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISSniper
+Machine Gun
+</Turret Equipment>
+
