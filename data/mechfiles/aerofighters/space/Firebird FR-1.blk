@@ -32,12 +32,12 @@ ISAC2
 ISAC2 Ammo
 </Nose Equipment>
 <Left Wing Equipment>
-ISLRM10
-ISLRM10 Ammo
+LRM-10
+IS Ammo LRM-10
 </Left Wing Equipment>
 <Right Wing Equipment> 
-ISLRM10
-ISLRM10 Ammo
+LRM-10
+IS Ammo LRM-10
 </Right Wing Equipment>
 <Aft Equipment> 
 </Aft Equipment>
@@ -68,5 +68,3 @@ IS Level 1
 <motion_type>
 aerodyne
 </motion_type>
-
-
