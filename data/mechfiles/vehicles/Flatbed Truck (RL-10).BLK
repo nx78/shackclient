@@ -1,0 +1,58 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Flatbed Truck
+</Name>
+<Model>
+(RL-10)
+</Model>
+<Tonnage>
+10
+</Tonnage>
+<cruiseMP>
+5
+</cruiseMP>
+<Armor>
+12
+12
+12
+12
+</Armor>
+<Front Equipment>
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+Machine Gun
+</Front Equipment>
+<Body Equipment>
+IS Machine Gun Ammo - Half
+</Body Equipment>
+<type>
+IS Level 4
+</type>
+<Year>
+2425
+</Year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Wheeled
+</motion_type>

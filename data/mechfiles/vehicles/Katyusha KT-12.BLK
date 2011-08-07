@@ -1,0 +1,93 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Katyusha
+</Name>
+
+<Model>
+KT-12
+</Model>
+
+<Tonnage>
+45
+</Tonnage>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<Armor>
+24
+24
+24
+24
+</Armor>
+
+<Body Equipment>
+Advanced Fire Control
+ISSRM2 Ammo
+ISSRM2 Ammo
+Ammo Vehicle Flamer
+Ammo Vehicle Flamer
+</Body Equipment>
+
+<Front Equipment>
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Vehicle Flamer
+Vehicle Flamer
+</Turret Equipment>
+
+<type>
+IS Level 1
+</type>
+
+<Year>
+2452
+</Year>
+
+<internal_type>
+0
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<engine_type>
+1
+</engine_type>
+
+<motion_type>
+Wheeled
+</motion_type>
