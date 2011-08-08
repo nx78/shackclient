@@ -1,8 +1,7 @@
-./.directory*./.directory*2925840378
 ./startClient.bat*./startClient.bat*742981953
 ./docs/How to set up a Dedicated Server.pdf*./docs/How to set up a Dedicated Server.pdf*3364875254
 ./docs/The Shack - Quick Start Guide.pdf*./docs/The Shack - Quick Start Guide.pdf*4015376526
-./MekWarsOpEditor.jar*./MekWarsOpEditor.jar*3854692443
+./MekWarsOpEditor.jar*./MekWarsOpEditor.jar*2995856913
 ./MegaMek3D.bat*./MegaMek3D.bat*2264839235
 ./data/armies/FallOfTerra_13_ComGuards_DivineForesightII-Epsilon.mul*./data/armies/FallOfTerra_13_ComGuards_DivineForesightII-Epsilon.mul*3664528821
 ./data/armies/FallOfTerra_0912_WoB_EverVigilantII-Alpha.mul*./data/armies/FallOfTerra_0912_WoB_EverVigilantII-Alpha.mul*2084834896
@@ -72,6 +71,7 @@
 ./data/armies/Event_3060_TotC_Scenario3_ClanBkp.mul*./data/armies/Event_3060_TotC_Scenario3_ClanBkp.mul*4153806038
 ./data/armies/FallOfTerra_01_WoB_ShadowLancers_Armor_Support.mul*./data/armies/FallOfTerra_01_WoB_ShadowLancers_Armor_Support.mul*2471826103
 ./data/armies/FallOfTerra_02_ShadowLancers_AssaultLance.mul*./data/armies/FallOfTerra_02_ShadowLancers_AssaultLance.mul*1494664442
+./data/armies/RWDelacruz1.mul*./data/armies/RWDelacruz1.mul*499998075
 ./data/armies/FallOfTerra_02_ShadowLancers_PursuitLance.mul*./data/armies/FallOfTerra_02_ShadowLancers_PursuitLance.mul*2394402186
 ./data/armies/FallOfTerra_14_ComGuards_AcademyStudents.mul*./data/armies/FallOfTerra_14_ComGuards_AcademyStudents.mul*3752602344
 ./data/armies/FallOfTerra_07_WoB_EverTrue_WillingObedience.mul*./data/armies/FallOfTerra_07_WoB_EverTrue_WillingObedience.mul*2255933467
@@ -79,6 +79,80 @@
 ./data/armies/Event_3060_TotC_Scenario3_Clan.mul*./data/armies/Event_3060_TotC_Scenario3_Clan.mul*4153806038
 ./data/armies/FallOfTerra_02_ComGuards_201stDivision.mul*./data/armies/FallOfTerra_02_ComGuards_201stDivision.mul*2427983195
 ./data/armies/klondike2.mul*./data/armies/klondike2.mul*1413500728
+./data/armies/standard/FallOfTerra_13_ComGuards_DivineForesightII-Epsilon.mul*./data/armies/standard/FallOfTerra_13_ComGuards_DivineForesightII-Epsilon.mul*3664528821
+./data/armies/standard/FallOfTerra_0912_WoB_EverVigilantII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_WoB_EverVigilantII-Alpha.mul*2084834896
+./data/armies/standard/FallOfTerra_15_WoB_.mul*./data/armies/standard/FallOfTerra_15_WoB_.mul*2025743971
+./data/armies/standard/FallOfTerra_06_WoB_MediumAndSupportLance.mul*./data/armies/standard/FallOfTerra_06_WoB_MediumAndSupportLance.mul*31080671
+./data/armies/standard/FallOfTerra_0912_WoB_TheFaithfulII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_WoB_TheFaithfulII-Alpha.mul*1899401563
+./data/armies/standard/Event_3059_TotC_Scenario1_SDLF_A.mul*./data/armies/standard/Event_3059_TotC_Scenario1_SDLF_A.mul*2300819841
+./data/armies/standard/Event_3060_TotC_Scenario5_SLDF.mul*./data/armies/standard/Event_3060_TotC_Scenario5_SLDF.mul*2873458004
+./data/armies/standard/FallOfTerra_14_WoB_5thDivision_HandOfToyamaII-Alpha.mul*./data/armies/standard/FallOfTerra_14_WoB_5thDivision_HandOfToyamaII-Alpha.mul*456717855
+./data/armies/standard/FallOfTerra_04_Armies.mul*./data/armies/standard/FallOfTerra_04_Armies.mul*1799219577
+./data/armies/standard/FallOfTerra_0912_ComGuards_SwiftFeetII-Lambda.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_SwiftFeetII-Lambda.mul*2480194859
+./data/armies/standard/FallOfTerra_13_ComGuards_DeltaBattalion.mul*./data/armies/standard/FallOfTerra_13_ComGuards_DeltaBattalion.mul*1928092178
+./data/armies/standard/FallOfTerra_0912_WoB_TheSwiftII-Gamma.mul*./data/armies/standard/FallOfTerra_0912_WoB_TheSwiftII-Gamma.mul*1100926147
+./data/armies/standard/The Chosen Few (RRA).mul*./data/armies/standard/The Chosen Few (RRA).mul*2128306820
+./data/armies/standard/FallOfTerra_01_ComGuard_Primus_Flight_of_Arrows_II-Lambda.mul*./data/armies/standard/FallOfTerra_01_ComGuard_Primus_Flight_of_Arrows_II-Lambda.mul*3369044390
+./data/armies/standard/FallOfTerra_0912_ComGuards_SilentDeathII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_SilentDeathII-Alpha.mul*1674965466
+./data/armies/standard/Goblin Medium Tank.mul*./data/armies/standard/Goblin Medium Tank.mul*2119395784
+./data/armies/standard/FallOfTerra_0912_ComGuards_AcidRainII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_AcidRainII-Alpha.mul*571565116
+./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_ArmorBattalion.mul*./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_ArmorBattalion.mul*1261508737
+./data/armies/standard/FallOfTerra_01_ComGuard_Primus_Defender.mul*./data/armies/standard/FallOfTerra_01_ComGuard_Primus_Defender.mul*2725432663
+./data/armies/standard/FallOfTerra_15_ComGuards_.mul*./data/armies/standard/FallOfTerra_15_ComGuards_.mul*2512090163
+./data/armies/standard/FallOfTerra_13_WoB_3rdDivision.mul*./data/armies/standard/FallOfTerra_13_WoB_3rdDivision.mul*3833058478
+./data/armies/standard/FallOfTerra_05_ComGuardsTerranDefenseFleet.mul*./data/armies/standard/FallOfTerra_05_ComGuardsTerranDefenseFleet.mul*3280903589
+./data/armies/standard/Event_3060_TotC_Scenario2_Clan.mul*./data/armies/standard/Event_3060_TotC_Scenario2_Clan.mul*559202323
+./data/armies/standard/FallOfTerra_0912_ComGuards_Vehicles.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_Vehicles.mul*1543337178
+./data/armies/standard/FallOfTerra_02_2ndProvisionalLance.mul*./data/armies/standard/FallOfTerra_02_2ndProvisionalLance.mul*3580077573
+./data/armies/standard/FallOfTerra_0912_WoB_FoeHammersII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_WoB_FoeHammersII-Alpha.mul*264227075
+./data/armies/standard/FallOfTerra_0912_ComGuards_SandhurstProvisionalII-Iota.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_SandhurstProvisionalII-Iota.mul*1215338356
+./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_Armor_Recon.mul*./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_Armor_Recon.mul*2801805146
+./data/armies/standard/Event_3060_TotC_Scenario2_SLDF.mul*./data/armies/standard/Event_3060_TotC_Scenario2_SLDF.mul*2761840119
+./data/armies/standard/FallOfTerra_0912_WoB_BlakesVisionII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_WoB_BlakesVisionII-Alpha.mul*2844512050
+./data/armies/standard/The Chosen Few (SLDF).mul*./data/armies/standard/The Chosen Few (SLDF).mul*2753538716
+./data/armies/standard/FallOfTerra_16_WoB_AssaultAndPursuitLances.mul*./data/armies/standard/FallOfTerra_16_WoB_AssaultAndPursuitLances.mul*1547335957
+./data/armies/standard/FallOfTerra_0912_ComGuards_TrueFaithII-Mu.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_TrueFaithII-Mu.mul*3525323144
+./data/armies/standard/Event_3059_TotC_Scenario1_Clan.mul*./data/armies/standard/Event_3059_TotC_Scenario1_Clan.mul*2289715771
+./data/armies/standard/FallOfTerra_08_Sandhurst_TrueStudentsII-Alpha.mul*./data/armies/standard/FallOfTerra_08_Sandhurst_TrueStudentsII-Alpha.mul*4093194911
+./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_Armor_Assault.mul*./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_Armor_Assault.mul*2687420025
+./data/armies/standard/FallOfTerra_08_Sandhurst_WarriorsForTruthII-Alpha.mul*./data/armies/standard/FallOfTerra_08_Sandhurst_WarriorsForTruthII-Alpha.mul*1946949541
+./data/armies/standard/Event_3059_TotC_Scenario1_SDLF.mul*./data/armies/standard/Event_3059_TotC_Scenario1_SDLF.mul*1612450207
+./data/armies/standard/FallOfTerra_06_ComGuards_2ndProvisionalLance.mul*./data/armies/standard/FallOfTerra_06_ComGuards_2ndProvisionalLance.mul*840360383
+./data/armies/standard/FallOfTerra_13_ComGuards_BlakesMissionII-Mu.mul*./data/armies/standard/FallOfTerra_13_ComGuards_BlakesMissionII-Mu.mul*2428355327
+./data/armies/standard/FallOfTerra_08_WoB_TaskForceSteel.mul*./data/armies/standard/FallOfTerra_08_WoB_TaskForceSteel.mul*3302306669
+./data/armies/standard/FallOfTerra_0912_WoB_MartyrsWisdomII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_WoB_MartyrsWisdomII-Alpha.mul*589217362
+./data/armies/standard/Event_3060_TotC_Scenario5_Clan.mul*./data/armies/standard/Event_3060_TotC_Scenario5_Clan.mul*1829704465
+./data/armies/standard/FallOfTerra_0912_WoB_TheSwarmII-Iota.mul*./data/armies/standard/FallOfTerra_0912_WoB_TheSwarmII-Iota.mul*2393014679
+./data/armies/standard/FallOfTerra_16_ComGuards_2ndProvisionalLance.mul*./data/armies/standard/FallOfTerra_16_ComGuards_2ndProvisionalLance.mul*2777274719
+./data/armies/standard/FallOfTerra_13_WoB_BlakesFistII-Beta.mul*./data/armies/standard/FallOfTerra_13_WoB_BlakesFistII-Beta.mul*2412523062
+./data/armies/standard/FallOfTerra_05_WoBTaskForceGold.mul*./data/armies/standard/FallOfTerra_05_WoBTaskForceGold.mul*2564496328
+./data/armies/standard/FallOfTerra_0912_ComGuards_ReadySupportII-Lambda.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_ReadySupportII-Lambda.mul*1761420700
+./data/armies/standard/FallOfTerra_02_ShadowLancers2ndBattalion.mul*./data/armies/standard/FallOfTerra_02_ShadowLancers2ndBattalion.mul*2283960764
+./data/armies/standard/FallOfTerra_0912_WoB_PersistanceOfFaithII-Lambda.mul*./data/armies/standard/FallOfTerra_0912_WoB_PersistanceOfFaithII-Lambda.mul*752354924
+./data/armies/standard/Event_3060_TotC_Scenario4_SLDF.mul*./data/armies/standard/Event_3060_TotC_Scenario4_SLDF.mul*3632946045
+./data/armies/standard/FallOfTerra_07_ComGuards_SilentVigil_PrimusShield.mul*./data/armies/standard/FallOfTerra_07_ComGuards_SilentVigil_PrimusShield.mul*290425460
+./data/armies/standard/FallOfTerra_0912_WoB_TheSteadfastII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_WoB_TheSteadfastII-Alpha.mul*2527443593
+./data/armies/standard/FallOfTerra_01_ComGuard_Primus_GreatResistance_II-Iota.mul*./data/armies/standard/FallOfTerra_01_ComGuard_Primus_GreatResistance_II-Iota.mul*3056326034
+./data/armies/standard/FallOfTerra_0912_ComGuards_BlakesHoundsII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_BlakesHoundsII-Alpha.mul*14185587
+./data/armies/standard/FallOfTerra_0912_ComGuards_HarshJusticeII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_HarshJusticeII-Alpha.mul*2482464907
+./data/armies/standard/Event_3060_TotC_Scenario3_ClanBkp.mul*./data/armies/standard/Event_3060_TotC_Scenario3_ClanBkp.mul*4153806038
+./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_Armor_Support.mul*./data/armies/standard/FallOfTerra_01_WoB_ShadowLancers_Armor_Support.mul*2471826103
+./data/armies/standard/FallOfTerra_02_ShadowLancers_AssaultLance.mul*./data/armies/standard/FallOfTerra_02_ShadowLancers_AssaultLance.mul*1494664442
+./data/armies/standard/FallOfTerra_02_ShadowLancers_PursuitLance.mul*./data/armies/standard/FallOfTerra_02_ShadowLancers_PursuitLance.mul*2394402186
+./data/armies/standard/FallOfTerra_14_ComGuards_AcademyStudents.mul*./data/armies/standard/FallOfTerra_14_ComGuards_AcademyStudents.mul*3752602344
+./data/armies/standard/FallOfTerra_07_WoB_EverTrue_WillingObedience.mul*./data/armies/standard/FallOfTerra_07_WoB_EverTrue_WillingObedience.mul*2255933467
+./data/armies/standard/FallOfTerra_0912_WoB_FirmBackboneII-Lambda.mul*./data/armies/standard/FallOfTerra_0912_WoB_FirmBackboneII-Lambda.mul*370466750
+./data/armies/standard/Event_3060_TotC_Scenario3_Clan.mul*./data/armies/standard/Event_3060_TotC_Scenario3_Clan.mul*4153806038
+./data/armies/standard/FallOfTerra_02_ComGuards_201stDivision.mul*./data/armies/standard/FallOfTerra_02_ComGuards_201stDivision.mul*2427983195
+./data/armies/standard/FallOfTerra_0912_WoB_CleansingFireII-Delta.mul*./data/armies/standard/FallOfTerra_0912_WoB_CleansingFireII-Delta.mul*2560706629
+./data/armies/standard/FallOfTerra_02_1stProvisionalLance.mul*./data/armies/standard/FallOfTerra_02_1stProvisionalLance.mul*2974549789
+./data/armies/standard/FallOfTerra_13_WoB_CarefulPlanningII-Kappa.mul*./data/armies/standard/FallOfTerra_13_WoB_CarefulPlanningII-Kappa.mul*322427211
+./data/armies/standard/Event_3060_TotC_Scenario4_Clan.mul*./data/armies/standard/Event_3060_TotC_Scenario4_Clan.mul*4000871875
+./data/armies/standard/FallOfTerra_0912_WoB_SwiftJusticeII-Alpha.mul*./data/armies/standard/FallOfTerra_0912_WoB_SwiftJusticeII-Alpha.mul*2888276914
+./data/armies/standard/Event_3060_TotC_Scenario3_SLDF.mul*./data/armies/standard/Event_3060_TotC_Scenario3_SLDF.mul*3610262260
+./data/armies/standard/FallOfTerra_0912_ComGuards_LostInnocenceII-Delta.mul*./data/armies/standard/FallOfTerra_0912_ComGuards_LostInnocenceII-Delta.mul*2242630708
+./data/armies/standard/Event_3059_TotC_Scenario1_SDLF_B.mul*./data/armies/standard/Event_3059_TotC_Scenario1_SDLF_B.mul*3667805080
+./data/armies/standard/FallOfTerra_08_SandhurstTrainingRegiment.mul*./data/armies/standard/FallOfTerra_08_SandhurstTrainingRegiment.mul*444243799
 ./data/armies/FallOfTerra_0912_WoB_CleansingFireII-Delta.mul*./data/armies/FallOfTerra_0912_WoB_CleansingFireII-Delta.mul*2560706629
 ./data/armies/FallOfTerra_02_1stProvisionalLance.mul*./data/armies/FallOfTerra_02_1stProvisionalLance.mul*2974549789
 ./data/armies/FallOfTerra_13_WoB_CarefulPlanningII-Kappa.mul*./data/armies/FallOfTerra_13_WoB_CarefulPlanningII-Kappa.mul*322427211
@@ -90,7 +164,7 @@
 ./data/armies/FallOfTerra_0912_ComGuards_LostInnocenceII-Delta.mul*./data/armies/FallOfTerra_0912_ComGuards_LostInnocenceII-Delta.mul*2242630708
 ./data/armies/Event_3059_TotC_Scenario1_SDLF_B.mul*./data/armies/Event_3059_TotC_Scenario1_SDLF_B.mul*3667805080
 ./data/armies/FallOfTerra_08_SandhurstTrainingRegiment.mul*./data/armies/FallOfTerra_08_SandhurstTrainingRegiment.mul*444243799
-./data/.directory*./data/.directory*3501450689
+./data/pFlags.dat*./data/pFlags.dat*3340948169
 ./data/names/factions/Clan.txt*./data/names/factions/Clan.txt*28179606
 ./data/names/factions/FRR.txt*./data/names/factions/FRR.txt*390404634
 ./data/names/factions/CC.txt*./data/names/factions/CC.txt*593098197
@@ -103,21 +177,19 @@
 ./data/names/masterancestry.txt*./data/names/masterancestry.txt*2031279498
 ./data/names/firstnames_female.txt*./data/names/firstnames_female.txt*1809621736
 ./data/names/firstnames_male.txt*./data/names/firstnames_male.txt*1123707081
-./data/mechfiles/infantry.zip*./data/mechfiles/infantry.zip*2190776001
-./data/mechfiles/vtols.zip*./data/mechfiles/vtols.zip*2175591671
-./data/mechfiles/.directory*./data/mechfiles/.directory*2073373604
-./data/mechfiles/mechs.zip*./data/mechfiles/mechs.zip*2974814364
-./data/mechfiles/ships.zip*./data/mechfiles/ships.zip*3231727206
-./data/mechfiles/spacestations.zip*./data/mechfiles/spacestations.zip*3174177445
-./data/mechfiles/dropships.zip*./data/mechfiles/dropships.zip*3547189286
-./data/mechfiles/protomechs.zip*./data/mechfiles/protomechs.zip*1138362553
-./data/mechfiles/spaceshuttles.zip*./data/mechfiles/spaceshuttles.zip*1893397074
-./data/mechfiles/warships.zip*./data/mechfiles/warships.zip*1582307986
-./data/mechfiles/aerofighters.zip*./data/mechfiles/aerofighters.zip*3807625703
-./data/mechfiles/Infantry.zip*./data/mechfiles/Infantry.zip*2190776001
-./data/mechfiles/fixeddefenses.zip*./data/mechfiles/fixeddefenses.zip*2019616846
-./data/mechfiles/jumpships.zip*./data/mechfiles/jumpships.zip*1655516358
-./data/mechfiles/vehicles.zip*./data/mechfiles/vehicles.zip*4266990976
+./data/mechfiles/infantry.zip*./data/mechfiles/infantry.zip*1765627330
+./data/mechfiles/vtols.zip*./data/mechfiles/vtols.zip*2542373820
+./data/mechfiles/mechs.zip*./data/mechfiles/mechs.zip*2702089741
+./data/mechfiles/ships.zip*./data/mechfiles/ships.zip*2032642079
+./data/mechfiles/spacestations.zip*./data/mechfiles/spacestations.zip*692676758
+./data/mechfiles/dropships.zip*./data/mechfiles/dropships.zip*2248727318
+./data/mechfiles/protomechs.zip*./data/mechfiles/protomechs.zip*4176479657
+./data/mechfiles/warships.zip*./data/mechfiles/warships.zip*1484958462
+./data/mechfiles/aerofighters.zip*./data/mechfiles/aerofighters.zip*3787899506
+./data/mechfiles/fixeddefenses.zip*./data/mechfiles/fixeddefenses.zip*4074152767
+./data/mechfiles/jumpships.zip*./data/mechfiles/jumpships.zip*3963886541
+./data/mechfiles/vehicles.zip*./data/mechfiles/vehicles.zip*857458815
+./data/mechfiles/shuttles.zip*./data/mechfiles/shuttles.zip*2150187368
 ./data/mechfiles/UnitVerifierOptions.xml*./data/mechfiles/UnitVerifierOptions.xml*4268020710
 ./data/sounds/attack.wav*./data/sounds/attack.wav*396064117
 ./data/sounds/call.wav*./data/sounds/call.wav*235462579
@@ -267,6 +339,221 @@
 ./data/skins/hmmXPBluethemepack.zip*./data/skins/hmmXPBluethemepack.zip*1663512995
 ./data/skins/roueBluethemepack.zip*./data/skins/roueBluethemepack.zip*2236785840
 ./data/skins/architectBluethemepack.zip*./data/skins/architectBluethemepack.zip*288449938
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Aerospace/3053 House Marik Aerospace - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Aerospace/3053 House Marik Aerospace - Upgraded.txt*1802538386
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Aerospace/3053 House Marik Aerospace - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Aerospace/3053 House Marik Aerospace - No Upgrades.txt*2680431618
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Heavy/3053 House Marik Mech - Heavy - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Heavy/3053 House Marik Mech - Heavy - Upgraded.txt*4246494524
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Heavy/3053 House Marik Mech - Heavy - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Heavy/3053 House Marik Mech - Heavy - No Upgrades.txt*2793437922
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Light/3053 House Marik Mech - Light - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Light/3053 House Marik Mech - Light - Upgraded.txt*849537710
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Light/3053 House Marik Mech - Light - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Light/3053 House Marik Mech - Light - No Upgrades.txt*588340051
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Medium/3053 House Marik Mech - Medium - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Medium/3053 House Marik Mech - Medium - Upgraded.txt*2355987512
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Medium/3053 House Marik Mech - Medium - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Medium/3053 House Marik Mech - Medium - No Upgrades.txt*1097953955
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Assault/3053 House Marik Mech - Assault - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Assault/3053 House Marik Mech - Assault - Upgraded.txt*402189625
+./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Assault/3053 House Marik Mech - Assault - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Marik/Mech/Assault/3053 House Marik Mech - Assault - No Upgrades.txt*1578872394
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Aerospace/3053 House Davion Aerospace- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Aerospace/3053 House Davion Aerospace- No Upgrades.txt*3578830926
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Aerospace/3053 House Davion Aerospace- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Aerospace/3053 House Davion Aerospace- Upgraded.txt*606567916
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Heavy/3053 House Davion Mech - Heavy- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Heavy/3053 House Davion Mech - Heavy- Upgraded.txt*3613532115
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Heavy/3053 House Davion Mech - Heavy- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Heavy/3053 House Davion Mech - Heavy- No Upgrades.txt*1167970302
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Light/3053 House Davion Mech - Light- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Light/3053 House Davion Mech - Light- No Upgrades.txt*2497959340
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Light/3053 House Davion Mech - Light- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Light/3053 House Davion Mech - Light- Upgraded.txt*1641847234
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Medium/3053 House Davion Mech - Medium- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Medium/3053 House Davion Mech - Medium- Upgraded.txt*152295358
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Medium/3053 House Davion Mech - Medium- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Medium/3053 House Davion Mech - Medium- No Upgrades.txt*3682884885
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Assault/3053 House Davion Mech - Assault- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Assault/3053 House Davion Mech - Assault- No Upgrades.txt*2939231417
+./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Assault/3053 House Davion Mech - Assault- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Davion/Mech/Assault/3053 House Davion Mech - Assault- Upgraded.txt*1547864975
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Aerospace/3053 Saint Ives Compact Aerospace - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Aerospace/3053 Saint Ives Compact Aerospace - Upgraded.txt*646105695
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Aerospace/3053 Saint Ives Compact Aerospace - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Aerospace/3053 Saint Ives Compact Aerospace - No Upgrades.txt*4204197195
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Heavy/3053 Saint Ives Compact Mech -  Heavy - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Heavy/3053 Saint Ives Compact Mech -  Heavy - Upgraded.txt*3335178647
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Heavy/3053 Saint Ives Compact Mech -  Heavy - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Heavy/3053 Saint Ives Compact Mech -  Heavy - No Upgrades.txt*222536864
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Light/3053 Saint Ives Compact Mech -  Light - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Light/3053 Saint Ives Compact Mech -  Light - No Upgrades.txt*3250348498
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Light/3053 Saint Ives Compact Mech -  Light - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Light/3053 Saint Ives Compact Mech -  Light - Upgraded.txt*391175165
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Medium/3053 Saint Ives Compact Mech -  Medium - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Medium/3053 Saint Ives Compact Mech -  Medium - Upgraded.txt*4092678052
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Medium/3053 Saint Ives Compact Mech -  Medium - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Medium/3053 Saint Ives Compact Mech -  Medium - No Upgrades.txt*2696573169
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Assault/3053 Saint Ives Compact Mech -  Assault - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Assault/3053 Saint Ives Compact Mech -  Assault - Upgraded.txt*4186399450
+./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Assault/3053 Saint Ives Compact Mech -  Assault - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/St Ives Compact/Mech/Assault/3053 Saint Ives Compact Mech -  Assault - No Upgrades.txt*1028480182
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Aerospace/3053 House Steiner Aerospace - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Aerospace/3053 House Steiner Aerospace - No Upgrades.txt*3634560546
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Aerospace/3053 House Steiner Aerospace - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Aerospace/3053 House Steiner Aerospace - Upgraded.txt*749785526
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Heavy/3053 House Steiner Mech - Heavy - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Heavy/3053 House Steiner Mech - Heavy - Upgraded.txt*1732909947
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Heavy/3053 House Steiner Mech - Heavy - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Heavy/3053 House Steiner Mech - Heavy - No Upgrades.txt*4122331990
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Light/3053 House Steiner Mech - Light - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Light/3053 House Steiner Mech - Light - Upgraded.txt*176974348
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Light/3053 House Steiner Mech - Light - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Light/3053 House Steiner Mech - Light - No Upgrades.txt*1529384199
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Medium/3053 House Steiner Mech - Medium - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Medium/3053 House Steiner Mech - Medium - Upgraded.txt*2923774253
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Medium/3053 House Steiner Mech - Medium - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Medium/3053 House Steiner Mech - Medium - No Upgrades.txt*3337834644
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Assault/3053 House Steiner Mech - Assault - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Assault/3053 House Steiner Mech - Assault - No Upgrades.txt*1097618234
+./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Assault/3053 House Steiner Mech - Assault - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Steiner/Mech/Assault/3053 House Steiner Mech - Assault - Upgraded.txt*2986857994
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Aerospace/3053 House Liao Aerospace - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Aerospace/3053 House Liao Aerospace - Upgraded.txt*1013193949
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Aerospace/3053 House Liao Aerospace - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Aerospace/3053 House Liao Aerospace - No Upgrades.txt*3246681961
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Heavy/3053 House Liao Mech -  Heavy - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Heavy/3053 House Liao Mech -  Heavy - Upgraded.txt*1834819083
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Heavy/3053 House Liao Mech -  Heavy - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Heavy/3053 House Liao Mech -  Heavy - No Upgrades.txt*219660212
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Light/3053 House Liao Mech -  Light - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Light/3053 House Liao Mech -  Light - Upgraded.txt*1901415475
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Light/3053 House Liao Mech -  Light - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Light/3053 House Liao Mech -  Light - No Upgrades.txt*4205771760
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Medium/3053 House Liao Mech -  Medium - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Medium/3053 House Liao Mech -  Medium - No Upgrades.txt*1710840071
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Medium/3053 House Liao Mech -  Medium - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Medium/3053 House Liao Mech -  Medium - Upgraded.txt*3251109018
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Assault/3053 House Liao Mech -  Assault - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Assault/3053 House Liao Mech -  Assault - No Upgrades.txt*1873106780
+./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Assault/3053 House Liao Mech -  Assault - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Liao/Mech/Assault/3053 House Liao Mech -  Assault - Upgraded.txt*2441282692
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Aerospace/3053 ComStar Aerospace - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Aerospace/3053 ComStar Aerospace - Upgraded.txt*3282060878
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Aerospace/3053 ComStar Aerospace - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Aerospace/3053 ComStar Aerospace - No Upgrades.txt*2880025442
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Tank/3053 ComStar - Vehicle.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Tank/3053 ComStar - Vehicle.txt*1889785548
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Heavy/3053 ComStar Mech - Heavy- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Heavy/3053 ComStar Mech - Heavy- No Upgrades.txt*2873368629
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Heavy/3053 ComStar Mech - Heavy- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Heavy/3053 ComStar Mech - Heavy- Upgraded.txt*3276047783
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Light/3053 ComStar Mech - Light- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Light/3053 ComStar Mech - Light- Upgraded.txt*42639141
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Light/3053 ComStar Mech - Light- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Light/3053 ComStar Mech - Light- No Upgrades.txt*3948679905
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Medium/3053 ComStar Mech - Medium- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Medium/3053 ComStar Mech - Medium- Upgraded.txt*1852059155
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Medium/3053 ComStar Mech - Medium- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Medium/3053 ComStar Mech - Medium- No Upgrades.txt*493151886
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Assault/3053 ComStar Mech - Assault- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Assault/3053 ComStar Mech - Assault- Upgraded.txt*3047844541
+./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Assault/3053 ComStar Mech - Assault- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Comstar/Mech/Assault/3053 ComStar Mech - Assault- No Upgrades.txt*3972233970
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Aerospace/3053 House Kurita Aerospace - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Aerospace/3053 House Kurita Aerospace - Upgraded.txt*4256539706
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Aerospace/3053 House Kurita Aerospace - No Upgrade.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Aerospace/3053 House Kurita Aerospace - No Upgrade.txt*3473904739
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Heavy/3053 House Kurita Mech - Heavy- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Heavy/3053 House Kurita Mech - Heavy- No Upgrades.txt*2992241564
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Heavy/3053 House Kurita Mech - Heavy- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Heavy/3053 House Kurita Mech - Heavy- Upgraded.txt*289509338
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Light/3053 House Kurita Mech - Light- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Light/3053 House Kurita Mech - Light- No Upgrades.txt*3212438468
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Light/3053 House Kurita Mech - Light- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Light/3053 House Kurita Mech - Light- Upgraded.txt*1458507395
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Medium/3053 House Kurita Mech - Medium- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Medium/3053 House Kurita Mech - Medium- Upgraded.txt*1096555291
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Medium/3053 House Kurita Mech - Medium - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Medium/3053 House Kurita Mech - Medium - No Upgrades.txt*560253224
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Assault/3053 House Kurita Mech - Assault- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Assault/3053 House Kurita Mech - Assault- Upgraded.txt*3007636663
+./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Assault/3053 House Kurita Mech - Assault- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/House Kurita/Mech/Assault/3053 House Kurita Mech - Assault- No Upgrades.txt*907082642
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Aerospace/3053 Free Rasalhague Republic Aerospace - Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Aerospace/3053 Free Rasalhague Republic Aerospace - Upgraded.txt*429236189
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Aerospace/3053 Free Rasalhague Republic Aerospace - No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Aerospace/3053 Free Rasalhague Republic Aerospace - No Upgrades.txt*2036495645
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Medium/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Heavy/3053 Free Rasalhague Republic Mech - Heavy- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Heavy/3053 Free Rasalhague Republic Mech - Heavy- No Upgrades.txt*3652211546
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Heavy/3053 Free Rasalhague Republic Mech - Heavy- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Heavy/3053 Free Rasalhague Republic Mech - Heavy- Upgraded.txt*2478357898
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Light/3053 Free Rasalhague Republic Mech - Light- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Light/3053 Free Rasalhague Republic Mech - Light- Upgraded.txt*4254992306
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Light/3053 Free Rasalhague Republic Mech - Light- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Light/3053 Free Rasalhague Republic Mech - Light- No Upgrades.txt*2401205592
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Medium/3053 Free Rasalhague Republic Mech - Medium- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Medium/3053 Free Rasalhague Republic Mech - Medium- No Upgrades.txt*3745304655
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Medium/3053 Free Rasalhague Republic Mech - Medium- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Medium/3053 Free Rasalhague Republic Mech - Medium- Upgraded.txt*2210089951
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Assault/3053 Free Rasalhague Republic Mech - Assault- Upgraded.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Assault/3053 Free Rasalhague Republic Mech - Assault- Upgraded.txt*4293719535
+./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Assault/3053 Free Rasalhague Republic Mech - Assault- No Upgrades.txt*./data/rat/Era Report 3052/Inner Sphere/Free Rasalhague Republic/Mech/Assault/3053 Free Rasalhague Republic Mech - Assault- No Upgrades.txt*1886282036
+./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Heavy/3053 Inner Sphere Vehicle - Heavy.txt*1430409347
+./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Light/3053 Inner Sphere Vehicle - Medium.txt*./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Light/3053 Inner Sphere Vehicle - Medium.txt*918072180
+./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Light/3053 Inner Sphere Vehicle - Light.txt*1627954561
+./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*./data/rat/Era Report 3052/Inner Sphere/Inner Sphere General/Tank/Assault/3053 Inner Sphere Vehicle - Assault.txt*893419725
+./data/rat/Era Report 3052/Clan/Cloud Cobra/Aerospace/3053 Clan Cloud Cobra - Aerospace.txt*./data/rat/Era Report 3052/Clan/Cloud Cobra/Aerospace/3053 Clan Cloud Cobra - Aerospace.txt*2471541358
+./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Heavy/3053 Clan Cloud Cobra Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Heavy/3053 Clan Cloud Cobra Mech - Heavy.txt*2536691998
+./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Light/3053 Clan Cloud Cobra Mech - Light.txt*./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Light/3053 Clan Cloud Cobra Mech - Light.txt*2682820102
+./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Medium/3053 Clan Cloud Cobra Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Medium/3053 Clan Cloud Cobra Mech - Medium.txt*3706105924
+./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Assault/3053 Clan Cloud Cobra Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Cloud Cobra/Mech/Assault/3053 Clan Cloud Cobra Mech - Assault.txt*1351527814
+./data/rat/Era Report 3052/Clan/Cloud Cobra/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Cloud Cobra/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Burrock/Aerospace/3053 Clan Burrock - Aerospace.txt*./data/rat/Era Report 3052/Clan/Burrock/Aerospace/3053 Clan Burrock - Aerospace.txt*3805738755
+./data/rat/Era Report 3052/Clan/Burrock/Mech/Heavy/3053 Clan Burrock Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Burrock/Mech/Heavy/3053 Clan Burrock Mech - Heavy.txt*779748964
+./data/rat/Era Report 3052/Clan/Burrock/Mech/Light/3053 Clan Burrock Mech - Light.txt*./data/rat/Era Report 3052/Clan/Burrock/Mech/Light/3053 Clan Burrock Mech - Light.txt*1146522163
+./data/rat/Era Report 3052/Clan/Burrock/Mech/Medium/3053 Clan Burrock Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Burrock/Mech/Medium/3053 Clan Burrock Mech - Medium.txt*2138014531
+./data/rat/Era Report 3052/Clan/Burrock/Mech/Assault/3053 Clan Burrock Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Burrock/Mech/Assault/3053 Clan Burrock Mech - Assault.txt*15941358
+./data/rat/Era Report 3052/Clan/Burrock/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Burrock/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Nova Cat/Aerospace/3053 Clan Nova Cat - Aerospace.txt*./data/rat/Era Report 3052/Clan/Nova Cat/Aerospace/3053 Clan Nova Cat - Aerospace.txt*2563434660
+./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Heavy/3053 Clan Nova Cat Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Heavy/3053 Clan Nova Cat Mech - Heavy.txt*1312410692
+./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Light/3053 Clan Nova Cat Mech - Light.txt*./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Light/3053 Clan Nova Cat Mech - Light.txt*1318884889
+./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Medium/3053 Clan Nova Cat Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Medium/3053 Clan Nova Cat Mech - Medium.txt*3577474809
+./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Assault/3053 Clan Nova Cat Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Nova Cat/Mech/Assault/3053 Clan Nova Cat Mech - Assault.txt*2197871971
+./data/rat/Era Report 3052/Clan/Nova Cat/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Nova Cat/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Star Adder/Aerospace/3053 Clan Star Adder - Aerospace.txt*./data/rat/Era Report 3052/Clan/Star Adder/Aerospace/3053 Clan Star Adder - Aerospace.txt*345663993
+./data/rat/Era Report 3052/Clan/Star Adder/Mech/Heavy/3053 Clan Star Adder Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Star Adder/Mech/Heavy/3053 Clan Star Adder Mech - Heavy.txt*2960973827
+./data/rat/Era Report 3052/Clan/Star Adder/Mech/Light/3053 Clan Star Adder Mech - Light.txt*./data/rat/Era Report 3052/Clan/Star Adder/Mech/Light/3053 Clan Star Adder Mech - Light.txt*2629347435
+./data/rat/Era Report 3052/Clan/Star Adder/Mech/Medium/3053 Clan Star Adder Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Star Adder/Mech/Medium/3053 Clan Star Adder Mech - Medium.txt*599550592
+./data/rat/Era Report 3052/Clan/Star Adder/Mech/Assault/3053 Clan Star Adder Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Star Adder/Mech/Assault/3053 Clan Star Adder Mech - Assault.txt*3211671417
+./data/rat/Era Report 3052/Clan/Star Adder/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Star Adder/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Coyote/Aerospace/3053 Clan Coyote - Aerospace.txt*./data/rat/Era Report 3052/Clan/Coyote/Aerospace/3053 Clan Coyote - Aerospace.txt*2930515997
+./data/rat/Era Report 3052/Clan/Coyote/Mech/Heavy/3053 Clan Coyote Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Coyote/Mech/Heavy/3053 Clan Coyote Mech - Heavy.txt*1681422971
+./data/rat/Era Report 3052/Clan/Coyote/Mech/Light/3053 Clan Coyote Mech - Light.txt*./data/rat/Era Report 3052/Clan/Coyote/Mech/Light/3053 Clan Coyote Mech - Light.txt*692652586
+./data/rat/Era Report 3052/Clan/Coyote/Mech/Medium/3053 Clan Coyote Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Coyote/Mech/Medium/3053 Clan Coyote Mech - Medium.txt*1149440430
+./data/rat/Era Report 3052/Clan/Coyote/Mech/Assault/3053 Clan Coyote Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Coyote/Mech/Assault/3053 Clan Coyote Mech - Assault.txt*2154669321
+./data/rat/Era Report 3052/Clan/Coyote/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Coyote/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Goliath Scorpion/Aerospace/3053 Clan Goliath Scorpion - Aerospace.txt*./data/rat/Era Report 3052/Clan/Goliath Scorpion/Aerospace/3053 Clan Goliath Scorpion - Aerospace.txt*2596895801
+./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Heavy/3053 Clan Goliath Scorpion Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Heavy/3053 Clan Goliath Scorpion Mech - Heavy.txt*27639285
+./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Light/3053 Clan Goliath Scorpion Mech - Light.txt*./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Light/3053 Clan Goliath Scorpion Mech - Light.txt*422282859
+./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Medium/3053 Clan Goliath Scorpion Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Medium/3053 Clan Goliath Scorpion Mech - Medium.txt*3039382173
+./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Assault/3053 Clan Goliath Scorpion Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Goliath Scorpion/Mech/Assault/3053 Clan Goliath Scorpion Mech - Assault.txt*3488893050
+./data/rat/Era Report 3052/Clan/Goliath Scorpion/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Goliath Scorpion/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Blood Spirit/Aerospace/3053 Clan Blood Spirit - Aerospace.txt*./data/rat/Era Report 3052/Clan/Blood Spirit/Aerospace/3053 Clan Blood Spirit - Aerospace.txt*4244890015
+./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Heavy/3053 Clan Blood Spirit Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Heavy/3053 Clan Blood Spirit Mech - Heavy.txt*2315711301
+./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Light/3053 Clan Blood Spirit Mech - Light.txt*./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Light/3053 Clan Blood Spirit Mech - Light.txt*1268121036
+./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Medium/3053 Clan Blood Spirit Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Medium/3053 Clan Blood Spirit Mech - Medium.txt*2168507927
+./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Assault/3053 Clan Blood Spirit Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Blood Spirit/Mech/Assault/3053 Clan Blood Spirit Mech - Assault.txt*2948333747
+./data/rat/Era Report 3052/Clan/Blood Spirit/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Blood Spirit/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Steel Viper/Aerospace/3053 Clan Steel Viper - Aerospace.txt*./data/rat/Era Report 3052/Clan/Steel Viper/Aerospace/3053 Clan Steel Viper - Aerospace.txt*2858669904
+./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Heavy/3053 Clan Steel Viper Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Heavy/3053 Clan Steel Viper Mech - Heavy.txt*1515789038
+./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Light/3053 Clan Steel Viper Mech - Light.txt*./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Light/3053 Clan Steel Viper Mech - Light.txt*2042035886
+./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Medium/3053 Clan Steel Viper Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Medium/3053 Clan Steel Viper Mech - Medium.txt*666003926
+./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Assault/3053 Clan Steel Viper Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Steel Viper/Mech/Assault/3053 Clan Steel Viper Mech - Assault.txt*332151915
+./data/rat/Era Report 3052/Clan/Steel Viper/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Steel Viper/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Snow Raven/Aerospace/3053 Clan Snow Raven - Aerospace.txt*./data/rat/Era Report 3052/Clan/Snow Raven/Aerospace/3053 Clan Snow Raven - Aerospace.txt*3657704224
+./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Heavy/3053 Clan Snow Raven Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Heavy/3053 Clan Snow Raven Mech - Heavy.txt*1784658856
+./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Light/3053 Clan Snow Raven Mech - Light.txt*./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Light/3053 Clan Snow Raven Mech - Light.txt*841194513
+./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Medium/3053 Clan Snow Raven Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Medium/3053 Clan Snow Raven Mech - Medium.txt*3486587145
+./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Assault/3053 Clan Snow Raven Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Snow Raven/Mech/Assault/3053 Clan Snow Raven Mech - Assault.txt*3018677701
+./data/rat/Era Report 3052/Clan/Snow Raven/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Snow Raven/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Wolf/Aerospace/3053 Clan Wolf Mech - Aerospace.txt*./data/rat/Era Report 3052/Clan/Wolf/Aerospace/3053 Clan Wolf Mech - Aerospace.txt*2911137860
+./data/rat/Era Report 3052/Clan/Wolf/Mech/Heavy/3053 Clan Wolf Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Wolf/Mech/Heavy/3053 Clan Wolf Mech - Heavy.txt*1098063362
+./data/rat/Era Report 3052/Clan/Wolf/Mech/Light/3053 Clan Wolf Mech - Light.txt*./data/rat/Era Report 3052/Clan/Wolf/Mech/Light/3053 Clan Wolf Mech - Light.txt*2046547904
+./data/rat/Era Report 3052/Clan/Wolf/Mech/Medium/3053 Clan Wolf Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Wolf/Mech/Medium/3053 Clan Wolf Mech - Medium.txt*1001516589
+./data/rat/Era Report 3052/Clan/Wolf/Mech/Assault/3053 Clan Wolf Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Wolf/Mech/Assault/3053 Clan Wolf Mech - Assault.txt*1396400089
+./data/rat/Era Report 3052/Clan/Wolf/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Wolf/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Ghost Bear/Aerospace/3053 Clan Ghost Bear - Aerospace.txt*./data/rat/Era Report 3052/Clan/Ghost Bear/Aerospace/3053 Clan Ghost Bear - Aerospace.txt*2956863237
+./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Heavy/3053 Clan Ghost Bear Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Heavy/3053 Clan Ghost Bear Mech - Heavy.txt*4293519361
+./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Light/3053 Clan Ghost Bear Mech - Light.txt*./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Light/3053 Clan Ghost Bear Mech - Light.txt*284746901
+./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Medium/3053 Clan Ghost Bear Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Medium/3053 Clan Ghost Bear Mech - Medium.txt*438286369
+./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Assault/3053 Clan Ghost Bear Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Ghost Bear/Mech/Assault/3053 Clan Ghost Bear Mech - Assault.txt*2496974031
+./data/rat/Era Report 3052/Clan/Ghost Bear/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Ghost Bear/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Smoke Jaguar/Aerospace/3053 Clan Smoke Jaguar - Aerospace.txt*./data/rat/Era Report 3052/Clan/Smoke Jaguar/Aerospace/3053 Clan Smoke Jaguar - Aerospace.txt*3536919335
+./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Heavy/3053 Clan Smoke Jaguar Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Heavy/3053 Clan Smoke Jaguar Mech - Heavy.txt*3006383801
+./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Light/3053 Clan Smoke Jaguar Mech - Light.txt*./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Light/3053 Clan Smoke Jaguar Mech - Light.txt*2701290383
+./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Medium/3053 Clan Smoke Jaguar Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Medium/3053 Clan Smoke Jaguar Mech - Medium.txt*931303016
+./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Assault/3053 Clan Smoke Jaguar Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Smoke Jaguar/Mech/Assault/3053 Clan Smoke Jaguar Mech - Assault.txt*564543894
+./data/rat/Era Report 3052/Clan/Smoke Jaguar/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Smoke Jaguar/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Ice Hellion/Aerospace/3053 Clan Ice Hellion - Aerospace.txt*./data/rat/Era Report 3052/Clan/Ice Hellion/Aerospace/3053 Clan Ice Hellion - Aerospace.txt*3838036095
+./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Heavy/3053 Clan Ice Hellion Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Heavy/3053 Clan Ice Hellion Mech - Heavy.txt*2356991075
+./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Light/3053 Clan Ice Hellion Mech - Light.txt*./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Light/3053 Clan Ice Hellion Mech - Light.txt*4040351479
+./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Medium/3053 Clan Ice Hellion Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Medium/3053 Clan Ice Hellion Mech - Medium.txt*2367431879
+./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Assault/3053 Clan Ice Hellion Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Ice Hellion/Mech/Assault/3053 Clan Ice Hellion Mech - Assault.txt*1354746897
+./data/rat/Era Report 3052/Clan/Ice Hellion/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Ice Hellion/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Jade Falcon/Aerospace/3053 Clan Jade Falcon - Aerospace.txt*./data/rat/Era Report 3052/Clan/Jade Falcon/Aerospace/3053 Clan Jade Falcon - Aerospace.txt*1878399731
+./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Heavy/3053 Clan Jade Falcon Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Heavy/3053 Clan Jade Falcon Mech - Heavy.txt*3080497233
+./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Light/3053 Clan Jade Falcon Mech - Light.txt*./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Light/3053 Clan Jade Falcon Mech - Light.txt*3977755067
+./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Medium/3053 Clan Jade Falcon Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Medium/3053 Clan Jade Falcon Mech - Medium.txt*2852759691
+./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Assault/3053 Clan Jade Falcon Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Jade Falcon/Mech/Assault/3053 Clan Jade Falcon Mech - Assault.txt*3055171254
+./data/rat/Era Report 3052/Clan/Jade Falcon/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Jade Falcon/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Hells Horses/Aerospace/3053 Clan Hell's Horses - Aerospace.txt*./data/rat/Era Report 3052/Clan/Hells Horses/Aerospace/3053 Clan Hell's Horses - Aerospace.txt*3385752021
+./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Heavy/3053 Clan Hell's Horses Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Heavy/3053 Clan Hell's Horses Mech - Heavy.txt*966986561
+./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Light/3053 Clan Hell's Horses Mech - Light.txt*./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Light/3053 Clan Hell's Horses Mech - Light.txt*1700143841
+./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Medium/3053 Clan Hell's Horses Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Medium/3053 Clan Hell's Horses Mech - Medium.txt*392164520
+./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Assault/3053 Clan Hell's Horses Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Hells Horses/Mech/Assault/3053 Clan Hell's Horses Mech - Assault.txt*193825088
+./data/rat/Era Report 3052/Clan/Hells Horses/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Hells Horses/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Fire Mandrill/Aerospace/3053 Clan Fire Mandrill - Aerospace.txt*./data/rat/Era Report 3052/Clan/Fire Mandrill/Aerospace/3053 Clan Fire Mandrill - Aerospace.txt*4293964020
+./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Heavy/3053 Clan Fire Mandrill Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Heavy/3053 Clan Fire Mandrill Mech - Heavy.txt*736563040
+./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Light/3053 Clan Fire Mandrill Mech - Light.txt*./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Light/3053 Clan Fire Mandrill Mech - Light.txt*2723365049
+./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Medium/3053 Clan Fire Mandrill Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Medium/3053 Clan Fire Mandrill Mech - Medium.txt*1663043156
+./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Assault/3053 Clan Fire Mandrill Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Fire Mandrill/Mech/Assault/3053 Clan Fire Mandrill Mech - Assault.txt*3591516679
+./data/rat/Era Report 3052/Clan/Fire Mandrill/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Fire Mandrill/Battle Armor/3053 Clan Battle Armor.txt*886014783
+./data/rat/Era Report 3052/Clan/Diamond Sharks/Aerospace/3053 Clan Diamond Shark - Aerospace.txt*./data/rat/Era Report 3052/Clan/Diamond Sharks/Aerospace/3053 Clan Diamond Shark - Aerospace.txt*461339465
+./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Heavy/3053 Clan Diamond Shark Mech - Heavy.txt*./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Heavy/3053 Clan Diamond Shark Mech - Heavy.txt*2751048775
+./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Light/3053 Clan Diamond Shark Mech - Light.txt*./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Light/3053 Clan Diamond Shark Mech - Light.txt*1411288710
+./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Medium/3053 Clan Diamond Shark Mech - Medium.txt*./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Medium/3053 Clan Diamond Shark Mech - Medium.txt*2054521199
+./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Assault/3053 Clan Diamond Shark Mech - Assault.txt*./data/rat/Era Report 3052/Clan/Diamond Sharks/Mech/Assault/3053 Clan Diamond Shark Mech - Assault.txt*1309398226
+./data/rat/Era Report 3052/Clan/Diamond Sharks/Battle Armor/3053 Clan Battle Armor.txt*./data/rat/Era Report 3052/Clan/Diamond Sharks/Battle Armor/3053 Clan Battle Armor.txt*886014783
 ./data/rat/Total Warfare/Clan Diamond Shark Medium Mech.txt*./data/rat/Total Warfare/Clan Diamond Shark Medium Mech.txt*177750863
 ./data/rat/Total Warfare/Clan Aerospace Medium.txt*./data/rat/Total Warfare/Clan Aerospace Medium.txt*3817067662
 ./data/rat/Total Warfare/House Kurita Assault Mech.txt*./data/rat/Total Warfare/House Kurita Assault Mech.txt*2649347889
@@ -283,8 +570,80 @@
 ./data/rat/Total Warfare/House Marik Heavy Mech.txt*./data/rat/Total Warfare/House Marik Heavy Mech.txt*4136159986
 ./data/rat/Total Warfare/WoB Heavy Mech.txt*./data/rat/Total Warfare/WoB Heavy Mech.txt*3155071188
 ./data/rat/Total Warfare/WoB Assault Mech.txt*./data/rat/Total Warfare/WoB Assault Mech.txt*2996211059
+./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Medium Mech.txt*769872352
+./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Light Mech.txt*1804541886
+./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Heavy Mech.txt*3287378859
+./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/Periphery/Periphery Assault Mech.txt*2495456212
+./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Heavy Mech.txt*1270580290
+./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Medium Mech.txt*1157468324
+./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Light Mech.txt*170862588
+./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/Comstar/Comstar Assault Mech.txt*241016725
+./data/rat/Total Warfare/Inner Sphere/WoB/WoB Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/WoB/WoB Heavy Mech.txt*3155071188
+./data/rat/Total Warfare/Inner Sphere/WoB/WoB Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/WoB/WoB Assault Mech.txt*2996211059
+./data/rat/Total Warfare/Inner Sphere/WoB/WoB Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/WoB/WoB Light Mech.txt*1544355525
+./data/rat/Total Warfare/Inner Sphere/WoB/WoB Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/WoB/WoB Medium Mech.txt*14678574
+./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Assault Mech.txt*1863331250
+./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Medium Mech.txt*211039687
+./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Heavy Mech.txt*2030149204
+./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/Liao/House Liao Light Mech.txt*673038149
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Battle Armor.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Battle Armor.txt*3901251699
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Heavy.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Heavy.txt*224737586
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Aerospace Medium.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Aerospace Medium.txt*639980676
+./data/rat/Total Warfare/Inner Sphere/General/Conventional Infantry.txt*./data/rat/Total Warfare/Inner Sphere/General/Conventional Infantry.txt*3440642118
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Aerospace Light.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Aerospace Light.txt*904587087
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Medium.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Medium.txt*2742775062
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Dropship.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Dropship.txt*1554218765
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Light.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Light.txt*402919632
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Assault.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Vehicle Assault.txt*2414958912
+./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Aerospace Heavy.txt*./data/rat/Total Warfare/Inner Sphere/General/Inner Sphere Aerospace Heavy.txt*3313122277
+./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Heavy Mech.txt*4136159986
+./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Assault Mech.txt*2699192477
+./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Medium Mech.txt*1004170044
+./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/Marik/House Marik Light Mech.txt*193539885
+./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Assault Mech.txt*2898033701
+./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Light Mech.txt*1068182775
+./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Heavy Mech.txt*3337785035
+./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/Davion/House Davion Medium Mech.txt*3824552951
+./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Heavy Mech.txt*512275960
+./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Medium Mech.txt*2441464598
+./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Assault Mech.txt*3914432910
+./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/Steiner/House Steiner Light Mech.txt*3393208206
+./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Assault Mech.txt*./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Assault Mech.txt*2649347889
+./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Light Mech.txt*./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Light Mech.txt*3280519450
+./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Medium Mech.txt*./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Medium Mech.txt*1811777038
+./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Heavy Mech.txt*./data/rat/Total Warfare/Inner Sphere/Kurita/House Kurita Heavy Mech.txt*1782388002
 ./data/rat/Total Warfare/House Steiner Heavy Mech.txt*./data/rat/Total Warfare/House Steiner Heavy Mech.txt*512275960
 ./data/rat/Total Warfare/House Marik Assault Mech.txt*./data/rat/Total Warfare/House Marik Assault Mech.txt*2699192477
+./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Heavy Mech.txt*./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Heavy Mech.txt*1109778902
+./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Assault Mech.txt*./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Assault Mech.txt*679894551
+./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Medium Mech.txt*./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Medium Mech.txt*2613620183
+./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Light Mech.txt*./data/rat/Total Warfare/Clan/Snow Raven/Clan Snow Raven Light Mech.txt*977305999
+./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Medium Mech.txt*./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Medium Mech.txt*1570625162
+./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Heavy Mech.txt*./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Heavy Mech.txt*3502161956
+./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Light Mech.txt*./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Light Mech.txt*1716264458
+./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Assault Mech.txt*./data/rat/Total Warfare/Clan/Wolf/Clan Wolf Assault Mech.txt*1221853616
+./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Heavy Mech.txt*./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Heavy Mech.txt*1496703002
+./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Medium Mech.txt*./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Medium Mech.txt*1163806999
+./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Assault Mech.txt*./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Assault Mech.txt*2512272914
+./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Light Mech.txt*./data/rat/Total Warfare/Clan/Ghost Bear/Clan Ghost Bear Light Mech.txt*1694924842
+./data/rat/Total Warfare/Clan/General/Clan Aerospace Medium.txt*./data/rat/Total Warfare/Clan/General/Clan Aerospace Medium.txt*3817067662
+./data/rat/Total Warfare/Clan/General/Clan Battle Armor.txt*./data/rat/Total Warfare/Clan/General/Clan Battle Armor.txt*4290980169
+./data/rat/Total Warfare/Clan/General/Clan Aerospace Light.txt*./data/rat/Total Warfare/Clan/General/Clan Aerospace Light.txt*220584970
+./data/rat/Total Warfare/Clan/General/Clan Vehicle Heavy.txt*./data/rat/Total Warfare/Clan/General/Clan Vehicle Heavy.txt*4214286016
+./data/rat/Total Warfare/Clan/General/Clan Vehicle Medium.txt*./data/rat/Total Warfare/Clan/General/Clan Vehicle Medium.txt*4210516080
+./data/rat/Total Warfare/Clan/General/Clan Vehicle Assault.txt*./data/rat/Total Warfare/Clan/General/Clan Vehicle Assault.txt*1881118447
+./data/rat/Total Warfare/Clan/General/Clan Dropship.txt*./data/rat/Total Warfare/Clan/General/Clan Dropship.txt*8514015
+./data/rat/Total Warfare/Clan/General/Clan Aerospace Heavy.txt*./data/rat/Total Warfare/Clan/General/Clan Aerospace Heavy.txt*2681790089
+./data/rat/Total Warfare/Clan/General/Protomechs.txt*./data/rat/Total Warfare/Clan/General/Protomechs.txt*4024923714
+./data/rat/Total Warfare/Clan/General/Clan Vehicle Light.txt*./data/rat/Total Warfare/Clan/General/Clan Vehicle Light.txt*2828518017
+./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Medium Mech.txt*./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Medium Mech.txt*3566935030
+./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Light Mech.txt*./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Light Mech.txt*495044272
+./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Assault Mech.txt*./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Assault Mech.txt*94779988
+./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Heavy Mech.txt*./data/rat/Total Warfare/Clan/Jade Falcon/Clan Jade Falcon Heavy Mech.txt*3510862032
+./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Medium Mech.txt*./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Medium Mech.txt*177750863
+./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Light Mech.txt*./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Light Mech.txt*3474475138
+./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Assault Mech.txt*./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Assault Mech.txt*1267913775
+./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Heavy Mech.txt*./data/rat/Total Warfare/Clan/Diamond Shark/Clan Diamond Shark Heavy Mech.txt*581725752
 ./data/rat/Total Warfare/Clan Aerospace Light.txt*./data/rat/Total Warfare/Clan Aerospace Light.txt*220584970
 ./data/rat/Total Warfare/Clan Vehicle Heavy.txt*./data/rat/Total Warfare/Clan Vehicle Heavy.txt*4214286016
 ./data/rat/Total Warfare/House Marik Medium Mech.txt*./data/rat/Total Warfare/House Marik Medium Mech.txt*1004170044
@@ -340,6 +699,292 @@
 ./data/rat/Total Warfare/WoB Medium Mech.txt*./data/rat/Total Warfare/WoB Medium Mech.txt*14678574
 ./data/rat/Total Warfare/Periphery Assault Mech.txt*./data/rat/Total Warfare/Periphery Assault Mech.txt*2495456212
 ./data/rat/Total Warfare/House Kurita Heavy Mech.txt*./data/rat/Total Warfare/House Kurita Heavy Mech.txt*1782388002
+./data/rat/Unofficial/Temporary Placeholder.txt*./data/rat/Unofficial/Temporary Placeholder.txt*2382118797
+./data/rat/Blake Documents/WoB/Aerospace/Heavy/WoB Heavy Aerospace SD_A.txt*./data/rat/Blake Documents/WoB/Aerospace/Heavy/WoB Heavy Aerospace SD_A.txt*1315289662
+./data/rat/Blake Documents/WoB/Aerospace/Heavy/WoB Heavy Aerospace B_PM.txt*./data/rat/Blake Documents/WoB/Aerospace/Heavy/WoB Heavy Aerospace B_PM.txt*1514130158
+./data/rat/Blake Documents/WoB/Aerospace/Dropship/WoB Dropships B_PM.txt*./data/rat/Blake Documents/WoB/Aerospace/Dropship/WoB Dropships B_PM.txt*4193726798
+./data/rat/Blake Documents/WoB/Aerospace/Dropship/WoB Dropships SD_A.txt*./data/rat/Blake Documents/WoB/Aerospace/Dropship/WoB Dropships SD_A.txt*3328179304
+./data/rat/Blake Documents/WoB/Aerospace/Light/WoB Light Aerospace SD_A.txt*./data/rat/Blake Documents/WoB/Aerospace/Light/WoB Light Aerospace SD_A.txt*1333689662
+./data/rat/Blake Documents/WoB/Aerospace/Light/WoB Light Aerospace B_PM.txt*./data/rat/Blake Documents/WoB/Aerospace/Light/WoB Light Aerospace B_PM.txt*3714866013
+./data/rat/Blake Documents/WoB/Aerospace/Medium/WoB Medium Aerospace SD_A.txt*./data/rat/Blake Documents/WoB/Aerospace/Medium/WoB Medium Aerospace SD_A.txt*2834338728
+./data/rat/Blake Documents/WoB/Aerospace/Medium/WoB Medium Aerospace B_PM.txt*./data/rat/Blake Documents/WoB/Aerospace/Medium/WoB Medium Aerospace B_PM.txt*3632211687
+./data/rat/Blake Documents/WoB/Tank/WoB Medium Tank.txt*./data/rat/Blake Documents/WoB/Tank/WoB Medium Tank.txt*1740809778
+./data/rat/Blake Documents/WoB/Tank/WoB Assault Tank.txt*./data/rat/Blake Documents/WoB/Tank/WoB Assault Tank.txt*1245368892
+./data/rat/Blake Documents/WoB/Tank/WoB Heavy Tank.txt*./data/rat/Blake Documents/WoB/Tank/WoB Heavy Tank.txt*1304372306
+./data/rat/Blake Documents/WoB/Tank/WoB Light Tank.txt*./data/rat/Blake Documents/WoB/Tank/WoB Light Tank.txt*2725627774
+./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech A.txt*./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech A.txt*3614091268
+./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech SD.txt*./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech SD.txt*1341121365
+./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech PM.txt*./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech PM.txt*1217509857
+./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech B.txt*./data/rat/Blake Documents/WoB/Mech/Heavy/WoB Heavy Mech B.txt*1152123720
+./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech PM.txt*./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech PM.txt*577688724
+./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech B.txt*./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech B.txt*2426170470
+./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech A.txt*./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech A.txt*830091668
+./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech SD.txt*./data/rat/Blake Documents/WoB/Mech/Light/WoB Light Mech SD.txt*1307759487
+./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mechs B.txt*./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mechs B.txt*1957170728
+./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mech PM.txt*./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mech PM.txt*3615007619
+./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mechs SD.txt*./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mechs SD.txt*1086787980
+./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mechs A.txt*./data/rat/Blake Documents/WoB/Mech/Medium/WoB Medium Mechs A.txt*1473776335
+./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech A.txt*./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech A.txt*3554884226
+./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech B.txt*./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech B.txt*3106668923
+./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech PM.txt*./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech PM.txt*323704243
+./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech SD.txt*./data/rat/Blake Documents/WoB/Mech/Assault/WoB Assault Mech SD.txt*3512384510
+./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Dropship.txt*./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Dropship.txt*3047356109
+./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Heavy Aero.txt*./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Heavy Aero.txt*2631483420
+./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Medium Aero.txt*./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Medium Aero.txt*1677445942
+./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Light Aero.txt*./data/rat/FM Updates/Inner Sphere/WoB/Aerospace/WoB (FMU) Light Aero.txt*2222989296
+./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Light Tanks.txt*./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Light Tanks.txt*2801098050
+./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Assault Tanks.txt*./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Assault Tanks.txt*470124481
+./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Heavy Tanks.txt*./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Heavy Tanks.txt*2220614500
+./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Medium Tanks.txt*./data/rat/FM Updates/Inner Sphere/WoB/Tank/WoB (FMU) Medium Tanks.txt*2806819381
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Heavy/WoB (FMU) Heavy Mech A.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Heavy/WoB (FMU) Heavy Mech A.txt*1982093650
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Heavy/WoB (FMU) Heavy Mech B.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Heavy/WoB (FMU) Heavy Mech B.txt*1330512172
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Light/WoB (FMU) Light Mech B.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Light/WoB (FMU) Light Mech B.txt*1339135448
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Light/WoB (FMU) Light Mech A.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Light/WoB (FMU) Light Mech A.txt*100483175
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Medium/WoB (FMU) Medium Mech B.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Medium/WoB (FMU) Medium Mech B.txt*1877010471
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Medium/WoB (FMU) Medium Mech A.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Medium/WoB (FMU) Medium Mech A.txt*2657548660
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Assault/WoB (FMU) Assault Mech B.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Assault/WoB (FMU) Assault Mech B.txt*57860232
+./data/rat/FM Updates/Inner Sphere/WoB/Mech/Assault/WoB (FMU) Assault Mech A.txt*./data/rat/FM Updates/Inner Sphere/WoB/Mech/Assault/WoB (FMU) Assault Mech A.txt*2535844348
+./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Heavy Aero.txt*./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Heavy Aero.txt*852124710
+./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Dropship.txt*./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Dropship.txt*1613727917
+./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Light Aero.txt*./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Light Aero.txt*821446905
+./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Medium Aero.txt*./data/rat/FM Updates/Inner Sphere/Star League/Aerospace/SL (FMU) Medium Aero.txt*3369841443
+./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Medium Vehicles.txt*./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Medium Vehicles.txt*1888269750
+./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Heavy Vehicles.txt*./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Heavy Vehicles.txt*2261507472
+./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Assault Vehicles.txt*./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Assault Vehicles.txt*1736476965
+./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Light Vehicles.txt*./data/rat/FM Updates/Inner Sphere/Star League/Tank/SL (FMU) Light Vehicles.txt*3176405554
+./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Light Mech.txt*./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Light Mech.txt*716056146
+./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Medium Mech.txt*./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Medium Mech.txt*3322589311
+./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Heavy Mech.txt*./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Heavy Mech.txt*3741999791
+./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Assault Mech.txt*./data/rat/FM Updates/Inner Sphere/Star League/Mech/SL (FMU) Assault Mech.txt*903313955
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech D.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech D.txt*1209568338
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Light Tanks.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Light Tanks.txt*917731379
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech F.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech F.txt*1613731178
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Assault Tanks.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Assault Tanks.txt*2160008766
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Dropship.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Dropship.txt*1838940998
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech A.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech A.txt*4086342807
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Medium Tanks.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Medium Tanks.txt*3299068494
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech C.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech C.txt*1476446072
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Battle Armor.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Battle Armor.txt*1656474033
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech B.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech B.txt*1178670052
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech B.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech B.txt*3314682751
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech D.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech D.txt*2512984753
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech B.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech B.txt*3622110462
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech A.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech A.txt*2092300093
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech C.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech C.txt*410257508
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Med Aero.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Med Aero.txt*1889852982
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech F.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech F.txt*27976908
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech F.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech F.txt*934439995
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech D.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech D.txt*1550520997
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech D.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech D.txt*2921463575
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Lt Aero.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Lt Aero.txt*3285330968
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech A.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Light Mech A.txt*1785329663
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech B.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech B.txt*3957287264
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech F.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech F.txt*2130931281
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech C.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Medium Mech C.txt*2473920071
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Heavy Tanks.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Vehicles Heavy Tanks.txt*2288591921
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech C.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Assault Mech C.txt*3200088934
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Hvy Aero.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Aerospace Hvy Aero.txt*2993748676
+./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech A.txt*./data/rat/FM Updates/Inner Sphere/Capellan Confederation/CCAF Heavy Mech A.txt*2853215299
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Dropship.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Dropship.txt*3176029648
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Light Aero.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Light Aero.txt*3769298660
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Medium Aero.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Medium Aero.txt*4272291953
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Heavy Aero.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Aerospace/AFFS (FMU) Heavy Aero.txt*146977694
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Medium Tanks.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Medium Tanks.txt*25878986
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Heavy Tanks.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Heavy Tanks.txt*3994281065
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Assault Tanks.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Assault Tanks.txt*351819563
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Light Tanks.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Tank/AFFS (FMU) Light Tanks.txt*4235438743
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech F.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech F.txt*2642066761
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech D.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech D.txt*961729373
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech A.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech A.txt*4118951101
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech C.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech C.txt*1613530421
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech B.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Heavy/AFFS (FMU) Heavy Mech B.txt*2272255699
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech F.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech F.txt*357833820
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech D.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech D.txt*3724298818
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech A.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech A.txt*4263963747
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech B.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech B.txt*28462418
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech C.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Light/AFFS (FMU) Light Mech C.txt*2420227993
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech F.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech F.txt*937562934
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech A.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech A.txt*4123827717
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech D.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech D.txt*1219678408
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech C.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech C.txt*1432410967
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech B.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Medium/AFFS (FMU) Medium Mech B.txt*2416388028
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech D.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech D.txt*3847807606
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech C.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech C.txt*821020075
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech A.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech A.txt*3650995529
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech B.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech B.txt*2570019167
+./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech F.txt*./data/rat/FM Updates/Inner Sphere/Federated Suns/Mech/Assault/AFFS (FMU) Assault Mech F.txt*2587401899
+./data/rat/FM Updates/Clan/Cloud Cobra/Cloud Cobra Protomech (FMU).txt*./data/rat/FM Updates/Clan/Cloud Cobra/Cloud Cobra Protomech (FMU).txt*2225471893
+./data/rat/FM Updates/Clan/Nova Cat/Nova Cat Protomech (FMU).txt*./data/rat/FM Updates/Clan/Nova Cat/Nova Cat Protomech (FMU).txt*4211447380
+./data/rat/FM Updates/Clan/Star Adder/Star Adder Protomech (FMU).txt*./data/rat/FM Updates/Clan/Star Adder/Star Adder Protomech (FMU).txt*1715526333
+./data/rat/FM Updates/Clan/Star Adder/Mech/Heavy/Star_Adder_Front_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Heavy/Star_Adder_Front_Line_HeavyMech.txt*172869211
+./data/rat/FM Updates/Clan/Star Adder/Mech/Heavy/Star_Adder_2nd_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Heavy/Star_Adder_2nd_Line_HeavyMech.txt*2529766283
+./data/rat/FM Updates/Clan/Star Adder/Mech/Light/Star_Adder_2nd_Line_LightMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Light/Star_Adder_2nd_Line_LightMech.txt*2061306305
+./data/rat/FM Updates/Clan/Star Adder/Mech/Light/Star_Adder_Front_Line_LightMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Light/Star_Adder_Front_Line_LightMech.txt*2931279743
+./data/rat/FM Updates/Clan/Star Adder/Mech/Medium/Star_Adder_2nd_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Medium/Star_Adder_2nd_Line_MediumMech.txt*2168119128
+./data/rat/FM Updates/Clan/Star Adder/Mech/Medium/Star_Adder_Front_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Medium/Star_Adder_Front_Line_MediumMech.txt*831181996
+./data/rat/FM Updates/Clan/Star Adder/Mech/Assault/Star_Adder_2nd_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Assault/Star_Adder_2nd_Line_AssaultMech.txt*74312905
+./data/rat/FM Updates/Clan/Star Adder/Mech/Assault/Star_Adder_Front_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Star Adder/Mech/Assault/Star_Adder_Front_Line_AssaultMech.txt*3427393622
+./data/rat/FM Updates/Clan/Coyote/Coyote Protomech (FMU).txt*./data/rat/FM Updates/Clan/Coyote/Coyote Protomech (FMU).txt*1198898491
+./data/rat/FM Updates/Clan/Goliath Scorpion/Goliath Scorpion Protomech (FMU).txt*./data/rat/FM Updates/Clan/Goliath Scorpion/Goliath Scorpion Protomech (FMU).txt*260731872
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Heavy/Blood_Spirit_Front_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Heavy/Blood_Spirit_Front_Line_HeavyMech.txt*2565136420
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Heavy/Blood_Spirit_2nd_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Heavy/Blood_Spirit_2nd_Line_HeavyMech.txt*2161161573
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Light/Blood_Spirit_Front_Line_LightMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Light/Blood_Spirit_Front_Line_LightMech.txt*399583760
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Light/Blood_Spirit_2nd_Line_LightMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Light/Blood_Spirit_2nd_Line_LightMech.txt*3012542890
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Medium/Blood_Spirit_2nd_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Medium/Blood_Spirit_2nd_Line_MediumMech.txt*1121350034
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Medium/Blood_Spirit_Front_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Medium/Blood_Spirit_Front_Line_MediumMech.txt*2512643936
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Assault/Blood_Spirit_2nd_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Assault/Blood_Spirit_2nd_Line_AssaultMech.txt*3357869806
+./data/rat/FM Updates/Clan/Blood Spirit/Mech/Assault/Blood_Spirit_Front_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Blood Spirit/Mech/Assault/Blood_Spirit_Front_Line_AssaultMech.txt*3548133641
+./data/rat/FM Updates/Clan/Blood Spirit/Blood Spirits Protomech (FMU).txt*./data/rat/FM Updates/Clan/Blood Spirit/Blood Spirits Protomech (FMU).txt*2775675484
+./data/rat/FM Updates/Clan/Wolf (in-Exile)/Wolf (in-Exile) Protomech (FMU).txt*./data/rat/FM Updates/Clan/Wolf (in-Exile)/Wolf (in-Exile) Protomech (FMU).txt*3920749297
+./data/rat/FM Updates/Clan/Snow Raven/Snow Raven Protomech (FMU).txt*./data/rat/FM Updates/Clan/Snow Raven/Snow Raven Protomech (FMU).txt*153870590
+./data/rat/FM Updates/Clan/Wolf/Mech/Heavy/Wolf_Front_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Heavy/Wolf_Front_Line_HeavyMech.txt*206126051
+./data/rat/FM Updates/Clan/Wolf/Mech/Heavy/Wolf_2nd_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Heavy/Wolf_2nd_Line_HeavyMech.txt*4184722618
+./data/rat/FM Updates/Clan/Wolf/Mech/Light/Wolf_Front_Line_LightMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Light/Wolf_Front_Line_LightMech.txt*3809336912
+./data/rat/FM Updates/Clan/Wolf/Mech/Light/Wolf_2nd_Line_LightMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Light/Wolf_2nd_Line_LightMech.txt*1653732620
+./data/rat/FM Updates/Clan/Wolf/Mech/Medium/Wolf_Front_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Medium/Wolf_Front_Line_MediumMech.txt*3756135490
+./data/rat/FM Updates/Clan/Wolf/Mech/Medium/Wolf_2nd_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Medium/Wolf_2nd_Line_MediumMech.txt*4250419982
+./data/rat/FM Updates/Clan/Wolf/Mech/Assault/Wolf_Front_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Assault/Wolf_Front_Line_AssaultMech.txt*3032648224
+./data/rat/FM Updates/Clan/Wolf/Mech/Assault/Wolf_2nd_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Wolf/Mech/Assault/Wolf_2nd_Line_AssaultMech.txt*3882730556
+./data/rat/FM Updates/Clan/Ice Hellion/Ice Hellion Protomech (FMU).txt*./data/rat/FM Updates/Clan/Ice Hellion/Ice Hellion Protomech (FMU).txt*3204844897
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Heavy/Ice_Hellion_Front_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Heavy/Ice_Hellion_Front_Line_HeavyMech.txt*902211708
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Heavy/Ice_Hellion_2nd_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Heavy/Ice_Hellion_2nd_Line_HeavyMech.txt*3363973011
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Light/Ice_Hellion_Front_Line_LightMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Light/Ice_Hellion_Front_Line_LightMech.txt*1679078498
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Light/Ice_Hellion_2nd_Line_LightMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Light/Ice_Hellion_2nd_Line_LightMech.txt*2562355392
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Medium/Ice_Hellion_2nd_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Medium/Ice_Hellion_2nd_Line_MediumMech.txt*1857379798
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Medium/Ice_Hellion_Front_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Medium/Ice_Hellion_Front_Line_MediumMech.txt*2169871603
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Assault/Ice_Hellion_2nd_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Assault/Ice_Hellion_2nd_Line_AssaultMech.txt*2631382804
+./data/rat/FM Updates/Clan/Ice Hellion/Mech/Assault/Ice_Hellion_Front_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Ice Hellion/Mech/Assault/Ice_Hellion_Front_Line_AssaultMech.txt*1273466391
+./data/rat/FM Updates/Clan/Jade Falcon/Jade Falcon Protomech (FMU).txt*./data/rat/FM Updates/Clan/Jade Falcon/Jade Falcon Protomech (FMU).txt*4260676513
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Heavy/Jade_Falcon_Front_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Heavy/Jade_Falcon_Front_Line_HeavyMech.txt*3086245622
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Heavy/Jade_Falcon_2nd_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Heavy/Jade_Falcon_2nd_Line_HeavyMech.txt*1038005279
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Light/Jade_Falcon_2nd_Line_LightMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Light/Jade_Falcon_2nd_Line_LightMech.txt*448800327
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Light/Jade_Falcon_Front_Line_LightMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Light/Jade_Falcon_Front_Line_LightMech.txt*1732920373
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Medium/Jade_Falcon_2nd_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Medium/Jade_Falcon_2nd_Line_MediumMech.txt*1281812596
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Medium/Jade_Falcon_Front_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Medium/Jade_Falcon_Front_Line_MediumMech.txt*1139695785
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Assault/Jade_Falcon_2nd_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Assault/Jade_Falcon_2nd_Line_AssaultMech.txt*3767463355
+./data/rat/FM Updates/Clan/Jade Falcon/Mech/Assault/Jade_Falcon_Front_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Jade Falcon/Mech/Assault/Jade_Falcon_Front_Line_AssaultMech.txt*3732206795
+./data/rat/FM Updates/Clan/Hells Horses/Hells Horses Protomech (FMU).txt*./data/rat/FM Updates/Clan/Hells Horses/Hells Horses Protomech (FMU).txt*753029751
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Heavy/Hells_Horses_2nd_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Heavy/Hells_Horses_2nd_Line_HeavyMech.txt*2858537537
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Heavy/Hells_Horses_Front_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Heavy/Hells_Horses_Front_Line_HeavyMech.txt*2516317941
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Light/Hells_Horses_Front_Line_LightMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Light/Hells_Horses_Front_Line_LightMech.txt*2757554509
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Light/Hells_Horses_2nd_Line_LightMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Light/Hells_Horses_2nd_Line_LightMech.txt*458637327
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Medium/Hells_Horses_2nd_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Medium/Hells_Horses_2nd_Line_MediumMech.txt*386245185
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Medium/Hells_Horses_Front_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Medium/Hells_Horses_Front_Line_MediumMech.txt*3051635929
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Assault/Hells_Horses_2nd_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Assault/Hells_Horses_2nd_Line_AssaultMech.txt*1581396382
+./data/rat/FM Updates/Clan/Hells Horses/Mech/Assault/Hells_Horses_Front_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Hells Horses/Mech/Assault/Hells_Horses_Front_Line_AssaultMech.txt*1353739105
+./data/rat/FM Updates/Clan/Fire Mandrill/Fire Mandrill Protomech (FMU).txt*./data/rat/FM Updates/Clan/Fire Mandrill/Fire Mandrill Protomech (FMU).txt*3219451020
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Heavy/Fire_Mandrill_Front_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Heavy/Fire_Mandrill_Front_Line_HeavyMech.txt*215527767
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Heavy/Fire_Mandrill_2nd_Line_HeavyMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Heavy/Fire_Mandrill_2nd_Line_HeavyMech.txt*3968659431
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Light/Fire_Mandrill_Front_Line_LightMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Light/Fire_Mandrill_Front_Line_LightMech.txt*2860472886
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Light/Fire_Mandrill_2nd_Line_LightMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Light/Fire_Mandrill_2nd_Line_LightMech.txt*4270427648
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Medium/Fire_Mandrill_Front_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Medium/Fire_Mandrill_Front_Line_MediumMech.txt*3134953389
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Medium/Fire_Mandrill_2nd_Line_MediumMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Medium/Fire_Mandrill_2nd_Line_MediumMech.txt*706282053
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Assault/Fire_Mandrill_Front_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Assault/Fire_Mandrill_Front_Line_AssaultMech.txt*3802653535
+./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Assault/Fire_Mandrill_2nd_Line_AssaultMech.txt*./data/rat/FM Updates/Clan/Fire Mandrill/Mech/Assault/Fire_Mandrill_2nd_Line_AssaultMech.txt*1249814362
+./data/rat/War of 3039/Liao/3039 House Liao Vehicle Light.txt*./data/rat/War of 3039/Liao/3039 House Liao Vehicle Light.txt*2359925733
+./data/rat/War of 3039/Liao/3039 House Liao Dropships.txt*./data/rat/War of 3039/Liao/3039 House Liao Dropships.txt*358264704
+./data/rat/War of 3039/Liao/3039 House Liao Vehicle Medium.txt*./data/rat/War of 3039/Liao/3039 House Liao Vehicle Medium.txt*3757774818
+./data/rat/War of 3039/Liao/3039 House Liao Aerospace Medium.txt*./data/rat/War of 3039/Liao/3039 House Liao Aerospace Medium.txt*4169017680
+./data/rat/War of 3039/Liao/3039 House Liao Vehicle Heavy.txt*./data/rat/War of 3039/Liao/3039 House Liao Vehicle Heavy.txt*4023391094
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Assault C.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Assault C.txt*1432062698
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Assault B.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Assault B.txt*2298832346
+./data/rat/War of 3039/Liao/3039 House Liao Aerospace Heavy.txt*./data/rat/War of 3039/Liao/3039 House Liao Aerospace Heavy.txt*1479338530
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Heavy B.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Heavy B.txt*4086090090
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Medium C.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Medium C.txt*3731021916
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Assault A.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Assault A.txt*3490832907
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Heavy C.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Heavy C.txt*716220396
+./data/rat/War of 3039/Liao/3039 House Liao Vehicle Assault.txt*./data/rat/War of 3039/Liao/3039 House Liao Vehicle Assault.txt*2040569257
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Light B.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Light B.txt*2352052881
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Light A.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Light A.txt*2617084658
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Light C.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Light C.txt*157980928
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Medium A.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Medium A.txt*949233548
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Heavy A.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Heavy A.txt*3683538636
+./data/rat/War of 3039/Liao/3039 House Liao Aerospace Light.txt*./data/rat/War of 3039/Liao/3039 House Liao Aerospace Light.txt*3935424577
+./data/rat/War of 3039/Liao/3039 House Liao Mech - Medium B.txt*./data/rat/War of 3039/Liao/3039 House Liao Mech - Medium B.txt*41876320
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Medium B.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Medium B.txt*2523669955
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Light B.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Light B.txt*1030125290
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Light A.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Light A.txt*3077409781
+./data/rat/War of 3039/Marik/3039 House Marik Vehicle Medium.txt*./data/rat/War of 3039/Marik/3039 House Marik Vehicle Medium.txt*2824065802
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Light C.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Light C.txt*2303340893
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Assault A.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Assault A.txt*4144299016
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Heavy A.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Heavy A.txt*493284741
+./data/rat/War of 3039/Marik/3039 House Marik Aerospace Heavy.txt*./data/rat/War of 3039/Marik/3039 House Marik Aerospace Heavy.txt*1782484147
+./data/rat/War of 3039/Marik/3039 House Marik Vehicle Assault.txt*./data/rat/War of 3039/Marik/3039 House Marik Vehicle Assault.txt*1872250831
+./data/rat/War of 3039/Marik/3039 House Marik Vehicle Light.txt*./data/rat/War of 3039/Marik/3039 House Marik Vehicle Light.txt*206326927
+./data/rat/War of 3039/Marik/3039 House Marik Vehicle Heavy.txt*./data/rat/War of 3039/Marik/3039 House Marik Vehicle Heavy.txt*291081057
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Medium C.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Medium C.txt*3511785860
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Assault C.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Assault C.txt*2519491767
+./data/rat/War of 3039/Marik/3039 House Marik Dropships.txt*./data/rat/War of 3039/Marik/3039 House Marik Dropships.txt*2439785456
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Assault B.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Assault B.txt*3977566663
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Heavy B.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Heavy B.txt*1285195073
+./data/rat/War of 3039/Marik/3039 House Marik Aerospace Light.txt*./data/rat/War of 3039/Marik/3039 House Marik Aerospace Light.txt*2809602106
+./data/rat/War of 3039/Marik/3039 House Marik Aerospace Medium.txt*./data/rat/War of 3039/Marik/3039 House Marik Aerospace Medium.txt*1031187127
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Medium A.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Medium A.txt*4116359594
+./data/rat/War of 3039/Marik/3039 House Marik Mech - Heavy C.txt*./data/rat/War of 3039/Marik/3039 House Marik Mech - Heavy C.txt*2700536431
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Medium B.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Medium B.txt*4023375337
+./data/rat/War of 3039/Davion/3039 House Davion Vehicle Heavy.txt*./data/rat/War of 3039/Davion/3039 House Davion Vehicle Heavy.txt*904732270
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Heavy C.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Heavy C.txt*1964306664
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Assault A.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Assault A.txt*2482794607
+./data/rat/War of 3039/Davion/3039 House Davion Aerospace Heavy.txt*./data/rat/War of 3039/Davion/3039 House Davion Aerospace Heavy.txt*3610391602
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Light B.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Light B.txt*1341795361
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Light A.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Light A.txt*563311035
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Light C.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Light C.txt*3850393496
+./data/rat/War of 3039/Davion/3039 House Davion Vehicle Medium.txt*./data/rat/War of 3039/Davion/3039 House Davion Vehicle Medium.txt*1457372812
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Heavy A.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Heavy A.txt*1690849269
+./data/rat/War of 3039/Davion/3039 House Davion Dropships.txt*./data/rat/War of 3039/Davion/3039 House Davion Dropships.txt*522460575
+./data/rat/War of 3039/Davion/3039 House Davion Aerospace Light.txt*./data/rat/War of 3039/Davion/3039 House Davion Aerospace Light.txt*1254218715
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Assault C.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Assault C.txt*2272165374
+./data/rat/War of 3039/Davion/3039 House Davion Vehicle Assault.txt*./data/rat/War of 3039/Davion/3039 House Davion Vehicle Assault.txt*176555115
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Medium C.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Medium C.txt*927939675
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Assault B.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Assault B.txt*2740085182
+./data/rat/War of 3039/Davion/3039 House Davion Aerospace Medium.txt*./data/rat/War of 3039/Davion/3039 House Davion Aerospace Medium.txt*2651311110
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Heavy B.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Heavy B.txt*742799273
+./data/rat/War of 3039/Davion/3039 House Davion Vehicle Light.txt*./data/rat/War of 3039/Davion/3039 House Davion Vehicle Light.txt*3902703564
+./data/rat/War of 3039/Davion/3039 House Davion Mech - Medium A.txt*./data/rat/War of 3039/Davion/3039 House Davion Mech - Medium A.txt*1426623987
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Heavy B.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Heavy B.txt*3217988582
+./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Assault.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Assault.txt*1838685971
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Medium A.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Medium A.txt*3187486142
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Heavy C.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Heavy C.txt*2967534590
+./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Light.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Light.txt*1899647472
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Medium B.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Medium B.txt*2494531770
+./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Medium.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Medium.txt*2746061032
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Light B.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Light B.txt*1940690682
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Light C.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Light C.txt*3323906510
+./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Heavy.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Vehicle Heavy.txt*4218557171
+./data/rat/War of 3039/Steiner/3039 House Steiner Aerospace Light.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Aerospace Light.txt*1448860967
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Light A.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Light A.txt*4259203476
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Heavy A.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Heavy A.txt*2446097578
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Assault C.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Assault C.txt*2532599003
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Assault B.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Assault B.txt*3830612481
+./data/rat/War of 3039/Steiner/3039 House Steiner Dropships.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Dropships.txt*696222186
+./data/rat/War of 3039/Steiner/3039 House Steiner Aerospace Medium.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Aerospace Medium.txt*2455369853
+./data/rat/War of 3039/Steiner/3039 House Steiner Aerospace Heavy.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Aerospace Heavy.txt*3254159232
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Medium C.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Medium C.txt*3931474950
+./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Assault A.txt*./data/rat/War of 3039/Steiner/3039 House Steiner Mech - Assault A.txt*4218753585
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light A.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light A.txt*3774194985
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light C.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light C.txt*2699818778
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy special.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy special.txt*2239802937
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy A.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy A.txt*953787695
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault A.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault A.txt*2622000097
+./data/rat/War of 3039/Kurita/3039 House Kurita Aerospace Heavy.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Aerospace Heavy.txt*3820919891
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault special.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault special.txt*2655007364
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium C.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium C.txt*2800000873
+./data/rat/War of 3039/Kurita/3039 House Kurita Dropships.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Dropships.txt*385565806
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light special.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light special.txt*4285414032
+./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Assault.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Assault.txt*2549020192
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy B.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy B.txt*1735880320
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium special.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium special.txt*3377815171
+./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Light.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Light.txt*4010771347
+./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Medium.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Medium.txt*1091580188
+./data/rat/War of 3039/Kurita/3039 House Kurita Aerospace Medium.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Aerospace Medium.txt*2367337050
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium A.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium A.txt*3851434951
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium B.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Medium B.txt*2376335062
+./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Heavy.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Vehicle Heavy.txt*2612547104
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault C.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault C.txt*2670554198
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy C.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Heavy C.txt*3698198652
+./data/rat/War of 3039/Kurita/3039 House Kurita Aerospace Light.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Aerospace Light.txt*934754713
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault B.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Assault B.txt*3998316361
+./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light B.txt*./data/rat/War of 3039/Kurita/3039 House Kurita Mech - Light B.txt*2674561219
 ./data/boards/CastleBrian_General1.board*./data/boards/CastleBrian_General1.board*2603347035
 ./data/boards/wueste 1.board*./data/boards/wueste 1.board*2632196726
 ./data/boards/AN1.board*./data/boards/AN1.board*3919325697
@@ -358,6 +1003,7 @@
 ./data/boards/GDL-DecisionAtThunderRift.board*./data/boards/GDL-DecisionAtThunderRift.board*2089484726
 ./data/boards/Canyon 3.board*./data/boards/Canyon 3.board*3438803002
 ./data/boards/cityhillsresidential2.board*./data/boards/cityhillsresidential2.board*3025891412
+./data/boards/.directory*./data/boards/.directory*464986169
 ./data/boards/Flughafen 6.board*./data/boards/Flughafen 6.board*3369443306
 ./data/boards/BN5.board*./data/boards/BN5.board*1058912538
 ./data/boards/riverdelta2.board*./data/boards/riverdelta2.board*2522791513
@@ -756,7 +1402,7 @@
 ./data/images/repair.gif*./data/images/repair.gif*2107002427
 ./data/images/hqexchange.gif*./data/images/hqexchange.gif*3163453123
 ./data/images/openCapellan Confederation.gif*./data/images/openCapellan Confederation.gif*3911381592
-./data/images/.directory*./data/images/.directory*2390430734
+./data/images/.directory*./data/images/.directory*2925779549
 ./data/images/openTH CAAN.GIF*./data/images/openTH CAAN.GIF*1058129263
 ./data/images/raf.ico*./data/images/raf.ico*3469195425
 ./data/images/wood2.gif*./data/images/wood2.gif*337529825
@@ -2872,7 +3518,7 @@
 ./data/images/hexes/artyauto.gif*./data/images/hexes/artyauto.gif*3879050168
 ./data/images/openFree Worlds League.gif*./data/images/openFree Worlds League.gif*2528324337
 ./data/images/li.gif*./data/images/li.gif*2700360066
-./data/images/mekwarsmap.jpg*./data/images/mekwarsmap.jpg*2415842367
+./data/images/mekwarsmap.jpg*./data/images/mekwarsmap.jpg*3682631227
 ./data/images/activatebutton.png*./data/images/activatebutton.png*1066672685
 ./data/images/portraits/default.gif*./data/images/portraits/default.gif*702787866
 ./data/images/portraits/GDL_3028/gdl3b.png*./data/images/portraits/GDL_3028/gdl3b.png*890581405
@@ -3032,8 +3678,12 @@
 ./data/images/units/defaults/default_naval.gif*./data/images/units/defaults/default_naval.gif*1806858262
 ./data/images/units/defaults/default_tracked.gif*./data/images/units/defaults/default_tracked.gif*384465223
 ./data/images/units/defaults/default_vtol.gif*./data/images/units/defaults/default_vtol.gif*3577915706
+./data/images/units/convfighter/guardian.gif*./data/images/units/convfighter/guardian.gif*3125926471
+./data/images/units/convfighter/mediumstrikefighter.gif*./data/images/units/convfighter/mediumstrikefighter.gif*3476470984
 ./data/images/units/convfighter/boomerang1.gif*./data/images/units/convfighter/boomerang1.gif*2544804823
 ./data/images/units/convfighter/boomerang.gif*./data/images/units/convfighter/boomerang.gif*1415809984
+./data/images/units/convfighter/heavystrikefighter.gif*./data/images/units/convfighter/heavystrikefighter.gif*2138620648
+./data/images/units/convfighter/boeing_jump_bomber.gif*./data/images/units/convfighter/boeing_jump_bomber.gif*4161849984
 ./data/images/units/convfighter/mechbuster.gif*./data/images/units/convfighter/mechbuster.gif*3500069303
 ./data/images/units/convfighter/lightstrikefighter.gif*./data/images/units/convfighter/lightstrikefighter.gif*1200230162
 ./data/images/units/dropships/achilles.gif*./data/images/units/dropships/achilles.gif*1202467172
@@ -3049,6 +3699,7 @@
 ./data/images/units/fighter/lucifer.gif*./data/images/units/fighter/lucifer.gif*2701824061
 ./data/images/units/fighter/huscarl.gif*./data/images/units/fighter/huscarl.gif*2458484576
 ./data/images/units/fighter/bashkir.gif*./data/images/units/fighter/bashkir.gif*717685509
+./data/images/units/fighter/starfire.gif*./data/images/units/fighter/starfire.gif*3973302343
 ./data/images/units/fighter/chippewa.gif*./data/images/units/fighter/chippewa.gif*2441393589
 ./data/images/units/fighter/shiloneSL-17AC.gif*./data/images/units/fighter/shiloneSL-17AC.gif*2259232463
 ./data/images/units/fighter/sparrowhawk.gif*./data/images/units/fighter/sparrowhawk.gif*3958224800
@@ -3060,6 +3711,7 @@
 ./data/images/units/fighter/jagatai.gif*./data/images/units/fighter/jagatai.gif*1749789789
 ./data/images/units/fighter/turk.gif*./data/images/units/fighter/turk.gif*3511506158
 ./data/images/units/fighter/visigoth.gif*./data/images/units/fighter/visigoth.gif*2122557950
+./data/images/units/fighter/rogue.gif*./data/images/units/fighter/rogue.gif*1452650685
 ./data/images/units/fighter/torrent.gif*./data/images/units/fighter/torrent.gif*3014253427
 ./data/images/units/fighter/slayerSL-15A.gif*./data/images/units/fighter/slayerSL-15A.gif*3114756607
 ./data/images/units/fighter/batu.gif*./data/images/units/fighter/batu.gif*1885338510
@@ -3067,6 +3719,8 @@
 ./data/images/units/fighter/vulcan.gif*./data/images/units/fighter/vulcan.gif*2009954189
 ./data/images/units/fighter/stuka-K5.gif*./data/images/units/fighter/stuka-K5.gif*2015439696
 ./data/images/units/fighter/samuraiSL-25.gif*./data/images/units/fighter/samuraiSL-25.gif*1288454927
+./data/images/units/fighter/ammon.gif*./data/images/units/fighter/ammon.gif*2408504025
+./data/images/units/fighter/shiva.gif*./data/images/units/fighter/shiva.gif*2213250617
 ./data/images/units/fighter/sai.gif*./data/images/units/fighter/sai.gif*1488565961
 ./data/images/units/fighter/zeroZR0-114.gif*./data/images/units/fighter/zeroZR0-114.gif*2070689170
 ./data/images/units/fighter/lightning.gif*./data/images/units/fighter/lightning.gif*2898390421
@@ -3083,9 +3737,12 @@
 ./data/images/units/fighter/hammerhead.gif*./data/images/units/fighter/hammerhead.gif*1318740411
 ./data/images/units/fighter/corsair.gif*./data/images/units/fighter/corsair.gif*3849618976
 ./data/images/units/fighter/thunderbirdTHB-D36.gif*./data/images/units/fighter/thunderbirdTHB-D36.gif*330492582
+./data/images/units/fighter/tomahawk.gif*./data/images/units/fighter/tomahawk.gif*2934564905
 ./data/images/units/fighter/sabre.gif*./data/images/units/fighter/sabre.gif*2591850904
 ./data/images/units/fighter/shade.gif*./data/images/units/fighter/shade.gif*3482310777
 ./data/images/units/fighter/sulla.gif*./data/images/units/fighter/sulla.gif*228678026
+./data/images/units/fighter/troika.gif*./data/images/units/fighter/troika.gif*989403965
+./data/images/units/fighter/tatsu.gif*./data/images/units/fighter/tatsu.gif*1364723442
 ./data/images/units/fighter/samurai.gif*./data/images/units/fighter/samurai.gif*3408629332
 ./data/images/units/fighter/slayerSL-15B.gif*./data/images/units/fighter/slayerSL-15B.gif*3711875130
 ./data/images/units/fighter/sparrowhawkSPR-5K.gif*./data/images/units/fighter/sparrowhawkSPR-5K.gif*3911423571
@@ -3093,6 +3750,7 @@
 ./data/images/units/fighter/stuka-K15.gif*./data/images/units/fighter/stuka-K15.gif*3525227830
 ./data/images/units/fighter/transgressorTR-14.gif*./data/images/units/fighter/transgressorTR-14.gif*342802947
 ./data/images/units/fighter/shilone_squadron.gif*./data/images/units/fighter/shilone_squadron.gif*3579138678
+./data/images/units/fighter/spad.gif*./data/images/units/fighter/spad.gif*1482465238
 ./data/images/units/fighter/eisensturm.gif*./data/images/units/fighter/eisensturm.gif*1931883438
 ./data/images/units/fighter/issus.gif*./data/images/units/fighter/issus.gif*538767442
 ./data/images/units/fighter/ahab.gif*./data/images/units/fighter/ahab.gif*2228740651
@@ -3101,11 +3759,15 @@
 ./data/images/units/fighter/slayer.gif*./data/images/units/fighter/slayer.gif*3790267921
 ./data/images/units/fighter/stuka-K10.gif*./data/images/units/fighter/stuka-K10.gif*1447787441
 ./data/images/units/fighter/stingrayF-90s.gif*./data/images/units/fighter/stingrayF-90s.gif*1955447921
+./data/images/units/fighter/dagger.gif*./data/images/units/fighter/dagger.gif*1381138300
+./data/images/units/fighter/trident.gif*./data/images/units/fighter/trident.gif*59897540
 ./data/images/units/fighter/zero.gif*./data/images/units/fighter/zero.gif*12044892
 ./data/images/units/fighter/transitTR-11.gif*./data/images/units/fighter/transitTR-11.gif*3811508755
 ./data/images/units/fighter/deathstalker.gif*./data/images/units/fighter/deathstalker.gif*1925183617
+./data/images/units/fighter/chippewa_iic.gif*./data/images/units/fighter/chippewa_iic.gif*323453710
 ./data/images/units/fighter/corax.gif*./data/images/units/fighter/corax.gif*169830055
 ./data/images/units/fighter/transgressor.gif*./data/images/units/fighter/transgressor.gif*3882404057
+./data/images/units/fighter/swift.gif*./data/images/units/fighter/swift.gif*602906573
 ./data/images/units/fighter/oni.gif*./data/images/units/fighter/oni.gif*2975875181
 ./data/images/units/fighter/striga.gif*./data/images/units/fighter/striga.gif*2573463390
 ./data/images/units/fighter/sabutai.gif*./data/images/units/fighter/sabutai.gif*3222016526
@@ -3140,6 +3802,8 @@
 ./data/images/units/vehicles/hh_apc_s.gif*./data/images/units/vehicles/hh_apc_s.gif*1633913462
 ./data/images/units/vehicles/scorpion_laser.gif*./data/images/units/vehicles/scorpion_laser.gif*420675745
 ./data/images/units/vehicles/oro.png*./data/images/units/vehicles/oro.png*2609327186
+./data/images/units/vehicles/R_Janissary.gif*./data/images/units/vehicles/R_Janissary.gif*934601482
+./data/images/units/vehicles/R_Tracker.gif*./data/images/units/vehicles/R_Tracker.gif*1029034361
 ./data/images/units/vehicles/scimitar.gif*./data/images/units/vehicles/scimitar.gif*4240333419
 ./data/images/units/vehicles/ontos.gif*./data/images/units/vehicles/ontos.gif*269953290
 ./data/images/units/vehicles/condor (2).gif*./data/images/units/vehicles/condor (2).gif*2627738744
@@ -3149,13 +3813,16 @@
 ./data/images/units/vehicles/manticore.gif*./data/images/units/vehicles/manticore.gif*2839140351
 ./data/images/units/vehicles/daimyo-hq (2).gif*./data/images/units/vehicles/daimyo-hq (2).gif*1629576048
 ./data/images/units/vehicles/bolla_invictus.gif*./data/images/units/vehicles/bolla_invictus.gif*1238277550
+./data/images/units/vehicles/R_Torrent.gif*./data/images/units/vehicles/R_Torrent.gif*478056886
 ./data/images/units/vehicles/fulcrum.gif*./data/images/units/vehicles/fulcrum.gif*2763190496
 ./data/images/units/vehicles/daimyo-hq.gif*./data/images/units/vehicles/daimyo-hq.gif*192429193
+./data/images/units/vehicles/R_Sleipnir.gif*./data/images/units/vehicles/R_Sleipnir.gif*2085168046
 ./data/images/units/vehicles/ku.gif*./data/images/units/vehicles/ku.gif*1150101678
 ./data/images/units/vehicles/bulldog_ac2.gif*./data/images/units/vehicles/bulldog_ac2.gif*1279642038
 ./data/images/units/vehicles/rommel (2).gif*./data/images/units/vehicles/rommel (2).gif*3090130899
 ./data/images/units/vehicles/hq.gif*./data/images/units/vehicles/hq.gif*784106031
 ./data/images/units/vehicles/epona_c.gif*./data/images/units/vehicles/epona_c.gif*1378441184
+./data/images/units/vehicles/R_Cossack2.gif*./data/images/units/vehicles/R_Cossack2.gif*1463015703
 ./data/images/units/vehicles/apc.gif*./data/images/units/vehicles/apc.gif*3730771113
 ./data/images/units/vehicles/donnerstein.gif*./data/images/units/vehicles/donnerstein.gif*4046303074
 ./data/images/units/vehicles/maxim.gif*./data/images/units/vehicles/maxim.gif*2821415881
@@ -3165,6 +3832,7 @@
 ./data/images/units/vehicles/asshur.gif*./data/images/units/vehicles/asshur.gif*596354937
 ./data/images/units/vehicles/epona.gif*./data/images/units/vehicles/epona.gif*1773479313
 ./data/images/units/vehicles/hunter.gif*./data/images/units/vehicles/hunter.gif*997223016
+./data/images/units/vehicles/R_Tanto.gif*./data/images/units/vehicles/R_Tanto.gif*1725044055
 ./data/images/units/vehicles/truck.gif*./data/images/units/vehicles/truck.gif*2510533191
 ./data/images/units/vehicles/bandit.gif*./data/images/units/vehicles/bandit.gif*501049261
 ./data/images/units/vehicles/hetzer.gif*./data/images/units/vehicles/hetzer.gif*549507231
@@ -3174,26 +3842,34 @@
 ./data/images/units/vehicles/mediumtankmissile.gif*./data/images/units/vehicles/mediumtankmissile.gif*1359970440
 ./data/images/units/vehicles/drillson.gif*./data/images/units/vehicles/drillson.gif*713829673
 ./data/images/units/vehicles/banditSL.gif*./data/images/units/vehicles/banditSL.gif*1591097431
+./data/images/units/vehicles/korvin-2.gif*./data/images/units/vehicles/korvin-2.gif*3360719808
 ./data/images/units/vehicles/badgerB.gif*./data/images/units/vehicles/badgerB.gif*2308479762
+./data/images/units/vehicles/R_Equestrian.gif*./data/images/units/vehicles/R_Equestrian.gif*3858479071
 ./data/images/units/vehicles/turtle.gif*./data/images/units/vehicles/turtle.gif*907329478
 ./data/images/units/vehicles/bulldog_lrm.gif*./data/images/units/vehicles/bulldog_lrm.gif*2216286397
 ./data/images/units/vehicles/saladin1.gif*./data/images/units/vehicles/saladin1.gif*2868779838
+./data/images/units/vehicles/R_Bear.gif*./data/images/units/vehicles/R_Bear.gif*2985082639
 ./data/images/units/vehicles/ishtar1.gif*./data/images/units/vehicles/ishtar1.gif*1468592572
 ./data/images/units/vehicles/ivan.gif*./data/images/units/vehicles/ivan.gif*595258385
 ./data/images/units/vehicles/huey.gif*./data/images/units/vehicles/huey.gif*1468615905
 ./data/images/units/vehicles/beagle.gif*./data/images/units/vehicles/beagle.gif*4212195117
 ./data/images/units/vehicles/merkavaold.gif*./data/images/units/vehicles/merkavaold.gif*580300436
+./data/images/units/vehicles/R_Poison.gif*./data/images/units/vehicles/R_Poison.gif*3899338316
 ./data/images/units/vehicles/nightshade.gif*./data/images/units/vehicles/nightshade.gif*502075315
 ./data/images/units/vehicles/taurus.gif*./data/images/units/vehicles/taurus.gif*1751736267
+./data/images/units/vehicles/R_Yari2.gif*./data/images/units/vehicles/R_Yari2.gif*2151951173
 ./data/images/units/vehicles/enyo.gif*./data/images/units/vehicles/enyo.gif*2261291455
 ./data/images/units/vehicles/saracen.gif*./data/images/units/vehicles/saracen.gif*4268513959
+./data/images/units/vehicles/R_Bill2.gif*./data/images/units/vehicles/R_Bill2.gif*3257461421
 ./data/images/units/vehicles/demon (2).gif*./data/images/units/vehicles/demon (2).gif*2368124756
 ./data/images/units/vehicles/zhukov.gif*./data/images/units/vehicles/zhukov.gif*2006367683
 ./data/images/units/vehicles/rommel2.gif*./data/images/units/vehicles/rommel2.gif*2999509732
 ./data/images/units/vehicles/lgp3missile.gif*./data/images/units/vehicles/lgp3missile.gif*7868936
 ./data/images/units/vehicles/epona1.gif*./data/images/units/vehicles/epona1.gif*1919129146
+./data/images/units/vehicles/R_Fox.gif*./data/images/units/vehicles/R_Fox.gif*2102479704
 ./data/images/units/vehicles/brutusLRM.gif*./data/images/units/vehicles/brutusLRM.gif*2385810909
 ./data/images/units/vehicles/schrek.gif*./data/images/units/vehicles/schrek.gif*1387730969
+./data/images/units/vehicles/R_Scabbard.gif*./data/images/units/vehicles/R_Scabbard.gif*1732780354
 ./data/images/units/vehicles/vonschneider.gif*./data/images/units/vehicles/vonschneider.gif*1560885645
 ./data/images/units/vehicles/chevalierspeed.gif*./data/images/units/vehicles/chevalierspeed.gif*3677976257
 ./data/images/units/vehicles/srmcarrierL.gif*./data/images/units/vehicles/srmcarrierL.gif*4071322803
@@ -3201,26 +3877,37 @@
 ./data/images/units/vehicles/banditA.gif*./data/images/units/vehicles/banditA.gif*2063822150
 ./data/images/units/vehicles/pilum.gif*./data/images/units/vehicles/pilum.gif*2230466793
 ./data/images/units/vehicles/danai.gif*./data/images/units/vehicles/danai.gif*3809899244
+./data/images/units/vehicles/R_Panzerleader.gif*./data/images/units/vehicles/R_Panzerleader.gif*3804197342
 ./data/images/units/vehicles/tamerlane1.gif*./data/images/units/vehicles/tamerlane1.gif*102514563
 ./data/images/units/vehicles/bolla_dominus.gif*./data/images/units/vehicles/bolla_dominus.gif*3042804399
 ./data/images/units/vehicles/banditB.gif*./data/images/units/vehicles/banditB.gif*2195361365
 ./data/images/units/vehicles/Stoat.gif*./data/images/units/vehicles/Stoat.gif*3763379271
+./data/images/units/vehicles/R_Bill.gif*./data/images/units/vehicles/R_Bill.gif*1007727146
 ./data/images/units/vehicles/alacorn.gif*./data/images/units/vehicles/alacorn.gif*823019771
 ./data/images/units/vehicles/fury.gif*./data/images/units/vehicles/fury.gif*2332997352
 ./data/images/units/vehicles/poii.gif*./data/images/units/vehicles/poii.gif*171028411
+./data/images/units/vehicles/R_BITR.gif*./data/images/units/vehicles/R_BITR.gif*2564967070
+./data/images/units/vehicles/R_Hound2.gif*./data/images/units/vehicles/R_Hound2.gif*1580255871
 ./data/images/units/vehicles/tamerlane.gif*./data/images/units/vehicles/tamerlane.gif*2372770933
 ./data/images/units/vehicles/bolla.gif*./data/images/units/vehicles/bolla.gif*3117440712
+./data/images/units/vehicles/R_Valley.gif*./data/images/units/vehicles/R_Valley.gif*3508322561
 ./data/images/units/vehicles/ares.gif*./data/images/units/vehicles/ares.gif*1197563355
 ./data/images/units/vehicles/demolisher.gif*./data/images/units/vehicles/demolisher.gif*246089914
+./data/images/units/vehicles/R_Janissary2.gif*./data/images/units/vehicles/R_Janissary2.gif*2036745312
 ./data/images/units/vehicles/AlphaLaserBattery.gif*./data/images/units/vehicles/AlphaLaserBattery.gif*240993500
+./data/images/units/vehicles/R_Porcupine.gif*./data/images/units/vehicles/R_Porcupine.gif*444877331
 ./data/images/units/vehicles/puma.gif*./data/images/units/vehicles/puma.gif*1150895209
 ./data/images/units/vehicles/shoden.gif*./data/images/units/vehicles/shoden.gif*2430059447
 ./data/images/units/vehicles/ferret.gif*./data/images/units/vehicles/ferret.gif*1147539691
 ./data/images/units/vehicles/padillaLRM.gif*./data/images/units/vehicles/padillaLRM.gif*2337024379
+./data/images/units/vehicles/R_Midgard.gif*./data/images/units/vehicles/R_Midgard.gif*3632565620
 ./data/images/units/vehicles/di_morgan.gif*./data/images/units/vehicles/di_morgan.gif*1638465596
+./data/images/units/vehicles/R_Wakizashi.gif*./data/images/units/vehicles/R_Wakizashi.gif*2437703946
+./data/images/units/vehicles/R_Sergeant.gif*./data/images/units/vehicles/R_Sergeant.gif*1681153193
 ./data/images/units/vehicles/karnov_ur_transport.gif*./data/images/units/vehicles/karnov_ur_transport.gif*972552170
 ./data/images/units/vehicles/dronecarrier.gif*./data/images/units/vehicles/dronecarrier.gif*2143191593
 ./data/images/units/vehicles/maultier.gif*./data/images/units/vehicles/maultier.gif*1856644997
+./data/images/units/vehicles/estevez.gif*./data/images/units/vehicles/estevez.gif*1522893871
 ./data/images/units/vehicles/ajax_a.gif*./data/images/units/vehicles/ajax_a.gif*2602868994
 ./data/images/units/vehicles/hetzer_a.gif*./data/images/units/vehicles/hetzer_a.gif*1281762130
 ./data/images/units/vehicles/joust.gif*./data/images/units/vehicles/joust.gif*3115329077
@@ -3232,14 +3919,18 @@
 ./data/images/units/vehicles/ac2carrier.gif*./data/images/units/vehicles/ac2carrier.gif*2946838807
 ./data/images/units/vehicles/martenT.gif*./data/images/units/vehicles/martenT.gif*814154013
 ./data/images/units/vehicles/chevalier.gif*./data/images/units/vehicles/chevalier.gif*3545709815
+./data/images/units/vehicles/R_Yumi.gif*./data/images/units/vehicles/R_Yumi.gif*1780185344
 ./data/images/units/vehicles/epona_b.gif*./data/images/units/vehicles/epona_b.gif*1878949590
 ./data/images/units/vehicles/shiva.gif*./data/images/units/vehicles/shiva.gif*279248303
 ./data/images/units/vehicles/mithras.gif*./data/images/units/vehicles/mithras.gif*806632335
+./data/images/units/vehicles/R_Clock.gif*./data/images/units/vehicles/R_Clock.gif*3861598047
 ./data/images/units/vehicles/scorpion_srm.gif*./data/images/units/vehicles/scorpion_srm.gif*2850599395
 ./data/images/units/vehicles/partisanAC2.gif*./data/images/units/vehicles/partisanAC2.gif*3111585821
 ./data/images/units/vehicles/ht_apc_l.gif*./data/images/units/vehicles/ht_apc_l.gif*2917957046
+./data/images/units/vehicles/R_Wolf2.gif*./data/images/units/vehicles/R_Wolf2.gif*4180127309
 ./data/images/units/vehicles/lightning.gif*./data/images/units/vehicles/lightning.gif*918401245
 ./data/images/units/vehicles/harasser.gif*./data/images/units/vehicles/harasser.gif*1001194163
+./data/images/units/vehicles/R_Cossack.gif*./data/images/units/vehicles/R_Cossack.gif*4148950966
 ./data/images/units/vehicles/vedette.gif*./data/images/units/vehicles/vedette.gif*77812048
 ./data/images/units/vehicles/banditF.gif*./data/images/units/vehicles/banditF.gif*1056988451
 ./data/images/units/vehicles/stygian.gif*./data/images/units/vehicles/stygian.gif*3688805201
@@ -3249,7 +3940,9 @@
 ./data/images/units/vehicles/roadwarrior.gif*./data/images/units/vehicles/roadwarrior.gif*2003178192
 ./data/images/units/vehicles/hw_apc_l.gif*./data/images/units/vehicles/hw_apc_l.gif*455500849
 ./data/images/units/vehicles/regulator.gif*./data/images/units/vehicles/regulator.gif*2502385168
+./data/images/units/vehicles/R_Nachtsturm.gif*./data/images/units/vehicles/R_Nachtsturm.gif*2142149093
 ./data/images/units/vehicles/ajax.gif*./data/images/units/vehicles/ajax.gif*819974748
+./data/images/units/vehicles/R_Mountain.gif*./data/images/units/vehicles/R_Mountain.gif*3640627742
 ./data/images/units/vehicles/coolanttruck.gif*./data/images/units/vehicles/coolanttruck.gif*1207310514
 ./data/images/units/vehicles/lgp3mortar.gif*./data/images/units/vehicles/lgp3mortar.gif*3197041999
 ./data/images/units/vehicles/kanga.gif*./data/images/units/vehicles/kanga.gif*1607817748
@@ -3257,6 +3950,7 @@
 ./data/images/units/vehicles/svantovit.gif*./data/images/units/vehicles/svantovit.gif*2245393037
 ./data/images/units/vehicles/hipparch.gif*./data/images/units/vehicles/hipparch.gif*1724556711
 ./data/images/units/vehicles/badgerC.gif*./data/images/units/vehicles/badgerC.gif*2889703879
+./data/images/units/vehicles/ChalChiuhToTolin.gif*./data/images/units/vehicles/ChalChiuhToTolin.gif*4181596550
 ./data/images/units/vehicles/morningstar.gif*./data/images/units/vehicles/morningstar.gif*84097051
 ./data/images/units/vehicles/goblin_srm.gif*./data/images/units/vehicles/goblin_srm.gif*416359368
 ./data/images/units/vehicles/saracen (2).gif*./data/images/units/vehicles/saracen (2).gif*763149286
@@ -3271,10 +3965,14 @@
 ./data/images/units/vehicles/kestrel.gif*./data/images/units/vehicles/kestrel.gif*1017405576
 ./data/images/units/vehicles/demon.gif*./data/images/units/vehicles/demon.gif*3382319501
 ./data/images/units/vehicles/vedette_ac2.gif*./data/images/units/vehicles/vedette_ac2.gif*3392463684
+./data/images/units/vehicles/R_Katana.gif*./data/images/units/vehicles/R_Katana.gif*1931374810
 ./data/images/units/vehicles/ajax_b.gif*./data/images/units/vehicles/ajax_b.gif*3708541586
 ./data/images/units/vehicles/goblin_kurita.gif*./data/images/units/vehicles/goblin_kurita.gif*997829675
 ./data/images/units/vehicles/chevalier_speed.gif*./data/images/units/vehicles/chevalier_speed.gif*3677976257
+./data/images/units/vehicles/R_Knight.gif*./data/images/units/vehicles/R_Knight.gif*1512066800
+./data/images/units/vehicles/R_Pawn.gif*./data/images/units/vehicles/R_Pawn.gif*759889063
 ./data/images/units/vehicles/saladin.gif*./data/images/units/vehicles/saladin.gif*334649952
+./data/images/units/vehicles/R_Possum2.gif*./data/images/units/vehicles/R_Possum2.gif*2613965318
 ./data/images/units/vehicles/badgerE.gif*./data/images/units/vehicles/badgerE.gif*1203653448
 ./data/images/units/vehicles/Opus.gif*./data/images/units/vehicles/Opus.gif*2045154997
 ./data/images/units/vehicles/longtom.gif*./data/images/units/vehicles/longtom.gif*1916635704
@@ -3282,6 +3980,7 @@
 ./data/images/units/vehicles/korvin.gif*./data/images/units/vehicles/korvin.gif*1217343375
 ./data/images/units/vehicles/darter.gif*./data/images/units/vehicles/darter.gif*2386086481
 ./data/images/units/vehicles/jeep.gif*./data/images/units/vehicles/jeep.gif*2837729560
+./data/images/units/vehicles/R_Abendsturm.gif*./data/images/units/vehicles/R_Abendsturm.gif*1385514418
 ./data/images/units/vehicles/heavy_lrm.gif*./data/images/units/vehicles/heavy_lrm.gif*3536861967
 ./data/images/units/vehicles/Grandmaul.gif*./data/images/units/vehicles/Grandmaul.gif*1385019073
 ./data/images/units/vehicles/lasercarrier.gif*./data/images/units/vehicles/lasercarrier.gif*3562040065
@@ -3292,6 +3991,7 @@
 ./data/images/units/vehicles/merkava_ix.gif*./data/images/units/vehicles/merkava_ix.gif*2964734558
 ./data/images/units/vehicles/warriorH7A.gif*./data/images/units/vehicles/warriorH7A.gif*4227413169
 ./data/images/units/vehicles/savannah.gif*./data/images/units/vehicles/savannah.gif*2031692730
+./data/images/units/vehicles/R_Panzer.gif*./data/images/units/vehicles/R_Panzer.gif*1620144813
 ./data/images/units/vehicles/jedgar.gif*./data/images/units/vehicles/jedgar.gif*1338783221
 ./data/images/units/vehicles/ripper.gif*./data/images/units/vehicles/ripper.gif*3367891773
 ./data/images/units/vehicles/gabriel.gif*./data/images/units/vehicles/gabriel.gif*279832032
@@ -3305,17 +4005,22 @@
 ./data/images/units/vehicles/kruger.gif*./data/images/units/vehicles/kruger.gif*1177455240
 ./data/images/units/vehicles/shrek.gif*./data/images/units/vehicles/shrek.gif*1387730969
 ./data/images/units/vehicles/ht_apc_m.gif*./data/images/units/vehicles/ht_apc_m.gif*3927746486
+./data/images/units/vehicles/tiger_t12.gif*./data/images/units/vehicles/tiger_t12.gif*1234357364
+./data/images/units/vehicles/R_Jaguar.gif*./data/images/units/vehicles/R_Jaguar.gif*3529455530
 ./data/images/units/vehicles/heimdall.gif*./data/images/units/vehicles/heimdall.gif*329209324
 ./data/images/units/vehicles/banditSRM6.gif*./data/images/units/vehicles/banditSRM6.gif*2770919782
 ./data/images/units/vehicles/hephaestus_b.gif*./data/images/units/vehicles/hephaestus_b.gif*1139359505
 ./data/images/units/vehicles/fitzgerald.gif*./data/images/units/vehicles/fitzgerald.gif*3243349156
 ./data/images/units/vehicles/hw_apc.gif*./data/images/units/vehicles/hw_apc.gif*2093739068
 ./data/images/units/vehicles/tokugawa.gif*./data/images/units/vehicles/tokugawa.gif*524637705
+./data/images/units/vehicles/cavalry.gif*./data/images/units/vehicles/cavalry.gif*1334831349
+./data/images/units/vehicles/R_Panzersturm.gif*./data/images/units/vehicles/R_Panzersturm.gif*2750287121
 ./data/images/units/vehicles/turhan.gif*./data/images/units/vehicles/turhan.gif*151403491
 ./data/images/units/vehicles/rotunda.gif*./data/images/units/vehicles/rotunda.gif*302946406
 ./data/images/units/vehicles/gladius.gif*./data/images/units/vehicles/gladius.gif*3476142830
 ./data/images/units/vehicles/thor.gif*./data/images/units/vehicles/thor.gif*2649168704
 ./data/images/units/vehicles/fortune.gif*./data/images/units/vehicles/fortune.gif*847208933
+./data/images/units/vehicles/R_Hound.gif*./data/images/units/vehicles/R_Hound.gif*296667829
 ./data/images/units/vehicles/sturmfeur.gif*./data/images/units/vehicles/sturmfeur.gif*1388921201
 ./data/images/units/vehicles/zephyros.gif*./data/images/units/vehicles/zephyros.gif*355358999
 ./data/images/units/vehicles/swiftwind.gif*./data/images/units/vehicles/swiftwind.gif*1713317782
@@ -3323,19 +4028,23 @@
 ./data/images/units/vehicles/partisanLRM.gif*./data/images/units/vehicles/partisanLRM.gif*3212560161
 ./data/images/units/vehicles/chaparral.gif*./data/images/units/vehicles/chaparral.gif*3953432464
 ./data/images/units/vehicles/wheeledsupportmortar.gif*./data/images/units/vehicles/wheeledsupportmortar.gif*2506919137
+./data/images/units/vehicles/R_Wolf.gif*./data/images/units/vehicles/R_Wolf.gif*366750670
 ./data/images/units/vehicles/lgp3.gif*./data/images/units/vehicles/lgp3.gif*3034827614
 ./data/images/units/vehicles/lrmcarrier_laser.gif*./data/images/units/vehicles/lrmcarrier_laser.gif*3562040065
+./data/images/units/vehicles/R_Kamper.gif*./data/images/units/vehicles/R_Kamper.gif*1000316908
 ./data/images/units/vehicles/incinerator.gif*./data/images/units/vehicles/incinerator.gif*78228456
 ./data/images/units/vehicles/scorpion.gif*./data/images/units/vehicles/scorpion.gif*3516877660
 ./data/images/units/vehicles/thumper_av.gif*./data/images/units/vehicles/thumper_av.gif*1972564195
 ./data/images/units/vehicles/bulldog.gif*./data/images/units/vehicles/bulldog.gif*1317276622
 ./data/images/units/vehicles/musketeer.gif*./data/images/units/vehicles/musketeer.gif*1230987097
 ./data/images/units/vehicles/rommel.gif*./data/images/units/vehicles/rommel.gif*2205259737
+./data/images/units/vehicles/sprint.gif*./data/images/units/vehicles/sprint.gif*1534708926
 ./data/images/units/vehicles/hiryo.gif*./data/images/units/vehicles/hiryo.gif*3224989920
 ./data/images/units/vehicles/wheeledsupportmissile.gif*./data/images/units/vehicles/wheeledsupportmissile.gif*2965868942
 ./data/images/units/vehicles/hw_apc_s.gif*./data/images/units/vehicles/hw_apc_s.gif*2298714040
 ./data/images/units/vehicles/odin.gif*./data/images/units/vehicles/odin.gif*3630682241
 ./data/images/units/vehicles/rhino.gif*./data/images/units/vehicles/rhino.gif*3285100975
+./data/images/units/vehicles/R_General.gif*./data/images/units/vehicles/R_General.gif*847087102
 ./data/images/units/vehicles/po.gif*./data/images/units/vehicles/po.gif*4063233498
 ./data/images/units/vehicles/scorpion_lrm.gif*./data/images/units/vehicles/scorpion_lrm.gif*133511363
 ./data/images/units/vehicles/warriorH7.gif*./data/images/units/vehicles/warriorH7.gif*382682959
@@ -3345,40 +4054,54 @@
 ./data/images/units/vehicles/chevalierBAP.gif*./data/images/units/vehicles/chevalierBAP.gif*4029883576
 ./data/images/units/vehicles/condorD.gif*./data/images/units/vehicles/condorD.gif*3701079035
 ./data/images/units/vehicles/manteuffel.gif*./data/images/units/vehicles/manteuffel.gif*2439948641
+./data/images/units/vehicles/R_Yari.gif*./data/images/units/vehicles/R_Yari.gif*1153542125
 ./data/images/units/vehicles/epona_a.gif*./data/images/units/vehicles/epona_a.gif*4210791305
 ./data/images/units/vehicles/cyrano.gif*./data/images/units/vehicles/cyrano.gif*1241951876
 ./data/images/units/vehicles/hover_tank.gif*./data/images/units/vehicles/hover_tank.gif*3762965227
 ./data/images/units/vehicles/goblin_lrm.gif*./data/images/units/vehicles/goblin_lrm.gif*186791322
+./data/images/units/vehicles/R_Bill3.gif*./data/images/units/vehicles/R_Bill3.gif*4022130707
 ./data/images/units/vehicles/megasloth.gif*./data/images/units/vehicles/megasloth.gif*3498066799
 ./data/images/units/vehicles/galleon.gif*./data/images/units/vehicles/galleon.gif*1435920884
 ./data/images/units/vehicles/donar.gif*./data/images/units/vehicles/donar.gif*1126306898
 ./data/images/units/vehicles/palyndrome.gif*./data/images/units/vehicles/palyndrome.gif*2867658979
+./data/images/units/vehicles/R_Valley2.gif*./data/images/units/vehicles/R_Valley2.gif*4177983660
 ./data/images/units/vehicles/drillson_b.gif*./data/images/units/vehicles/drillson_b.gif*3319659874
+./data/images/units/vehicles/R_Madrasah.gif*./data/images/units/vehicles/R_Madrasah.gif*3931787617
 ./data/images/units/vehicles/jesI.gif*./data/images/units/vehicles/jesI.gif*3799468366
 ./data/images/units/vehicles/glaive.gif*./data/images/units/vehicles/glaive.gif*3733571135
 ./data/images/units/vehicles/hh_apc_m.gif*./data/images/units/vehicles/hh_apc_m.gif*2428840476
+./data/images/units/vehicles/R_Rook.gif*./data/images/units/vehicles/R_Rook.gif*3128376690
 ./data/images/units/vehicles/hw_apc_m.gif*./data/images/units/vehicles/hw_apc_m.gif*821342494
+./data/images/units/vehicles/R_Bishop.gif*./data/images/units/vehicles/R_Bishop.gif*3421778974
 ./data/images/units/vehicles/badgerA.gif*./data/images/units/vehicles/badgerA.gif*929163279
+./data/images/units/vehicles/tiger.gif*./data/images/units/vehicles/tiger.gif*171796819
 ./data/images/units/vehicles/chalchiuhtotolin.gif*./data/images/units/vehicles/chalchiuhtotolin.gif*4181596550
 ./data/images/units/vehicles/anhur.gif*./data/images/units/vehicles/anhur.gif*2115265166
 ./data/images/units/vehicles/warriorH7C.gif*./data/images/units/vehicles/warriorH7C.gif*1215836537
 ./data/images/units/vehicles/saxon.gif*./data/images/units/vehicles/saxon.gif*1875174113
 ./data/images/units/vehicles/condor.gif*./data/images/units/vehicles/condor.gif*3523627733
+./data/images/units/vehicles/R_Jagdpanzer.gif*./data/images/units/vehicles/R_Jagdpanzer.gif*540561313
 ./data/images/units/vehicles/banditLRM10.gif*./data/images/units/vehicles/banditLRM10.gif*3806717732
+./data/images/units/vehicles/R_Corporal.gif*./data/images/units/vehicles/R_Corporal.gif*963022018
 ./data/images/units/vehicles/hephaestus_c.gif*./data/images/units/vehicles/hephaestus_c.gif*3092734434
 ./data/images/units/vehicles/j27.gif*./data/images/units/vehicles/j27.gif*2942997268
 ./data/images/units/vehicles/banditC.gif*./data/images/units/vehicles/banditC.gif*4153510902
+./data/images/units/vehicles/crow.gif*./data/images/units/vehicles/crow.gif*1793699488
 ./data/images/units/vehicles/schrekLL.gif*./data/images/units/vehicles/schrekLL.gif*979176562
 ./data/images/units/vehicles/banditSRM4.gif*./data/images/units/vehicles/banditSRM4.gif*2319251900
 ./data/images/units/vehicles/lhtankmissile.gif*./data/images/units/vehicles/lhtankmissile.gif*1770540479
 ./data/images/units/vehicles/indra.gif*./data/images/units/vehicles/indra.gif*2656695964
+./data/images/units/vehicles/hawkmoth.gif*./data/images/units/vehicles/hawkmoth.gif*584962810
 ./data/images/units/vehicles/patton.gif*./data/images/units/vehicles/patton.gif*1569724017
 ./data/images/units/vehicles/magi.gif*./data/images/units/vehicles/magi.gif*1555355463
+./data/images/units/vehicles/augustus.gif*./data/images/units/vehicles/augustus.gif*3861624580
 ./data/images/units/vehicles/sturmfeur2.gif*./data/images/units/vehicles/sturmfeur2.gif*2217933225
 ./data/images/units/vehicles/light_srm.gif*./data/images/units/vehicles/light_srm.gif*2876780073
 ./data/images/units/vehicles/demolisherguass.gif*./data/images/units/vehicles/demolisherguass.gif*3670130395
 ./data/images/units/vehicles/alacorn mk IV.gif*./data/images/units/vehicles/alacorn mk IV.gif*2537851016
+./data/images/units/vehicles/mantis.gif*./data/images/units/vehicles/mantis.gif*1722033593
 ./data/images/units/vehicles/sm1_tank_destroyer.gif*./data/images/units/vehicles/sm1_tank_destroyer.gif*3361341882
+./data/images/units/vehicles/R_Possum.gif*./data/images/units/vehicles/R_Possum.gif*3777964012
 ./data/images/units/vehicles/growler.gif*./data/images/units/vehicles/growler.gif*3397071862
 ./data/images/units/vehicles/paladin1.gif*./data/images/units/vehicles/paladin1.gif*854537954
 ./data/images/units/vehicles/pegasus.gif*./data/images/units/vehicles/pegasus.gif*266443983
@@ -3394,10 +4117,14 @@
 ./data/images/units/vehicles/pike.gif*./data/images/units/vehicles/pike.gif*2840750654
 ./data/images/units/vehicles/j27t.gif*./data/images/units/vehicles/j27t.gif*1520511344
 ./data/images/units/vehicles/bolla_comminus.gif*./data/images/units/vehicles/bolla_comminus.gif*1126958951
+./data/images/units/vehicles/gallant1.gif*./data/images/units/vehicles/gallant1.gif*3380349960
 ./data/images/units/vehicles/hhtank.gif*./data/images/units/vehicles/hhtank.gif*3057691357
+./data/images/units/vehicles/R_Bill0.gif*./data/images/units/vehicles/R_Bill0.gif*1413441573
 ./data/images/units/vehicles/drillsonSRM.gif*./data/images/units/vehicles/drillsonSRM.gif*640451858
 ./data/images/units/vehicles/tyr.gif*./data/images/units/vehicles/tyr.gif*4027348753
+./data/images/units/vehicles/R_Panzer2.gif*./data/images/units/vehicles/R_Panzer2.gif*386163981
 ./data/images/units/vehicles/skulker.gif*./data/images/units/vehicles/skulker.gif*1026828623
+./data/images/units/vehicles/R_Torrent2.gif*./data/images/units/vehicles/R_Torrent2.gif*460958301
 ./data/images/units/vehicles/minion.gif*./data/images/units/vehicles/minion.gif*2396082127
 ./data/images/units/vehicles/cobraVTOL.gif*./data/images/units/vehicles/cobraVTOL.gif*1810591002
 ./data/images/units/vehicles/challenger.gif*./data/images/units/vehicles/challenger.gif*1534641566
@@ -3407,11 +4134,14 @@
 ./data/images/units/vehicles/padilla.gif*./data/images/units/vehicles/padilla.gif*3367644613
 ./data/images/units/vehicles/Interloper.gif*./data/images/units/vehicles/Interloper.gif*2332913896
 ./data/images/units/vehicles/plainsman.gif*./data/images/units/vehicles/plainsman.gif*3107775553
+./data/images/units/vehicles/R_Grimnir.gif*./data/images/units/vehicles/R_Grimnir.gif*2758233162
 ./data/images/units/vehicles/sm1.gif*./data/images/units/vehicles/sm1.gif*641957600
 ./data/images/units/vehicles/striker.gif*./data/images/units/vehicles/striker.gif*944861175
 ./data/images/units/vehicles/brutusPPC.gif*./data/images/units/vehicles/brutusPPC.gif*1379691650
 ./data/images/units/vehicles/willy.gif*./data/images/units/vehicles/willy.gif*2839198032
 ./data/images/units/vehicles/ht_apc.gif*./data/images/units/vehicles/ht_apc.gif*3074299408
+./data/images/units/vehicles/R_Cheetah.gif*./data/images/units/vehicles/R_Cheetah.gif*190592803
+./data/images/units/vehicles/korvin-3.gif*./data/images/units/vehicles/korvin-3.gif*68735151
 ./data/images/units/vehicles/partisan.gif*./data/images/units/vehicles/partisan.gif*2759874116
 ./data/images/units/vehicles/lighttank.gif*./data/images/units/vehicles/lighttank.gif*2247938640
 ./data/images/units/vehicles/banditG.gif*./data/images/units/vehicles/banditG.gif*1401322578
@@ -3421,14 +4151,18 @@
 ./data/images/units/vehicles/tiamat.gif*./data/images/units/vehicles/tiamat.gif*2505659638
 ./data/images/units/vehicles/kestrelSRM.gif*./data/images/units/vehicles/kestrelSRM.gif*3199244897
 ./data/images/units/vehicles/banditE.gif*./data/images/units/vehicles/banditE.gif*3938891352
+./data/images/units/vehicles/R_Jutte.gif*./data/images/units/vehicles/R_Jutte.gif*2039848121
 ./data/images/units/vehicles/goblin.gif*./data/images/units/vehicles/goblin.gif*4258611920
 ./data/images/units/vehicles/roadwarrior_tt.gif*./data/images/units/vehicles/roadwarrior_tt.gif*2668082556
 ./data/images/units/vehicles/athena.gif*./data/images/units/vehicles/athena.gif*4043355806
 ./data/images/units/vehicles/packrat.gif*./data/images/units/vehicles/packrat.gif*3811999619
 ./data/images/units/vehicles/vonluckner.gif*./data/images/units/vehicles/vonluckner.gif*1072642235
 ./data/images/units/vehicles/brutus.gif*./data/images/units/vehicles/brutus.gif*3647623115
+./data/images/units/vehicles/R_Bushi.gif*./data/images/units/vehicles/R_Bushi.gif*287488706
 ./data/images/units/vehicles/mediumtank.gif*./data/images/units/vehicles/mediumtank.gif*2961386981
 ./data/images/units/vehicles/lhtank.gif*./data/images/units/vehicles/lhtank.gif*1482373792
+./data/images/units/vehicles/R_Lion.gif*./data/images/units/vehicles/R_Lion.gif*851001418
+./data/images/units/vehicles/R_Major.gif*./data/images/units/vehicles/R_Major.gif*3225146505
 ./data/images/units/vehicles/hephaestus_a.gif*./data/images/units/vehicles/hephaestus_a.gif*852408916
 ./data/images/units/vehicles/peregrine.gif*./data/images/units/vehicles/peregrine.gif*1814388302
 ./data/images/units/vehicles/condor_upgrade.gif*./data/images/units/vehicles/condor_upgrade.gif*1092746217
@@ -3540,7 +4274,7 @@
 ./data/images/units/unused/banshee3.gif*./data/images/units/unused/banshee3.gif*179344551
 ./data/images/units/unused/mech_1.gif*./data/images/units/unused/mech_1.gif*1957251878
 ./data/images/units/unused/balius_a.gif*./data/images/units/unused/balius_a.gif*3958809318
-./data/images/units/mechset.txt*./data/images/units/mechset.txt*818836296
+./data/images/units/mechset.txt*./data/images/units/mechset.txt*3060710947
 ./data/images/units/mechs/blood_asp_a.gif*./data/images/units/mechs/blood_asp_a.gif*3324698871
 ./data/images/units/mechs/hammer.gif*./data/images/units/mechs/hammer.gif*4219566232
 ./data/images/units/mechs/jackrabbit_9w.gif*./data/images/units/mechs/jackrabbit_9w.gif*1749454251
@@ -3770,6 +4504,7 @@
 ./data/images/units/mechs/devastator_DVS-3.gif*./data/images/units/mechs/devastator_DVS-3.gif*2619069770
 ./data/images/units/mechs/iron cheetah_B.gif*./data/images/units/mechs/iron cheetah_B.gif*755456114
 ./data/images/units/mechs/stormcrow_d.gif*./data/images/units/mechs/stormcrow_d.gif*1971896308
+./data/images/units/mechs/pendragon.gif*./data/images/units/mechs/pendragon.gif*3312259525
 ./data/images/units/mechs/warhammer2.gif*./data/images/units/mechs/warhammer2.gif*999844448
 ./data/images/units/mechs/mongoose (2).gif*./data/images/units/mechs/mongoose (2).gif*3385511789
 ./data/images/units/mechs/malak_eminus.gif*./data/images/units/mechs/malak_eminus.gif*674454603
@@ -3837,6 +4572,7 @@
 ./data/images/units/mechs/catapultk2.gif*./data/images/units/mechs/catapultk2.gif*212784911
 ./data/images/units/mechs/falcon eyrie_C.gif*./data/images/units/mechs/falcon eyrie_C.gif*1925366849
 ./data/images/units/mechs/pouncer_a.gif*./data/images/units/mechs/pouncer_a.gif*934944143
+./data/images/units/mechs/hector.gif*./data/images/units/mechs/hector.gif*2615048445
 ./data/images/units/mechs/men_shen_c.gif*./data/images/units/mechs/men_shen_c.gif*1647017517
 ./data/images/units/mechs/initiate.gif*./data/images/units/mechs/initiate.gif*2406942415
 ./data/images/units/mechs/direwolf_a.gif*./data/images/units/mechs/direwolf_a.gif*2919503965
@@ -4595,6 +5331,7 @@
 ./data/images/units/mechs/charger1A2.gif*./data/images/units/mechs/charger1A2.gif*1536667832
 ./data/images/units/mechs/crusader8S.gif*./data/images/units/mechs/crusader8S.gif*77479062
 ./data/images/units/mechs/falcon_hawk.gif*./data/images/units/mechs/falcon_hawk.gif*3959126597
+./data/images/units/mechs/darkcrow.gif*./data/images/units/mechs/darkcrow.gif*1265578867
 ./data/images/units/mechs/battle_cobra.gif*./data/images/units/mechs/battle_cobra.gif*1443216298
 ./data/images/units/mechs/shortbow.gif*./data/images/units/mechs/shortbow.gif*686587866
 ./data/images/units/mechs/great_wyrm.gif*./data/images/units/mechs/great_wyrm.gif*4023409669
@@ -4862,6 +5599,7 @@
 ./data/images/units/mechs/shootist.gif*./data/images/units/mechs/shootist.gif*2595952483
 ./data/images/units/mechs/direwolf_prometheus.gif*./data/images/units/mechs/direwolf_prometheus.gif*2096411130
 ./data/images/units/mechs/marauder_mad9s.gif*./data/images/units/mechs/marauder_mad9s.gif*3196684520
+./data/images/units/mechs/stiletto_6X.gif*./data/images/units/mechs/stiletto_6X.gif*2620026507
 ./data/images/units/mechs/blood_asp_e.gif*./data/images/units/mechs/blood_asp_e.gif*1171868739
 ./data/images/units/mechs/tsunami.gif*./data/images/units/mechs/tsunami.gif*3027995383
 ./data/images/units/mechs/fire_falcon_d.gif*./data/images/units/mechs/fire_falcon_d.gif*2681889191
@@ -5186,7 +5924,7 @@
 ./data/images/raf2.jpg*./data/images/raf2.jpg*1882705007
 ./data/images/closedSLDF Hussar.GIF*./data/images/closedSLDF Hussar.GIF*3641452518
 ./MtfConvert.bat*./MtfConvert.bat*688884021
-./serverdata.dat*./serverdata.dat*1234105370
+./serverdata.dat*./serverdata.dat*1288399151
 ./megamek-docs/scenario-readme.txt*./megamek-docs/scenario-readme.txt*3894181748
 ./megamek-docs/contributors.txt*./megamek-docs/contributors.txt*2628021187
 ./megamek-docs/ai-readme.txt*./megamek-docs/ai-readme.txt*3839904008
@@ -5210,17 +5948,17 @@
 ./lib/skinlf.jar*./lib/skinlf.jar*3744065571
 ./lib/locales.jar*./lib/locales.jar*2070775383
 ./lib/TabPanel.jar*./lib/TabPanel.jar*1013887867
-./MegaMek.jar*./MegaMek.jar*1845479198
-./MekWarsAutoUpdate.jar*./MekWarsAutoUpdate.jar*3005762805
+./MegaMek.jar*./MegaMek.jar*1945312585
+./MekWarsAutoUpdate.jar*./MekWarsAutoUpdate.jar*967086864
 ./readme-German.txt*./readme-German.txt*1672609010
 ./licenses/metouia license.txt*./licenses/metouia license.txt*2147057165
 ./licenses/jgoodies license.txt*./licenses/jgoodies license.txt*3169132665
 ./licenses/license.txt*./licenses/license.txt*1948522898
 ./update.bat*./update.bat*1954202452
-./MekWarsAdmin.jar*./MekWarsAdmin.jar*921698009
-./MekWarsDed.jar*./MekWarsDed.jar*1740187231
+./MekWarsAdmin.jar*./MekWarsAdmin.jar*4262917906
+./MekWarsDed.jar*./MekWarsDed.jar*2736729329
 ./TheShack.sh*./TheShack.sh*2841367412
-./MekWarsClient.jar*./MekWarsClient.jar*217171274
+./MekWarsClient.jar*./MekWarsClient.jar*1156816526
 <CLEANUP>*./data/mechfiles
 <CLEANUP>*./data/images/units
 <CLEANUP>*./data/images/camo
