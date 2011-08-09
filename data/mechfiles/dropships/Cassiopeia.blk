@@ -29,8 +29,8 @@ Cassiopeia 100
 <Nose Equipment>
 ISAC5
 ISAC5
-ISAC5 Ammo
-ISAC5 Ammo
+ISAC5 Ammo:20
+ISAC5 Ammo:20
 </Nose Equipment>
 <Left Side Equipment>
 ISAC5
@@ -38,7 +38,7 @@ ISAC5
 ISAC5 Ammo
 ISLRM5
 ISLRM5
-ISLRM5 Ammo
+ISLRM5 Ammo:24
 ISMediumLaser
 ISMediumLaser 
 (R) ISAC5
@@ -48,17 +48,17 @@ ISMediumLaser
 (R) ISSRM2
 (R) ISSRM2
 (R) ISSRM2
-(R) ISAC5 Ammo
-(R) ISSRM2 Ammo
-(R) ISSRM2 Ammo
+(R) ISAC5 Ammo:20
+(R) ISSRM2 Ammo:50
+(R) ISSRM2 Ammo:50
 </Left Side Equipment>
 <Right Side Equipment> 
 ISAC5
 ISAC5
-ISAC5 Ammo
+ISAC5 Ammo:20
 ISLRM5
 ISLRM5
-ISLRM5 Ammo
+ISLRM5 Ammo:24
 ISMediumLaser
 ISMediumLaser 
 (R) ISAC5
@@ -68,14 +68,14 @@ ISMediumLaser
 (R) ISSRM2
 (R) ISSRM2
 (R) ISSRM2
-(R) ISAC5 Ammo
-(R) ISSRM2 Ammo
-(R) ISSRM2 Ammo
+(R) ISAC5 Ammo:20
+(R) ISSRM2 Ammo:50
+(R) ISSRM2 Ammo:50
 </Right Side Equipment>
 <Aft Equipment> 
 ISLRM5
 ISLRM5
-ISLRM5 Ammo
+ISLRM5 Ammo:24
 ISMediumLaser
 ISMediumLaser
 </Aft Equipment>
