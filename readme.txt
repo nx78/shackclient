@@ -1,53 +1,25 @@
 INTRODUCTION
 ------------
+This is the Shack's client. It bundles two pieces of software, MekWars and MegaMek 
+in one package alongside many original files, e.g. graphics, unit files and more.
+
 MegaMek is a version of BattleTech that you can play with your friends 
-over the internet.  It is written in Java.  All of the level 1 (3025) 
+over the internet.  
+
+MekWars is a platform for matchmaking and providing deeper aspects for MegaMek, 
+like having/managing a hangar and matchmaking.
+
+They are both written in Java.  
+
+Annotations about MegaMek:
+-------------------------
+All of the level 1 (3025) 
 equipment and nearly all of the level 1 rules are functioning. In addition,
 many of the level 2 rules and equipment are finished, and even a few
 level 3 rules are available in the options.
 
 If you would like information about how to play the game, see the "PLAYING
-THE GAME" section, below.  If you're having trouble getting MegaMek started, 
-see the next section, "RUNNING MEGAMEK".
-
-
-
-RUNNING MEGAMEK
----------------
-Java programs run in their own enviroment, called a Virtual Machine or VM
-for short.  These Java VMs are available on most systems from a variety of 
-sources.  Most modern systems have one installed by default.
-
-Windows users: To start MegaMek, run the MegaMek.exe file.  If this fails
-to start MegaMek, see the "INSTALLING OR UPDATING YOUR JAVA RUNTIME"
-section, below.
-
-Other graphical OSes: Many other graphical OSes, such as MacOS and OSX, will
-allow you to double-click the .jar file to run it.  If this does not work,
-try running MegaMek from the command line.
-
-Running MegaMek from the command line: To do this using Sun Java, or most 
-other implementaions, navigate to the directory containing the .jar file and 
-run:
-
-java -jar MegaMek.jar
-
-If none of the above options work for you, see the "INSTALLING OR UPDATING
-YOUR JAVA RUNTIME" section, below.
-
-If you have a VM, but it does not support .jar files, then use your favorite
-extraction program to decompress "MegaMek.jar", "collections.jar",
-"TinyXML.jar", and "Ostermiller.jar" into a new "classes" folder (create
-the "classes" folder in your main "megamek" folder).  Once these steps
-have been done (you only need to do the above steps once), you will
-need to set the classpath to the classes folder and the current folder
-and run "MegaMek.class".  For example, using Sun Java, run:
-
-java -cp .;classes megamek/MegaMek
-
-Note that in some cases, the semicolon may need to be escaped:
-java -cp .\;classes megamek/MegaMek
-
+THE GAME" section, below.
 
 INSTALLING OR UPDATING YOUR JAVA RUNTIME
 ----------------------------------------
@@ -75,47 +47,6 @@ This version of MegaMek uses features not supported by the Microsoft JVM.
 
 IBM VM:
 MegaMek seems to react badly to this VM - it is not recommended.
-
-CONNECTING
-----------
-MegaMek is a network game.  One player hosts a game and the rest of the
-players connect.  The connecting players can connect from anywhere with a 
-TCP/IP connection to the host, including the same computer (see hotseat, below.)
-
-To host a game, press the "Host a New Game..." button in the main menu.  Fill
-in your name and click "Okay".  The password field allows you to specify a
-password for certain server commands.  (Type /help in the chat line to get a
-list of server commands.)  If you don't specify a password, anybody is allowed
-to reset the server or kick players, so be careful.
-
-Once the lobby screen comes up, other players can connect and the game can 
-begin.  The other players will need to know the IP address of the host computer.
-There are several ways to determine your IP address.  If you are on 
-Windows 9x/ME, you can use the Run command on the start menu and enter 
-"winipcfg".  On Windows 2000/NT/XP, you will need to open a command prompt and 
-type "ipconfig".  As a last resort, there are some web pages, such as 
-www.whatismyip.com that will try to detect your IP address, but if your internet
-service uses a proxy or firewall, these pages cannot accurately detect it.
-
-To connect to a game, press the connect button on the main menu and fill in your
-player name and the host's IP address.
-
-To play in a hotseat fashion, you can run the host and any number of other 
-players on the same computer.  First, launch and host a game.  Then, launch
-another copy of the game for each connecting player, and in the "Server Address"
-field of the connect dialog, type "localhost".  Each player will need to switch
-to his/her copy of the game to play their turn.
-
-To start a dedicated server, use the -dedicated command line switch.  A
-dedicated server just runs the server, in the console, without a "host" player
-in the game.  People, including yourself, can join it like a game with a host.
-The dedicated server reads the password and port options from the 
-clientsettings.xml file, or uses the default (no password and port 2346.) If you
-want the dedicated server to load a saved game, supply the filename after the
--dedicated switch, like this: "-dedicated savedgame.sav".  To stop the server,
-you will need to tell the Java machine to halt execution, which is CTRL + C on
-most platforms.
-
 
 PLAYING THE GAME
 ----------------
@@ -521,8 +452,9 @@ discrepancies, please contact the author (see "CONTACT" below.)
 
 CONTACT & FURTHER INFORMATION
 -----------------------------
-For more information, and to get the latest version of MegaMek, visit the
-website at:
+For more information, visit the websites at
+http://shack.battletek.org
+http://mekwars.sourceforge.net:
 http://megamek.sourceforge.net/
 
 For more information about the BattleTech board game, visit it's website at:
@@ -536,12 +468,7 @@ the contact page on the MegaMek website, or send email to bmazur@sev.org
 
 COPYRIGHT & LICENSE INFORMATION
 -------------------------------
-MegaMek - Copyright (C) 2002 Ben Mazur (bmazur@sev.org)
-  
-This program is free software; you can redistribute it and/or modify it 
-under the terms of the GNU General Public License as published by the Free 
-Software Foundation; either version 2 of the License, or (at your option) 
-any later version.
+This client consists solely of free software (GPL v2).
   
 This program is distributed in the hope that it will be useful, but 
 WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
