@@ -2265,7 +2265,7 @@ exact "Crusader CRD-3R (Blazer)" "mechs/crusader_blazer.gif"
 exact "Phoenix Hawk PXH-1 (Blazer)" "mechs/phoenixhawk_blazer.gif"
 exact "UrbanMech UM-R60 (Quazer)" "mechs/urbanmech_quazer.gif"
 exact "Shadow Hawk SHD-2H (Blazer)" "mechs/shadowhawk_blazer.gif"
-chassis "Shedu Hunter-Killer" "vehicles/donar.gif"
+chassis "Shedu Hunter-Killer" "vehicles/shedu.gif"
 
 #Rushvins Custums
 #Davion
