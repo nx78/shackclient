@@ -1,0 +1,71 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportTank
+</UnitType>
+<Name>
+LRM Carrier
+</Name>
+<Model>
+Primitive
+</Model>
+<Tonnage>
+60
+</Tonnage>
+<cruiseMP>
+3
+</cruiseMP>
+<Armor>
+12
+12
+12
+12
+</Armor>
+<Barrating>
+5
+</Barrating>
+<Turret Equipment>
+</Turret Equipment>
+<Front Equipment>
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2
+<Body Equipment>
+Basic Fire Control
+Armored Chassis
+ISSRM2 Ammo
+</Body Equipment>
+<type>
+IS Level 1
+</type>
+<year>
+2300
+</year>
+<source>
+Age of War
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+1
+</engine_type>
+<motion_type>
+Tracked
+</motion_type>
