@@ -5,7 +5,7 @@
 </BlockVersion>
 
 <UnitType>
-Tank
+SupportTank
 </UnitType>
 
 <blockversion>
@@ -43,6 +43,10 @@ Tracked
 1
 </engine_type>
 
+<barrating>
+10
+</barrating>
+
 <cruiseMP>
 3
 </cruiseMP>
@@ -57,6 +61,7 @@ Tracked
 
 <Body Equipment>
 Armored Chassis
+Advanced Fire Control
 IS Ammo AC/10
 IS Ammo AC/10
 IS Ammo AC/10
