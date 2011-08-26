@@ -1,0 +1,137 @@
+Version:1.1
+Thunderbolt
+TDR-1C
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:5
+
+Mass:65
+Engine:235 Primitive Fusion Engine
+Structure:Primitive
+Cockpit:Primitive Cockpit
+Myomer:Standard
+
+Heat Sinks:11 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Primitive
+LA Armor:20
+RA Armor:20
+LT Armor:24
+RT Armor:24
+CT Armor:30
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:6
+RTR Armor:6
+RTC Armor:11
+
+Weapons:10
+1 ISLargeLaser, Right Arm
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Left Torso
+1 ISLRM5, Right Torso, Ammo:24
+1 ISLRM5, Right Torso
+1 ISSRM2, Right Torso, Ammo:50
+1 ISMachine Gun, Left Arm, Ammo:200
+1 ISMachine Gun, Left Arm
+1 ISLRM5, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMachine Gun
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargeLaser
+ISLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISLRM5
+ISLRM5
+ISLRM5
+ISSRM2
+ISLRM5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSRM2 Ammo
+ISMG Ammo (200)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

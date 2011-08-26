@@ -1,0 +1,130 @@
+Version:1.1
+Banshee
+BNC-1E
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:5
+
+Mass:95
+Engine:345 Primitive Fusion Engine
+Structure:Primitive
+Cockpit:Primitive Cockpit
+Myomer:Standard
+
+Heat Sinks:12 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Primitive
+LA Armor:21
+RA Armor:21
+LT Armor:30
+RT Armor:30
+CT Armor:40
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:10
+RTR Armor:10
+RTC Armor:17
+
+Weapons:3
+1 ISAC10, Left Torso, Ammo:20
+1 ISAC5, Right Torso, Ammo:20
+1 ISSmallLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10 Ammo
+ISAC10 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+ISAC5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
