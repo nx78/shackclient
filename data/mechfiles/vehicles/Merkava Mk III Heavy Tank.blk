@@ -32,14 +32,13 @@ Mk III
 7
 </Barrating>
 <Turret Equipment>
-Advanced Fire Control
 IS Medium Rifle
 ISLRM10
 ISSRM4
-ISMG
+Machine Gun
 </Turret Equipment>
 <Body Equipment>
-Basic Fire Control
+Advanced Fire Control
 Armored Chassis
 ISLRM10 Ammo
 ISLRM10 Ammo
@@ -47,7 +46,7 @@ IS Ammo Medium Rifle
 IS Ammo Medium Rifle
 IS Ammo Medium Rifle
 ISSRM4 Ammo
-ISMG Ammo - Half
+IS Machine Gun Ammo - Half
 </Body Equipment>
 <type>
 IS Level 1
