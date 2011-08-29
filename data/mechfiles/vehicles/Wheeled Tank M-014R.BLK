@@ -1,0 +1,96 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+SupportTank
+</UnitType>
+
+<Name>
+Wheeled Tank
+</Name>
+
+<Model>
+M-014R
+</Model>
+
+<Year>
+2400
+</Year>
+
+<barrating>
+5
+</barrating>
+
+<Tonnage>
+35
+</Tonnage>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<Armor>
+18
+16
+16
+11
+16
+</Armor>
+
+<Body Equipment>
+IS Ammo Medium Rifle
+IS Ammo Medium Rifle
+IS Machine Gun Ammo - Half
+Advanced Fire Control
+Armored Chassis
+</Body Equipment>
+
+<Front Equipment>
+CLRL10Prototype
+CLRL10Prototype
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+Machine Gun
+</Right Equipment>
+
+<Left Equipment>
+Machine Gun
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Medium Rifle
+CLRL10Prototype
+CLRL10Prototype
+</Turret Equipment>
+
+<type>
+IS Level 4
+</type>
+
+<internal_type>
+0
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<engine_type>
+1
+</engine_type>
+
+<motion_type>
+Wheeled
+</motion_type>
