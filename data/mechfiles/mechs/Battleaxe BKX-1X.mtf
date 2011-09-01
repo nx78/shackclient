@@ -15,28 +15,31 @@ Myomer:Standard
 
 Heat Sinks:15 Single
 Walk MP:3
-Jump MP:3
+Jump MP:0
 
 Armor:Primitive
-LA Armor:12
-RA Armor:12
-LT Armor:16
-RT Armor:16
-CT Armor:18
+LA Armor:14
+RA Armor:14
+LT Armor:18
+RT Armor:18
+CT Armor:20
 HD Armor:9
-LL Armor:14
-RL Armor:14
-RTL Armor:5
-RTR Armor:5
-RTC Armor:7
+LL Armor:16
+RL Armor:16
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
 
-Weapons:6
-1 ISLRM5, Left Torso, Ammo:24
-1 ISSRM2, Right Torso, Ammo:50
-1 ISPPC, Left Arm
-1 ISPPC, Right Arm
+Weapons:9
+1 ISLRM5, Left Torso, Ammo:48
 1 ISLRM5, Right Torso
+1 ISLargeLaser, Left Arm
+1 ISLargeLaser, Right Arm
+1 ISSRM2, Right Torso, Ammo:50
 1 ISSRM2, Right Torso
+1 ISSRM2, Right Torso
+1 ISLRM5, Right Torso
+1 ISLRM5, Left Torso
 
 Left Arm:
 Shoulder
@@ -44,9 +47,9 @@ Upper Arm Actuator
 Lower Arm Actuator
 Heat Sink
 Heat Sink
-ISPPC
-ISPPC
-ISPPC
+ISLargeLaser
+ISLargeLaser
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -58,9 +61,9 @@ Upper Arm Actuator
 Lower Arm Actuator
 Heat Sink
 Heat Sink
-ISPPC
-ISPPC
-ISPPC
+ISLargeLaser
+ISLargeLaser
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -68,8 +71,8 @@ ISPPC
 
 Left Torso:
 ISLRM5
+ISLRM5
 ISLRM5 Ammo
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -82,12 +85,12 @@ ISLRM5 Ammo
 
 Right Torso:
 ISLRM5
+ISLRM5
 ISSRM2
 ISSRM2
+ISSRM2
+ISLRM5 Ammo
 ISSRM2 Ammo
--Empty-
--Empty-
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -105,8 +108,8 @@ Gyro
 Engine
 Engine
 Engine
-Jump Jet
 Heat Sink
+-Empty-
 
 Head:
 Life Support
@@ -121,7 +124,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
+-Empty-
 -Empty-
 
 Right Leg:
@@ -129,5 +132,5 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
+-Empty-
 -Empty-
