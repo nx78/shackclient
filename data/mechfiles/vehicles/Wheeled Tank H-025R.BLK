@@ -48,11 +48,12 @@ H-025R
 IS Ammo Heavy Rifle
 IS Ammo Heavy Rifle
 IS Machine Gun Ammo - Half
-Advanced Fire Control
+Basic Fire Control
 Armored Chassis
 </Body Equipment>
 
 <Front Equipment>
+CLRL10Prototype
 CLRL10Prototype
 Machine Gun
 </Front Equipment>
@@ -68,7 +69,6 @@ Machine Gun
 
 <Turret Equipment>
 Heavy Rifle
-CLRL10Prototype
 </Turret Equipment>
 
 <type>

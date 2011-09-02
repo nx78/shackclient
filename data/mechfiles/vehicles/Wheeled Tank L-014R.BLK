@@ -47,23 +47,21 @@ L-003R
 <Body Equipment>
 IS Ammo Light Rifle
 IS Ammo Light Rifle
-IS Machine Gun Ammo - Half
-Advanced Fire Control
+IS Machine Gun Ammo
+Basic Fire Control
 Armored Chassis
 </Body Equipment>
 
 <Front Equipment>
-CLRocketLauncher15Prototype
-CLRocketLauncher15Prototype
+CLRocketLauncher20Prototype
+Machine Gun
 Machine Gun
 </Front Equipment>
 
 <Right Equipment>
-Machine Gun
 </Right Equipment>
 
 <Left Equipment>
-Machine Gun
 </Left Equipment>
 
 <Rear Equipment>
@@ -71,8 +69,7 @@ Machine Gun
 
 <Turret Equipment>
 Light Rifle
-CLRocketLauncher15Prototype
-CLRocketLauncher15Prototype
+Light Rifle
 </Turret Equipment>
 
 <type>

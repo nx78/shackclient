@@ -48,7 +48,7 @@ M-014R
 IS Ammo Medium Rifle
 IS Ammo Medium Rifle
 IS Machine Gun Ammo - Half
-Advanced Fire Control
+Basic Fire Control
 Armored Chassis
 </Body Equipment>
 
@@ -59,11 +59,9 @@ Machine Gun
 </Front Equipment>
 
 <Right Equipment>
-Machine Gun
 </Right Equipment>
 
 <Left Equipment>
-Machine Gun
 </Left Equipment>
 
 <Rear Equipment>
@@ -71,8 +69,7 @@ Machine Gun
 
 <Turret Equipment>
 Medium Rifle
-CLRL10Prototype
-CLRL10Prototype
+Medium Rifle
 </Turret Equipment>
 
 <type>
