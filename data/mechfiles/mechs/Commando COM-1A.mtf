@@ -4,36 +4,34 @@ COM-1A
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2463
-Source:Age of War
-Rules Level:2
+Era:2750
+Rules Level:5
 
 Mass:25
-Engine:150 Fusion Engine(IS)
-Structure:Standard
-Myomer:Standard
+Engine:150 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
 Heat Sinks:10 Single
 Walk MP:5
 Jump MP:0
 
-Armor:Industrial(Inner Sphere)
+Armor:Primitive
 LA Armor:5
 RA Armor:5
 LT Armor:5
 RT Armor:5
 CT Armor:7
-HD Armor:5
-LL Armor:6
-RL Armor:6
+HD Armor:6
+LL Armor:5
+RL Armor:5
 RTL Armor:3
 RTR Armor:3
-RTC Armor:3
+RTC Armor:4
 
 Weapons:1
-Large Laser, Right Arm
+1 ISLargeLaser, Right Arm
 
 Left Arm:
 Shoulder
@@ -54,8 +52,8 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Large Laser
-Large Laser
+ISLargeLaser
+ISLargeLaser
 -Empty-
 -Empty-
 -Empty-
@@ -65,7 +63,7 @@ Large Laser
 
 Left Torso:
 Heat Sink
-Heat Sink
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -79,7 +77,7 @@ Heat Sink
 
 Right Torso:
 Heat Sink
-Heat Sink
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -92,16 +90,16 @@ Heat Sink
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 -Empty-
 -Empty-
 
@@ -112,25 +110,13 @@ Cockpit
 -Empty-
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+Heat Sink
 -Empty-
 
 Right Leg:
@@ -138,13 +124,5 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
+Heat Sink
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-

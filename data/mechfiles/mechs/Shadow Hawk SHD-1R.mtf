@@ -4,22 +4,20 @@ SHD-1R
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2457
-Source:Age of War
-Rules Level:2
+Era:2750
+Rules Level:5
 
 Mass:50
-Engine:240 Fusion Engine(IS)
-Structure:Standard
-Myomer:Standard
+Engine:240 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
 Heat Sinks:10 Single
 Walk MP:4
 Jump MP:3
 
-Armor:Industrial(Inner Sphere)
+Armor:Primitive
 LA Armor:16
 RA Armor:16
 LT Armor:18
@@ -33,8 +31,8 @@ RTR Armor:6
 RTC Armor:7
 
 Weapons:2
-Medium Laser, Right Arm
-Autocannon/5, Left Torso
+1 ISAC5, Left Torso, Ammo:20
+1 ISMediumLaser, Right Arm
 
 Left Arm:
 Shoulder
@@ -55,7 +53,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Medium Laser
+ISMediumLaser
 -Empty-
 -Empty-
 -Empty-
@@ -66,11 +64,11 @@ Medium Laser
 
 Left Torso:
 Jump Jet
-Autocannon/5
-Autocannon/5
-Autocannon/5
-Autocannon/5
-IS Ammo AC/5
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+ISAC5 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -93,16 +91,16 @@ Jump Jet
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Jump Jet
 -Empty-
 
@@ -113,12 +111,6 @@ Cockpit
 -Empty-
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
@@ -126,12 +118,6 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 -Empty-
 
 Right Leg:
@@ -141,11 +127,3 @@ Lower Leg Actuator
 Foot Actuator
 -Empty-
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-

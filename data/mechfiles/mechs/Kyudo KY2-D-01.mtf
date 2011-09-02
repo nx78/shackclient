@@ -5,11 +5,11 @@ KY2-D-01
 Config:Biped
 TechBase:Inner Sphere
 Era:2443
-Rules Level:2
+Rules Level:5
 
 Mass:45
 Engine:220 Primitive Fusion Engine
-Structure:Standard
+Structure:Primitive
 Cockpit:Primitive Cockpit
 Myomer:Standard
 
@@ -17,7 +17,7 @@ Heat Sinks:12 Single
 Walk MP:4
 Jump MP:0
 
-Armor:Industrial
+Armor:Primitive
 LA Armor:9
 RA Armor:9
 LT Armor:11

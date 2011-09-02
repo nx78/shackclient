@@ -5,21 +5,19 @@ MSK-6S
 Config:Biped
 TechBase:Inner Sphere
 Era:2440
-Source:Age of War
-Rules Level:3
+Rules Level:5
 
 Mass:100
-Engine:360 Fusion Engine
-Structure:Standard
-Myomer:Standard
+Engine:360 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
 Heat Sinks:15 Single
 Walk MP:3
 Jump MP:0
 
-Armor:Industrial(Inner Sphere)
+Armor:Primitive
 LA Armor:24
 RA Armor:24
 LT Armor:20
@@ -33,18 +31,18 @@ RTR Armor:10
 RTC Armor:10
 
 Weapons:4
-PPC, Left Arm
-Autocannon/10, Right Arm
-Medium Laser, Center Torso
-Medium Laser, Center Torso
+1 ISPPC, Left Arm
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Center Torso
+1 ISAC10, Right Arm, Ammo:20
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-PPC
-PPC
-PPC
+ISPPC
+ISPPC
+ISPPC
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -55,14 +53,14 @@ PPC
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Autocannon/10
-Autocannon/10
-Autocannon/10
-Autocannon/10
-Autocannon/10
-Autocannon/10
-Autocannon/10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+-Empty-
 -Empty-
 -Empty-
 
@@ -81,8 +79,8 @@ Left Torso:
 -Empty-
 
 Right Torso:
-IS Ammo AC/10
-IS Ammo AC/10
+ISAC10 Ammo
+ISAC10 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -95,18 +93,18 @@ IS Ammo AC/10
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
-Medium Laser
-Medium Laser
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
 
 Head:
 Life Support
@@ -115,24 +113,12 @@ Cockpit
 Heat Sink
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 -Empty-
 -Empty-
 
@@ -143,11 +129,3 @@ Lower Leg Actuator
 Foot Actuator
 -Empty-
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-

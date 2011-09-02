@@ -5,38 +5,36 @@ HEP-1H
 Config:Biped
 TechBase:Inner Sphere
 Era:2460
-Source:Star League
-Rules Level:3
+Rules Level:5
 
 Mass:75
-Engine:180 Fusion Engine(IS)
-Structure:Standard
-Myomer:Standard
+Engine:180 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
-Heat Sinks:11 Single
+Heat Sinks:10 Single
 Walk MP:2
 Jump MP:0
 
-Armor:Industrial(Inner Sphere)
-LA Armor:21
-RA Armor:21
-LT Armor:22
-RT Armor:22
-CT Armor:32
+Armor:Primitive
+LA Armor:16
+RA Armor:16
+LT Armor:17
+RT Armor:17
+CT Armor:24
 HD Armor:9
-LL Armor:30
-RL Armor:30
-RTL Armor:10
-RTR Armor:10
-RTC Armor:12
+LL Armor:22
+RL Armor:22
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
 
 Weapons:4
-Large Laser, Left Arm
-Sniper, Right Torso
-SRM 6, Center Torso
-Medium Laser, Head
+1 ISMediumLaser, Head
+1 ISLargeLaser, Left Arm
+1 ISSRM6, Center Torso, Ammo:15
+1 ISSniper, Right Torso, Ammo:20
 
 Left Arm:
 Shoulder
@@ -45,9 +43,9 @@ Lower Arm Actuator
 Hand Actuator
 Heat Sink
 Heat Sink
-Large Laser
-Large Laser
--Empty-
+Heat Sink
+ISLargeLaser
+ISLargeLaser
 -Empty-
 -Empty-
 -Empty-
@@ -67,11 +65,11 @@ ISSniper
 ISSniper
 
 Left Torso:
-Heat Sink
-Heat Sink
 ISSniperAmmo
 ISSniperAmmo
-IS Ammo SRM-6
+ISSRM6 Ammo
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -95,44 +93,32 @@ ISSniper
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
-SRM 6
-SRM 6
+Engine
+Engine
+Engine
+ISSRM6
+ISSRM6
 
 Head:
 Life Support
 Sensors
 Cockpit
-Medium Laser
+ISMediumLaser
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 -Empty-
 -Empty-
 
@@ -143,11 +129,3 @@ Lower Leg Actuator
 Foot Actuator
 -Empty-
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-

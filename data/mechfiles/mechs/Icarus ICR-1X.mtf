@@ -5,21 +5,19 @@ ICR-1X
 Config:Biped
 TechBase:Inner Sphere
 Era:2470
-Source:Age of War
-Rules Level:2
+Rules Level:5
 
 Mass:40
-Engine:195 Fusion Engine
-Structure:Standard
-Myomer:Standard
+Engine:195 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
 Heat Sinks:10 Single
 Walk MP:4
 Jump MP:0
 
-Armor:Industrial(Inner Sphere)
+Armor:Primitive
 LA Armor:9
 RA Armor:9
 LT Armor:13
@@ -33,20 +31,20 @@ RTR Armor:4
 RTC Armor:4
 
 Weapons:6
-Large Laser, Left Arm
-Small Laser, Left Arm
-Machine Gun, Right Arm
-Machine Gun, Right Arm
-SRM 2, Left Torso
-SRM 2, Left Torso
+1 ISMachine Gun, Right Arm, Ammo:200
+1 ISMachine Gun, Right Arm
+1 ISLargeLaser, Left Arm
+1 ISSmallLaser, Left Arm
+1 ISSRM2, Left Torso, Ammo:50
+1 ISSRM2, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Large Laser
-Large Laser
-Small Laser
+ISLargeLaser
+ISLargeLaser
+ISSmallLaser
 -Empty-
 -Empty-
 -Empty-
@@ -59,8 +57,8 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Machine Gun
-Machine Gun
+ISMachine Gun
+ISMachine Gun
 -Empty-
 -Empty-
 -Empty-
@@ -69,9 +67,9 @@ Machine Gun
 -Empty-
 
 Left Torso:
-SRM 2
-SRM 2
-IS Ammo SRM-2
+ISSRM2
+ISSRM2
+ISSRM2 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -83,7 +81,7 @@ IS Ammo SRM-2
 -Empty-
 
 Right Torso:
-IS Ammo MG - Full
+ISMG Ammo (200)
 -Empty-
 -Empty-
 -Empty-
@@ -97,16 +95,16 @@ IS Ammo MG - Full
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 -Empty-
 -Empty-
 
@@ -117,12 +115,6 @@ Cockpit
 Heat Sink
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
@@ -130,12 +122,6 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 -Empty-
 
 Right Leg:
@@ -145,11 +131,3 @@ Lower Leg Actuator
 Foot Actuator
 Heat Sink
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-

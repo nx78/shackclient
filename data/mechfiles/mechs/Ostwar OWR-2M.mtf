@@ -4,21 +4,20 @@ OWR-2M
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2470
-Rules Level:3
+Era:2750
+Rules Level:5
 
 Mass:65
-Engine:235 Fusion Engine
-Structure:Standard
-Myomer:Standard
+Engine:235 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
 Heat Sinks:12 Single
 Walk MP:3
 Jump MP:0
 
-Armor:Industrial(Inner Sphere)
+Armor:Primitive
 LA Armor:18
 RA Armor:18
 LT Armor:21
@@ -32,17 +31,17 @@ RTR Armor:7
 RTC Armor:10
 
 Weapons:5
-Medium Laser, Left Torso
-SRM 4, Right Arm
-SRM 4, Left Arm
-LRM 20, Right Torso
-Medium Laser, Left Torso
+1 ISSRM4, Left Arm, Ammo:25
+1 ISLRM20, Right Torso, Ammo:18
+1 ISSRM4, Right Arm
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-SRM 4
+ISSRM4
 -Empty-
 -Empty-
 -Empty-
@@ -56,7 +55,7 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-SRM 4
+ISSRM4
 -Empty-
 -Empty-
 -Empty-
@@ -67,9 +66,9 @@ SRM 4
 -Empty-
 
 Left Torso:
-Medium Laser
-Medium Laser
-IS Ammo SRM-4
+ISMediumLaser
+ISMediumLaser
+ISSRM4 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -81,30 +80,30 @@ IS Ammo SRM-4
 -Empty-
 
 Right Torso:
-LRM 20
-LRM 20
-LRM 20
-LRM 20
-LRM 20
-IS Ammo LRM-20
-IS Ammo LRM-20
-IS Ammo LRM-20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20
+ISLRM20 Ammo
+ISLRM20 Ammo
+ISLRM20 Ammo
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Heat Sink
 -Empty-
 
@@ -115,12 +114,6 @@ Cockpit
 -Empty-
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
@@ -128,12 +121,6 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 -Empty-
 
 Right Leg:
@@ -143,11 +130,3 @@ Lower Leg Actuator
 Foot Actuator
 Heat Sink
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-
