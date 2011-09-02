@@ -1,0 +1,67 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+SupportVTOL
+</UnitType>
+<Name>
+Raptor
+</Name>
+<Model>
+HV-04H
+</Model>
+<Tonnage>
+25
+</Tonnage>
+<cruiseMP>
+9
+</cruiseMP>
+<barrating>
+7
+</barrating>
+<Armor>
+12
+10
+10
+8
+2
+</Armor>
+<Front Equipment>
+ISSRM2
+ISSRM2
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+</Front Equipment>
+<Body Equipment>
+Advanced Fire Control
+Armored Chassis
+ISSRM2 Ammo
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2400
+</year>
+<source>
+Custom
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+6
+</engine_type>
+<motion_type>
+VTOL
+</motion_type>
