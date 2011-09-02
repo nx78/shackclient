@@ -5,21 +5,19 @@ TR-A-1
 Config:Biped
 TechBase:Inner Sphere
 Era:2481
-Source:Star League
-Rules Level:1
+Rules Level:5
 
 Mass:35
-Engine:130 Fusion Engine
-Structure:Standard
-Myomer:Standard
+Engine:130 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
 Heat Sinks:11 Single
 Walk MP:3
 Jump MP:0
 
-Armor:Industrial
+Armor:Primitive
 LA Armor:11
 RA Armor:11
 LT Armor:13
@@ -33,17 +31,17 @@ RTR Armor:3
 RTC Armor:5
 
 Weapons:3
-SRM 2, Right Arm
-Large Laser, Left Arm
-SRM 2, Left Torso
+1 ISLargeLaser, Left Arm
+1 ISSRM2, Left Torso, Ammo:50
+1 ISSRM2, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Large Laser
-Large Laser
+ISLargeLaser
+ISLargeLaser
 -Empty-
 -Empty-
 -Empty-
@@ -56,7 +54,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-SRM 2
+ISSRM2
 -Empty-
 -Empty-
 -Empty-
@@ -67,8 +65,8 @@ SRM 2
 
 Left Torso:
 Heat Sink
-SRM 2
-IS Ammo SRM-2
+ISSRM2
+ISSRM2 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -94,16 +92,16 @@ Heat Sink
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 -Empty-
 -Empty-
 
@@ -114,12 +112,6 @@ Cockpit
 -Empty-
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
@@ -128,12 +120,6 @@ Lower Leg Actuator
 Foot Actuator
 Heat Sink
 Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Right Leg:
 Hip
@@ -142,11 +128,3 @@ Lower Leg Actuator
 Foot Actuator
 Heat Sink
 Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-
