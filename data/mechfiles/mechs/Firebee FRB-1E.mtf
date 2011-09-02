@@ -5,21 +5,19 @@ FRB-1E
 Config:Biped
 TechBase:Inner Sphere
 Era:2502
-Source:Age of War
-Rules Level:2
+Rules Level:5
 
 Mass:35
-Engine:175 Fusion Engine
-Structure:Standard
-Myomer:Standard
+Engine:210 Primitive Fusion Engine
+Structure:Primitive
 Cockpit:Primitive Cockpit
-Gyro:Standard Gyro
+Myomer:Standard
 
 Heat Sinks:10 Single
-Walk MP:4
+Walk MP:5
 Jump MP:0
 
-Armor:Industrial(Inner Sphere)
+Armor:Primitive
 LA Armor:7
 RA Armor:7
 LT Armor:7
@@ -33,17 +31,17 @@ RTR Armor:2
 RTC Armor:3
 
 Weapons:4
-SRM 2, Left Arm
-LRM 5, Right Arm
-SRM 2, Left Torso
-SRM 2, Right Torso
+1 ISSRM2, Right Torso, Ammo:100
+1 ISSRM2, Left Arm
+1 ISSRM2, Left Torso
+1 ISLRM5, Right Arm, Ammo:24
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-SRM 2
+ISSRM2
 -Empty-
 -Empty-
 -Empty-
@@ -57,8 +55,8 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-LRM 5
-IS Ammo LRM-5
+ISLRM5
+ISLRM5 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -67,10 +65,10 @@ IS Ammo LRM-5
 -Empty-
 
 Left Torso:
-Heat Sink
-SRM 2
-IS Ammo SRM-2
-IS Ammo SRM-2
+ISSRM2
+ISSRM2 Ammo
+ISSRM2 Ammo
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -81,7 +79,7 @@ IS Ammo SRM-2
 -Empty-
 
 Right Torso:
-SRM 2
+ISSRM2
 -Empty-
 -Empty-
 -Empty-
@@ -95,16 +93,16 @@ SRM 2
 -Empty-
 
 Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 Gyro
 Gyro
 Gyro
 Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
+Engine
+Engine
+Engine
 -Empty-
 -Empty-
 
@@ -115,12 +113,6 @@ Cockpit
 -Empty-
 Sensors
 Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Leg:
 Hip
@@ -128,12 +120,6 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 -Empty-
 
 Right Leg:
@@ -143,11 +129,3 @@ Lower Leg Actuator
 Foot Actuator
 Heat Sink
 -Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-
