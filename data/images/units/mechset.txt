@@ -2227,6 +2227,7 @@ exact "Marauder MAD-3RWR" "mechs/marauderK.gif"
 exact "Thunderbolt TDR-5RWR" "mechs/thunderboltSS.gif"
 chassis "Agricultural Robot" "vehicles/mars.gif"
 chassis "Quasit" "mechs/eyleuka.gif"
+chassis "Quasit MilitiaMech" "mechs/eyleuka.gif"
 chassis "Security Robot" "protomechs/hydra.gif"
 chassis "Mining Robot" "mechs/hellspawn.gif"
 chassis "Light Tank" "vehicles/lighttank.gif"
@@ -2267,6 +2268,9 @@ exact "Phoenix Hawk PXH-1 (Blazer)" "mechs/phoenixhawk_blazer.gif"
 exact "UrbanMech UM-R60 (Quazer)" "mechs/urbanmech_quazer.gif"
 exact "Shadow Hawk SHD-2H (Blazer)" "mechs/shadowhawk_blazer.gif"
 chassis "Shedu Hunter-Killer" "vehicles/shedu.gif"
+exact "Raptor HV-04H" "vehicles/anhur.gif"
+exact "Raptor HV-04R" "vehicles/anhur.gif"
+exact "Raptor HV-14F" "vehicles/anhur.gif"
 
 #Rushvins Custums
 #Davion
