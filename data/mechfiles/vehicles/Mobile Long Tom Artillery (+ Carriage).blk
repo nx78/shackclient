@@ -16,16 +16,16 @@ Mobile Long Tom Artillery
 (+ Carriage)
 </Model>
 <Tonnage>
-95
+60
 </Tonnage>
 <cruiseMP>
 2
 </cruiseMP>
 <Armor>
-80
-80
-80
-80
+16
+16
+16
+16
 </Armor>
 <Front Equipment>
 ISLongTomArtillery
@@ -39,10 +39,6 @@ ISMachine Gun
 ISMachine Gun
 </Left Equipment>
 <Body Equipment>
-ISLongTomArtillery Ammo
-ISLongTomArtillery Ammo
-ISLongTomArtillery Ammo
-ISLongTomArtillery Ammo
 ISLongTomArtillery Ammo
 ISLongTomArtillery Ammo
 ISLongTomArtillery Ammo

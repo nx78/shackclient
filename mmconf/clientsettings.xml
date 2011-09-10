@@ -35,8 +35,8 @@
 		<preference name="MechSelectorIncludeCost" value="true"/>
 		<preference name="NagForReadme" value="false"/>
 		<preference name="RulerPosY" value="71"/>
-		<preference name="WindowPosY" value="0"/>
 		<preference name="RulerPosX" value="319"/>
+		<preference name="WindowPosY" value="0"/>
 		<preference name="WindowPosX" value="0"/>
 		<preference name="MiniReportSizeHeight" value="462"/>
 		<preference name="WindowSizeHeight" value="723"/>
@@ -52,8 +52,8 @@
 		<preference name="DisplayPosX" value="425"/>
 		<preference name="NagForNoAction" value="false"/>
 		<preference name="WindowSizeHeight" value="715"/>
-		<preference name="WindowPosY" value="0"/>
 		<preference name="MapZoomIndex" value="6"/>
+		<preference name="WindowPosY" value="0"/>
 		<preference name="WindowPosX" value="0"/>
 		<preference name="AdvancedChatbox2AutoSlidedown" value="false"/>
 		<preference name="WindowSizeWidth" value="1024"/>
