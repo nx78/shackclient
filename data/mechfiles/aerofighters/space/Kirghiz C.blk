@@ -34,6 +34,7 @@ CLUltraAC20 Ammo
 CLLargePulseLaser
 CLLargePulseLaser
 CLERSmallLaser
+TroopSpace:10
 </Nose Equipment>
 <Left Wing Equipment>
 CLERPPC
@@ -44,7 +45,6 @@ CLERPPC
 <Aft Equipment>
 CLERLargeLaser
 CLERLargeLaser
-Cargo(10 Tons)
 </Aft Equipment>
 <heatsinks>
 20
