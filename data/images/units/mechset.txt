@@ -502,7 +502,7 @@ exact "SRM Turret (Dual) SRM6" "gunemplacements/dual_light_missile_turret.gif"
 # Vehicles
 chassis "AC/2 Carrier" "vehicles/ac2carrier.gif"
 #chassis "Aikuchi" " .gif"
-chassis "Air Car" "vehicles/skimmer.gif"
+chassis "Air Car" "vehicles/aircar.gif"
 #exact "Air Defence Vehicle (ADV10)" " .gif"
 #exact "Air Defence Vehicle (ADV5)" " .gif"
 chassis "Ajax Assault Tank" "vehicles/ajax.gif"
