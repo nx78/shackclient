@@ -1,0 +1,90 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+SupportVTOL
+</UnitType>
+
+<Name>
+Nighthound
+</Name>
+
+<Model>
+NR-93H
+</Model>
+
+<Tonnage>
+60
+</Tonnage>
+
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<barrating>
+10
+</barrating>
+
+<Armor>
+22
+18
+18
+12
+2
+</Armor>
+
+
+<Front Equipment>
+Large Laser
+ISLRM5
+ISLRM5
+Machine Gun
+</Front Equipment>
+
+<Rear Equipment>
+Machine Gun
+</Rear Equipment>
+
+<Body Equipment>
+Advanced Fire Control
+Armored Chassis
+ISLRM5 Ammo
+IS Machine Gun Ammo
+</Body Equipment>
+
+<type>
+IS
+</type>
+
+<year>
+2493
+</year>
+
+<source>
+Custom
+</source>
+
+<internal_type>
+0
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<engine_type>
+0
+</engine_type>
+
+<motion_type>
+VTOL
+</motion_type>
