@@ -1,0 +1,9 @@
+Starting MegaMek v0.35.25-dev ...
+Compiled on Wed Dec 31 16:00:00 PST 1969
+Today is Mon Sep 05 11:08:42 PDT 2011
+Java vendor Sun Microsystems Inc.
+Java version 1.6.0_26
+Platform Windows XP 5.1 (x86)
+Total memory available to MegaMek: 253,440 kB
+
+Starting GUI swing. args: []

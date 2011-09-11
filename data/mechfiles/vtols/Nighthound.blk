@@ -85,6 +85,10 @@ Custom
 0
 </engine_type>
 
+<transporters>
+TroopSpace: 24
+</transporters>
+
 <motion_type>
 VTOL
 </motion_type>
