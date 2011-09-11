@@ -211,10 +211,12 @@ exact "Zero ZRO-114" "fighter/zeroZR0-114.gif"
 
 #Dropships
 chassis "Achilles" "dropships/achilles.gif"
+chassis "Andromeda" "dropships/andromeda.gif"
 exact "Avenger (2816)" "dropships/avenger.gif"
 exact "Avenger (3048)" "dropships/avenger.gif"
 exact "Colossus" "defaults/dropship_spheroid.gif"
 chassis "Cassiopeia" "dropships/cassiopeia.gif"
+chassis "Cassiopeia 100" "dropships/cassiopeia.gif"
 exact "Excalibur 'Pocket Warship'" "defaults/dropship_spheroid.gif"
 exact "Excalibur (2786)" "defaults/dropship_spheroid.gif"
 exact "Excalibur (3056)" "defaults/dropship_spheroid.gif"
