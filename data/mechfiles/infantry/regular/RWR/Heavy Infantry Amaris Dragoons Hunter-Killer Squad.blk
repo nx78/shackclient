@@ -22,7 +22,7 @@ Amaris Dragoons Hunter-Killer Squad
 </Model>
 
 <squad_size>
-7
+10
 </squad_size>
 
 <squadn>
@@ -34,7 +34,7 @@ Auto Rifle
 </Primary>
 
 <Secondary>
-InfantryMGPortable
+Inferno Grenades
 </Secondary>
 
 <secondn>
