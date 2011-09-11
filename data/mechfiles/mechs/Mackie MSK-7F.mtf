@@ -30,14 +30,14 @@ RTR Armor:10
 RTC Armor:15
 
 Weapons:8
-Machine Gun, Right Leg
 Machine Gun, Left Leg
-PPC, Right Arm
-LRM 15, Right Torso
-Medium Laser, Right Torso
-Medium Laser, Left Torso
+Machine Gun, Right Leg
 Autocannon/20, Left Arm
+PPC, Right Arm
+Medium Laser, Left Torso
+LRM 15, Right Torso
 Small Laser, Head
+Medium Laser, Right Torso
 
 Left Arm:
 Shoulder
@@ -74,7 +74,7 @@ Heat Sink
 IS Ammo AC/20
 Medium Laser
 Heat Sink
--Empty-
+Heat Sink
 -Empty-
 -Empty-
 -Empty-
@@ -83,13 +83,13 @@ Heat Sink
 
 Right Torso:
 LRM 15
-IS Ammo LRM-15 Fragmentation
 LRM 15
 LRM 15
 IS Ammo LRM-15
+IS Ammo LRM-15
 Medium Laser
 Heat Sink
-Heat Sink
+-Empty-
 -Empty-
 -Empty-
 -Empty-
