@@ -1,0 +1,112 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Dropship
+</UnitType>
+
+<Name>
+Andromeda
+</Name>
+
+<Model>
+100
+</Model>
+
+<Tonnage>
+1800
+</Tonnage>
+
+
+<SafeThrust>
+2
+</SafeThrust>
+
+<Armor>
+77
+77
+77
+77
+</Armor>
+
+<Nose Equipment>
+</Nose Equipment>
+
+<Left Side Equipment>
+</Left Side Equipment>
+
+<Right Side Equipment> 
+</Right Side Equipment>
+
+<Aft Equipment> 
+</Aft Equipment>
+
+<structural_integrity>
+5
+</structural_integrity>
+
+<heatsinks>
+39
+</heatsinks>
+
+<sink_type>
+0
+</sink_type>
+
+<fuel>
+4950
+</fuel>
+
+<type>
+IS Level 1
+</type>
+
+<year>
+2490
+</year>
+
+<internal_type>
+0
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<engine_type>
+0
+</engine_type>
+
+<motion_type>
+spheroid
+</motion_type>
+
+<transporters>
+MechBay:4:2
+HeavyVehicleBay:2:2
+InfantryBay:12:4
+</transporters>
+
+<escape_pod>
+0
+</escape_pod>
+
+<life_boat>
+0
+</life_boat>
+
+<crew>
+7
+</crew>
+
+<passengers>
+0
+</passengers>
