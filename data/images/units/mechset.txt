@@ -2282,6 +2282,7 @@ chassis "Shedu Hunter-Killer" "vehicles/shedu.gif"
 exact "Raptor HV-04H" "vehicles/anhur.gif"
 exact "Raptor HV-04R" "vehicles/anhur.gif"
 exact "Raptor HV-14F" "vehicles/anhur.gif"
+exact "Vandal VD-1X" "mechs/phoenixhawkiic.gif"
 
 #Rushvins Custums
 #Davion
