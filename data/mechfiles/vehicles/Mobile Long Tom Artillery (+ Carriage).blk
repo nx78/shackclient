@@ -4,7 +4,7 @@
 </BlockVersion>
 #Write the version number just in case...
 <Version>
-MAM1
+MAM2
 </Version>
 <UnitType>
 Tank
@@ -31,12 +31,12 @@ Mobile Long Tom Artillery
 ISLongTomArtillery
 </Front Equipment>
 <Right Equipment>
-ISMachine Gun
-ISMachine Gun
+Machine Gun
+Machine Gun
 </Right Equipment>
 <Left Equipment>
-ISMachine Gun
-ISMachine Gun
+Machine Gun
+Machine Gun
 </Left Equipment>
 <Body Equipment>
 ISLongTomArtillery Ammo
