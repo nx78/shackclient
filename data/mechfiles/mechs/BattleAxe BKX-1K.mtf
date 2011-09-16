@@ -31,11 +31,11 @@ RTR Armor:4
 RTC Armor:6
 
 Weapons:5
-1 ISLargeLaser, Right Arm
-1 ISLargeLaser, Left Arm
-1 ISSRM6, Right Torso, Ammo:15
 1 ISLRM5, Left Torso, Ammo:48
 1 ISLRM5, Right Torso
+1 ISSRM6, Right Torso, Ammo:15
+1 ISLargeLaser, Left Arm
+1 ISLargeLaser, Right Arm
 
 Left Arm:
 Shoulder
@@ -67,9 +67,9 @@ ISLargeLaser
 
 Left Torso:
 ISLRM5
-Heat Sink
 ISLRM5 Ammo
--Empty-
+Heat Sink
+Heat Sink
 -Empty-
 -Empty-
 -Empty-
@@ -105,7 +105,7 @@ Engine
 Engine
 Engine
 Jump Jet
--Empty-
+Heat Sink
 
 Head:
 Life Support
