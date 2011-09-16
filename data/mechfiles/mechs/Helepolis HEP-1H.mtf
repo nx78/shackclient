@@ -30,11 +30,12 @@ RTL Armor:5
 RTR Armor:5
 RTC Armor:7
 
-Weapons:4
+Weapons:5
 1 ISMediumLaser, Head
 1 ISLargeLaser, Left Arm
 1 ISSRM6, Center Torso, Ammo:15
 1 ISSniper, Right Torso, Ammo:20
+1 ISLRM10, Left Torso, Ammo:12
 
 Left Arm:
 Shoulder
@@ -65,13 +66,13 @@ ISSniper
 ISSniper
 
 Left Torso:
-ISSniperAmmo
-ISSniperAmmo
+ISLRM10
+ISLRM10
+ISLRM10 Ammo
 ISSRM6 Ammo
--Empty-
--Empty-
--Empty-
--Empty-
+ISSniperAmmo
+ISSniperAmmo
+ISCASE
 -Empty-
 -Empty-
 -Empty-
