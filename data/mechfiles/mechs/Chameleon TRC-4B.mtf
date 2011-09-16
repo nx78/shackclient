@@ -1,43 +1,45 @@
 Version:1.1
-Orion
-ON1-C
+Chameleon
+TRC-4B
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2456
+Era:2464
 Rules Level:5
 
-Mass:75
-Engine:270 Primitive Fusion Engine
+Mass:50
+Engine:240 Primitive Fusion Engine
 Structure:Primitive
 Cockpit:Primitive Cockpit
 Myomer:Standard
 
 Heat Sinks:10 Single
-Walk MP:3
-Jump MP:0
+Walk MP:4
+Jump MP:4
 
 Armor:Primitive
-LA Armor:21
-RA Armor:21
-LT Armor:22
-RT Armor:22
-CT Armor:36
+LA Armor:12
+RA Armor:12
+LT Armor:12
+RT Armor:12
+CT Armor:17
 HD Armor:9
-LL Armor:32
-RL Armor:32
-RTL Armor:10
-RTR Armor:10
-RTC Armor:9
+LL Armor:12
+RL Armor:12
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
 
-Weapons:7
-1 ISLRM5, Left Torso, Ammo:24
-1 ISLRM5, Left Torso
-1 ISAC10, Right Torso, Ammo:20
-1 ISSRM2, Left Torso, Ammo:50
-1 ISMediumLaser, Left Arm
+Weapons:9
+1 ISLargeLaser, Right Arm
 1 ISMediumLaser, Right Arm
-1 ISSRM2, Left Torso
+1 ISMediumLaser, Left Arm
+1 ISSmallLaser, Right Torso
+1 ISSmallLaser, Left Torso
+1 ISSmallLaser, Right Torso
+1 ISSmallLaser, Left Torso
+1 ISMachine Gun, Center Torso, Ammo:200
+1 ISMachine Gun, Center Torso
 
 Left Arm:
 Shoulder
@@ -58,9 +60,9 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
+ISLargeLaser
+ISLargeLaser
 ISMediumLaser
--Empty-
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -68,12 +70,12 @@ ISMediumLaser
 -Empty-
 
 Left Torso:
-ISLRM5
-ISLRM5
-ISSRM2
-ISSRM2
-ISLRM5 Ammo
-ISSRM2 Ammo
+ISSmallLaser
+ISSmallLaser
+ISMG Ammo (100)
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -82,15 +84,15 @@ ISSRM2 Ammo
 -Empty-
 
 Right Torso:
-ISAC10
-ISAC10
-ISAC10
-ISAC10
-ISAC10
-ISAC10
-ISAC10
-ISAC10 Ammo
-ISAC10 Ammo
+ISSmallLaser
+ISSmallLaser
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -106,8 +108,8 @@ Gyro
 Engine
 Engine
 Engine
-Heat Sink
--Empty-
+ISMachine Gun
+ISMachine Gun
 
 Head:
 Life Support
@@ -122,13 +124,13 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Jump Jet
+Jump Jet
 
 Right Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Jump Jet
+Jump Jet
