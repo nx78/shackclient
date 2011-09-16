@@ -13,29 +13,28 @@ Structure:Primitive
 Cockpit:Primitive Cockpit
 Myomer:Standard
 
-Heat Sinks:10 Single
+Heat Sinks:12 Single
 Walk MP:2
 Jump MP:0
 
 Armor:Primitive
-LA Armor:16
-RA Armor:16
-LT Armor:17
-RT Armor:17
-CT Armor:24
+LA Armor:22
+RA Armor:22
+LT Armor:21
+RT Armor:21
+CT Armor:31
 HD Armor:9
-LL Armor:22
-RL Armor:22
-RTL Armor:5
-RTR Armor:5
-RTC Armor:7
+LL Armor:25
+RL Armor:25
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
 
-Weapons:5
+Weapons:4
 1 ISMediumLaser, Head
 1 ISLargeLaser, Left Arm
 1 ISSRM6, Center Torso, Ammo:15
 1 ISSniper, Right Torso, Ammo:20
-1 ISLRM10, Left Torso, Ammo:12
 
 Left Arm:
 Shoulder
@@ -66,13 +65,13 @@ ISSniper
 ISSniper
 
 Left Torso:
-ISLRM10
-ISLRM10
-ISLRM10 Ammo
+Heat Sink
+Heat Sink
 ISSRM6 Ammo
 ISSniperAmmo
 ISSniperAmmo
-ISCASE
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
