@@ -17,16 +17,16 @@ Shedu Hunter-Killer
 LRM
 </Model>
 <Tonnage>
-30
+20
 </Tonnage>
 <cruiseMP>
-9
+7
 </cruiseMP>
 <Armor>
-16
-10
-10
-10
+12
+9
+9
+8
 2
 </Armor>
 <Front Equipment>
@@ -38,7 +38,7 @@ ISLRM5
 ISLRM5 Ammo
 ISLRM5 Ammo
 IS Machine Gun Ammo - Half
-Communications Equipment (7 ton)
+Communications Equipment (3 ton)
 </Body Equipment>
 <type>
 IS
@@ -56,7 +56,7 @@ Custom
 0
 </armor_type>
 <engine_type>
-6
+1
 </engine_type>
 <motion_type>
 VTOL
