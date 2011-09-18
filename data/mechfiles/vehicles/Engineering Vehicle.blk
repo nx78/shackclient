@@ -5,8 +5,12 @@
 </BlockVersion>
 
 <UnitType>
-Tank
+SupportTank
 </UnitType>
+
+<barrating>
+5
+</barrating>
 
 <blockversion>
 1
@@ -40,16 +44,20 @@ Tracked
 </engine_type>
 
 <cruiseMP>
-6
+5
 </cruiseMP>
 
 <armor>
-8
-8
-8
-8
-8
+12
+12
+12
+12
+12
 </armor>
+
+<transporters>
+TroopSpace:1
+</transporters>
 
 <Body Equipment>
 </Body Equipment>
@@ -64,10 +72,13 @@ Tracked
 </Left Equipment>
 
 <Rear Equipment>
-Lift Hoist
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
 </Rear Equipment>
 
 <Turret Equipment>
-Backhoe
+ISMineSweeper
 </Turret Equipment>
 
