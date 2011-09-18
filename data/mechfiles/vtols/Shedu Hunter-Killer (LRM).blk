@@ -20,13 +20,13 @@ LRM
 20
 </Tonnage>
 <cruiseMP>
-7
+8
 </cruiseMP>
 <Armor>
-12
+11
 9
 9
-8
+9
 2
 </Armor>
 <Front Equipment>
@@ -56,7 +56,7 @@ Custom
 0
 </armor_type>
 <engine_type>
-1
+6
 </engine_type>
 <motion_type>
 VTOL
