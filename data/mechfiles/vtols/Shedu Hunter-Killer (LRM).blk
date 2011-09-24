@@ -20,7 +20,7 @@ LRM
 20
 </Tonnage>
 <cruiseMP>
-9
+8
 </cruiseMP>
 <Armor>
 9
@@ -37,7 +37,7 @@ ISLRM5
 <Body Equipment>
 ISLRM5 Ammo
 ISLRM5 Ammo
-IS Machine Gun Ammo - Half
+IS Machine Gun Ammo
 Communications Equipment (3 ton)
 </Body Equipment>
 <type>
