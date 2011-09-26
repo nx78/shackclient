@@ -1,0 +1,62 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+VTOL
+</UnitType>
+<Name>
+Shedu Hunter-Killer
+</Name>
+<Model>
+A9
+</Model>
+<Tonnage>
+24
+</Tonnage>
+<cruiseMP>
+9
+</cruiseMP>
+<Armor>
+11
+9
+9
+9
+2
+</Armor>
+<Front Equipment>
+ISSmallPulseLaser
+ISSmallPulseLaser
+ISLRM5
+ISLRM5
+</Front Equipment>
+<Body Equipment>
+ISLRM5 Ammo
+ISLRM5 Ammo
+Communications Equipment (3 ton)
+</Body Equipment>
+<type>
+IS
+</type>
+<year>
+2630
+</year>
+<source>
+Custom
+</source>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+6
+</engine_type>
+<motion_type>
+VTOL
+</motion_type>
