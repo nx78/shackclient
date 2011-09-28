@@ -4,7 +4,7 @@
 </BlockVersion>
 #Write the version number just in case...
 <Version>
-MAM0
+MAM1
 </Version>
 <UnitType>
 VTOL
@@ -45,7 +45,6 @@ Communications Equipment (3 ton)
 <type>
 IS
 </type>
-<year>
 2768
 </year>
 <source>
