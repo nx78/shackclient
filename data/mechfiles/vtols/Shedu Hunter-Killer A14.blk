@@ -19,7 +19,7 @@ A14
 30
 </Tonnage>
 <cruiseMP>
-9
+10
 </cruiseMP>
 <Armor>
 11
@@ -40,11 +40,13 @@ ISLRM5
 <Body Equipment>
 ISLRM5 Ammo
 ISLRM5 Ammo
-Communications Equipment (3 ton)
+ISGuardianECMSuite
+BeagleActiveProbe
 </Body Equipment>
 <type>
 IS
 </type>
+<year>
 2768
 </year>
 <source>
