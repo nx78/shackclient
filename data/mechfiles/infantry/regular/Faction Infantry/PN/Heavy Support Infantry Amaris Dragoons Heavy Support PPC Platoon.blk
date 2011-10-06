@@ -1,0 +1,68 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Heavy Support Infantry
+</Name>
+
+<Model>
+Amaris Dragoons Heavy Support PPC Platoon
+</Model>
+
+<squad_size>
+10
+</squad_size>
+
+<squadn>
+3
+</squadn>
+
+<Primary>
+Auto Rifle
+</Primary>
+
+<Secondary>
+InfantrySupportPPC
+</Secondary>
+
+<secondn>
+2
+</secondn>
+
+<InfantryArmor>
+2
+</InfantryArmor>
+
+<type>
+IS Level 3
+</type>
+
+<year>
+2570
+</year>
+
+<era>
+Star League
+</era>
+
+<motion_type>
+Motorized
+</motion_type>
+
+<antimek>
+LegAttack
+SwarmMek
+StopSwarm
+</antimek>

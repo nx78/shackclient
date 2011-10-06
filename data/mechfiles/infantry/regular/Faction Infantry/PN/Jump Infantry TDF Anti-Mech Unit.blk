@@ -1,0 +1,60 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Jump Infantry
+</Name>
+
+<Model>
+TDF Anti-Mech Unit
+</Model>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<Primary>
+InfantryBlazerRifle
+</Primary>
+
+<Secondary>
+InfantrySupportLaser
+</Secondary>
+
+<type>
+IS Level 2
+</type>
+
+<year>
+2500
+</year>
+
+<era>
+Age of War
+</era>
+
+<motion_type>
+Jump
+</motion_type>
+
+<antimek>
+LegAttack
+SwarmMek
+StopSwarm
+</antimek>

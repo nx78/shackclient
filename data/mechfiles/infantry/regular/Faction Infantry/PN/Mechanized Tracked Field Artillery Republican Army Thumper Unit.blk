@@ -1,0 +1,37 @@
+<BlockVersion>
+1
+</BlockVersion>
+<Version>
+MAM0
+</Version>
+<UnitType>
+Infantry
+</UnitType>
+<Name>
+Mechanized Tracked Field Artillery
+</Name>
+<Model>
+Republican Army Thumper Unit
+</Model>
+<squad_size>
+7
+</squad_size>
+<squadn>
+4
+</squadn>
+<Primary>
+InfantryAssaultRifle
+</Primary>
+<Field Guns Equipment>
+ISThumper
+ISThumper Ammo
+</Field Guns Equipment>
+<type>
+IS
+</type>
+<year>
+2500
+</year>
+<motion_type>
+Tracked
+</motion_type>

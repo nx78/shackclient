@@ -1,0 +1,61 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Sniper
+</Name>
+
+<Model>
+Taurian Scout-Snipers
+</Model>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<Primary>
+Radium Sniper Rifle
+</Primary>
+
+<Secondary>
+InfantryNambuAutopistol
+</Secondary>
+
+<secondn>
+1
+</secondn>
+
+<type>
+IS Level 2
+</type>
+
+<year>
+2570
+</year>
+
+<era>
+Star League
+</era>
+
+<motion_type>
+Leg
+</motion_type>
+
+<antimek>
+</antimek>
