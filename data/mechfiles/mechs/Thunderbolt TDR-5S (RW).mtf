@@ -1,0 +1,180 @@
+Version:1.0
+Thunderbolt
+TDR-5S (RW)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:2
+
+Mass:65
+Engine:260 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:20
+RA Armor:20
+LT Armor:24
+RT Armor:24
+CT Armor:30
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:6
+RTR Armor:6
+RTC Armor:11
+
+Weapons:15
+Large Laser, Right Arm
+Machine Gun, Left Arm
+Machine Gun, Left Arm
+Rocket Launcher 20 (PP), Right Torso
+Rocket Launcher 20 (PP), Right Torso
+Rocket Launcher 15 (PP), Right Torso
+Rocket Launcher 15 (PP), Right Torso
+SRM 2, Right Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Rocket Launcher 15 (PP), Left Torso
+Rocket Launcher 15 (PP), Left Torso
+Rocket Launcher 15 (PP), Left Torso
+Rocket Launcher 15 (PP), Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Machine Gun
+Machine Gun
+IS Ammo MG - Full
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Large Laser
+Large Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Medium Laser
+Medium Laser
+Medium Laser
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+-Empty-
+
+Right Torso:
+CLRocketLauncher20Prototype
+CLRocketLauncher20Prototype
+CLRocketLauncher20Prototype
+CLRocketLauncher20Prototype
+CLRocketLauncher20Prototype
+CLRocketLauncher20Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+CLRocketLauncher15Prototype
+SRM 2
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Ammo SRM-2
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+history:Overview:
+     The TDR-5S Thunderbolt is a familiar 'Mech throughout the Successor States. First produced in 2491, it was used extensively in assault lances of the era. Known for its heavy armament and hard-hitting assault capability, the Thunderbolt remains a favorite of many MechWarriors.
+     The TDR-5S Thunderbolt was one of the first 'Mechs designed for planetary assault. In its early years, it was also one of the heaviest assault 'Mechs possible to produce. As technology advanced, the Thunderbolt was inevitably superseded by larger, more advanced heavy 'Mechs. Because of its excellent design, however, the Thunderbolt remained in production, and some of the newer technology was added to its sub-assemblies. The Thunderbolt is respected as a tough opponent all across the Successor States.
+Capability:
+     The Thunderbolt remains one of the best-armed 'Mechs in existence. Its standard Sunglow Type 2 large laser packs a punch that few 'Mechs of any type can withstand. Combined with its three Diverse Optics Type 18 medium lasers and its drum-mounted Delta Dart LRM 15-rack, the Thunderbolt has more than ample firepower at long and medium ranges. For close-in combat, the 'Mech also carries a Bical short-range missile twin rack and two Voelkers 200 machine guns. There are very few opponent 'Mechs that can match this kind of firepower.
+     The Thunderbolt's armor is another of the 'Mech's impressive features. Though not the heaviest armor known today, it is still considered substantial, and many newer heavy 'Mechs have considerably less.
+     With all its heavy weaponry, however, the Thunderbolt is more susceptible to heat buildup than many other Mechs. Careful salvo firing of the Thunderbolt's weapons is a must if the vehicle is to avoid heat overload and shutdown. In many battles, commanders order their Thunderbolts into bodies of water early on, which allows them to fire more of their weapons than normal. Water holes in combat areas are always of great tactical value, but for the Thunderbolt, they are desperately needed to utilize its entire armament.
+Battle History:
+     In a raid on the planet Damian in 2902, 'Mech lances of Helmar Valesek, Bandit King of Santander V, engaged elements of Kurita's 9th Sun Zhang Academy Cadre, which were on the planet for maneuvers. In six hours of pitched battle, three old Thunderbolts standing in the middle of Lake Omenshoulter withstood an assault by at least ten 'Mechs of various types sent against them by the pirate commander. The raiders finally withdrew when reinforcements from Damian's capital arrived on the scene. Forced to their DropShips, they left the planet empty-handed.
+     In the year 3000, a reconnaissance in force by the Eridani Light Horse on the Kurita planet Benet led to a costly surprise for that unit. Scouting for a reported secret supply dump, two recon lances supported by four jump-capable Thunderbolts (see Variants) were ambushed by the better part of the First Pesht Regulars. The Eridani commander saw no recourse but to withdraw, and ordered the four Thunderbolts to cover the lighter 'Mech's retreat. Dodging the traps and enfilades that the Kurita 'Mechs tried to create, the Thunderbolts successfully covered the retreat, but absorbed a tremendous amount of damage doing so. Only one of the four 'Mechs was able to make it to the last DropShip before it lifted off.
+Variants:
+     Two major variations on the general Thunderbolt design have been introduced since the beginning of the Succession Wars. The Thunderbolts of House Steiner have replaced the large laser with a Kreuss PPC mounted on the right arm. Also, an SRM six-rack replaces the LRM 15-rack, and two Zippo Mark IX flamers replace the Bical SRM twin-rack. The Eridani Light Horse mercenary regiment has adapted its Thunderbolts to the unit's role as a raiding and reconnaissance force by adding Chilton 420 jump jets and an LRM ten-rack. These improvements are at the expense of the LRM 15-rack, the SRM twin-rack, and the two machine guns.
+Famous Mechs and Warriors:
+Captain "Dashing John" MacAllister
+     Commander of MacAllister's Support Company of the Eridani Light Horse, "Dashing John" models himself after the heavy cavalry officers of ancient Earth history. A student of Napoleon, he is famous for going into battle with Terran-French martial music blaring from the external cockpit speakers of his Thunderbolt, the Toujours L'Audance. His men nearly worship him, and many have adapted bits of old-style Napoleonic uniforms as their trademark. MacAllister is known for his rear-guard actions in support of the Eridani Light Horse, and has tallied 26 kills of his own.
+
+MechWarrior Clare Sarton
+     Part of Keniston's Assault Lance of House Liao's Seventh St. Ives Armored Cavalry, Clare Sarton is quite young to have achieved a reputation among MechWarriors. Most of her fame is based on the Forth (and final) battle of Oasis 326 on the desert planet Daniels. Here she single-handedly disabled five enemy 'Mechs in as many minutes as they charged down the dunes toward her lance's position. It was mainly Sarton's speed and dexterity at the controls of her Thunderbolt, the Wild One, that forced the Davion attackers to withdraw. With the arrival of additional Davion reinforcements, however, the Liao forces eventually had to evacuate Daniels some weeks later.
+Deployment:
+ 

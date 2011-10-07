@@ -1,0 +1,187 @@
+Version:1.0
+Banshee
+BNC-3E (RW)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2570
+Rules Level:2
+
+Mass:95
+Engine:380 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:16 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:21
+RA Armor:21
+LT Armor:30
+RT Armor:30
+CT Armor:40
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:10
+RTR Armor:10
+RTC Armor:17
+
+Weapons:16
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Autocannon/5, Left Torso
+Rocket Launcher 10 (PP), Left Torso
+Rocket Launcher 10 (PP), Left Torso
+Rocket Launcher 10 (PP), Left Torso
+Rocket Launcher 10 (PP), Left Torso
+Rocket Launcher 10 (PP), Left Torso
+Rocket Launcher 10 (PP), Left Torso
+Rocket Launcher 10 (PP), Center Torso
+Rocket Launcher 10 (PP), Center Torso
+Small Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Autocannon/5
+Autocannon/5
+Autocannon/5
+Autocannon/5
+IS Ammo AC/5
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+-Empty-
+
+Right Torso:
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLRL10Prototype
+CLRL10Prototype
+
+Head:
+Life Support
+Sensors
+Cockpit
+Small Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+history:Overview:
+     The BNC-3E Banshee was an early 'Mech design, produced in the same era as the MCK Mackie and the EMP Emperor. Tipping the scales at 95 tons, it is also one of the heaviest 'Mechs ever built.
+     In the late 2400's, The Terran Hegemony undertook construction of what would be known as the Banshee in an effort to create an ultra-heavy, close-assault vehicle able to engage other models of the newly developed BattleMech. Though the model was criticized as being severely underarmed and thus outclassed by other privately produced 'Mechs, The Terran Hegemony manufactured more than 5,000 Banshees in the next ten years. About a third of these still exist.
+     With its death's-head cockpit and rigid Starshield armor, the Banshee was impressive-looking but never popular with the Terran military. To this day, its reputation is poor.
+Capability:
+     As noted above, the Banshee's main role was as a close-assault vehicle. Indeed, its powerful fists and legs can turn lighter 'Mechs to scrap. The intelligent MechWarrior therefore keeps his distance from the Banshee, slowly picking it apart with ranged weapons.
+     From the outset, the 'Mech's massive size caused problems. For example, its huge GM 380 power plant took up so much space that there was barely room to install weapons and armor. As a result, the Banshee's armament is woefully inadequate for such a big machine. Its single Hellstar PPC may be powerful, but its Imperator-A autocannon and Magna Mark I light laser are simply not adequate secondary weapons.
+     The heavy-laminate Starshield armor is also impressive, being equal to or greater than that of other comparable 'Mechs. Critics were quick to point out, however, that a better-armed Marauder or Warhammer could blast away a Banshee, which had only its one PPC and "popgun" autocannon for reply. What good, then, was the heavy armor? In actual combat, even the lowly Rifleman was able to overcome the Banshee, as the latter could rarely get close enough to bring into play its superior mass.
+     By the end of the 'Mech's ten-year production run, The Hegemony had officially abandoned it, relegating the Banshee to militias and second-line units.
+Battle History:
+     Many commanders considered the Banshee a liability rather than an asset in battle. In desperation, they began to deploy them as fire support or as heavy reserve to stop breakouts or for hand-to-hand combat when the better-armed 'Mechs had engaged the enemy at close range.
+     This practice continues in the Successor States. Those Banshees not deployed on backwater planets or with small militia units are usually found in the second line of advance, or in rear areas providing autocannon and PPC fire to support the advance of other 'Mechs.
+     Although House Steiner's Banshee-S variant has yet to be tested in battle, the new model may herald a rebirth for the beleaguered 'Mech.
+Variants:
+     Numerous variants have been attempted over the years. For example, House Marik replaced the Banshee's autocannon with a second PPC, but the resulting heat buildup crippled the machine. A second, more successful Marik variant replaced the PPC and the original, smaller autocannon with a single Imperator-Zeta Class 20 autocannon. This model still lacked the crucial secondary weapon system, however.
+     House Steiner variants may prove to be the most successful. With a full hundred Banshees on hand for experimentation, Steiner engineers have been busy modifying them. Assisted by Davion technicians, and with plans from the Hesperus II factories, House Steiner first attempted a modification suggested by many of the Banshee's early critics. By adapting the Banshee's power plant housing, the bulky GM fusion unit was replaced with a lighter Pitban 285. Although this modification reduces the Banshee's cruising speed to only 32 kph, it frees up massive amounts of space for weapons installation. Early versions of the Banshee-S are impressive.
+     Also added were five new heat sinks, an extra light laser, four Magna Mark II medium lasers, a second PPC, and a Harpoon 6-rack missile launcher. In addition, Steiner has upgraded the Imperator-A autocannon to an Imperator-B Class 10. Although this radical revision of the original Banshee still has problems with overheating, the overall outlook is favorable. Once considered a white elephant, the Banshee may well emerge as a potent war machine.
+Famous Mechs and Warriors:
+Major Laurine White
+     A highly decorated veteran of several Steiner campaigns, Major White is currently on special assignment, reporting directly to Archon Katrina Steiner. White has been issued the first of the experimental Banshee-S designs, and is responsible for testing the new 'Mech. Refurbished with spare parts from junked BNCs, her Banshee is in perfect condition. Despite the high heat buildup from the dual PPCs during simulated combat, the new 'Mech shows great promise.
+     Major White's next assignment will be to take the Banshee-S into combat. An intelligent, loyal officer, she is a MechWarrior ably suited to the task. House Steiner eagerly awaits the results of her testing.
+
+"Baron" Abel Karmak
+     A crony of the Bandit King Redjack Ryan, Karmak was awarded a "barony" and a Banshee by his grateful liege. Although he uses the 'Mech mostly to terrorize his subjects, Karmak's Banshee occasionally takes part in water raids against House Kurita. A realist rather than a coward, Karmak knows his Banshee is outclassed by the more advanced Kurita machines, and hangs back from the heaviest fighting in self-preservation. His fondest wish, however, is to obtain a "real" 'Mech and thus become a heroic MechWarrior raiding the hated Successor States for loot and water, perhaps one day displacing Redjack Ryan himself as Bandit King.
+Deployment:
+ 

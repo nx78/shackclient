@@ -1,0 +1,181 @@
+Version:1.0
+Shadow Hawk
+SHD-2H (RW)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2570
+Rules Level:2
+
+Mass:55
+Engine:275 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Single
+Walk MP:5
+Jump MP:3
+
+Armor:Standard(Inner Sphere)
+LA Armor:16
+RA Armor:16
+LT Armor:18
+RT Armor:18
+CT Armor:23
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:9
+Medium Laser, Right Arm
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Rocket Launcher 10 (PP), Right Torso
+Autocannon/5, Left Torso
+SRM 2, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Jump Jet
+Autocannon/5
+Autocannon/5
+Autocannon/5
+Autocannon/5
+IS Ammo AC/5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Jump Jet
+Heat Sink
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+CLRL10Prototype
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+IS Ammo SRM-2
+
+Head:
+Life Support
+Sensors
+Cockpit
+SRM 2
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+history:Overview:
+     When originally produced for Star League, the SHD-2H Shadow Hawk was considered a multi-function 'Mech. The contract specifically called for a medium 'Mech with both long- and short-range weapons and with jump capability. The SHD-2H filled a number of roles in the military forces, from recon to attack. Its diverse armaments made it able to fit into almost any situation where a 'Mech might be needed.
+Due to pressure plate difficulties, the armor plating system on the SHD series underwent a major overhaul in 2550. The armor plates internally damaged the myomers that controlled the 'Mech's movement, especially in the lower leg areas. The general replacement affected most of the Shadow Hawks and their variants in the field, though some remain unmodified to this day.
+Capability:
+     The Shadow Hawk is equipped with a number of long-range weapons, including the Holly LRM and the Armstrong autocannon. Its short-range weapons are the Holly SRM and Martell medium laser. This combination means the standard SHD can support long- and short-range combat activities.
+     The Shadow Hawk's jump jet system provides it with limited jump capability. As it is rare for a larger 'Mech to support such a system, the jump jets do give the Shadow Hawk an advatage in close combat situations.
+     The Sparrow 300J life support system is considered one of the most advanced, as it allows the MechWarrior to operate his system in comfort for an average 30 percent longer than other 'Mechs of the same weight class. For long battles or campaigns, this means a sharper, more relaxed pilot.
+     Finally, the Shadow Hawk is equipped with fully manipulative hands that allow it to grasp in close combat. The Lang hand actuator system was one of the most powerful available up to the time of the fall of Star League.
+Battle History:
+     The Shadow Hawk has maintained one of the best battlefield records of any 'Mech in its weight class. Even at the peak of the Star League era, it was recognized as a well-balanced fighting machine.
+     An example of the 'Mech's durability came at the battle for Hoan. In 2920, forces of House Kurita's Legion of Vega were dug in on the planet, trying to force out the defending House Davion troops. The Legion had several lances made up mainly of the SHD-2K variant so common in Kurita-held space. These forces attacked several key Davion supply bases, taking heavy losses but inflicting far more damage. The supply problems caused by these raids plagued the Davion troops throughout the rest of their campaigns on Hoan.
+     The Shadow Hawk's frontal armor difficulties cost House Steiner one battle against House Marik on the planet Loric in 2971. Marik's crack Regulan Hussars were attempting to gain control of this water-rich world defended by Steiner's 12th Star Guards. Several messengers guarded by a lance with two Shadow Hawks set off to relay a special series of command orders. When they were intercepted, the Shadow Hawks dug in for a long battle. The armor pressure plates on the two 'Mechs severed several of their key support systems, leaving the two 'Mechs unable to move. This eventually cost the lives of the Shadow Hawk pilots and the messenger, and in turn lost Steiner the battle of Diggers Pass.
+     House Davion supprts by far the largest number of Shadow Hawks, mostly of the 2D configuration. Several units composed mainly of these units are assigned to the Capellan March Militia and to the 42nd Avalon Hussars.      Elements of Davion's elite 7th Crucis Lancers also make extensive use of Shadow Hawks, as seen in the battles for Lincoln and Moore in 3001 and 3010, respectively.
+     House Kurita uses the Shadow Hawk 2K variant extensively in its 7th Sword of Light regiment, Sun Zhang Academy cadres, and in the Galedon Regulars. The Galedon Regulars sent their Shadow Hawk units against House Steiner in the running battles for Alexandria and
+Baxter.
+Variants:
+     The two most common Shadow Hawk variants are those of Davion and Kurita. Both Houses managed to obtain stockpiles from the Lang Industries facilities after the fall of Star League.
+     The 2D variant in use by House Davion reduces its armor to add another Holly SRM and a medium laser. Also added are an additional two heat sinks.
+     The Kurita 2K variant replaces the Armstrong auto cannon with a Donel PPC system. The 'Mech also carries a total of 17 heat sinks, making it a deadly opponent on the battlefield.
+Famous Mechs and Warriors:
+Major Sergei Vang (The Death's Head)
+     Currently assigned as a training instructor at Davion's Meistmorn Academy on Doneval II, Major Vang has proved himself many times as a competent leader and MechWarrior. Though he bears several scars and a total loss of hair due to encounters with The Black Widow, he is one of the few to have survived fighting the Widow twice.
+
+MechWarrior Celeste Rio
+     Celeste is assigned to the fire lance of Hansen's Roughriders. In a battle during a drop onto the planet Shiloh, she took out two AeroSpace Fighters before a rough landing on the planet's surface. This has earned her a great deal of respect among several of the Houses. The encounter left her with a bionic replacement arm and an even colder, uncaring edge to her personality.
+Deployment:
+ 
