@@ -1,0 +1,85 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Musca
+</Name>
+
+<Model>
+A001
+</Model>
+
+<Year>
+2535
+</Year>
+
+<Tonnage>
+35
+</Tonnage>
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<Armor>
+16
+12
+12
+16
+</Armor>
+
+<Body Equipment>
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISSRM2 Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISSRM2
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<type>
+IS Level 4
+</type>
+
+<internal_type>
+0
+</internal_type>
+
+<armor_type>
+0
+</armor_type>
+
+<engine_type>
+1
+</engine_type>
+
+<motion_type>
+Wheeled
+</motion_type>
