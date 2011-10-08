@@ -40,14 +40,6 @@ A001
 </Armor>
 
 <Body Equipment>
-ISVehicularMineDispenser
-ISVehicularMineDispenser
-ISVehicularMineDispenser
-ISVehicularMineDispenser
-ISVehicularMineDispenser
-ISVehicularMineDispenser
-ISVehicularMineDispenser
-ISVehicularMineDispenser
 ISSRM2 Ammo
 </Body Equipment>
 
@@ -62,6 +54,14 @@ ISSRM2
 </Left Equipment>
 
 <Rear Equipment>
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
+ISVehicularMineDispenser
 </Rear Equipment>
 
 <type>
