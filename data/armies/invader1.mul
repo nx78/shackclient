@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Invader" model="" type="Aerodyne" commander="false" deployment="0">
+      <pilot name="Tonasha Krueckel" nick="" gunnery="5" piloting="3" ejected="false"/>
+      <structural integrity="1"/>
+      <heat sinks="116"/>
+      <fuel left="250"/>
+      <KF integrity="4"/>
+      <sail integrity="4"/>
+   </entity>
+
+</unit>

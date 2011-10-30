@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit>
+
+   <entity chassis="Merchant" model="" type="Aerodyne" commander="false" deployment="0">
+      <pilot name="Ron Foucher" nick="" gunnery="5" piloting="3" ejected="false"/>
+      <structural integrity="1"/>
+      <heat sinks="99"/>
+      <fuel left="425"/>
+      <KF integrity="3"/>
+      <sail integrity="3"/>
+   </entity>
+
+</unit>
