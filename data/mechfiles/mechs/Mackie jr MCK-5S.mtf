@@ -1,0 +1,131 @@
+Version:1.1
+Mackie jr.
+MCK-5S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2441
+Rules Level:5
+
+Mass:50
+Engine:180 Primitive Fusion Engine
+Structure:Primitive
+Cockpit:Primitive Cockpit
+Myomer:Standard
+
+Heat Sinks:15 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Primitive
+LA Armor:10
+RA Armor:10
+LT Armor:12
+RT Armor:12
+CT Armor:17
+HD Armor:9
+LL Armor:13
+RL Armor:13
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:4
+1 ISLargeLaser, Left Arm
+1 ISAC5, Right Arm, Ammo:20
+1 ISMediumLaser, Center Torso
+1 ISMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLargeLaser
+ISLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISAC5 Ammo
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
