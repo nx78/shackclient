@@ -13,19 +13,19 @@ Structure:Primitive
 Cockpit:Primitive Cockpit
 Myomer:Standard
 
-Heat Sinks:12 Single
+Heat Sinks:11 Single
 Walk MP:2
 Jump MP:0
 
 Armor:Primitive
-LA Armor:22
-RA Armor:22
-LT Armor:21
-RT Armor:21
-CT Armor:31
+LA Armor:21
+RA Armor:21
+LT Armor:22
+RT Armor:22
+CT Armor:32
 HD Armor:9
-LL Armor:25
-RL Armor:25
+LL Armor:30
+RL Armor:30
 RTL Armor:10
 RTR Armor:10
 RTC Armor:12
