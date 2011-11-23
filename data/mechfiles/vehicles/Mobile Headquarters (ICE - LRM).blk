@@ -60,8 +60,8 @@ cargobay:0.5:1
 </armor>
 
 <Body Equipment>
-IS Ammo LRM-10
-Communications Equipment (2 ton)
+ISLRM5 Ammo
+Communications Equipment (3 ton)
 </Body Equipment>
 
 <Front Equipment>
@@ -77,5 +77,6 @@ Communications Equipment (2 ton)
 </Rear Equipment>
 
 <Turret Equipment>
-LRM 10
+ISLRM5
+ISLRM5
 </Turret Equipment>

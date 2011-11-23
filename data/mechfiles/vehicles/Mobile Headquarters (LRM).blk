@@ -29,11 +29,12 @@ Mobile Headquarters
 10
 </Armor>
 <Turret Equipment>
-ISLRM10
+ISLRM5
+ISLRM5
 </Turret Equipment>
 <Body Equipment>
-Communications Equipment (2 ton)
-ISLRM10 Ammo
+Communications Equipment (3 ton)
+ISLRM5 Ammo
 </Body Equipment>
 <transporters>
 TroopSpace:0.5
