@@ -4,12 +4,11 @@ EXT-4C
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2630
-Source:Star League
+Era:2750
 Rules Level:4
 
 Mass:65
-Engine:390 XL Engine
+Engine:390 XL Fusion Engine
 Structure:Standard
 Myomer:Standard
 
@@ -50,7 +49,7 @@ ISMediumLaser
 -Empty-
 -Empty-
 -Empty-
--Empty-
+NullSignatureSystem
 ChameleonLightPolarizationField
 
 Right Arm:
@@ -64,7 +63,7 @@ ISMediumLaser
 -Empty-
 -Empty-
 -Empty-
--Empty-
+NullSignatureSystem
 ChameleonLightPolarizationField
 
 Left Torso:
@@ -78,7 +77,7 @@ ISLRM10
 ISLRM10
 -Empty-
 -Empty-
--Empty-
+NullSignatureSystem
 ChameleonLightPolarizationField
 
 Right Torso:
@@ -92,7 +91,7 @@ ISAntiMissileSystem
 IS AMS Ammo
 -Empty-
 -Empty-
--Empty-
+NullSignatureSystem
 ChameleonLightPolarizationField
 
 Center Torso:
@@ -107,7 +106,7 @@ Engine
 Engine
 Engine
 ISLRM10 Ammo
--Empty-
+NullSignatureSystem
 
 Head:
 Life Support
@@ -122,7 +121,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+NullSignatureSystem
 ChameleonLightPolarizationField
 
 Right Leg:
@@ -130,5 +129,5 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+NullSignatureSystem
 ChameleonLightPolarizationField
