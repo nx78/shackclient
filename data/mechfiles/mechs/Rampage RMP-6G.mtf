@@ -4,15 +4,15 @@ RMP-6G
 
 Config:Biped
 TechBase:Inner Sphere
-Era:3051
-Rules Level:2
+Era:3056
+Rules Level:3
 
 Mass:85
 Engine:340 XL Fusion Engine
 Structure:Standard
 Myomer:Triple Strength Myomer
 
-Heat Sinks:12 Double
+Heat Sinks:13 Double
 Walk MP:4
 Jump MP:0
 
@@ -29,25 +29,26 @@ RTL Armor:9
 RTR Armor:9
 RTC Armor:13
 
-Weapons:9
-1 ISLRM10, Left Arm, Ammo:12
+Weapons:10
 1 ISAntiMissileSystem, Right Torso
 1 ISGaussRifle, Right Arm, Ammo:16
 1 ISERLargeLaser, Center Torso
 1 ISMediumPulseLaser, Right Torso
 1 ISMediumPulseLaser, Left Torso
-1 ISSmallPulseLaser, Left Torso
 1 ISMediumPulseLaser, Right Torso
 1 ISMediumPulseLaser, Left Torso
+1 ISLightPPC, Left Arm
+1 ISLightPPC, Left Arm
+1 ISFlamer, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-ISLRM10
-ISLRM10
-ISArtemisIV
-Ferro-Fibrous
+ISLightPPC
+ISLightPPC
+ISLightPPC
+ISLightPPC
 Ferro-Fibrous
 Ferro-Fibrous
 Ferro-Fibrous
@@ -74,8 +75,8 @@ Engine
 Engine
 ISMediumPulseLaser
 ISMediumPulseLaser
-ISSmallPulseLaser
-ISLRM10 Ammo Artemis-capable
+ISFlamer
+Ferro-Fibrous
 Ferro-Fibrous
 Ferro-Fibrous
 Ferro-Fibrous
