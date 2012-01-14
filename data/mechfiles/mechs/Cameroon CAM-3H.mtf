@@ -1,6 +1,6 @@
 Version:1.0
 Cameroon
-CAM-1A
+CAM-3H
 
 Config:Biped
 TechBase:Inner Sphere
@@ -9,12 +9,12 @@ Source:Custom-Canon-Alluded
 Rules Level:2
 
 Mass:25
-Engine:300 XL Engine(IS)
+Engine:325 XL Engine(IS)
 Structure:Endo Steel
 Myomer:Standard
 
 Heat Sinks:10 Single
-Walk MP:12
+Walk MP:13
 Jump MP:0
 
 Armor:Standard(Inner Sphere)
@@ -30,17 +30,15 @@ RTL Armor:1
 RTR Armor:1
 RTC Armor:2
 
-Weapons:3
-Medium Laser, Left Arm
-SRM 4, Head
-Small Laser, Right Arm
+Weapons:1
+ER Medium Laser, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Endo Steel
-Medium Laser
+ISERMediumLaser
 Endo Steel
 Endo Steel
 -Empty-
@@ -56,7 +54,7 @@ Lower Arm Actuator
 Hand Actuator
 Endo Steel
 Endo Steel
-Small Laser
+Endo Steel
 -Empty-
 -Empty-
 -Empty-
@@ -102,14 +100,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo SRM-4
-Endo Steel
+-Empty-
+-Empty-
 
 Head:
 Life Support
 Sensors
 Cockpit
-SRM 4
+-Empty-
 Sensors
 Life Support
 -Empty-

@@ -1,6 +1,6 @@
 Version:1.0
 Cameroon
-CAM-1A
+CAM-2B
 
 Config:Biped
 TechBase:Inner Sphere
@@ -30,17 +30,18 @@ RTL Armor:1
 RTR Armor:1
 RTC Armor:2
 
-Weapons:3
-Medium Laser, Left Arm
-SRM 4, Head
-Small Laser, Right Arm
+Weapons:4
+SRM 2, Head
+TAG, Right Torso
+ER Medium Laser, Left Arm
+ER Small Laser, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Endo Steel
-Medium Laser
+ISERMediumLaser
 Endo Steel
 Endo Steel
 -Empty-
@@ -56,7 +57,7 @@ Lower Arm Actuator
 Hand Actuator
 Endo Steel
 Endo Steel
-Small Laser
+ISERSmallLaser
 -Empty-
 -Empty-
 -Empty-
@@ -85,7 +86,7 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
--Empty-
+ISTAG
 -Empty-
 -Empty-
 -Empty-
@@ -102,14 +103,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo SRM-4
+IS Ammo SRM-2
 Endo Steel
 
 Head:
 Life Support
 Sensors
 Cockpit
-SRM 4
+SRM 2
 Sensors
 Life Support
 -Empty-
