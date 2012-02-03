@@ -1,0 +1,130 @@
+Version:1.1
+Sergeant
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:3
+
+Mass:40
+Engine:120 I.C.E. Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:1 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Commercial
+LA Armor:12
+RA Armor:12
+LT Armor:15
+RT Armor:15
+CT Armor:18
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:3
+1 ISAC5, Right Torso, Ammo:20
+1 ISStreakSRM2, Left Torso, Ammo:50
+1 ISMachine Gun, Head, Ammo:200
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISStreakSRM2
+ISStreakSRM2 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+ISAC5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMG Ammo (100)
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMachine Gun
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

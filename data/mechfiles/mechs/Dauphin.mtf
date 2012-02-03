@@ -1,0 +1,130 @@
+Version:1.1
+Dauphin
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:3
+
+Mass:80
+Engine:160 I.C.E. Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:22 Single
+Walk MP:2
+Jump MP:0
+
+Armor:Commercial
+LA Armor:20
+RA Armor:20
+LT Armor:23
+RT Armor:23
+CT Armor:31
+HD Armor:9
+LL Armor:21
+RL Armor:21
+RTL Armor:8
+RTR Armor:8
+RTC Armor:8
+
+Weapons:3
+1 ISLargeLaser, Right Torso
+1 ISLargeLaser, Right Arm
+1 ISLargeLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargeLaser
+ISLargeLaser
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISLargeLaser
+ISLargeLaser
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISLargeLaser
+ISLargeLaser
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ejection Seat
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

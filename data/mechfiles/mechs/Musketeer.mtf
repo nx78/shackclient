@@ -1,0 +1,130 @@
+Version:1.1
+Musketeer
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:3
+
+Mass:50
+Engine:150 I.C.E. Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:1 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Commercial
+LA Armor:16
+RA Armor:16
+LT Armor:18
+RT Armor:18
+CT Armor:22
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:3
+1 Hatchet, Right Arm
+1 ISAC5, Left Arm, Ammo:40
+1 ISStreakSRM2, Right Torso, Ammo:50
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISAC5 Ammo
+ISAC5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISStreakSRM2
+ISStreakSRM2 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

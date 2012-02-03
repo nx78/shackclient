@@ -1,0 +1,131 @@
+Version:1.1
+Robber
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:3
+
+Mass:40
+Engine:120 I.C.E. Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:3 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Commercial
+LA Armor:12
+RA Armor:12
+LT Armor:15
+RT Armor:15
+CT Armor:18
+HD Armor:9
+LL Armor:18
+RL Armor:18
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:4
+1 ISMRM20, Right Arm, Ammo:24
+1 ISRocketLauncher10, Left Arm
+1 ISRocketLauncher10, Left Arm
+1 ISRocketLauncher10, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISRocketLauncher10
+ISRocketLauncher10
+ISRocketLauncher10
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISMRM20
+ISMRM20
+ISMRM20
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMRM20 Ammo
+ISMRM20 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

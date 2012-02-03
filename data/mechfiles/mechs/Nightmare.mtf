@@ -1,0 +1,134 @@
+Version:1.1
+Nightmare
+
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3132
+Rules Level:3
+
+Mass:60
+Engine:180 I.C.E. Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:4 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Commercial
+LA Armor:20
+RA Armor:20
+LT Armor:21
+RT Armor:21
+CT Armor:30
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:5
+RTR Armor:5
+RTC Armor:5
+
+Weapons:7
+1 ISLBXAC10, Right Arm, Ammo:20
+1 ISVehicleFlamer, Left Arm, Ammo:20
+1 ISRocketLauncher10, Right Torso
+1 ISRocketLauncher10, Center Torso
+1 ISRocketLauncher10, Left Torso
+1 ISRocketLauncher10, Left Torso
+1 ISRocketLauncher10, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISVehicleFlamer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISVehicleFlamer Ammo
+ISRocketLauncher10
+ISRocketLauncher10
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISLBXAC10 CL Ammo
+ISRocketLauncher10
+ISRocketLauncher10
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISRocketLauncher10
+ISLBXAC10 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

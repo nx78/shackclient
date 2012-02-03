@@ -1,0 +1,126 @@
+Version:1.1
+Scorpion Queen
+
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3132
+Rules Level:3
+
+Mass:90
+Engine:180 I.C.E. Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:17 Single
+Walk MP:2
+Jump MP:0
+
+Armor:Commercial
+LA Armor:34
+RA Armor:34
+LT Armor:28
+RT Armor:28
+CT Armor:43
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:11
+1 ISLargeLaser, Left Torso
+1 ISLargeLaser, Right Torso
+1 ISRocketLauncher15, Left Arm
+1 ISRocketLauncher15, Right Arm
+1 ISVehicleFlamer, Left Torso, Ammo:40
+1 ISVehicleFlamer, Right Torso
+1 ISSRM4, Left Torso, Ammo:25
+1 ISSRM4, Right Torso
+1 ISRocketLauncher15, Left Torso
+1 ISRocketLauncher15, Right Torso
+1 ISRocketLauncher10, Center Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISRocketLauncher15
+ISRocketLauncher15
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISRocketLauncher15
+ISRocketLauncher15
+
+Left Torso:
+ISLargeLaser
+ISLargeLaser
+ISSRM4
+ISVehicleFlamer
+ISVehicleFlamer Ammo
+Heat Sink
+Heat Sink
+Heat Sink
+ISRocketLauncher15
+ISRocketLauncher15
+-Empty-
+-Empty-
+
+Right Torso:
+ISLargeLaser
+ISLargeLaser
+ISSRM4
+ISVehicleFlamer
+ISVehicleFlamer Ammo
+Heat Sink
+Heat Sink
+Heat Sink
+ISRocketLauncher15
+ISRocketLauncher15
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISRocketLauncher10
+ISSRM4 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cargo (1 ton)
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
