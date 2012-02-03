@@ -1,51 +1,51 @@
 Version:1.0
-Cameroon
-CAM-2C
+Leapfrog
+LPF-2A
 
 Config:Biped
 TechBase:Inner Sphere
-Era:2785
-Source:Custom-Canon-Alluded
+Era:2750
+Source:Custom
 Rules Level:2
 
 Mass:25
-Engine:300 XL Engine(IS)
+Engine:250 XL Engine(IS)
 Structure:Endo Steel
 Myomer:Standard
 
-Heat Sinks:10 Single
-Walk MP:12
-Jump MP:0
+Heat Sinks:12 Single
+Walk MP:10
+Jump MP:10
 
 Armor:Standard(Inner Sphere)
-LA Armor:5
-RA Armor:5
+LA Armor:4
+RA Armor:4
 LT Armor:6
-RT Armor:6
-CT Armor:8
+RT Armor:5
+CT Armor:7
 HD Armor:8
-LL Armor:7
-RL Armor:7
+LL Armor:5
+RL Armor:5
 RTL Armor:1
 RTR Armor:1
 RTC Armor:2
 
 Weapons:2
-ER Small Laser, Left Arm
-SRM 4, Center Torso
+Small Laser, Right Arm
+Small Laser, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
+Hand Actuator
 Endo Steel
-ISERSmallLaser
 Endo Steel
 Endo Steel
--Empty-
--Empty-
--Empty-
--Empty-
+Endo Steel
+Endo Steel
+Heat Sink
+Small Laser
 -Empty-
 
 Right Arm:
@@ -55,36 +55,36 @@ Lower Arm Actuator
 Hand Actuator
 Endo Steel
 Endo Steel
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+Endo Steel
+Endo Steel
+Endo Steel
+Heat Sink
+Small Laser
 -Empty-
 
 Left Torso:
+Jump Jet
+Jump Jet
+Endo Steel
 Fusion Engine
 Fusion Engine
 Fusion Engine
 Endo Steel
-Endo Steel
-Endo Steel
-Endo Steel
-IS Ammo SRM-4 Artemis-capable
+-Empty-
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 
 Right Torso:
+Jump Jet
+Jump Jet
+Endo Steel
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Endo Steel
-Endo Steel
-Endo Steel
-Endo Steel
-Endo Steel
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -101,14 +101,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-SRM 4
-ISArtemisIV
+Endo Steel
+Jump Jet
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+Jump Jet
 Sensors
 Life Support
 -Empty-
@@ -123,8 +123,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-
@@ -137,8 +137,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-
