@@ -1,50 +1,51 @@
 Version:1.0
-Masakari (Warhawk)
- Prime
+Nova
+B
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2999
-Source:Late Succession Wars
+Era:2870
+Source:Early Succession Wars
 Rules Level:2
 
-Mass:85
-Engine:340 XL Engine
+Mass:50
+Engine:250 XL Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:20 Double
-Walk MP:4
-Jump MP:0
+Heat Sinks:14 Double
+Walk MP:5
+Jump MP:5
 
-Armor:Ferro-Fibrous
-LA Armor:28
-RA Armor:28
-LT Armor:26
-RT Armor:26
-CT Armor:42
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:16
+RT Armor:16
+CT Armor:23
 HD Armor:9
-LL Armor:35
-RL Armor:35
-RTL Armor:10
-RTR Armor:10
-RTC Armor:10
+LL Armor:20
+RL Armor:20
+RTL Armor:8
+RTR Armor:8
+RTC Armor:8
 
-Weapons:3
-2 CLERPPC, Left Arm
-1 CLLRM10, Left Arm, Ammo:12
-2 CLERPPC, Right Arm
+Weapons:4
+1 CLLargePulseLaser, Left Arm
+1 CLUltraAC5, Right Arm, Ammo:20
+2 CLMG, Left Torso, Ammo:200
+1 CLERSmallLaser, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLERPPC
-CLERPPC
-CLLRM10
-CLLRM10 Ammo
-Ferro-Fibrous
+Lower Arm Actuator
+Hand Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -52,11 +53,11 @@ Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLERPPC
-CLERPPC
-Ferro-Fibrous
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5 Ammo
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -70,25 +71,25 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-Ferro-Fibrous
-Ferro-Fibrous
+CLMG
+CLMG
+CLMG Ammo (200)
+-Empty-
+-Empty-
+-Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-Ferro-Fibrous
-Ferro-Fibrous
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 
 Center Torso:
@@ -102,14 +103,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
+Jump Jet
 -Empty-
 
 Head:
 Life Support
 Sensors
 Cockpit
-Ferro-Fibrous
+-Empty-
 Sensors
 Life Support
 -Empty-
@@ -124,8 +125,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-
@@ -138,8 +139,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-

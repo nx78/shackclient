@@ -9,7 +9,7 @@ Source:Age of War
 Rules Level:1
 
 Mass:60
-Engine:300 Fusion Engine
+Engine:300 Fusion Engine(IS)
 Structure:Standard
 Myomer:Standard
 
@@ -17,7 +17,7 @@ Heat Sinks:15 Single
 Walk MP:5
 Jump MP:0
 
-Armor:Standard
+Armor:Standard(Inner Sphere)
 LA Armor:8
 RA Armor:8
 LT Armor:22
@@ -30,19 +30,21 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:6
 
-Weapons:5
-SRM 4, Right Torso
-Large Laser, Right Torso
-Large Laser, Left Torso
-Medium Laser, Right Torso
+Weapons:7
 Medium Laser, Left Torso
+Large Laser, Right Torso
+Medium Laser, Left Torso
+SRM 4, Right Arm
+SRM 4, Left Arm
+Medium Laser, Left Torso
+Medium Laser, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
--Empty-
--Empty-
+SRM 4
+IS Ammo SRM-4
 -Empty-
 -Empty-
 -Empty-
@@ -55,8 +57,8 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
--Empty-
--Empty-
+SRM 4
+IS Ammo SRM-4
 -Empty-
 -Empty-
 -Empty-
@@ -66,8 +68,8 @@ Lower Arm Actuator
 -Empty-
 
 Left Torso:
-Large Laser
-Large Laser
+Medium Laser
+Medium Laser
 Medium Laser
 -Empty-
 -Empty-
@@ -83,7 +85,7 @@ Right Torso:
 Large Laser
 Large Laser
 Medium Laser
-SRM 4
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -104,7 +106,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo SRM-4
+-Empty-
 -Empty-
 
 Head:

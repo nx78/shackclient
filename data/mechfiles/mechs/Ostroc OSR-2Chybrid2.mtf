@@ -9,7 +9,7 @@ Source:Early Succession Wars
 Rules Level:1
 
 Mass:60
-Engine:300 Fusion Engine
+Engine:300 Fusion Engine(IS)
 Structure:Standard
 Myomer:Standard
 
@@ -17,31 +17,32 @@ Heat Sinks:15 Single
 Walk MP:5
 Jump MP:0
 
-Armor:Standard
-LA Armor:8
-RA Armor:8
-LT Armor:22
-RT Armor:22
-CT Armor:22
-HD Armor:8
-LL Armor:20
-RL Armor:20
+Armor:Standard(Inner Sphere)
+LA Armor:14
+RA Armor:14
+LT Armor:17
+RT Armor:17
+CT Armor:21
+HD Armor:9
+LL Armor:19
+RL Armor:19
 RTL Armor:4
 RTR Armor:4
 RTC Armor:6
 
-Weapons:5
-SRM 4, Right Torso
-Large Laser, Right Torso
-Large Laser, Left Torso
-Medium Laser, Right Torso
+Weapons:6
 Medium Laser, Left Torso
+Large Laser, Right Torso
+SRM 4, Right Arm
+SRM 4, Left Arm
+Flamer, Center Torso
+SRM 2, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
--Empty-
+SRM 4
 -Empty-
 -Empty-
 -Empty-
@@ -55,7 +56,7 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
--Empty-
+SRM 4
 -Empty-
 -Empty-
 -Empty-
@@ -66,8 +67,8 @@ Lower Arm Actuator
 -Empty-
 
 Left Torso:
-Large Laser
-Large Laser
+IS Ammo SRM-4
+SRM 2
 Medium Laser
 -Empty-
 -Empty-
@@ -82,8 +83,8 @@ Medium Laser
 Right Torso:
 Large Laser
 Large Laser
-Medium Laser
-SRM 4
+IS Ammo SRM-4
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -104,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo SRM-4
--Empty-
+IS Ammo SRM-2
+Flamer
 
 Head:
 Life Support

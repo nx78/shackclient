@@ -1,6 +1,6 @@
 Version:1.0
-Black Hawk (Nova)
-B
+Nova
+D
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -30,21 +30,19 @@ RTL Armor:8
 RTR Armor:8
 RTC Armor:8
 
-Weapons:4
-1 CLLargePulseLaser, Left Arm
-1 CLUltraAC5, Right Arm, Ammo:20
-2 CLMG, Left Torso, Ammo:200
-1 CLERSmallLaser, Right Torso
+Weapons:2
+1 CLLBXAC5, Left Arm, Ammo:40
+1 CLLRM20, Right Arm, Ammo:12
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-CLLargePulseLaser
-CLLargePulseLaser
--Empty-
--Empty-
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5 CL Ammo
+CLLBXAC5 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -53,14 +51,14 @@ CLLargePulseLaser
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5 Ammo
--Empty-
--Empty-
--Empty-
--Empty-
+Lower Arm Actuator
+Hand Actuator
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20 Ammo
+CLLRM20 Ammo
 -Empty-
 -Empty-
 
@@ -71,9 +69,9 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLMG
-CLMG
-CLMG Ammo (200)
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -85,7 +83,7 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLERSmallLaser
+-Empty-
 -Empty-
 -Empty-
 -Empty-

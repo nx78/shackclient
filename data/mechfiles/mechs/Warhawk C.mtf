@@ -1,6 +1,6 @@
 Version:1.0
-Masakari (Warhawk)
-A
+Warhawk
+C
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -13,7 +13,7 @@ Engine:340 XL Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:20 Double
+Heat Sinks:23 Double
 Walk MP:4
 Jump MP:0
 
@@ -30,38 +30,37 @@ RTL Armor:10
 RTR Armor:10
 RTC Armor:10
 
-Weapons:4
-2 CLERLargeLaser, Left Arm
-1 CLStreakSRM6, Left Arm, Ammo:15
-1 CLLBXAC10, Right Arm, Ammo:20
-1 CLLRM15, Right Torso, Ammo:8
+Weapons:3
+1 CLFlamer, Center Torso
+2 CLERPPC, Left Arm
+2 CLLargePulseLaser, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-CLERLargeLaser
-CLERLargeLaser
-CLStreakSRM6
-CLStreakSRM6
-CLStreakSRM6 Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERPPC
+CLERPPC
+CLERPPC
+CLERPPC
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10 CL Ammo
-CLLBXAC10 Ammo
-CLLRM15 Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
 Ferro-Fibrous
+-Empty-
+-Empty-
 -Empty-
 
 Left Torso:
@@ -87,10 +86,10 @@ CLTargeting Computer
 CLTargeting Computer
 CLTargeting Computer
 CLTargeting Computer
-CLLRM15
-CLLRM15
+CLTargeting Computer
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
 
 Center Torso:
 Fusion Engine
@@ -103,7 +102,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
+CLFlamer
 -Empty-
 
 Head:

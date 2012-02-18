@@ -1,11 +1,11 @@
 Version:1.0
-Black Hawk (Nova)
- Prime
+Nova
+Phelan Kell
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2870
-Source:Clan Invasion Invasion
+Era:3050
+Source:Clan Invasion
 Rules Level:2
 
 Mass:50
@@ -31,8 +31,8 @@ RTR Armor:8
 RTC Armor:8
 
 Weapons:2
-6 CLERMediumLaser, Left Arm
-6 CLERMediumLaser, Right Arm
+3 CLMediumPulseLaser, Left Arm
+3 CLMediumPulseLaser, Right Arm
 
 Left Arm:
 Shoulder
@@ -41,12 +41,12 @@ Lower Arm Actuator
 Hand Actuator
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
 
 Right Arm:
 Shoulder
@@ -55,12 +55,12 @@ Lower Arm Actuator
 Hand Actuator
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
 
 Left Torso:
 Fusion Engine

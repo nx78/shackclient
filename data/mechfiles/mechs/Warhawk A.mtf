@@ -1,49 +1,51 @@
 Version:1.0
-Black Hawk (Nova)
-E
+Warhawk
+A
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3054
-Source:clan
+Era:2999
+Source:Late Succession Wars
 Rules Level:2
 
-Mass:50
-Engine:250 XL Engine
+Mass:85
+Engine:340 XL Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:14 Double
-Walk MP:5
-Jump MP:5
+Heat Sinks:20 Double
+Walk MP:4
+Jump MP:0
 
-Armor:Standard Armor
-LA Armor:16
-RA Armor:16
-LT Armor:16
-RT Armor:16
-CT Armor:23
+Armor:Ferro-Fibrous
+LA Armor:28
+RA Armor:28
+LT Armor:26
+RT Armor:26
+CT Armor:42
 HD Armor:9
-LL Armor:20
-RL Armor:20
-RTL Armor:8
-RTR Armor:8
-RTC Armor:8
+LL Armor:35
+RL Armor:35
+RTL Armor:10
+RTR Armor:10
+RTC Armor:10
 
-Weapons:2
-1 CLATM12, Right Arm, Ammo:30
-3 CLERMediumLaser, Left Arm
+Weapons:4
+2 CLERLargeLaser, Left Arm
+1 CLStreakSRM6, Left Arm, Ammo:15
+1 CLLBXAC10, Right Arm, Ammo:20
+1 CLLRM15, Right Torso, Ammo:8
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
--Empty-
--Empty-
+CLERLargeLaser
+CLERLargeLaser
+CLStreakSRM6
+CLStreakSRM6
+CLStreakSRM6 Ammo
+Ferro-Fibrous
 -Empty-
 -Empty-
 -Empty-
@@ -51,15 +53,15 @@ CLERMediumLaser
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-CLATM12
--Empty-
--Empty-
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10 CL Ammo
+CLLBXAC10 Ammo
+CLLRM15 Ammo
+Ferro-Fibrous
 -Empty-
 
 Left Torso:
@@ -69,26 +71,26 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLATM12 ER Ammo
-CLATM12 Ammo
-CLATM12 HE Ammo
-CLATM12 ER Ammo
-CLATM12 Ammo
-CLATM12 HE Ammo
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLLRM15
+CLLRM15
+Ferro-Fibrous
+Ferro-Fibrous
 
 Center Torso:
 Fusion Engine
@@ -101,14 +103,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
+-Empty-
 -Empty-
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+Ferro-Fibrous
 Sensors
 Life Support
 -Empty-
@@ -123,8 +125,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 -Empty-
 -Empty-
@@ -137,8 +139,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 -Empty-
 -Empty-

@@ -1,10 +1,10 @@
 Version:1.0
-Black Hawk (Nova)
-H
+Nova
+S
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3059
+Era:3050
 Source:Clan Invasion Invasion
 Rules Level:2
 
@@ -13,7 +13,7 @@ Engine:250 XL Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:20 Double
+Heat Sinks:14 Double
 Walk MP:5
 Jump MP:5
 
@@ -30,37 +30,41 @@ RTL Armor:8
 RTR Armor:8
 RTC Armor:8
 
-Weapons:2
-5 CLHeavyMediumLaser, Right Arm
-5 CLHeavyMediumLaser, Left Arm
+Weapons:6
+3 CLMediumPulseLaser, Left Arm
+3 CLMediumPulseLaser, Right Arm
+1 CLActiveProbe, Head
+1 CLAntiMissileSystem, Center Torso, Ammo:24
+2 CLMG, Right Torso, Ammo:100
+2 CLMG, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
+Lower Arm Actuator
+Hand Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
+Lower Arm Actuator
+Hand Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Left Torso:
 Fusion Engine
@@ -69,12 +73,12 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLMG
+CLMG
+CLMG Ammo (100)
+-Empty-
+-Empty-
+-Empty-
 
 Right Torso:
 Fusion Engine
@@ -83,12 +87,12 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLMG
+CLMG
+CLAMS Ammo
+-Empty-
+-Empty-
+-Empty-
 
 Center Torso:
 Fusion Engine
@@ -102,13 +106,13 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Jump Jet
--Empty-
+CLAntiMissileSystem
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+CLActiveProbe
 Sensors
 Life Support
 -Empty-
