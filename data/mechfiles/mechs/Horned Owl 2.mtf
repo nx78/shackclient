@@ -1,11 +1,11 @@
 Version:1.0
-Peregrine (Horned Owl)
-3
+Horned Owl
+2
 
 Config:Biped
 TechBase:Clan
-Era:3061
-Source:Civil War
+Era:2856
+Source:Early Succession Wars
 Rules Level:2
 
 Mass:35
@@ -30,26 +30,25 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:6
 
-Weapons:7
-Light Machine Gun, Left Arm
-Light Machine Gun, Left Arm
-Light Machine Gun, Left Arm
-Light Machine Gun, Right Arm
-Light Machine Gun, Right Arm
-Light Machine Gun, Right Arm
-ER PPC, Center Torso
+Weapons:6
+LRM 5, Left Torso
+LRM 5, Left Torso
+LRM 5, Left Torso
+LRM 5, Right Torso
+LRM 5, Right Torso
+LRM 5, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLLightMG
-CLLightMG
-CLLightMG
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 
@@ -58,12 +57,12 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLLightMG
-CLLightMG
-CLLightMG
 Endo Steel
 Endo Steel
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 
@@ -71,29 +70,29 @@ Left Torso:
 CLDoubleHeatSink
 CLDoubleHeatSink
 Jump Jet
-CLTargeting Computer
-CLTargeting Computer
+CLLRM5
+CLLRM5
+CLLRM5
+Clan Ammo LRM-5
+Clan Ammo LRM-5
 Endo Steel
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
 
 Right Torso:
 CLDoubleHeatSink
 CLDoubleHeatSink
 Jump Jet
-Clan Light Machine Gun Ammo - Half
+CLLRM5
+CLLRM5
+CLLRM5
+Clan Ammo LRM-5
+Clan Ammo LRM-5
 Endo Steel
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
--Empty-
 
 Center Torso:
 Fusion Engine
@@ -106,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLERPPC
-CLERPPC
+-Empty-
+-Empty-
 
 Head:
 Life Support

@@ -1,10 +1,10 @@
 Version:1.0
-Peregrine (Horned Owl)
-5
+Horned Owl
+3
 
 Config:Biped
 TechBase:Clan
-Era:3066
+Era:3061
 Source:Civil War
 Rules Level:2
 
@@ -13,7 +13,7 @@ Engine:210 Fusion (Clan) Engine
 Structure:Endo Steel
 Myomer:Standard
 
-Heat Sinks:11 Double
+Heat Sinks:10 Double
 Walk MP:6
 Jump MP:6
 
@@ -30,22 +30,26 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:6
 
-Weapons:3
-ER Large Laser, Left Arm
-ER Large Laser, Right Arm
-Heavy Medium Laser, Center Torso
+Weapons:7
+Light Machine Gun, Left Arm
+Light Machine Gun, Left Arm
+Light Machine Gun, Left Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Right Arm
+ER PPC, Center Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERLargeLaser
+CLLightMG
+CLLightMG
+CLLightMG
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 -Empty-
 
@@ -54,21 +58,21 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERLargeLaser
+CLLightMG
+CLLightMG
+CLLightMG
 Endo Steel
 Endo Steel
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 -Empty-
 
 Left Torso:
 CLDoubleHeatSink
 CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
 Jump Jet
+CLTargeting Computer
+CLTargeting Computer
 Endo Steel
 Endo Steel
 Ferro-Fibrous
@@ -81,11 +85,11 @@ Right Torso:
 CLDoubleHeatSink
 CLDoubleHeatSink
 Jump Jet
+Clan Light Machine Gun Ammo - Half
 Endo Steel
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -102,8 +106,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLHeavyMediumLaser
-CLHeavyMediumLaser
+CLERPPC
+CLERPPC
 
 Head:
 Life Support
