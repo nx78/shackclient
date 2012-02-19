@@ -1,11 +1,11 @@
 Version:1.0
-Thor (Summoner)
-B
+Summoner
+G
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2872
-Source:Early Succession Wars
+Era:3068
+Source:Jihad
 Rules Level:2
 
 Mass:70
@@ -13,7 +13,7 @@ Engine:350 XL Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:14 Double
+Heat Sinks:15 Double
 Walk MP:5
 Jump MP:5
 
@@ -30,65 +30,63 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:8
 
-Weapons:6
-1 CLLRM20, Left Arm
-1 CLSRM4, Left Arm
-1 CLAntiMissileSystem, Left Torso, Ammo:24
-1 CLNarcBeacon, Left Torso, Ammo:6
-1 CLLRM20, Right Arm, Ammo:24
-1 CLSRM4, Right Arm, Ammo:50
+Weapons:4
+1 CLLBXAC20, Right Arm, Ammo:15
+2 CLERMediumLaser, Left Arm
+1 CLERMediumLaser, Right Torso
+1 CLLRM10, Left Torso, Ammo:12
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
-CLSRM4
-CLLRM20 Ammo (Clan) Narc-capable
-CLLRM20 Ammo (Clan) Narc-capable
-CLSRM4 Ammo (Clan) Narc-capable
+CLERMediumLaser
+CLERMediumLaser
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
-CLSRM4
-CLLRM20 Ammo (Clan) Narc-capable
-CLLRM20 Ammo (Clan) Narc-capable
-CLSRM4 Ammo (Clan) Narc-capable
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
 Ferro-Fibrous
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLAntiMissileSystem
-CLNarcBeacon
-CLAMS Ammo
-CLNarc Pods
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLLRM10
+CLLRM10 Ammo
+-Empty-
+-Empty-
+-Empty-
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
--Empty-
+Ferro-Fibrous
 
 Right Torso:
 Fusion Engine
 Fusion Engine
+CLLBXAC20 CL Ammo
+CLLBXAC20 Ammo
+CLLBXAC20 CL Ammo
+CLERMediumLaser
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -112,7 +110,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-Ferro-Fibrous
+-Empty-
 Sensors
 Life Support
 -Empty-

@@ -1,23 +1,24 @@
 Version:1.0
-Thor (Summoner)
-D
+Summoner
+U
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2872
-Source:Early Succession Wars
+Era:3070
+Source:Jihad
 Rules Level:2
 
 Mass:70
-Engine:350 XL Engine
+Engine:350 XL (Clan) Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:20 Double
+Heat Sinks:16 Double
+Base Chassis Heat Sinks:14
 Walk MP:5
 Jump MP:5
 
-Armor:Ferro-Fibrous
+Armor:Ferro-Fibrous(Clan)
 LA Armor:17
 RA Armor:17
 LT Armor:22
@@ -30,68 +31,63 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:8
 
-Weapons:8
-1 CLERLargeLaser, Left Arm
-1 CLERMediumLaser, Left Arm
-1 CLMG, Left Torso
-1 CLAntiMissileSystem, Left Torso
-1 CLERLargeLaser, Right Arm
-1 CLERMediumLaser, Right Arm
-1 CLAntiMissileSystem, Right Torso, Ammo:48
-1 CLMG, Right Torso, Ammo:200
+Weapons:3
+ER PPC, Right Arm
+ER PPC, Left Arm
+LRT 15, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLERLargeLaser
-CLERMediumLaser
+CLERPPC
+CLERPPC
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLERLargeLaser
-CLERMediumLaser
+CLERPPC
+CLERPPC
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLMG
-CLAntiMissileSystem
-CLMG Ammo (200)
-CLAMS Ammo
-CLAMS Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLLRTorpedo15
+CLLRTorpedo15
+Clan Ammo LRTorpedo-15
+Clan Ammo LRTorpedo-15
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
 -Empty-
 -Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
 CLTargeting Computer
 CLTargeting Computer
-CLAntiMissileSystem
-CLMG
+CLTargeting Computer
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -151,4 +147,5 @@ Jump Jet
 -Empty-
 -Empty-
 -Empty-
+
 

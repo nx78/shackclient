@@ -1,10 +1,10 @@
 Version:1.0
-Thor (Summoner)
-H
+Summoner
+C
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3059
+Era:2872
 Source:Early Succession Wars
 Rules Level:2
 
@@ -13,7 +13,7 @@ Engine:350 XL Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:23 Double
+Heat Sinks:14 Double
 Walk MP:5
 Jump MP:5
 
@@ -30,66 +30,65 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:8
 
-Weapons:5
-1 CLHeavyLargeLaser, Right Arm
-1 CLHeavyLargeLaser, Left Arm
-1 CLERMediumLaser, Right Arm
-1 CLERMediumLaser, Left Arm
-1 CLAntiMissileSystem, Left Torso, Ammo:24
+Weapons:4
+1 CLUltraAC20, Left Arm, Ammo:10
+1 CLStreakSRM6, Left Torso, Ammo:15
+1 CLERLargeLaser, Right Arm
+1 CLERSmallLaser, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLERMediumLaser
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
 Ferro-Fibrous
+-Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLERMediumLaser
+CLERLargeLaser
+CLERSmallLaser
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLAntiMissileSystem
-CLAMS Ammo
+CLStreakSRM6
+CLStreakSRM6
+CLUltraAC20 Ammo
+CLUltraAC20 Ammo
+CLStreakSRM6 Ammo
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLTargeting Computer
-CLTargeting Computer
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 

@@ -1,6 +1,6 @@
 Version:1.0
-Thor (Summoner)
-C
+Summoner
+ Prime
 
 Config:Biped Omnimech
 TechBase:Clan
@@ -30,33 +30,32 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:8
 
-Weapons:4
-1 CLUltraAC20, Left Arm, Ammo:10
-1 CLStreakSRM6, Left Torso, Ammo:15
-1 CLERLargeLaser, Right Arm
-1 CLERSmallLaser, Right Arm
+Weapons:3
+1 CLLBXAC10, Left Arm, Ammo:10
+1 CLLRM15, Left Torso, Ammo:16
+1 CLERPPC, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
-CLUltraAC20
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10 CL Ammo
 Ferro-Fibrous
+-Empty-
+-Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-CLERLargeLaser
-CLERSmallLaser
+CLERPPC
+CLERPPC
 Ferro-Fibrous
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -67,13 +66,13 @@ Ferro-Fibrous
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLStreakSRM6
-CLStreakSRM6
-CLUltraAC20 Ammo
-CLUltraAC20 Ammo
-CLStreakSRM6 Ammo
+CLLRM15
+CLLRM15
+CLLRM15 Ammo
+CLLRM15 Ammo
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
 -Empty-
 -Empty-
 -Empty-
