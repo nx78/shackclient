@@ -1,11 +1,11 @@
 Version:1.0
-Uller (Kit Fox)
-D
+Kit Fox
+E
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2890
-Source:Early Succession Wars
+Era:3054
+Source:Clan Invasion Invasion
 Rules Level:2
 
 Mass:30
@@ -13,9 +13,9 @@ Engine:180 XL Engine
 Structure:Endo Steel
 Myomer:Standard
 
-Heat Sinks:10 Double
+Heat Sinks:12 Double
 Walk MP:6
-Jump MP:0
+Jump MP:6
 
 Armor:Ferro-Fibrous
 LA Armor:7
@@ -30,38 +30,37 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:4
 
-Weapons:4
-1 CLLRM15, Left Arm
-1 CLLRM15, Right Arm, Ammo:32
-1 CLLRM5, Left Arm, Ammo:24
-1 CLNarcBeacon, Right Arm, Ammo:6
+Weapons:3
+1 CLERPPC, Right Arm
+1 CLERSmallLaser, Right Arm
+1 CLATM3, Left Arm, Ammo:60
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLLRM15
-CLLRM15
-CLLRM5
-CLLRM15 Ammo (Clan) Narc-capable
-CLLRM15 Ammo (Clan) Narc-capable
+CLATM3
+CLATM3
 Endo Steel
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-CLLRM15
-CLLRM15
-CLNarcBeacon
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLERPPC
+CLERPPC
+CLERSmallLaser
 Endo Steel
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 
 Left Torso:
@@ -71,7 +70,7 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-CLLRM5 Ammo (Clan) Narc-capable
+Jump Jet
 Endo Steel
 Endo Steel
 Ferro-Fibrous
@@ -81,15 +80,15 @@ Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLLRM15 Ammo (Clan) Narc-capable
-CLLRM15 Ammo (Clan) Narc-capable
-CLNarc Pods
+Jump Jet
+CLATM3 Ammo
+CLATM3 ER Ammo
+CLATM3 HE Ammo
 Endo Steel
 Endo Steel
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
 -Empty-
 
 Center Torso:
@@ -125,8 +124,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-
@@ -139,8 +138,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-

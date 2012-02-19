@@ -1,11 +1,11 @@
 Version:1.0
-Uller (Kit Fox)
-E
+Kit Fox
+C
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3054
-Source:Clan Invasion Invasion
+Era:2890
+Source:Early Succession Wars
 Rules Level:2
 
 Mass:30
@@ -13,9 +13,9 @@ Engine:180 XL Engine
 Structure:Endo Steel
 Myomer:Standard
 
-Heat Sinks:12 Double
+Heat Sinks:10 Double
 Walk MP:6
-Jump MP:6
+Jump MP:0
 
 Armor:Ferro-Fibrous
 LA Armor:7
@@ -30,38 +30,44 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:4
 
-Weapons:3
-1 CLERPPC, Right Arm
-1 CLERSmallLaser, Right Arm
-1 CLATM3, Left Arm, Ammo:60
+Weapons:9
+1 CLERLargeLaser, Left Arm
+2 CLMG, Left Arm, Ammo:200
+1 CLSmallPulseLaser, Left Arm
+3 CLAntiMissileSystem, Right Arm, Ammo:96
+1 CLECMSuite, Right Arm
+1 CLTAG, Right Arm
+1 CLActiveProbe, Right Arm
+1 CLAntiPersonnelPod, Right Leg
+1 CLAntiPersonnelPod, Left Leg
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLATM3
-CLATM3
+CLERLargeLaser
+CLMG
+CLMG
+CLSmallPulseLaser
 Endo Steel
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLERPPC
-CLERPPC
-CLERSmallLaser
+Lower Arm Actuator
+Hand Actuator
+CLAntiMissileSystem
+CLAntiMissileSystem
+CLAntiMissileSystem
+CLECMSuite
+CLTAG
+CLActiveProbe
 Endo Steel
 Ferro-Fibrous
--Empty-
 
 Left Torso:
 Fusion Engine
@@ -70,7 +76,7 @@ CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
 CLDouble Heat Sink
-Jump Jet
+CLMG Ammo (200)
 Endo Steel
 Endo Steel
 Ferro-Fibrous
@@ -80,10 +86,10 @@ Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-CLATM3 Ammo
-CLATM3 ER Ammo
-CLATM3 HE Ammo
+CLAMS Ammo
+CLAMS Ammo
+CLAMS Ammo
+CLAMS Ammo
 Endo Steel
 Endo Steel
 Endo Steel
@@ -124,8 +130,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+CLAntiPersonnelPod
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -138,8 +144,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+CLAntiPersonnelPod
+-Empty-
 -Empty-
 -Empty-
 -Empty-

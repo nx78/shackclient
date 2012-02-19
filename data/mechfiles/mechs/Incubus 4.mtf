@@ -1,11 +1,11 @@
 Version:1.0
-Vixen (Incubus)
-
+Incubus
+4
 
 Config:Biped
 TechBase:Clan
-Era:2950
-Source:Late Succession Wars
+Era:3066
+Source:Civil War
 Rules Level:2
 
 Mass:30
@@ -31,13 +31,13 @@ RTR Armor:4
 RTC Armor:5
 
 Weapons:7
-Large Pulse Laser, Right Arm
-ER Medium Laser, Left Torso
-Machine Gun, Left Torso
-Machine Gun, Left Torso
-ER Medium Laser, Right Torso
-Machine Gun, Right Torso
-Machine Gun, Right Torso
+Heavy Large Laser, Right Arm
+Medium Pulse Laser, Left Torso
+Micro Pulse Laser, Left Torso
+ER Micro Laser, Left Torso
+Medium Pulse Laser, Right Torso
+Micro Pulse Laser, Right Torso
+ER Micro Laser, Right Torso
 
 Left Arm:
 Shoulder
@@ -58,9 +58,9 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLLargePulseLaser
-CLLargePulseLaser
--Empty-
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
 -Empty-
 -Empty-
 -Empty-
@@ -70,9 +70,9 @@ CLLargePulseLaser
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLMG
-CLMG
+CLMediumPulseLaser
+CLMicroPulseLaser
+CLERMicroLaser
 Endo Steel
 Endo Steel
 Ferro-Fibrous
@@ -84,9 +84,9 @@ Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLMG
-CLMG
+CLMediumPulseLaser
+CLMicroPulseLaser
+CLERMicroLaser
 Endo Steel
 Endo Steel
 Ferro-Fibrous
@@ -106,8 +106,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Clan Machine Gun Ammo - Half
 Endo Steel
+-Empty-
 
 Head:
 Life Support

@@ -1,23 +1,24 @@
 Version:1.0
-Uller (Kit Fox)
-C
+Kit Fox
+U
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2890
-Source:Early Succession Wars
-Rules Level:2
+Era:3076
+Source:Jihad
+Rules Level:4
 
 Mass:30
-Engine:180 XL Engine
+Engine:180 XL (Clan) Engine
 Structure:Endo Steel
 Myomer:Standard
 
 Heat Sinks:10 Double
+Base Chassis Heat Sinks:7
 Walk MP:6
 Jump MP:0
 
-Armor:Ferro-Fibrous
+Armor:Ferro-Fibrous(Clan)
 LA Armor:7
 RA Armor:7
 LT Armor:8
@@ -31,52 +32,52 @@ RTR Armor:4
 RTC Armor:4
 
 Weapons:9
-1 CLERLargeLaser, Left Arm
-2 CLMG, Left Arm, Ammo:200
-1 CLSmallPulseLaser, Left Arm
-3 CLAntiMissileSystem, Right Arm, Ammo:96
-1 CLECMSuite, Right Arm
-1 CLTAG, Right Arm
-1 CLActiveProbe, Right Arm
-1 CLAntiPersonnelPod, Right Leg
-1 CLAntiPersonnelPod, Left Leg
+LRT 5, Left Arm
+LRT 5, Left Arm
+LRT 5, Left Arm
+LRT 5, Right Arm
+LRT 5, Right Arm
+LRT 5, Right Arm
+ER Medium Laser, Right Torso
+LRT 5, Right Arm
+LRT 5, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Hand Actuator
-CLERLargeLaser
-CLMG
-CLMG
-CLSmallPulseLaser
+CLLRTorpedo5
+CLLRTorpedo5
+CLLRTorpedo5
+CLLRTorpedo5
+Clan Ammo LRTorpedo-5
+Clan Ammo LRTorpedo-5
 Endo Steel
 Ferro-Fibrous
--Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Hand Actuator
-CLAntiMissileSystem
-CLAntiMissileSystem
-CLAntiMissileSystem
-CLECMSuite
-CLTAG
-CLActiveProbe
+CLLRTorpedo5
+CLLRTorpedo5
+CLLRTorpedo5
+CLLRTorpedo5
+Clan Ammo LRTorpedo-5
+Clan Ammo LRTorpedo-5
 Endo Steel
 Ferro-Fibrous
+-Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLMG Ammo (200)
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLUMU
 Endo Steel
 Endo Steel
 Ferro-Fibrous
@@ -86,15 +87,15 @@ Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLAMS Ammo
-CLAMS Ammo
-CLAMS Ammo
-CLAMS Ammo
+CLUMU
+CLERMediumLaser
 Endo Steel
 Endo Steel
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
+-Empty-
 -Empty-
 
 Center Torso:
@@ -108,8 +109,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLDoubleHeatSink
+CLDoubleHeatSink
 
 Head:
 Life Support
@@ -130,8 +131,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLAntiPersonnelPod
--Empty-
+CLUMU
+CLUMU
 -Empty-
 -Empty-
 -Empty-
@@ -144,12 +145,13 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLAntiPersonnelPod
+CLUMU
+CLUMU
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 -Empty-
--Empty-
+
 

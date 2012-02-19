@@ -1,11 +1,11 @@
 Version:1.0
-Vulture (Mad Dog)
-A
+Mad Dog
+H
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2963
-Source:Late Succession Wars
+Era:3059
+Source:Clan Invasion Invasion
 Rules Level:2
 
 Mass:60
@@ -13,7 +13,7 @@ Engine:300 XL Engine
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:12 Double
+Heat Sinks:20 Double
 Walk MP:5
 Jump MP:0
 
@@ -31,65 +31,65 @@ RTR Armor:7
 RTC Armor:7
 
 Weapons:4
-1 CLLBXAC5, Left Arm, Ammo:40
-3 CLSRM6, Left Torso
-1 CLERPPC, Right Arm
-3 CLSRM6, Right Torso, Ammo:60
+1 CLLRM15, Left Torso
+1 CLLRM15, Right Torso, Ammo:32
+3 CLHeavyMediumLaser, Left Arm
+1 CLHeavyLargeLaser, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLBXAC5
-CLLBXAC5
-CLLBXAC5
-CLLBXAC5
-CLLBXAC5 Ammo
-CLLBXAC5 CL Ammo
+Lower Arm Actuator
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
 Ferro-Fibrous
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLSRM6
-CLSRM6 Ammo
-CLSRM6 Ammo
-CLSRM6
-CLSRM6
+CLLRM15
+CLLRM15
+CLArtemisIV
+CLLRM15 Ammo (Clan) Artemis-capable
+CLLRM15 Ammo (Clan) Artemis-capable
+CLDouble Heat Sink
+CLDouble Heat Sink
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLSRM6 Ammo
-CLSRM6 Ammo
-CLSRM6
-CLSRM6
-CLSRM6
+CLLRM15
+CLLRM15
+CLArtemisIV
+CLLRM15 Ammo (Clan) Artemis-capable
+CLLRM15 Ammo (Clan) Artemis-capable
+CLDouble Heat Sink
+CLDouble Heat Sink
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 
 Center Torso:
@@ -125,8 +125,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 -Empty-
 -Empty-
@@ -139,8 +139,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+CLDouble Heat Sink
+CLDouble Heat Sink
 -Empty-
 -Empty-
 -Empty-

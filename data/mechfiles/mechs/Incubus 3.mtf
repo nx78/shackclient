@@ -1,6 +1,6 @@
 Version:1.0
-Vixen (Incubus)
-2
+Incubus
+3
 
 Config:Biped
 TechBase:Clan
@@ -31,11 +31,11 @@ RTR Armor:4
 RTC Armor:5
 
 Weapons:7
-ER PPC, Right Arm
-ER Medium Laser, Left Torso
+Streak SRM 6, Right Arm
+Medium Pulse Laser, Left Torso
 Machine Gun, Left Torso
 Machine Gun, Left Torso
-ER Medium Laser, Right Torso
+Medium Pulse Laser, Right Torso
 Machine Gun, Right Torso
 Machine Gun, Right Torso
 
@@ -58,9 +58,9 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERPPC
-CLERPPC
--Empty-
+CLStreakSRM6
+CLStreakSRM6
+Clan Streak SRM 6 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -70,7 +70,7 @@ CLERPPC
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
+CLMediumPulseLaser
 CLMG
 CLMG
 Endo Steel
@@ -84,7 +84,7 @@ Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
+CLMediumPulseLaser
 CLMG
 CLMG
 Endo Steel

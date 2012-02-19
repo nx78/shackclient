@@ -1,23 +1,24 @@
 Version:1.0
-Vulture (Mad Dog)
-H
+Mad Dog
+U
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3059
-Source:Clan Invasion Invasion
-Rules Level:2
+Era:3070
+Source:Jihad
+Rules Level:4
 
 Mass:60
-Engine:300 XL Engine
+Engine:300 XL (Clan) Engine(IS)
 Structure:Standard
 Myomer:Standard
 
-Heat Sinks:20 Double
+Heat Sinks:12 Double
+Base Chassis Heat Sinks:12
 Walk MP:5
 Jump MP:0
 
-Armor:Ferro-Fibrous
+Armor:Ferro-Fibrous(Clan)
 LA Armor:16
 RA Armor:16
 LT Armor:16
@@ -30,50 +31,52 @@ RTL Armor:7
 RTR Armor:7
 RTC Armor:7
 
-Weapons:4
-1 CLLRM15, Left Torso
-1 CLLRM15, Right Torso, Ammo:32
-3 CLHeavyMediumLaser, Left Arm
-1 CLHeavyLargeLaser, Right Arm
+Weapons:6
+ER Medium Laser, Left Arm
+Medium Pulse Laser, Left Arm
+ER Medium Laser, Right Arm
+Medium Pulse Laser, Right Arm
+LRT 15, Left Torso
+LRT 15, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLERMediumLaser
+CLMediumPulseLaser
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
+Lower Arm Actuator
+CLERMediumLaser
+CLMediumPulseLaser
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLLRM15
-CLLRM15
-CLArtemisIV
-CLLRM15 Ammo (Clan) Artemis-capable
-CLLRM15 Ammo (Clan) Artemis-capable
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLLRTorpedo15
+CLLRTorpedo15
+CLArtemisV
+CLArtemisV
+Clan Ammo LRTorpedo-15 (Clan) Artemis V-capable
+Clan Ammo LRTorpedo-15 (Clan) Artemis V-capable
+Clan HarJel
 Ferro-Fibrous
 Ferro-Fibrous
 -Empty-
@@ -81,13 +84,13 @@ Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLLRM15
-CLLRM15
-CLArtemisIV
-CLLRM15 Ammo (Clan) Artemis-capable
-CLLRM15 Ammo (Clan) Artemis-capable
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLLRTorpedo15
+CLLRTorpedo15
+CLArtemisV
+CLArtemisV
+Clan Ammo LRTorpedo-15 (Clan) Artemis V-capable
+Clan Ammo LRTorpedo-15 (Clan) Artemis V-capable
+Clan HarJel
 Ferro-Fibrous
 Ferro-Fibrous
 -Empty-
@@ -103,8 +106,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
--Empty-
+CLUMU
+Clan HarJel
 
 Head:
 Life Support
@@ -125,8 +128,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLUMU
+CLUMU
 -Empty-
 -Empty-
 -Empty-
@@ -139,12 +142,13 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+CLUMU
+CLUMU
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 -Empty-
+
 

@@ -1,50 +1,52 @@
 Version:1.0
-Uller (Kit Fox)
-B
+Mad Dog
+ Prime
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:2890
-Source:Early Succession Wars
+Era:2963
+Source:Late Succession Wars
 Rules Level:2
 
-Mass:30
-Engine:180 XL Engine
-Structure:Endo Steel
+Mass:60
+Engine:300 XL Engine
+Structure:Standard
 Myomer:Standard
 
-Heat Sinks:10 Double
-Walk MP:6
+Heat Sinks:12 Double
+Walk MP:5
 Jump MP:0
 
 Armor:Ferro-Fibrous
-LA Armor:7
-RA Armor:7
-LT Armor:8
-RT Armor:8
-CT Armor:9
+LA Armor:16
+RA Armor:16
+LT Armor:16
+RT Armor:16
+CT Armor:23
 HD Armor:9
-LL Armor:8
-RL Armor:8
-RTL Armor:4
-RTR Armor:4
-RTC Armor:4
+LL Armor:23
+RL Armor:23
+RTL Armor:7
+RTR Armor:7
+RTC Armor:7
 
-Weapons:4
-1 CLERMediumLaser, Left Arm
-1 CLERSmallLaser, Left Arm
-1 CLUltraAC10, Right Arm, Ammo:20
-1 CLSRM6, Right Arm, Ammo:15
+Weapons:6
+1 CLLargePulseLaser, Left Arm
+1 CLMediumPulseLaser, Left Arm
+1 CLLRM20, Left Torso, Ammo:6
+1 CLLargePulseLaser, Right Arm
+1 CLMediumPulseLaser, Right Arm
+1 CLLRM20, Right Torso, Ammo:6
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Hand Actuator
-CLERMediumLaser
-CLERSmallLaser
-Endo Steel
+CLLargePulseLaser
+CLLargePulseLaser
+CLMediumPulseLaser
 Ferro-Fibrous
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -53,39 +55,39 @@ Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC10
-CLUltraAC10
-CLUltraAC10
-CLUltraAC10
-CLSRM6
-CLSRM6 Ammo
-Endo Steel
+Lower Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+CLMediumPulseLaser
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLDouble Heat Sink
-Endo Steel
-Endo Steel
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20 Ammo
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
 -Empty-
 -Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLUltraAC10 Ammo
-CLUltraAC10 Ammo
-Endo Steel
-Endo Steel
-Endo Steel
+CLLRM20 Ammo
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
 Ferro-Fibrous
 Ferro-Fibrous
 -Empty-
@@ -103,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDouble Heat Sink
-CLDouble Heat Sink
+-Empty-
+-Empty-
 
 Head:
 Life Support

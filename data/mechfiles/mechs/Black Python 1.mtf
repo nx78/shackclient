@@ -1,6 +1,6 @@
 Version:1.0
-Viper (Black Python)
-2
+Black Python
+
 
 Config:Biped
 TechBase:Clan
@@ -33,12 +33,12 @@ RTC Armor:12
 Weapons:10
 Machine Gun, Left Arm
 Machine Gun, Left Arm
-Ultra AC/2, Left Torso
+Large Pulse Laser, Left Torso
+Medium Pulse Laser, Left Torso
 Small Pulse Laser, Left Torso
 Small Pulse Laser, Left Torso
-ER Large Laser, Right Torso
-ER Large Laser, Right Torso
-Small Pulse Laser, Right Torso
+Large Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
 Small Pulse Laser, Right Torso
 Small Pulse Laser, Right Torso
 
@@ -50,10 +50,10 @@ Hand Actuator
 CLMG
 CLMG
 Clan Machine Gun Ammo - Full
-Clan Ultra AC/2 Ammo
-Clan Ultra AC/2 Ammo
-CLECMSuite
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 
 Right Arm:
@@ -75,23 +75,23 @@ Fusion Engine
 Fusion Engine
 Jump Jet
 Jump Jet
-CLUltraAC2
-CLUltraAC2
+CLLargePulseLaser
+CLLargePulseLaser
+CLMediumPulseLaser
 CLSmallPulseLaser
 CLSmallPulseLaser
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
--Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Jump Jet
 Jump Jet
-CLERLargeLaser
-CLERLargeLaser
-CLSmallPulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+CLMediumPulseLaser
 CLSmallPulseLaser
 CLSmallPulseLaser
 Endo Steel

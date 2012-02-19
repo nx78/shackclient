@@ -1,11 +1,11 @@
 Version:1.0
-Uller (Kit Fox)
-H
+Kit Fox
+ Prime
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3059
-Source:Clan Invasion Invasion
+Era:2890
+Source:Early Succession Wars
 Rules Level:2
 
 Mass:30
@@ -30,37 +30,39 @@ RTL Armor:4
 RTR Armor:4
 RTC Armor:4
 
-Weapons:2
-1 CLGaussRifle, Right Arm, Ammo:16
-2 CLHeavyMediumLaser, Left Arm
+Weapons:4
+1 CLERLargeLaser, Left Arm
+1 CLSmallPulseLaser, Left Arm
+1 CLStreakSRM4, Right Arm, Ammo:25
+1 CLLBXAC5, Right Arm, Ammo:20
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
+CLERLargeLaser
+CLSmallPulseLaser
 Endo Steel
 Ferro-Fibrous
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGauss Ammo
-CLGauss Ammo
+CLStreakSRM4
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLStreakSRM4 Ammo
+CLLBXAC5 CL Ammo
 Endo Steel
 Ferro-Fibrous
+-Empty-
 
 Left Torso:
 Fusion Engine

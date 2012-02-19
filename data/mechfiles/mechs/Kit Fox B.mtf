@@ -1,53 +1,50 @@
 Version:1.0
-Vulture (Mad Dog)
-D
+Kit Fox
+B
 
 Config:Biped Omnimech
 TechBase:Clan
-Era:3054
-Source:Clan Invasion Invasion
+Era:2890
+Source:Early Succession Wars
 Rules Level:2
 
-Mass:60
-Engine:300 XL Engine
-Structure:Standard
+Mass:30
+Engine:180 XL Engine
+Structure:Endo Steel
 Myomer:Standard
 
-Heat Sinks:13 Double
-Walk MP:5
+Heat Sinks:10 Double
+Walk MP:6
 Jump MP:0
 
 Armor:Ferro-Fibrous
-LA Armor:16
-RA Armor:16
-LT Armor:16
-RT Armor:16
-CT Armor:23
+LA Armor:7
+RA Armor:7
+LT Armor:8
+RT Armor:8
+CT Armor:9
 HD Armor:9
-LL Armor:23
-RL Armor:23
-RTL Armor:7
-RTR Armor:7
-RTC Armor:7
+LL Armor:8
+RL Armor:8
+RTL Armor:4
+RTR Armor:4
+RTC Armor:4
 
-Weapons:7
-1 CLERMediumLaser, Right Arm
-1 CLERSmallLaser, Right Arm
+Weapons:4
 1 CLERMediumLaser, Left Arm
 1 CLERSmallLaser, Left Arm
-1 CLATM12, Right Torso, Ammo:30
-1 CLATM12, Left Torso
-2 CLMediumPulseLaser, Center Torso
+1 CLUltraAC10, Right Arm, Ammo:20
+1 CLSRM6, Right Arm, Ammo:15
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
+Hand Actuator
 CLERMediumLaser
 CLERSmallLaser
+Endo Steel
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -56,44 +53,44 @@ Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLERMediumLaser
-CLERSmallLaser
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLSRM6
+CLSRM6 Ammo
+Endo Steel
 Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 -Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-CLATM12 Ammo
-CLATM12 ER Ammo
-CLATM12 HE Ammo
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+CLDouble Heat Sink
+Endo Steel
+Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
+-Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-CLATM12 Ammo
-CLATM12 ER Ammo
-CLATM12 HE Ammo
+CLUltraAC10 Ammo
+CLUltraAC10 Ammo
+Endo Steel
+Endo Steel
+Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 
 Center Torso:
 Fusion Engine
@@ -106,8 +103,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLMediumPulseLaser
-CLMediumPulseLaser
+CLDouble Heat Sink
+CLDouble Heat Sink
 
 Head:
 Life Support

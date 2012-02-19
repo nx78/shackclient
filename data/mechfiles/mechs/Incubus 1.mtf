@@ -1,56 +1,53 @@
 Version:1.0
-Viper (Black Python)
+Incubus
 
 
 Config:Biped
 TechBase:Clan
-Era:3055
-Source:Clan Invasion
+Era:2950
+Source:Late Succession Wars
 Rules Level:2
 
-Mass:75
-Engine:375 XL (Clan) Engine
+Mass:30
+Engine:270 XL (Clan) Engine
 Structure:Endo Steel
 Myomer:Standard
 
-Heat Sinks:12 Double
-Walk MP:5
-Jump MP:5
+Heat Sinks:10 Double
+Walk MP:9
+Jump MP:0
 
 Armor:Ferro-Fibrous(Clan)
-LA Armor:22
-RA Armor:22
-LT Armor:22
-RT Armor:22
-CT Armor:30
+LA Armor:10
+RA Armor:10
+LT Armor:10
+RT Armor:10
+CT Armor:15
 HD Armor:9
-LL Armor:26
-RL Armor:26
-RTL Armor:10
-RTR Armor:10
-RTC Armor:12
+LL Armor:14
+RL Armor:14
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
 
-Weapons:10
-Machine Gun, Left Arm
-Machine Gun, Left Arm
-Large Pulse Laser, Left Torso
-Medium Pulse Laser, Left Torso
-Small Pulse Laser, Left Torso
-Small Pulse Laser, Left Torso
-Large Pulse Laser, Right Torso
-Medium Pulse Laser, Right Torso
-Small Pulse Laser, Right Torso
-Small Pulse Laser, Right Torso
+Weapons:7
+Large Pulse Laser, Right Arm
+ER Medium Laser, Left Torso
+Machine Gun, Left Torso
+Machine Gun, Left Torso
+ER Medium Laser, Right Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLMG
-CLMG
-Clan Machine Gun Ammo - Full
-Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -61,11 +58,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-Ferro-Fibrous
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -73,30 +70,30 @@ Ferro-Fibrous
 Left Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-CLLargePulseLaser
-CLLargePulseLaser
-CLMediumPulseLaser
-CLSmallPulseLaser
-CLSmallPulseLaser
+CLERMediumLaser
+CLMG
+CLMG
+Endo Steel
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-CLLargePulseLaser
-CLLargePulseLaser
-CLMediumPulseLaser
-CLSmallPulseLaser
-CLSmallPulseLaser
+CLERMediumLaser
+CLMG
+CLMG
+Endo Steel
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
 
 Center Torso:
 Fusion Engine
@@ -109,14 +106,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
+Clan Machine Gun Ammo - Half
 Endo Steel
 
 Head:
 Life Support
 Sensors
 Cockpit
-Ferro-Fibrous
+-Empty-
 Sensors
 Life Support
 -Empty-
@@ -132,7 +129,7 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 Endo Steel
-Endo Steel
+Ferro-Fibrous
 -Empty-
 -Empty-
 -Empty-
@@ -146,7 +143,7 @@ Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
 Endo Steel
-Endo Steel
+Ferro-Fibrous
 -Empty-
 -Empty-
 -Empty-
