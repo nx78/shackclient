@@ -1,7 +1,0 @@
-Running MekWarsAutoUpdate: 4.0
-Unable to load config file: ./data/mwconfig.txt
-java.io.FileNotFoundException: ./data/mwconfig.txt (No such file or directory)
-	at java.io.FileInputStream.open(Native Method)
-	at java.io.FileInputStream.<init>(FileInputStream.java:120)
-	at updaters.MekWarsAutoUpdate.loadConfigs(MekWarsAutoUpdate.java:190)
-	at updaters.MekWarsAutoUpdate.<init>(MekWarsAutoUpdate.java:71)
