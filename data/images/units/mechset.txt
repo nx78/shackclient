@@ -903,13 +903,19 @@ exact "Adder E" "mechs/Adder E.gif"
 exact "Adder H" "mechs/Adder H.gif"
 exact "Adder J" "mechs/Adder J.gif"
 
+chassis "Akuma" "mechs/Akuma.gif"
+exact "Akuma AKU-1XJ" "mechs/Akuma AKU-1XJ.gif"
+
+chassis "Albatross" "mechs/Albatross.gif"
+
+chassis "Alfar" "mechs/Alfar.gif"
+
 
 
 #Mechs_OLD
-chassis "Akuma" "mechs_old/akuma.gif"
-exact "Akuma AKU-1XJ" "mechs_old/akuma_j.gif"
-chassis "Albatross" "mechs_old/albatross.gif"
-chassis "Alfar" "mechs_old/alfar.gif"
+
+
+
 exact "Alliance ALI-1A-BT" "mechs_old/alliance_al-1a.gif"
 exact "Alliance ALI-2A-BT" "mechs_old/alliance_al-2a.gif"
 exact "Alliance ALI-3A-BT" "mechs_old/alliance_al-3a.gif"
