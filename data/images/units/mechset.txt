@@ -890,7 +890,22 @@ chassis "Zhukov Heavy Tank" "vehicles/zhukov.gif"
 chassis "Zorya Light Tank" "vehicles/zorya.gif"
 
 
-#Mechs
+###########
+# Mechs A #
+###########
+
+chassis "Adder" "mechs/Adder.gif"
+exact "Adder A" "mechs/Adder A.gif"
+exact "Adder B" "mechs/Adder B.gif"
+exact "Adder C" "mechs/Adder C.gif"
+exact "Adder D" "mechs/Adder D.gif"
+exact "Adder E" "mechs/Adder E.gif"
+exact "Adder H" "mechs/Adder H.gif"
+exact "Adder J" "mechs/Adder J.gif"
+
+
+
+#Mechs_OLD
 chassis "Akuma" "mechs_old/akuma.gif"
 exact "Akuma AKU-1XJ" "mechs_old/akuma_j.gif"
 chassis "Albatross" "mechs_old/albatross.gif"
@@ -1950,14 +1965,6 @@ exact "Puma (Adder) D" "mechs_old/adder_d.gif"
 exact "Puma (Adder) E" "mechs_old/adder_e.gif"
 exact "Puma (Adder) H" "mechs_old/adder_h.gif"
 exact "Puma (Adder) J" "mechs_old/adder_j.gif"
-chassis "Adder" "mechs_old/adder.gif"
-exact "Adder A" "mechs_old/adder_a.gif"
-exact "Adder B" "mechs_old/adder_b.gif"
-exact "Adder C" "mechs_old/adder_c.gif"
-exact "Adder D" "mechs_old/adder_d.gif"
-exact "Adder E" "mechs_old/adder_e.gif"
-exact "Adder H" "mechs_old/adder_h.gif"
-exact "Adder J" "mechs_old/adder_j.gif"
 chassis "Quickdraw IIC" "mechs_old/quickdraw_iic.gif"
 chassis "Quickdraw" "mechs_old/quickdraw.gif"
 exact "Quickdraw QKD-5A" "mechs_old/quickdrawA.gif"
