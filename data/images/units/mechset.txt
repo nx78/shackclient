@@ -895,65 +895,76 @@ chassis "Zorya Light Tank" "vehicles/zorya.gif"
 # Mechs A #
 ###########
 
-chassis "Adder" "mechs/Adder.gif"
-exact "Adder A" "mechs/Adder A.gif"
-exact "Adder B" "mechs/Adder B.gif"
-exact "Adder C" "mechs/Adder C.gif"
-exact "Adder D" "mechs/Adder D.gif"
-exact "Adder E" "mechs/Adder E.gif"
-exact "Adder H" "mechs/Adder H.gif"
-exact "Adder J" "mechs/Adder J.gif"
+chassis "Adder" "mechs/A/Adder.gif"
+exact "Adder A" "mechs/A/Adder A.gif"
+exact "Adder B" "mechs/A/Adder B.gif"
+exact "Adder C" "mechs/A/Adder C.gif"
+exact "Adder D" "mechs/A/Adder D.gif"
+exact "Adder E" "mechs/A/Adder E.gif"
+exact "Adder H" "mechs/A/Adder H.gif"
+exact "Adder J" "mechs/A/Adder J.gif"
 
-chassis "Akuma" "mechs/Akuma.gif"
-exact "Akuma AKU-1XJ" "mechs/Akuma AKU-1XJ.gif"
+chassis "Akuma"       "mechs/A/Akuma.gif"
+exact "Akuma AKU-1XJ" "mechs/A/Akuma AKU-1XJ.gif"
 
-chassis "Albatross" "mechs/Albatross.gif"
+chassis "Albatross" "mechs/A/Albatross.gif"
 
-chassis "Alfar" "mechs/Alfar.gif"
+chassis "Alfar" "mechs/A/Alfar.gif"
+
+chassis "Annihilator"              "mechs/A/Annihilator.gif"
+exact "Annihilator ANH-2AX"        "mechs/A/Annihilator ANH-2AX.gif"
+exact "Annihilator C "Gausszilla"" "mechs/A/Annihilator C.gif"
+exact "Annihilator C 2"            "mechs/A/Annihilator C2.gif"
+###########undefined mech, filename corrected: chassis "Annihilator IIC" "mechs/A/Annihilator C.gif"
+
+chassis "Anubis" "mechs/A/Anubis.gif"
+
+chassis "Anvil" "mechs/A/Anvil.gif"
+
+chassis "Apollo" "mechs/A/Apollo.gif"
+
+chassis "Arbalest" "mechs/A/Arbalest.gif"
+
+chassis "Arcas" "mechs/A/Arcas.gif"
+exact "Arcas 2" "mechs/A/Arcas 2.gif"
+
+chassis "Archangel"                 "mechs/A/Archangel.gif"
+exact "Archangel C-ANG-OA Dominus"  "mechs/A/Archangel C-ANG-OA Dominus.gif"
+exact "Archangel C-ANG-OB Infernus" "mechs/A/Archangel C-ANG-OB Infernus.gif"
+exact "Archangel C-ANG-OC Comminus" "mechs/A/Archangel C-ANG-OC Comminus.gif"
+exact "Archangel C-ANG-OD Luminos"  "mechs/A/Archangel C-ANG-OD Luminos.gif"
+exact "Archangel C-ANG-OE Eminus"   "mechs/A/Archangel C-ANG-OE Eminus.gif"
+
+chassis "Archer" "mechs/A/Archer.gif"
+exact "Archer ARC-2K" "mechs/A/Archer ARC-2K.gif"
+exact "Archer ARC-2S" "mechs/A/Archer ARC-2S.gif"
+exact "Archer ARC-6S" "mechs/A/Archer ARC-6S.gif"
+exact "Archer ARC-6W" "mechs/A/Archer ARC-6W.gif"
+exact "Archer ARC-7L" "mechs/A/Archer ARC-7L.gif"
+exact "Archer ARC-8M" "mechs/A/Archer ARC-8M.gif"
+exact "Archer ARC-9K" "mechs/A/Archer ARC-9K.gif"
+###########undefined mech: chassis "Archer IIC" "mechs_old/archer_iic.gif"
+
+chassis "Arctic Fox"    "mechs/A/Arctic Fox AF1.gif"
+exact "Arctic Fox AF1A" "mechs/A/Arctic Fox AF1A.gif"
+exact "Arctic Fox AF1B" "mechs/A/Arctic Fox AF1B.gif"
+exact "Arctic Fox AF1C" "mechs/A/Arctic Fox AF1C.gif"
+exact "Arctic Fox AF1D" "mechs/A/Arctic Fox AF1D.gif"
+exact "Arctic Fox AF1E" "mechs/A/Arctic Fox AF1E.gif"
+exact "Arctic Fox AF1F" "mechs/A/Arctic Fox AF1F.gif"
+
 
 
 
 #Mechs_OLD
-
-
 
 exact "Alliance ALI-1A-BT" "mechs_old/alliance_al-1a.gif"
 exact "Alliance ALI-2A-BT" "mechs_old/alliance_al-2a.gif"
 exact "Alliance ALI-3A-BT" "mechs_old/alliance_al-3a.gif"
 exact "Alliance ALI-4A-BT" "mechs_old/alliance_al-4a.gif"
 exact "Alliance ALI-5A-BT" "mechs_old/alliance_al-5a.gif"
-chassis "Annihilator" "mechs_old/annihilator.gif"
-exact "Annihilator ANH-2AX" "mechs_old/annihilator_anh-2ax.gif"
-exact "Annihilator C "Gausszilla"" "mechs_old/annihilator_iic.gif"
-exact "Annihilator C 2" "mechs_old/annihilator_iic.gif"
-chassis "Annihilator IIC" "mechs_old/annihilator_iic.gif"
-chassis "Anubis" "mechs_old/anubis.gif"
-chassis "Anvil" "mechs_old/anvil.gif"
-chassis "Apollo" "mechs_old/apollo.gif"
-chassis "Arbalest" "mechs_old/arbalest.gif"
-chassis "Arcas" "mechs_old/arcas.gif"
-exact "Arcas 2" "mechs_old/arcas2.gif"
-chassis "Archangel" "mechs_old/archangel.gif"
-exact "Archangel C-ANG-OC Comminus" "mechs_old/archangel_comminus.gif"
-exact "Archangel C-ANG-OA Dominus" "mechs_old/archangel_dominus.gif"
-exact "Archangel C-ANG-OE Eminus" "mechs_old/archangel_eminus.gif"
-exact "Archangel C-ANG-OB Infernus" "mechs_old/archangel_infernus.gif"
-exact "Archangel C-ANG-OD Luminos" "mechs_old/archangel_luminos.gif"
-chassis "Archer" "mechs_old/archer.gif"
-exact "Archer ARC-2K" "mechs_old/archerK.gif"
-exact "Archer ARC-2S" "mechs_old/archerS.gif"
-exact "Archer ARC-6S" "mechs_old/archer_arc6s.gif"
-exact "Archer ARC-6W" "mechs_old/archer_arc6w.gif"
-exact "Archer ARC-7L" "mechs_old/archer_arc7l.gif"
-exact "Archer ARC-8M" "mechs_old/archer_arc8m.gif"
-chassis "Archer IIC" "mechs_old/archer_iic.gif"
-chassis "Arctic Fox" "mechs_old/arctic_fox.gif"
-exact "Arctic Fox AF1A" "mechs_old/arctic_fox_a.gif"
-exact "Arctic Fox AF1B" "mechs_old/arctic_fox_b.gif"
-exact "Arctic Fox AF1C" "mechs_old/arctic_fox_c.gif"
-exact "Arctic Fox AF1D" "mechs_old/arctic_fox_d.gif"
-exact "Arctic Fox AF1E" "mechs_old/arctic_fox_e.gif"
-exact "Arctic Fox AF1F" "mechs_old/arctic_fox_f.gif"
+
+
 chassis "Arctic Wolf" "mechs_old/arctic_wolf.gif"
 exact "Arctic Wolf 2" "mechs_old/arctic_wolf_2.gif"
 chassis "Argus" "mechs_old/argus.gif"
