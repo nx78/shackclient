@@ -915,7 +915,6 @@ chassis "Annihilator"              "mechs/A/Annihilator.gif"
 exact "Annihilator ANH-2AX"        "mechs/A/Annihilator ANH-2AX.gif"
 exact "Annihilator C "Gausszilla"" "mechs/A/Annihilator C.gif"
 exact "Annihilator C 2"            "mechs/A/Annihilator C2.gif"
-###########undefined mech, filename corrected: chassis "Annihilator IIC" "mechs/A/Annihilator C.gif"
 
 chassis "Anubis" "mechs/A/Anubis.gif"
 
@@ -943,7 +942,7 @@ exact "Archer ARC-6W" "mechs/A/Archer ARC-6W.gif"
 exact "Archer ARC-7L" "mechs/A/Archer ARC-7L.gif"
 exact "Archer ARC-8M" "mechs/A/Archer ARC-8M.gif"
 exact "Archer ARC-9K" "mechs/A/Archer ARC-9K.gif"
-###########undefined mech: chassis "Archer IIC" "mechs_old/archer_iic.gif"
+
 
 chassis "Arctic Fox"    "mechs/A/Arctic Fox AF1.gif"
 exact "Arctic Fox AF1A" "mechs/A/Arctic Fox AF1A.gif"
@@ -953,50 +952,63 @@ exact "Arctic Fox AF1D" "mechs/A/Arctic Fox AF1D.gif"
 exact "Arctic Fox AF1E" "mechs/A/Arctic Fox AF1E.gif"
 exact "Arctic Fox AF1F" "mechs/A/Arctic Fox AF1F.gif"
 
+chassis "Arctic Wolf" "mechs/A/Arctic Wolf.gif"
+exact "Arctic Wolf 2" "mechs/A/Arctic Wolf 2.gif"
+
+chassis "Argus"      "mechs/A/Argus.gif"
+exact "Argus AGS-2D" "mechs/A/Argus AGS-2D.gif"
+
+chassis "Assassin"            "mechs/A/Assassin.gif"
+exact "Assassin ASN-101"      "mechs/A/Assassin ASN-101.gif"
+exact "Assassin ASN 30 Alice" "mechs/A/Assassin ASN-30 Alice.gif"
+
+chassis "Atlas"      "mechs/A/Atlas.gif"
+exact "Atlas AS7-K"  "mechs/A/Atlas AS7-K.gif"
+exact "Atlas AS7-K2" "mechs/A/Atlas AS7-K2.gif"
+exact "Atlas AS7-K3" "mechs/A/Atlas AS7-K3.gif"
+
+chassis "Atlas II" "mechs_old/Atlas II.gif"
+
+chassis "Avatar"      "mechs/A/Avatar.gif"
+exact "Avatar AV1-OA" "mechs/A/Avatar AV1-OA.gif"
+exact "Avatar AV1-OB" "mechs/A/Avatar AV1-OB.gif"
+exact "Avatar AV1-OC" "mechs/A/Avatar AV1-OC.gif"
+exact "Avatar AV1-OD" "mechs/A/Avatar AV1-OD.gif"
+exact "Avatar AV1-OE" "mechs/A/Avatar AV1-OE.gif"
+exact "Avatar AV1-OF" "mechs/A/Avatar AV1-OF.gif"
+
+chassis "Awesome"          "mechs/A/Awesome.gif"
+exact "Awesome AWS-8R"     "mechs/A/Awesome AWS-8R.gif"
+exact "Awesome AWS-8T"     "mechs/A/Awesome AWS-8T.gif"
+exact "Awesome AWS-8V"     "mechs/A/Awesome AWS-8V.gif"
+exact "Awesome Jr. AWS-JR" "mechs/A/Awesome jr AWS-JR.gif"
+exact "Awesome AWS-9Q"     "mechs/A/Awesome AWS-9Q.gif"
+exact "Awesome AWS-10KM"   "mechs/A/Awesome AWS-10KM.gif"
+
+chassis "Axman"      "mechs/A/Axman.gif"
+exact "Axman AXM-2N" "mechs/A/Axman AXM-2N.gif"
+
+###unused definitions:
+#exact "Alliance ALI-1A-BT" "mechs_old/alliance_al-1a.gif"
+#exact "Alliance ALI-2A-BT" "mechs_old/alliance_al-2a.gif"
+#exact "Alliance ALI-3A-BT" "mechs_old/alliance_al-3a.gif"
+#exact "Alliance ALI-4A-BT" "mechs_old/alliance_al-4a.gif"
+#exact "Alliance ALI-5A-BT" "mechs_old/alliance_al-5a.gif"
+#chassis "Assault" " .gif"
+#chassis "Aurora" " .gif"
+#chassis "Avalanche" " .gif"
+#chassis "Archer IIC" "mechs_old/archer_iic.gif"
+#exact "Avatar AV1-O" "mechs_old/avatar.gif"
+#chassis "Annihilator IIC" "mechs/A/Annihilator C.gif"
+
+###########
+# Mechs B #
+###########
 
 
 
 #Mechs_OLD
 
-exact "Alliance ALI-1A-BT" "mechs_old/alliance_al-1a.gif"
-exact "Alliance ALI-2A-BT" "mechs_old/alliance_al-2a.gif"
-exact "Alliance ALI-3A-BT" "mechs_old/alliance_al-3a.gif"
-exact "Alliance ALI-4A-BT" "mechs_old/alliance_al-4a.gif"
-exact "Alliance ALI-5A-BT" "mechs_old/alliance_al-5a.gif"
-
-
-chassis "Arctic Wolf" "mechs_old/arctic_wolf.gif"
-exact "Arctic Wolf 2" "mechs_old/arctic_wolf_2.gif"
-chassis "Argus" "mechs_old/argus.gif"
-exact "Argus AGS-2D" "mechs_old/argus_2d.gif"
-chassis "Assassin" "mechs_old/assassin.gif"
-exact "Assassin ASN-101" "mechs_old/assassin101.gif"
-exact "Assassin ASN 30 Alice" "mechs_old/assssinAlice.gif"
-#chassis "Assault" " .gif"
-chassis "Atlas" "mechs_old/atlas.gif"
-exact "Atlas AS7-K" "mechs_old/atlasK.gif"
-exact "Atlas AS7-K2" "mechs_old/atlasK2.gif"
-exact "Atlas AS7-K3" "mechs_old/atlasK2.gif"
-chassis "Atlas II" "mechs_old/atlas_ii.gif"
-#chassis "Aurora" " .gif"
-#chassis "Avalanche" " .gif"
-chassis "Avatar" "mechs_old/avatar.gif"
-exact "Avatar AV1-O" "mechs_old/avatar.gif"
-exact "Avatar AV1-OA" "mechs_old/avatar_a.gif"
-exact "Avatar AV1-OB" "mechs_old/avatar_b.gif"
-exact "Avatar AV1-OC" "mechs_old/avatar_c.gif"
-exact "Avatar AV1-OD" "mechs_old/avatar_d.gif"
-exact "Avatar AV1-OE" "mechs_old/avatar_e.gif"
-exact "Avatar AV1-OF" "mechs_old/avatar_f.gif"
-chassis "Awesome" "mechs_old/awesome.gif"
-exact "Awesome AWS-8R" "mechs_old/awesomeR.gif"
-exact "Awesome AWS-8T" "mechs_old/awesomeT.gif"
-exact "Awesome AWS-8V" "mechs_old/awesomeV.gif"
-exact "Awesome Jr. AWS-JR" "mechs_old/awesome_jr.gif"
-exact "Awesome AWS-9Q" "mechs_old/awesome_9q.gif"
-exact "Awesome AWS-10KM" "mechs_old/awesome_AWS-10KM.gif"
-chassis "Axman" "mechs_old/axman.gif"
-exact "Axman AXM-2N" "mechs_old/axman2N.gif"
 chassis "Baboon (Howler)" "mechs_old/howler.gif"
 exact "Baboon (Howler) 3"Devil"" "mechs_old/howler_3.gif"
 chassis "Balius" "mechs_old/balius.gif"
