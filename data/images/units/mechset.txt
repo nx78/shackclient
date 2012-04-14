@@ -1058,7 +1058,7 @@ exact "Bishamon BSN-5KC" "mechs/B/Bishamon BSN-5KC.gif"
 
 chassis "Black Hawk" "mechs/B/Black Hawk.gif"
 
-chassis "Black Hawk-KU"       "mechs/B/blackhawk.gif"
+chassis "Black Hawk-KU"       "mechs/B/Blackhawk.gif"
 exact "Black Hawk-KU BHKU-OA" "mechs/B/Black Hawk-KU BHKU-OA.gif"
 exact "Black Hawk-KU BHKU-OB" "mechs/B/Black Hawk-KU BHKU-OB.gif"
 exact "Black Hawk-KU BHKU-OC" "mechs/B/Black Hawk-KU BHKU-OC.gif"
@@ -1130,7 +1130,7 @@ exact "Brigand LDT-X2" "mechs/B/Brigand LDT-X2.gif"
 
 chassis "Bruin" "defaults/default_assault.gif"
 
-chassis "Buccaneer"      "mechs/B/buccaneer.gif"
+chassis "Buccaneer"      "mechs/B/Buccaneer.gif"
 exact "Buccaneer BCN-6W" "mechs/B/Buccaneer BCN-6W.gif"
 
 chassis "Burrock" "mechs/B/Burrock.gif"
@@ -1218,7 +1218,7 @@ exact "Champion C"      "mechs/C/Champion C.gif"
 exact "Champion CHP-3P" "mechs/C/Champion CHP-3P.gif"
 exact "Champion CHP-3N" "mechs/C/Champion CHP-3N.gif"
 
-chassis "Charger"       "mechs/C/charger.gif"
+chassis "Charger"       "mechs/C/Charger.gif"
 exact "Charger CGR-1A5" "mechs/C/Charger CGR-1A5.gif"
 exact "Charger CGR-1A9" "mechs/C/Charger CGR-1A9.gif"
 exact "Charger CGR-1L"  "mechs/C/Charger CGR-1L.gif"
