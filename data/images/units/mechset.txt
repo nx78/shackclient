@@ -1175,7 +1175,7 @@ chassis "Buster Class HaulerMech" "mechs/B/Buster.gif"
 chassis "Caesar"       "mechs/C/Caesar.gif"
 exact "Caeasar CES-4S" "mechs/C/Caeasar CES-4S.gif"
 
-chassis "Cameroon" "mechs_old/C/Cameroon.gif"
+chassis "Cameroon" "mechs/C/Cameroon.gif"
 
 chassis "Canis" "mechs/C/Canis.gif"
 exact "Canis 2" "mechs/C/Canis 2.gif"
