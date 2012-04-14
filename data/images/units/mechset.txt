@@ -1307,7 +1307,7 @@ exact "Crusader CRD-8S" "mechs/C/Crusader CRD-8S.gif"
 chassis "Cudgel" "mechs/C/Cudgel.gif"
 
 chassis "Cyclops"       "mechs/C/Cyclops.gif"
-exact "Cyclops CP-10-Q" "mechs/C/Cyclops CP-10Q.gif"
+exact "Cyclops CP-10-Q" "mechs/C/Cyclops CP-10-Q.gif"
 exact "Cyclops CP-11-C" "mechs/C/Cyclops CP-11-C.gif"
 exact "Cyclops CP-11-H" "mechs/C/Cyclops CP-11-H.gif"
 
