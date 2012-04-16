@@ -1359,8 +1359,6 @@ exact "Deva C-DVA-OC Comminus" "mechs/D/Deva C-DVA-OC Comminus.gif"
 exact "Deva C-DVA-OD Luminos"  "mechs/D/Deva C-DVA-OD Luminos.gif"
 exact "Deva C-DVA-OE Eminus"   "mechs/D/Deva C-DVA-OE Eminus.gif"
 
-
-
 Chassis "Devastator"     "mechs/D/Devastator.gif"
 exact "Devastator DVS-2" "mechs/D/Devastator DVS-2.gif"
 exact "Devastator DVS-3" "mechs/D/Devastator DVS-3.gif"
@@ -1417,35 +1415,55 @@ exact "Duan Gung D9-G10" "mechs/D/Duan Gung D9-G10.gif"
 #exact "Dragonfly (Viper) I" "mechs_old/viper_i.gif"
 
 
+###########
+# Mechs D #
+###########
+
+chassis "Eagle"      "mechs/E/Eagle.gif"
+exact "Eagle EGL-1M" "mechs/E/Eagle EGL-1M.gif"
+exact "Eagle EGL-2M" "mechs/E/Eagle EGL-2M.gif"
+exact "Eagle EGL-3M" "mechs/E/Eagle EGL-3M.gif"
+
+chassis "Ebon Jaguar" "mechs/E/Ebon Jaguar.gif"
+exact "Ebon Jaguar A" "mechs/E/Ebon Jaguar A.gif"
+exact "Ebon Jaguar B" "mechs/E/Ebon Jaguar B.gif" 
+exact "Ebon Jaguar C" "mechs/E/Ebon Jaguar C.gif"
+exact "Ebon Jaguar D" "mechs/E/Ebon Jaguar D.gif"
+exact "Ebon Jaguar H" "mechs/E/Ebon Jaguar H.gif"
+
+chassis "Eidolon" "mechs/E/Eidolon.gif"
+
+chassis "Eisenfaust" "mechs/E/Eisenfaust.gif"
+
+chassis "Emperor Dragon" "mechs/E/Emperor Dragon.gif"
+
+chassis "Emperor" "mechs/E/Emperor.gif"
+
+chassis "Enfield" "mechs/E/Enfield.gif"
+
+chassis "Enforcer" "mechs/E/Enforcer.gif"
+
+chassis "Enforcer III" "mechs/E/Enforcer III.gif"
+
+chassis "Excalibur"      "mechs/E/Excalibur.gif"
+exact "Excalibur EXC-CS" "mechs/E/Excalibur EXC-CS.gif"
+exact "Excalibur EXC-D1" "mechs/E/Excalibur EXC-D1.gif"
+
+chassis "Exterminator" "mechs/E/Exterminator.gif"
+
+chassis "Exterminator IIC" "mechs/E/Exterminator IIC.gif"
+
+chassis "Eyleuka" "mechs/E/Eyleuka.gif"
+
+###unused definitions:
+#exact "Eagle EGL-1E" "mechs_old/eagle.gif"
+
 
 #Mechs_OLD
 
 
-#chassis "Eagle" "mechs_old/eagle.gif"
-exact "Eagle EGL-1M" "mechs_old/eagle.gif"
-exact "Eagle EGL-2M" "mechs_old/eagle.gif"
-exact "Eagle EGL-3M" "mechs_old/eagle.gif"
-exact "Eagle EGL-1E" "mechs_old/eagle.gif"
-chassis "Ebon Jaguar" "mechs_old/cauldronborn.gif"
-exact "Ebon Jaguar A" "mechs_old/cauldronborn_a.gif"
-exact "Ebon Jaguar B" "mechs_old/cauldronborn_b.gif"
-exact "Ebon Jaguar C" "mechs_old/cauldronborn_c.gif"
-exact "Ebon Jaguar D" "mechs_old/cauldronborn_d.gif"
-exact "Ebon Jaguar H" "mechs_old/cauldronborn_h.gif"
-chassis "Eidolon" "mechs_old/yaolien.gif"
-chassis "Eisenfaust" "mechs_old/cataphract3.gif"
-chassis "Emperor Dragon" "mechs_old/dragon.gif"
-chassis "Emperor" "mechs_old/emperor.gif"
-chassis "Enfield" "mechs_old/enfield.gif"
-chassis "Enforcer" "mechs_old/enforcer.gif"
-chassis "Enforcer III" "mechs_old/enforcer2.gif"
-chassis "Excalibur" "mechs_old/excalibur.gif"
-exact "Excalibur EXC-CS" "mechs_old/excalibur_cs.gif"
-exact "Excalibur EXC-D1" "mechs_old/excalibur_d1.gif"
-exact "Executioner EXC-3R" "defaults/default_assault.gif"
-chassis "Exterminator" "mechs_old/exterminator.gif"
-chassis "Exterminator IIC" "mechs_old/exterminator_iic.gif"
-chassis "Eyleuka" "mechs_old/eyleuka.gif"
+
+
 chassis "Fafnir" "mechs_old/fafnir.gif"
 chassis "Falcon" "mechs_old/falcon.gif"
 chassis "Falcon Hawk" "mechs_old/falcon_hawk.gif"
