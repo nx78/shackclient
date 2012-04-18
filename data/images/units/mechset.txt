@@ -1251,6 +1251,12 @@ exact "Commando COM-4H" "mechs/C/Commando COM-4H.gif"
 
 chassis "Commando IIC" "mechs/C/Commando IIC.gif"
 
+chassis "Conjurer" "mechs/C/Conjurer.gif"
+exact "Conjurer 2" "mechs/C/Conjurer 2.gif"
+exact "Conjurer 3" "mechs/C/Conjurer 3.gif"
+exact "Conjurer 4" "mechs/C/Conjurer 4.gif"
+exact "Conjurer 5" "mechs/C/Conjurer 5.gif"
+
 Chassis "Copper SecurityMech" "mechs/C/Copper SecurityMech.gif"
 
 chassis "Copperhead" "mechs/C/Copperhead.gif"
@@ -1665,90 +1671,127 @@ chassis "Gurkha" "mechs/G/Gurkha.gif"
 #chassis "Goshawk II" "mechs/G/Goshawk II.gif"
 
 
-#Mechs_OLD
+###########
+# Mechs H #
+###########
+
+chassis "Hachiwara" "mechs/H/Hachiwara.gif"
+
+chassis "Hades" "mechs/H/Hades.gif"
+
+chassis "Hammer" "mechs/H/Hammer.gif"
+
+chassis "Hammerhands" "mechs/H/Hammerhands.gif"
+
+chassis "Ha Otoko" "mechs/H/Ha Otoko.gif"
+exact "Ha Otoko 2" "mechs/H/Ha Otoko 2.gif"
+
+chassis "Harvester Ant" "mechs/H/Harvester Ant.gif"
+
+chassis "Hatamoto-Chi" "mechs/H/Hatamoto-Chi.gif"
+
+chassis "Hatamoto-Hi" "mechs/H/Hatamoto-Hi.gif"
+
+chassis "Hatamoto-Kaeru" "mechs/H/Hatamoto-Kaeru.gif"
+
+chassis "Hatamoto-Kaze" "mechs/H/Hatamoto-Kaze.gif"
+
+chassis "Hatamoto-Ku" "mechs/H/Hatamoto-Ku.gif"
+
+chassis "Hatamoto-Mizo" "mechs/H/Hatamoto-Mizo.gif"
+
+chassis "Hatchetman"       "mechs/H/Hatchetman.gif"
+exact "Hatchetman HCT-3NH" "mechs/H/Hatchetman HCT-3NH.gif"
+exact "Hatchetman HCT-5K"  "mechs/H/Hatchetman HCT-5K.gif"
+
+chassis "Hauptmann"      "mechs/H/Hauptmann.gif"
+exact "Hauptmann HA1-O"  "mechs/H/Hauptmann HA1-O.gif"
+exact "Hauptmann HA1-OA" "mechs/H/Hauptmann HA1-OA.gif"
+exact "Hauptmann HA1-OB" "mechs/H/Hauptmann HA1-OB.gif"
+exact "Hauptmann HA1-OC" "mechs/H/Hauptmann HA1-OC.gif"
+exact "Hauptmann HA1-OD" "mechs/H/Hauptmann HA1-OD.gif"
+exact "Hauptmann HA1-OE" "mechs/H/Hauptmann HA1-OE.gif"
+
+chassis "Havoc" "mechs/H/Havoc.gif"
+
+chassis "Hector" "mechs/H/Hector.gif"
+
+chassis "Helepolis" "mechs/H/Helepolis.gif"
+
+chassis "Helios"      "mechs/H/Helios.gif"
+exact "Helios HEL-6X" "mechs/H/Helios HEL-6X.gif"
+
+chassis "Hellfire" "mechs/H/Hellfire.gif"
+
+chassis "Hellion" "mechs/H/Hellion.gif"
+exact "Hellion A" "mechs/H/Hellion A.gif"
+exact "Hellion B" "mechs/H/Hellion B.gif"
+exact "Hellion C" "mechs/H/Hellion C.gif"
+
+chassis "Hellspawn" "mechs/H/Hellspawn.gif"
+
+chassis "Hellstar" "mechs/H/Hellstar.gif
+
+chassis "Hercules" "mechs/H/Hercules.gif"
+
+chassis "Hermes" "mechs/H/Hermes.gif"
+
+chassis "Hermes II"      "mechs/H/Hermes II.gif"
+exact "Hermes II HER-2M" "mechs/H/Hermes II HER-2M.gif"
+
+chassis "Hermes III" "mechs/H/Hermes III.gif"
+
+chassis "Highlander" "mechs/H/Highlander.gif"
+
+chassis "Highlander IIC" "mechs/H/Highlander IIC.gif"
+
+chassis "Hitman" "mechs/H/Hitman.gif"
+
+chassis "Hollander" "mechs/H/Hollander.gif"
+
+chassis "Hollander II"      "mechs/H/Hollander II.gif"
+exact "Hollander II BZK-F7" "mechs/H/Hollander II BZK-F7.gif"
+
+chassis "Hoplite"      "mechs/H/Hoplite.gif"
+exact "Hoplite HOP-4X" "mechs/H/Hoplite HOP-4X.gif"
+
+chassis "Hoplite C" "mechs/H/Hoplite C.gif"
+
+chassis "Hornet" "mechs/H/Hornet.gif"
+
+chassis "Hunchback"       "mechs/H/Hunchback.gif"
+exact "Hunchback HBK-4H"  "mechs/H/Hunchback HBK-4H.gif"
+exact "Hunchback HBK-4J"  "mechs/H/Hunchback HBK-4J.gif"
+exact "Hunchback HBK-4N"  "mechs/H/Hunchback HBK-4N.gif"
+exact "Hunchback HBK-4P"  "mechs/H/Hunchback HBK-4P.gif"
+exact "Hunchback HBK-4SP" "mechs/H/Hunchback HBK-4SP.gif"
+exact "Hunchback HBK-5SG" "mechs/H/Hunchback HBK-5SG.gif"
+
+chassis "Hunchback IIC" "mechs/H/Hunchback IIC.gif"
+
+chassis "Huron Warrior"          "mechs/H/Huron Warrior.gif"
+exact "Huron Warrior HUR-W0-R4N" "mechs/H/Huron Warrior HUR-W0-R4N.gif"
+
+chassis "Hussar" "mechs/H/Hussar.gif"
 
 
-
-
-chassis "Ha Otoko" "mechs_old/ha_otoko.gif"
-exact "Ha Otoko 2" "mechs_old/ha_otoko_2.gif"
-chassis "Hachiwara" "mechs_old/hachiwara.gif"
-chassis "Hades" "mechs_old/hellbringer.gif"
+###unused definitions:
 #chassis "Halfback" " .gif"
-exact "Hammer DCVR-2A" "defaults/default_medium.gif"
-chassis "Hammer" "mechs_old/hammer.gif"
-chassis "Hammerhands" "mechs_old/hammerhands.gif"
-chassis "Hankyu (Arctic Cheetah)" "mechs_old/hankyu.gif"
-exact "Hankyu (Arctic Cheetah) B" "mechs_old/hankyu_b.gif"
-exact "Hankyu (Arctic Cheetah) C" "mechs_old/hankyu_c.gif"
-exact "Hankyu (Arctic Cheetah) H" "mechs_old/hankyu_h.gif"
-chassis "Harvester Ant" "mechs_old/harvesterant.gif"
-chassis "Hatamoto-Chi" "mechs_old/hatamoto-chi.gif"
-chassis "Hatamoto-Chi Shin" "mechs_old/hatamoto.gif"
-chassis "Hatamoto-Hi" "mechs_old/hatamoto.gif"
-chassis "Hatamoto-Kaeru" "mechs_old/hatamoto.gif"
-chassis "Hatamoto-Kaze" "mechs_old/hatamoto.gif"
-chassis "Hatamoto-Ku" "mechs_old/hatamoto.gif"
-chassis "Hatamoto-Mizo" "mechs_old/hatamoto.gif"
-chassis "Hatamoto-Samurai" "mechs_old/hatamoto.gif"
-chassis "Hatchetman" "mechs_old/hatchetman.gif"
-exact "Hatchetman HCT-3NH" "mechs_old/hatchetmanNH.gif"
-exact "Hatchetman HCT-5K" "mechs_old/hatchetman_5k.gif"
-chassis "Hauptmann" "mechs_old/hauptmann.gif"
-exact "Hauptmann HA1-O" "mechs_old/hauptmann.gif"
-exact "Hauptmann HA1-OA" "mechs_old/hauptmann_a.gif"
-exact "Hauptmann HA1-OB" "mechs_old/hauptmann_b.gif"
-exact "Hauptmann HA1-OC" "mechs_old/hauptmann_c.gif"
-exact "Hauptmann HA1-OD" "mechs_old/hauptmann_d.gif"
-exact "Hauptmann HA1-OE" "mechs_old/hauptmann_e.gif"
-chassis "Havoc" "mechs_old/havocp.gif"
-chassis "Hector" "mechs_old/hector.gif"
-chassis "Helepolis" "mechs_old/helepolis.gif"
-chassis "Helios" "mechs_old/helios HEL-6X.gif"
-exact "Helios HEL-6X" "mechs_old/helios.gif"
-chassis "Hellfire" "mechs_old/hellfire.gif"
-chassis "Hellhound (Conjurer)" "mechs_old/conjurer.gif"
-exact "Hellhound (Conjurer) 2" "mechs_old/conjurer2.gif"
-exact "Hellhound (Conjurer) 3" "mechs_old/conjurer3.gif"
-exact "Hellhound (Conjurer) 4" "mechs_old/conjurer4.gif"
-exact "Hellhound (Conjurer) 5" "mechs_old/conjurer5.gif"
-chassis "Conjurer" "mechs_old/conjurer.gif"
-exact "Conjurer 2" "mechs_old/conjurer2.gif"
-exact "Conjurer 3" "mechs_old/conjurer3.gif"
-exact "Conjurer 4" "mechs_old/conjurer4.gif"
-exact "Conjurer 5" "mechs_old/conjurer5.gif"
-chassis "Hellion" "mechs_old/hellion.gif"
-exact "Hellion A" "mechs_old/hellion_a.gif"
-exact "Hellion B" "mechs_old/hellion_b.gif"
-exact "Hellion C" "mechs_old/hellion_c.gif"
-chassis "Hellspawn" "mechs_old/hellspawn.gif"
-chassis "Hellstar" "mechs_old/hellstar.gif
-chassis "Hercules" "mechs_old/hercules.gif"
-chassis "Hermes" "mechs_old/hermes.gif"
-chassis "Hermes II" "mechs_old/hermesii.gif"
-exact "Hermes II HER-2M" "mechs_old/hermesiiM.gif"
-chassis "Hermes III" "mechs_old/hermesiii.gif"
-chassis "Highlander" "mechs_old/highlander.gif"
-chassis "Highlander IIC" "mechs_old/claymore.gif"
-chassis "Hitman" "mechs_old/hitman.gif"
-chassis "Hollander" "mechs_old/hollander.gif"
-chassis "Hollander II" "mechs_old/hollanderii_f5.gif"
-exact "Hollander II BZK-F7" "mechs_old/hollanderii_f7.gif"
-chassis "Hoplite C" "mechs_old/hoplite.gif"
-chassis "Hoplite" "mechs_old/hoplite.gif"
-exact "Hoplite HOP-4X" "mechs_old/hoplite HOP-4X.gif"
-chassis "Hornet" "mechs_old/hornet.gif"
-chassis "Hunchback" "mechs_old/hunchback.gif"
-exact "Hunchback HBK-4H" "mechs_old/hunchbackH.gif"
-exact "Hunchback HBK-4J" "mechs_old/hunchbackJ.gif"
-exact "Hunchback HBK-4N" "mechs_old/hunchbackN.gif"
-exact "Hunchback HBK-4P" "mechs_old/hunchbackP.gif"
-exact "Hunchback HBK-4SP" "mechs_old/hunchbackSP.gif"
-exact "Hunchback HBK-5SG" "mechs_old/hunchback5SG.gif"
-chassis "Hunchback IIC" "mechs_old/hunchbackiic.gif"
-chassis "Huron Warrior" "mechs_old/huron_warrior.gif"
-exact "Huron Warrior HUR-W0-R4N" "mechs_old/huron_warrior_r4n.gif"
-chassis "Hussar" "mechs_old/hussar.gif"
+#exact "Hammer DCVR-2A" "defaults/default_medium.gif"
+#chassis "Hankyu (Arctic Cheetah)" "mechs_old/hankyu.gif"
+#exact "Hankyu (Arctic Cheetah) B" "mechs_old/hankyu_b.gif"
+#exact "Hankyu (Arctic Cheetah) C" "mechs_old/hankyu_c.gif"
+#exact "Hankyu (Arctic Cheetah) H" "mechs_old/hankyu_h.gif"
+#chassis "Hatamoto-Chi Shin" "mechs_old/hatamoto.gif"
+#chassis "Hellhound (Conjurer)" "mechs_old/conjurer.gif"
+#exact "Hellhound (Conjurer) 2" "mechs_old/conjurer2.gif"
+#exact "Hellhound (Conjurer) 3" "mechs_old/conjurer3.gif"
+#exact "Hellhound (Conjurer) 4" "mechs_old/conjurer4.gif"
+#exact "Hellhound (Conjurer) 5" "mechs_old/conjurer5.gif"
+#chassis "Hatamoto-Samurai" "mechs/H/hatamoto.gif"
+
+
+#Mechs_OLD
 chassis "Icarus" "mechs_old/icarusii.gif"
 chassis "Icarus II" "mechs_old/icarusii.gif"
 chassis "Ice Ferret" "mechs_old/ice_ferret.gif"
