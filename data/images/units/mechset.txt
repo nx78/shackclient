@@ -1418,7 +1418,7 @@ exact "Duan Gung D9-G10" "mechs/D/Duan Gung D9-G10.gif"
 
 
 ###########
-# Mechs D #
+# Mechs E #
 ###########
 
 chassis "Eagle"      "mechs/E/Eagle.gif"
@@ -1461,72 +1461,84 @@ chassis "Eyleuka" "mechs/E/Eyleuka.gif"
 #exact "Eagle EGL-1E" "mechs_old/eagle.gif"
 
 
+###########
+# Mechs F #
+###########
+
+chassis "Fafnir" "mechs/F/Fafnir.gif"
+
+chassis "Falcon" "mechs/F/Falcon.gif"
+
+chassis "Falconer" "mechs/F/Falconer.gif"
+
+chassis "Falcon Hawk" "mechs/F/Falcon Hawk.gif"
+
+chassis "Fireball" "mechs/F/Fireball.gif"
+
+chassis "Firebee"      "mechs/F/Firebee.gif"
+exact "Firebee FRB-3E" "mechs/F/Firebee FRB-3E.gif"
+
+chassis "Fire Falcon" "mechs/F/Fire Falcon.gif"
+exact "Fire Falcon A" "mechs/F/Fire Falcon A.gif"
+exact "Fire Falcon B" "mechs/F/Fire Falcon B.gif"
+exact "Fire Falcon C" "mechs/F/Fire Falcon C.gif"
+exact "Fire Falcon D" "mechs/F/Fire Falcon D.gif"
+exact "Fire Falcon E" "mechs/F/Fire Falcon E.gif"
+exact "Fire Falcon H" "mechs/F/Fire Falcon H.gif"
+
+chassis "Firefly" "mechs/F/Firefly.gif"
+
+chassis "Firefly C" "mechs/F/Firefly C.gif"
+
+chassis "Fire Moth" "mechs/F/Fire Moth.gif"
+exact "Fire Moth A" "mechs/F/Fire Moth A.gif"
+exact "Fire Moth B" "mechs/F/Fire Moth B.gif"
+exact "Fire Moth C" "mechs/F/Fire Moth C.gif"
+exact "Fire Moth D" "mechs/F/Fire Moth D.gif"
+exact "Fire Moth E" "mechs/F/Fire Moth E.gif"
+exact "Fire Moth F" "mechs/F/Fire Moth F.gif"
+exact "Fire Moth H" "mechs/F/Fire Moth H.gif"
+exact "Fire Moth K" "mechs/F/Fire Moth K.gif"
+
+chassis "Fire Scorpion" "mechs/F/Fire Scorpion.gif"
+exact "Fire Scorpion 2" "mechs/F/Fire Scorpion 2.gif"
+
+chassis "Firestarter"      "mechs/F/Firestarter.gif"
+exact "Firestarter FS9-M"  "mechs/F/Firestarter FS9-M.gif"
+exact "Firestarter FS9-O"  "mechs/F/Firestarter FS9-O.gif"
+exact "Firestarter FS9-OA" "mechs/F/Firestarter FS9-OA.gif"
+exact "Firestarter FS9-OB" "mechs/F/Firestarter FS9-OB.gif"
+exact "Firestarter FS9-OC" "mechs/F/Firestarter FS9-OC.gif"
+exact "Firestarter FS9-OD" "mechs/F/Firestarter FS9-OD.gif"
+exact "Firestarter FS9-OE" "mechs/F/Firestarter FS9-OE.gif"
+exact "Firestarter FS9-OF" "mechs/F/Firestarter FS9-OF.gif"
+exact "Firestarter FS9-OG" "mechs/F/Firestarter FS9-OG.gif"
+exact "Firestarter FS9-OH" "mechs/F/Firestarter FS9-OH.gif"
+exact "Firestarter FS9-OR" "mechs/F/Firestarter FS9-OR.gif"
+exact "Firestarter FS9-OX" "mechs/F/Firestarter FS9-OX.gif"
+
+chassis "Flashfire" "mechs/F/Flashfire.gif"
+
+chassis "Flashman" "mechs/F/Flashman.gif"
+
+chassis "Flea"     "mechs/F/Flea.gif"
+exact "Flea FLE-4" "mechs/F/Flea FLE-4.gif"
+
+###unused definitions:
+#chassis "Fenris (Ice Ferret)" "mechs_old/ice_ferret.gif"
+#exact "Fenris (Ice Ferret) A" "mechs_old/ice_ferret_a.gif"
+#exact "Fenris (Ice Ferret) B" "mechs_old/ice_ferret_b.gif"
+#exact "Fenris (Ice Ferret) C" "mechs_old/ice_ferret_c.gif"
+#exact "Fenris (Ice Ferret) D" "mechs_old/ice_ferret_d.gif"
+#exact "Fenris (Ice Ferret) E" "mechs_old/ice_ferret_e.gif"
+#exact "Fenris (Ice Ferret) H" "mechs_old/ice_ferret_h.gif"
+#exact "Fenris (Ice Ferret) L" "mechs_old/ice_ferret_l.gif"
+#chassis "Fire Javelin" "mechs_old/javelin.gif"
+
+
+
+
 #Mechs_OLD
-
-
-
-
-chassis "Fafnir" "mechs_old/fafnir.gif"
-chassis "Falcon" "mechs_old/falcon.gif"
-chassis "Falcon Hawk" "mechs_old/falcon_hawk.gif"
-chassis "Falconer" "mechs_old/falconer.gif"
-chassis "Fenris (Ice Ferret)" "mechs_old/ice_ferret.gif"
-exact "Fenris (Ice Ferret) A" "mechs_old/ice_ferret_a.gif"
-exact "Fenris (Ice Ferret) B" "mechs_old/ice_ferret_b.gif"
-exact "Fenris (Ice Ferret) C" "mechs_old/ice_ferret_c.gif"
-exact "Fenris (Ice Ferret) D" "mechs_old/ice_ferret_d.gif"
-exact "Fenris (Ice Ferret) E" "mechs_old/ice_ferret_e.gif"
-exact "Fenris (Ice Ferret) H" "mechs_old/ice_ferret_h.gif"
-exact "Fenris (Ice Ferret) L" "mechs_old/ice_ferret_l.gif"
-chassis "Ice Ferret" "mechs_old/ice_ferret.gif"
-exact "Ice Ferret A" "mechs_old/ice_ferret_a.gif"
-exact "Ice Ferret B" "mechs_old/ice_ferret_b.gif"
-exact "Ice Ferret C" "mechs_old/ice_ferret_c.gif"
-exact "Ice Ferret D" "mechs_old/ice_ferret_d.gif"
-exact "Ice Ferret E" "mechs_old/ice_ferret_e.gif"
-exact "Ice Ferret H" "mechs_old/ice_ferret_h.gif"
-exact "Ice Ferret L" "mechs_old/ice_ferret_l.gif"
-chassis "Fire Falcon" "mechs_old/fire_falcon.gif"
-exact "Fire Falcon A" "mechs_old/fire_falcon_a.gif"
-exact "Fire Falcon B" "mechs_old/fire_falcon_b.gif"
-exact "Fire Falcon C" "mechs_old/fire_falcon_c.gif"
-exact "Fire Falcon D" "mechs_old/fire_falcon_d.gif"
-exact "Fire Falcon E" "mechs_old/fire_falcon_e.gif"
-exact "Fire Falcon H" "mechs_old/fire_falcon_h.gif"
-chassis "Fire Javelin" "mechs_old/javelin.gif"
-chassis "Fire Scorpion" "mechs_old/fire_scorpion.gif"
-exact "Fire Scorpion 2" "mechs_old/fire_scorpion2.gif"
-chassis "Fireball" "mechs_old/fireball.gif"
-chassis "Firebee" "mechs_old/firebee.gif"
-exact "Firebee FRB-3E" "mechs_old/firebee_3e.gif"
-chassis "Firefly C" "mechs_old/firefly.gif"
-chassis "Firefly" "mechs_old/firefly.gif"
-chassis "Fire Moth" "mechs_old/fire_moth.gif"
-exact "Fire Moth A" "mechs_old/fire_moth_a.gif"
-exact "Fire Moth B" "mechs_old/fire_moth_b.gif"
-exact "Fire Moth C" "mechs_old/fire_moth_c.gif"
-exact "Fire Moth D" "mechs_old/fire_moth_d.gif"
-exact "Fire Moth E" "mechs_old/fire_moth_e.gif"
-exact "Fire Moth F" "mechs_old/fire_moth_f.gif"
-exact "Fire Moth H" "mechs_old/fire_moth_h.gif"
-exact "Fire Moth K" "mechs_old/fire_moth_k.gif"
-chassis "Firestarter" "mechs_old/firestarter.gif"
-exact "Firestarter FS9-M" "mechs_old/firestarterM.gif"
-exact "Firestarter FS9-O" "mechs_old/firestarter_o.gif"
-exact "Firestarter FS9-OA" "mechs_old/firestarter_oa.gif"
-exact "Firestarter FS9-OB" "mechs_old/firestarter_ob.gif"
-exact "Firestarter FS9-OC" "mechs_old/firestarter_oc.gif"
-exact "Firestarter FS9-OD" "mechs_old/firestarter_od.gif"
-exact "Firestarter FS9-OE" "mechs_old/firestarter_oe.gif"
-exact "Firestarter FS9-OF" "mechs_old/firestarter_of.gif"
-exact "Firestarter FS9-OG" "mechs_old/firestarter_og.gif"
-exact "Firestarter FS9-OH" "mechs_old/firestarter_omni.gif"
-exact "Firestarter FS9-OR" "mechs_old/firestarter_og.gif"
-exact "Firestarter FS9-OX" "mechs_old/firestarter_omni.gif"
-chassis "Flashfire" "mechs_old/flashfire.gif"
-chassis "Flashman" "mechs_old/flashman.gif"
-chassis "Flea" "mechs_old/flea.gif"
-exact "Flea FLE-4" "mechs_old/flea4.gif"
 chassis "Galahad" "mechs_old/glass_spider.gif"
 chassis "Galahad (Glass Spider)" "mechs_old/glass_spider.gif"
 exact "Galahad (Glass Spider) 2" "mechs_old/glass_spider2.gif"
@@ -1714,6 +1726,14 @@ exact "Huron Warrior HUR-W0-R4N" "mechs_old/huron_warrior_r4n.gif"
 chassis "Hussar" "mechs_old/hussar.gif"
 chassis "Icarus" "mechs_old/icarusii.gif"
 chassis "Icarus II" "mechs_old/icarusii.gif"
+chassis "Ice Ferret" "mechs_old/ice_ferret.gif"
+exact "Ice Ferret A" "mechs_old/ice_ferret_a.gif"
+exact "Ice Ferret B" "mechs_old/ice_ferret_b.gif"
+exact "Ice Ferret C" "mechs_old/ice_ferret_c.gif"
+exact "Ice Ferret D" "mechs_old/ice_ferret_d.gif"
+exact "Ice Ferret E" "mechs_old/ice_ferret_e.gif"
+exact "Ice Ferret H" "mechs_old/ice_ferret_h.gif"
+exact "Ice Ferret L" "mechs_old/ice_ferret_l.gif"
 chassis "Icestorm" "mechs_old/icestorm.gif"
 exact "Icestorm 2" "mechs_old/icestorm_2.gif"
 chassis "Imp C" "mechs_old/imp.gif"
