@@ -1791,70 +1791,107 @@ chassis "Hussar" "mechs/H/Hussar.gif"
 #chassis "Hatamoto-Samurai" "mechs/H/hatamoto.gif"
 
 
+###########
+# Mechs I #
+###########
+
+chassis "Icarus" "mechs/I/Icarus.gif"
+
+chassis "Icarus II" "mechs/I/Icarus II.gif"
+
+chassis "Ice Ferret" "mechs/I/Ice Ferret.gif"
+exact "Ice Ferret A" "mechs/I/Ice Ferret A.gif"
+exact "Ice Ferret B" "mechs/I/Ice Ferret B.gif"
+exact "Ice Ferret C" "mechs/I/Ice Ferret C.gif"
+exact "Ice Ferret D" "mechs/I/Ice Ferret D.gif"
+exact "Ice Ferret E" "mechs/I/Ice Ferret E.gif"
+exact "Ice Ferret H" "mechs/I/Ice Ferret H.gif"
+exact "Ice Ferret L" "mechs/I/Ice Ferret L.gif"
+
+chassis "Icestorm" "mechs/I/Icestorm.gif"
+exact "Icestorm 2" "mechs/I/Icestorm 2.gif"
+
+chassis "Imp" "mechs/I/Imp.gif"
+
+chassis "Imp C" "mechs/I/Imp C.gif"
+
+chassis "Initiate"      "mechs/I/Initiate.gif"
+exact "Initiate INI-04" "mechs/I/Initiate INI-04.gif"
+
+chassis "Isengard" "mechs/I/Isengard.gif"
+
+###unused definitions:
+#chassis "Inferno" "mechs_old/infernop.gif"
+#chassis "Iron Wolf" "mechs_old/ironwolfp.gif"
+#exact "Iron Bear Prime" "mechs_old/Iron Bear_prime.gif"
+#exact "Iron Bear A" "mechs_old/Iron Bear_A.gif"
+#exact "Iron Bear B" "mechs_old/Iron Bear_B.gif"
+#exact "Iron Bear C" "mechs_old/Iron Bear_C.gif"
+#exact "Iron Bear D" "mechs_old/Iron Bear_D.gif"
+#exact "Iron Bear E" "mechs_old/Iron Bear_E.gif"
+#chassis "Iron Cheetah" "mechs_old/ironcheetahp.gif"
+#exact "Iron Cheetah Prime" "mechs_old/Iron Cheetah_prime.gif"
+#exact "Iron Cheetah A" "mechs_old/Iron Cheetah_A.gif"
+#exact "Iron Cheetah B" "mechs_old/Iron Cheetah_B.gif"
+#exact "Iron Cheetah C" "mechs_old/Iron Cheetah_C.gif"
+#exact "Iron Cheetah D" "mechs_old/Iron Cheetah_D.gif"
+#exact "Iron Cheetah E" "mechs_old/Iron Cheetah_E.gif"
+#exact "Iron Cheetah F" "mechs_old/Iron Cheetah_F.gif"
+#chassis "Iron Bear" "mechs_old/ironbearp.gif"
+
+
+###########
+# Mechs I #
+###########
+
+chassis "Jackal" "mechs/J/Jackal.gif"
+
+chassis "Jackrabbit"      "mechs/J/Jackrabbit.gif"
+exact "Jackrabbit JKR-9W" "mechs/J/Jackrabbit JKR-9W.gif"
+
+chassis "JagerMech IIC" "mechs/J/JagerMech IIC.gif"
+
+chassis "JagerMech III" "mechs/J/JagerMech III.gif"
+
+chassis "JagerMech"     "mechs/J/JagerMech.gif"
+exact "Jagermech JM6-A" "mechs/J/Jagermech JM6-A.gif"
+exact "Jagermech JM7-F" "mechs/J/Jagermech JM7-F.gif"
+
+chassis "Javelin"       "mechs/J/Javelin.gif"
+exact "Javelin JVN-10F" "mechs/J/Javelin JVN-10F.gif"
+
+chassis "Jenner IIC"  "mechs/J/Jenner IIC.gif"
+exact "Jenner IIC 2"  "mechs/J/Jenner IIC 2.gif"
+exact "Jenner IIC 3"  "mechs/J/Jenner IIC 3.gif"
+exact "Jenner IIC 4"  "mechs/J/Jenner IIC 4.gif"
+exact "Jenner JR7-C"  "mechs/J/Jenner JR7-C.gif"
+exact "Jenner JR7-C2" "mechs/J/Jenner JR7-C2.gif"
+exact "Jenner JR7-C3" "mechs/J/Jenner JR7-C3.gif"
+
+chassis "Jenner"     "mechs/J/Jenner.gif"
+exact "Jenner JR7-F" "mechs/J/Jenner JR7-F.gif"
+
+chassis "Jinggau" "mechs/J/Jinggau.gif"
+exact "Jinggau JN-G7L" "mechs/J/Jinggau JN-G7L.gif"
+exact "Jinggau JN-G9CC" "mechs/J/Jinggau JN-G9CC.gif"
+
+chassis "Juggernaut" "mechs/J/Juggernaut.gif"
+
+chassis "Jupiter" "mechs/J/Jupiter.gif"
+exact "Jupiter 2" "mechs/J/Jupiter 2.gif"
+
+###unused definitions:
+
 #Mechs_OLD
-chassis "Icarus" "mechs_old/icarusii.gif"
-chassis "Icarus II" "mechs_old/icarusii.gif"
-chassis "Ice Ferret" "mechs_old/ice_ferret.gif"
-exact "Ice Ferret A" "mechs_old/ice_ferret_a.gif"
-exact "Ice Ferret B" "mechs_old/ice_ferret_b.gif"
-exact "Ice Ferret C" "mechs_old/ice_ferret_c.gif"
-exact "Ice Ferret D" "mechs_old/ice_ferret_d.gif"
-exact "Ice Ferret E" "mechs_old/ice_ferret_e.gif"
-exact "Ice Ferret H" "mechs_old/ice_ferret_h.gif"
-exact "Ice Ferret L" "mechs_old/ice_ferret_l.gif"
-chassis "Icestorm" "mechs_old/icestorm.gif"
-exact "Icestorm 2" "mechs_old/icestorm_2.gif"
-chassis "Imp C" "mechs_old/imp.gif"
-chassis "Imp" "mechs_old/imp.gif"
-chassis "Inferno" "mechs_old/infernop.gif"
-chassis "Initiate" "mechs_old/initiate.gif"
-exact "Initiate INI-04" "mechs_old/initiate INI-04.gif"
-chassis "Iron Wolf" "mechs_old/ironwolfp.gif"
-exact "Iron Bear Prime" "mechs_old/Iron Bear_prime.gif"
-exact "Iron Bear A" "mechs_old/Iron Bear_A.gif"
-exact "Iron Bear B" "mechs_old/Iron Bear_B.gif"
-exact "Iron Bear C" "mechs_old/Iron Bear_C.gif"
-exact "Iron Bear D" "mechs_old/Iron Bear_D.gif"
-exact "Iron Bear E" "mechs_old/Iron Bear_E.gif"
-chassis "Iron Cheetah" "mechs_old/ironcheetahp.gif"
-exact "Iron Cheetah Prime" "mechs_old/Iron Cheetah_prime.gif"
-exact "Iron Cheetah A" "mechs_old/Iron Cheetah_A.gif"
-exact "Iron Cheetah B" "mechs_old/Iron Cheetah_B.gif"
-exact "Iron Cheetah C" "mechs_old/Iron Cheetah_C.gif"
-exact "Iron Cheetah D" "mechs_old/Iron Cheetah_D.gif"
-exact "Iron Cheetah E" "mechs_old/Iron Cheetah_E.gif"
-exact "Iron Cheetah F" "mechs_old/Iron Cheetah_F.gif"
-chassis "Iron Bear" "mechs_old/ironbearp.gif"
-chassis "Isengard" "mechs_old/isengard.gif"
-chassis "Jackal" "mechs_old/jackal.gif"
-chassis "Jackrabbit" "mechs_old/jackrabbit.gif"
-exact "Jackrabbit JKR-9W" "mechs_old/jackrabbit_9w.gif"
-chassis "JagerMech IIC" "mechs_old/jagermech_iic.gif"
-chassis "JagerMech III" "mechs_old/jagermech_III.gif"
-chassis "JagerMech" "mechs_old/jagermech.gif"
-exact "Jagermech JM6-A" "mechs_old/jagermechA.gif"
-exact "Jagermech JM7-F" "mechs_old/jagermechf.gif"
-chassis "Javelin" "mechs_old/javelin.gif"
-exact "Javelin JVN-10F" "mechs_old/javelinF.gif"
-chassis "Jenner IIC" "mechs_old/jenner_iic.gif"
-exact "Jenner IIC 2" "mechs_old/jenner_iic2.gif"
-exact "Jenner IIC 3" "mechs_old/jenner_iic3.gif"
-exact "Jenner IIC 4" "mechs_old/jenner_iic4.gif"
-exact "Jenner JR7-C" "mechs_old/jenner2c2.gif"
-exact "Jenner JR7-C2" "mechs_old/jenner2c.gif"
-exact "Jenner JR7-C3" "mechs_old/jenner2c3.gif"
-chassis "Jenner" "mechs_old/jenner.gif"
-exact "Jenner JR7-F" "mechs_old/jennerf.gif"
-chassis "Jinggau" "mechs_old/jinggau.gif"
-exact "Jinggau JN-G9CC" "mechs_old/jinggau JN-G9CC.gif"
-exact "Jinggau JN-G7L" "mechs_old/jinggau JN-G7L.gif"
-chassis "Juggernaut" "mechs_old/juggernaut.gif"
-chassis "Jupiter" "mechs_old/jr1.gif"
-exact "Jupiter 2" "mechs_old/jr2.gif"
+
 chassis "Kabuto" "mechs_old/kabuto.gif"
+
 chassis "Karhu" "mechs_old/karhu.gif"
+
 chassis "Katana" "mechs_old/katana.gif"
+
 chassis "King Crab" "mechs_old/kingcrab.gif"
+
 chassis "Kingfisher" "mechs_old/kingfisher.gif"
 exact "Kingfisher A" "mechs_old/kingfisher_a.gif"
 exact "Kingfisher B" "mechs_old/kingfisher_b.gif"
