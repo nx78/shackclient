@@ -1787,6 +1787,13 @@ exact "Hunchback HBK-5SG" "mechs/H/Hunchback HBK-5SG.gif"
 
 chassis "Hunchback IIC" "mechs/H/Hunchback IIC.gif"
 
+chassis "Huntsman (Nobori-nin)"     "mechs/H/Huntsman (Nobori-nin).gif"
+exact "Huntsman (Nobori-nin) Prime" "mechs/H/Huntsman (Nobori-nin) Prime.gif"
+exact "Huntsman (Nobori-nin) A"     "mechs/H/Huntsman (Nobori-nin) A.gif"
+exact "Huntsman (Nobori-nin) B"     "mechs/H/Huntsman (Nobori-nin) B.gif"
+exact "Huntsman (Nobori-nin) C"     "mechs/H/Huntsman (Nobori-nin) C.gif"
+exact "Huntsman (Nobori-nin) D"     "mechs/H/Huntsman (Nobori-nin) D.gif"
+
 chassis "Huron Warrior"          "mechs/H/Huron Warrior.gif"
 exact "Huron Warrior HUR-W0-R4N" "mechs/H/Huron Warrior HUR-W0-R4N.gif"
 
@@ -1974,6 +1981,8 @@ chassis "Legacy"      "mechs/L/Legacy.gif"
 exact "Legacy LGC-02" "mechs/L/Legacy LGC-02.gif"
 exact "Legacy LGC-03" "mechs/L/Legacy LGC-03.gif"
 
+chassis "Legend Killer" "mechs/L/Legend Killer.gif"
+
 chassis "Legionnaire" "mechs/L/Legionnaire.gif"
 
 chassis "Lightray" "mechs/L/Lightray.gif"
@@ -2022,7 +2031,7 @@ chassis "Lynx" "mechs/L/Lynx.gif"
 #exact "Lightning Prime" "mechs_old/lightningp.gif"
 #exact "Lightning A" "mechs_old/lightningp.gif"
 #exact "Lightning B" "mechs_old/lightningp.gif"
-#chassis "Legend Killer" "defaults/default_heavy.gif"
+
 
 
 ###########
@@ -2147,57 +2156,72 @@ chassis "Morpheus" "mechs/M/Morpheus.gif"
 #exact "Masakari (Warhawk) H" "mechs_old/warhawk_h.gif"
 
 
+###########
+# Mechs N #
+###########
+
+chassis "Naga" "mechs/N/Naga.gif"
+
+chassis "Naginata" "mechs/N/Naginata.gif"
+
+chassis "Nexus" "mechs/N/Nexus.gif"
+
+chassis "Nexus II" "mechs/N/Nexus II.gif"
+
+chassis "Night Gyr" "mechs/N/Night Gyr.gif"
+exact "Night Gyr A" "mechs/N/Night Gyr A.gif"
+exact "Night Gyr B" "mechs/N/Night Gyr B.gif"
+exact "Night Gyr C" "mechs/N/Night Gyr C.gif"
+exact "Night Gyr D" "mechs/N/Night Gyr D.gif"
+exact "Night Gyr E" "mechs/N/Night Gyr E.gif"
+exact "Night Gyr H" "mechs/N/Night Gyr H.gif"
+
+chassis "Night Hawk" "mechs/N/Night Hawk.gif"
+
+chassis "Nightsky" "mechs/N/Nightsky.gif"
+
+chassis "Nightstar" "mechs/N/Nightstar.gif"
+
+chassis "Ninja-To" "mechs/N/Ninja-To.gif"
+
+chassis "No-Dachi" "mechs/N/No-Dachi.gif"
+
+chassis "Nova 2" "mechs/N/Nova 2.gif"
+exact "Nova A" "mechs/N/Nova A.gif"
+exact "Nova B" "mechs/N/Nova B.gif"
+exact "Nova C" "mechs/N/Nova C.gif"
+exact "Nova D" "mechs/N/Nova D.gif"
+exact "Nova E" "mechs/N/Nova E.gif"
+exact "Nova F" "mechs/N/Nova F.gif"
+exact "Nova H" "mechs/N/Nova H.gif"
+
+chassis "Nova Cat" "mechs/N/Nova Cat.gif"
+exact "Nova Cat A" "mechs/N/Nova Cat A.gif"
+exact "Nova Cat B" "mechs/N/Nova Cat B.gif"
+exact "Nova Cat C" "mechs/N/Nova Cat C.gif"
+exact "Nova Cat D" "mechs/N/Nova Cat D.gif"
+exact "Nova Cat E" "mechs/N/Nova Cat E.gif"
+exact "Nova Cat F" "mechs/N/Nova Cat F.gif"
+exact "Nova Cat G" "mechs/N/Nova Cat G.gif"
+
+chassis "Nyx" "mechs/N/Nyx.gif"
+
+###unused definitions:
+#chassis "Nobori-nin (Huntsman)" "mechs_old/huntsman.gif"
+#exact "Nobori-nin (Huntsman) Prime" "mechs_old/huntsman.gif"
+#exact "Nobori-nin (Huntsman) A" "mechs_old/huntsman_a.gif"
+#exact "Nobori-nin (Huntsman) B" "mechs_old/huntsman_a.gif"
+#exact "Nobori-nin (Huntsman) C" "mechs_old/huntsman_a.gif"
+#exact "Nobori-nin (Huntsman) D" "mechs_old/huntsman_a.gif"
+#exact "NightHawk NHK-4" "defaults/default_heavy.gif"
+#exact "NightHawk TF" "defaults/default_medium.gif"
+
+
 #Mechs_OLD
 
 
 
-chassis "Naga" "mechs_old/naga.gif"
-chassis "Naginata" "mechs_old/naginata.gif"
-chassis "Nexus" "mechs_old/nexus.gif"
-chassis "Nexus II" "mechs_old/nexus.gif"
-chassis "Night Gyr" "mechs_old/nightgyr.gif"
-exact "Night Gyr A" "mechs_old/nightgyr_a.gif"
-exact "Night Gyr B" "mechs_old/nightgyr_b.gif"
-exact "Night Gyr C" "mechs_old/nightgyr_c.gif"
-exact "Night Gyr D" "mechs_old/nightgyr_d.gif"
-exact "Night Gyr E" "mechs_old/nightgyr_e.gif"
-exact "Night Gyr H" "mechs_old/nightgyr_h.gif"
-chassis "Night Hawk" "mechs_old/night_hawk.gif"
-exact "NightHawk NHK-4" "defaults/default_heavy.gif"
-exact "NightHawk TF" "defaults/default_medium.gif"
-chassis "Nightsky" "mechs_old/nightsky.gif"
-chassis "Nightstar" "mechs_old/nightstar.gif"
-chassis "Ninja-To" "mechs_old/ninjato.gif"
-chassis "No-Dachi" "mechs_old/nodachi.gif"
-chassis "Nobori-nin (Huntsman)" "mechs_old/huntsman.gif"
-exact "Nobori-nin (Huntsman) Prime" "mechs_old/huntsman.gif"
-exact "Nobori-nin (Huntsman) A" "mechs_old/huntsman_a.gif"
-exact "Nobori-nin (Huntsman) B" "mechs_old/huntsman_a.gif"
-exact "Nobori-nin (Huntsman) C" "mechs_old/huntsman_a.gif"
-exact "Nobori-nin (Huntsman) D" "mechs_old/huntsman_a.gif"
-exact "Nova A" "mechs_old/nova_a.gif"
-exact "Nova B" "mechs_old/nova_b.gif"
-exact "Nova C" "mechs_old/nova_c.gif"
-exact "Nova D" "mechs_old/nova_d.gif"
-exact "Nova E" "mechs_old/nova_e.gif"
-exact "Nova F" "mechs_old/nova_f.gif"
-exact "Nova H" "mechs_old/nova_h.gif"
-chassis "Nova 2" "mechs_old/blackhawkstd.gif"
-chassis "Huntsman" "mechs_old/huntsman.gif"
-exact "Huntsman Prime" "mechs_old/huntsman.gif"
-exact "Huntsman A" "mechs_old/huntsman_a.gif"
-exact "Huntsman B" "mechs_old/huntsman_a.gif"
-exact "Huntsman C" "mechs_old/huntsman_a.gif"
-exact "Huntsman D" "mechs_old/huntsman_a.gif"
-chassis "Nova Cat" "mechs_old/novacat.gif"
-exact "Nova Cat A" "mechs_old/novacat_a.gif"
-exact "Nova Cat B" "mechs_old/novacat_b.gif"
-exact "Nova Cat C" "mechs_old/novacat_c.gif"
-exact "Nova Cat D" "mechs_old/novacat_d.gif"
-exact "Nova Cat E" "mechs_old/novacat_e.gif"
-exact "Nova Cat F" "mechs_old/novacat_f.gif"
-exact "Nova Cat G" "mechs_old/novacat_g.gif"
-chassis "Nyx" "mechs_old/nyx.gif"
+
 chassis "O-Bakemono" "mechs_old/o-bakemono.gif"
 chassis "Ocelot" "mechs_old/ocelot.gif"
 chassis "Omen" "mechs_old/omen.gif"
