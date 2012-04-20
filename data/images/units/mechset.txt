@@ -1721,6 +1721,14 @@ chassis "Helepolis" "mechs/H/Helepolis.gif"
 chassis "Helios"      "mechs/H/Helios.gif"
 exact "Helios HEL-6X" "mechs/H/Helios HEL-6X.gif"
 
+chassis "Hellbringer" "mechs/H/Hellbringer.gif"
+exact "Hellbringer A" "mechs/H/Hellbringer A.gif"
+exact "Hellbringer B" "mechs/H/Hellbringer B.gif"
+exact "Hellbringer C" "mechs/H/Hellbringer C.gif"
+exact "Hellbringer D" "mechs/H/Hellbringer D.gif"
+exact "Hellbringer E" "mechs/H/Hellbringer E.gif"
+exact "Hellbringer H" "mechs/H/Hellbringer H.gif"
+
 chassis "Hellfire" "mechs/H/Hellfire.gif"
 
 chassis "Hellion" "mechs/H/Hellion.gif"
@@ -1841,7 +1849,7 @@ chassis "Isengard" "mechs/I/Isengard.gif"
 
 
 ###########
-# Mechs I #
+# Mechs J #
 ###########
 
 chassis "Jackal" "mechs/J/Jackal.gif"
@@ -1882,104 +1890,134 @@ exact "Jupiter 2" "mechs/J/Jupiter 2.gif"
 
 ###unused definitions:
 
+
+###########
+# Mechs K #
+###########
+
+chassis "Kabuto" "mechs/K/Kabuto.gif"
+
+chassis "Karhu" "mechs/K/Karhu.gif"
+
+chassis "Katana" "mechs/K/Katana.gif"
+
+chassis "King Crab" "mechs/K/Kingcrab.gif"
+
+chassis "Kingfisher" "mechs/K/Kingfisher.gif"
+exact "Kingfisher A" "mechs/K/Kingfisher A.gif"
+exact "Kingfisher B" "mechs/K/Kingfisher B.gif"
+exact "Kingfisher C" "mechs/K/Kingfisher C.gif"
+exact "Kingfisher D" "mechs/K/Kingfisher D.gif"
+exact "Kingfisher E" "mechs/K/Kingfisher E.gif"
+exact "Kingfisher H" "mechs/K/Kingfisher H.gif"
+
+chassis "Kintaro"       "mechs/K/Kintaro.gif"
+exact "Kintaro KTO-19b" "mechs/K/Kintaro KTO-19b.gif"
+
+chassis "Kodiak" "mechs/K/Kodiak.gif"
+
+chassis "Komodo" "mechs/K/Komodo.gif"
+
+chassis "Koschei"      "mechs/K/koschei_5mc.gif"
+exact "Koschei KSC-5L" "mechs/K/Koschei KSC-5L.gif"
+exact "Koschei KSC-3I" "mechs/K/Koschei KSC-3I.gif"
+exact "Koschei KSC-3L" "mechs/K/Koschei KSC-3L.gif"
+exact "Koschei KSC-4I" "mechs/K/Koschei KSC-4I.gif"
+exact "Koschei KSC-4L" "mechs/K/Koschei KSC-4L.gif"
+
+chassis "Koshi" "mechs/K/Koshi.gif"
+
+chassis "Koto" "mechs/K/Koto.gif"
+
+chassis "Kyudo" "mechs/K/Kyudo.gif"
+
+
+###unused definitions:
+#chassis "Komodo IIC" "mechs_old/komodo.gif"
+#chassis "Koshi (Mist Lynx)" "mechs_old/mist_lynx.gif"
+#exact "Koshi (Mist Lynx) B" "mechs_old/mist_lynx_b.gif"
+#exact "Koshi (Mist Lynx) C" "mechs_old/mist_lynx_c.gif"
+#exact "Koshi (Mist Lynx) D" "mechs_old/mist_lynx_d.gif"
+#exact "Koshi (Mist Lynx) E" "mechs_old/mist_lynx_e.gif"
+#exact "Koshi (Mist Lynx) F" "mechs_old/mist_lynx_f.gif"
+#exact "Koshi (Mist Lynx) G" "mechs_old/mist_lynx_g.gif"
+#exact "Koshi (Mist Lynx) H" "mechs_old/mist_lynx_h.gif"
+#exact "Koshi (Mist Lynx) P" "mechs_old/mist_lynx_p.gif"
+#exact "Koshi 2" "mechs_old/koshi.gif"
+#chassis "Kraken (Bane)" "mechs_old/bane.gif"
+#exact "Kraken (Bane) 3" "mechs_old/bane3.gif"
+#exact "Kraken (Bane) 4" "mechs_old/bane4.gif"
+#exact "Kyudo KY2-D03" "mechs_old/kyudo_d_03.gif"
+
+
+###########
+# Mechs K #
+###########
+
+chassis "Lancelot"        "mechs/L/Lancelot.gif"
+exact "Lancelot LNC25-04" "mechs/L/Lancelot LNC25-04.gif"
+exact "Lancelot LNC25-06" "mechs/L/Lancelot LNC25-06.gif"
+
+chassis "Lao Hu" "mechs/L/Lao Hu.gif"
+
+chassis "Legacy"      "mechs/L/Legacy.gif"
+exact "Legacy LGC-02" "mechs/L/Legacy LGC-02.gif"
+exact "Legacy LGC-03" "mechs/L/Legacy LGC-03.gif"
+
+chassis "Legionnaire" "mechs/L/Legionnaire.gif"
+
+chassis "Lightray" "mechs/L/Lightray.gif"
+
+chassis "Linebacker" "mechs/L/Linebacker.gif"
+exact "Linebacker A" "mechs/L/Linebacker A.gif"
+exact "Linebacker B" "mechs/L/Linebacker B.gif"
+exact "Linebacker C" "mechs/L/Linebacker C.gif"
+exact "Linebacker D" "mechs/L/Linebacker D.gif"
+exact "Linebacker E" "mechs/L/Linebacker E.gif"
+
+chassis "Lineholder" "mechs/L/Lineholder.gif"
+
+chassis "Lobo" "mechs/L/Lobo.gif"
+
+chassis "Locust IIC" "mechs/L/Locust IIC.gif"
+exact "Locust IIC 2" "mechs/L/Locust IIC 2.gif"
+exact "Locust IIC 3" "mechs/L/Locust IIC 3.gif"
+exact "Locust IIC 4" "mechs/L/Locust IIC 4.gif"
+exact "Locust IIC 5" "mechs/L/Locust IIC 5.gif"
+
+chassis "Locust"      "mechs/L/Locust.gif"
+exact "Locust LCT-1E" "mechs/L/Locust LCT-1E.gif"
+exact "Locust LCT-1M" "mechs/L/Locust LCT-1M.gif"
+exact "Locust LCT-1S" "mechs/L/Locust LCT-1S.gif"
+exact "Locust LCT-3V" "mechs/L/Locust LCT-3V.gif"
+
+chassis "Longbow"          "mechs/L/Longbow.gif"
+exact "Longbow LGB-7V"     "mechs/L/Longbow LGB-7V.gif"
+exact "Longbow LGB-13NAIS" "mechs/L/Longbow LGB-13NAIS.gif"
+
+chassis "Longshot" "mechs/L/Longshot.gif"
+
+chassis "Lynx" "mechs/L/Lynx.gif"
+
+
+###unused definitions:
+#chassis "Loki (Hellbringer)" "mechs_old/hellbringer.gif"
+#exact "Loki (Hellbringer) A" "mechs_old/hellbringer_a.gif"
+#exact "Loki (Hellbringer) B" "mechs_old/hellbringer_b.gif"
+#exact "Loki (Hellbringer) C" "mechs_old/hellbringer_c.gif"
+#exact "Loki (Hellbringer) D" "mechs_old/hellbringer_d.gif"
+#exact "Loki (Hellbringer) E" "mechs_old/hellbringer_e.gif"
+#exact "Loki (Hellbringer) H" "mechs_old/hellbringer_h.gif"
+#chassis "Linesman" "mechs_old/linesman.gif"
+#exact "Lightning Prime" "mechs_old/lightningp.gif"
+#exact "Lightning A" "mechs_old/lightningp.gif"
+#exact "Lightning B" "mechs_old/lightningp.gif"
+#chassis "Legend Killer" "defaults/default_heavy.gif"
+
+
+
+
 #Mechs_OLD
-
-chassis "Kabuto" "mechs_old/kabuto.gif"
-
-chassis "Karhu" "mechs_old/karhu.gif"
-
-chassis "Katana" "mechs_old/katana.gif"
-
-chassis "King Crab" "mechs_old/kingcrab.gif"
-
-chassis "Kingfisher" "mechs_old/kingfisher.gif"
-exact "Kingfisher A" "mechs_old/kingfisher_a.gif"
-exact "Kingfisher B" "mechs_old/kingfisher_b.gif"
-exact "Kingfisher C" "mechs_old/kingfisher_c.gif"
-exact "Kingfisher D" "mechs_old/kingfisher_d.gif"
-exact "Kingfisher E" "mechs_old/kingfisher_e.gif"
-exact "Kingfisher H" "mechs_old/kingfisher_h.gif"
-chassis "Kintaro" "mechs_old/kintaro.gif"
-exact "Kintaro KTO-19b" "mechs_old/kintaro2.gif"
-exact "Kodiak 1E" "defaults/default_assault.gif"
-exact "Kodiak 2E" "defaults/default_assault.gif"
-chassis "Kodiak" "mechs_old/kodiak.gif"
-chassis "Komodo IIC" "mechs_old/komodo.gif"
-chassis "Komodo" "mechs_old/komodo.gif"
-chassis "Koschei" "mechs_old/koschei_5mc.gif"
-exact "Koschei KSC-5L" "mechs_old/koschei_5l.gif"
-exact "Koschei KSC-3I" "mechs_old/koschei_KSC-3I.gif"
-exact "Koschei KSC-3L" "mechs_old/koschei_KSC-3L.gif"
-exact "Koschei KSC-4I" "mechs_old/koschei_KSC-4I.gif"
-exact "Koschei KSC-4L" "mechs_old/koschei_KSC-4L.gif"
-chassis "Koshi (Mist Lynx)" "mechs_old/mist_lynx.gif"
-exact "Koshi (Mist Lynx) B" "mechs_old/mist_lynx_b.gif"
-exact "Koshi (Mist Lynx) C" "mechs_old/mist_lynx_c.gif"
-exact "Koshi (Mist Lynx) D" "mechs_old/mist_lynx_d.gif"
-exact "Koshi (Mist Lynx) E" "mechs_old/mist_lynx_e.gif"
-exact "Koshi (Mist Lynx) F" "mechs_old/mist_lynx_f.gif"
-exact "Koshi (Mist Lynx) G" "mechs_old/mist_lynx_g.gif"
-exact "Koshi (Mist Lynx) H" "mechs_old/mist_lynx_h.gif"
-exact "Koshi (Mist Lynx) P" "mechs_old/mist_lynx_p.gif"
-exact "Koshi 2" "mechs_old/koshi.gif"
-chassis "Koshi" "mechs_old/koshi.gif"
-chassis "Koto" "mechs_old/koto.gif"
-chassis "Kraken (Bane)" "mechs_old/bane.gif"
-exact "Kraken (Bane) 3" "mechs_old/bane3.gif"
-exact "Kraken (Bane) 4" "mechs_old/bane4.gif"
-exact "Kyudo KY2-D03" "mechs_old/kyudo_d_03.gif"
-chassis "Kyudo" "mechs_old/kyudo.gif"
-chassis "Lancelot" "mechs_old/lancelot.gif"
-exact "Lancelot LNC25-04" "mechs_old/lancelot3.gif"
-exact "Lancelot LNC25-06" "mechs_old/lancelot3.gif"
-chassis "Lao Hu" "mechs_old/lao_hu.gif"
-chassis "Legacy" "mechs_old/legacy.gif"
-exact "Legacy LGC-02" "mechs_old/legacy2.gif"
-exact "Legacy LGC-03" "mechs_old/legacy3.gif"
-chassis "Legend Killer" "defaults/default_heavy.gif"
-chassis "Legionnaire" "mechs_old/legionnaire.gif"
-chassis "Lightray" "mechs_old/lightray.gif"
-exact "Lightning Prime" "mechs_old/lightningp.gif"
-exact "Lightning A" "mechs_old/lightningp.gif"
-exact "Lightning B" "mechs_old/lightningp.gif"
-chassis "Linebacker" "mechs_old/linebacker.gif"
-exact "Linebacker A" "mechs_old/linebacker_a.gif"
-exact "Linebacker B" "mechs_old/linebacker_b.gif"
-exact "Linebacker C" "mechs_old/linebacker_c.gif"
-exact "Linebacker D" "mechs_old/linebacker_d.gif"
-exact "Linebacker E" "mechs_old/linebacker_e.gif"
-chassis "Lineholder" "mechs_old/lineholder.gif"
-chassis "Linesman" "mechs_old/linesman.gif"
-chassis "Lobo" "mechs_old/lobo.gif"
-chassis "Locust IIC" "mechs_old/locust_iic.gif"
-exact "Locust IIC 2" "mechs_old/locust_iic2.gif"
-exact "Locust IIC 3" "mechs_old/locust_iic3.gif"
-exact "Locust IIC 4" "mechs_old/locust_iic4.gif"
-exact "Locust IIC 5" "mechs_old/locust_iic5.gif"
-chassis "Locust" "mechs_old/locust.gif"
-exact "Locust LCT-1E" "mechs_old/locustE.gif"
-exact "Locust LCT-1M" "mechs_old/locustM.gif"
-exact "Locust LCT-1S" "mechs_old/locustS.gif"
-exact "Locust LCT-3V" "mechs_old/locust3V.gif"
-chassis "Loki (Hellbringer)" "mechs_old/hellbringer.gif"
-exact "Loki (Hellbringer) A" "mechs_old/hellbringer_a.gif"
-exact "Loki (Hellbringer) B" "mechs_old/hellbringer_b.gif"
-exact "Loki (Hellbringer) C" "mechs_old/hellbringer_c.gif"
-exact "Loki (Hellbringer) D" "mechs_old/hellbringer_d.gif"
-exact "Loki (Hellbringer) E" "mechs_old/hellbringer_e.gif"
-exact "Loki (Hellbringer) H" "mechs_old/hellbringer_h.gif"
-chassis "Hellbringer" "mechs_old/hellbringer.gif"
-exact "Hellbringer A" "mechs_old/hellbringer_a.gif"
-exact "Hellbringer B" "mechs_old/hellbringer_b.gif"
-exact "Hellbringer C" "mechs_old/hellbringer_c.gif"
-exact "Hellbringer D" "mechs_old/hellbringer_d.gif"
-exact "Hellbringer E" "mechs_old/hellbringer_e.gif"
-exact "Hellbringer H" "mechs_old/hellbringer_h.gif"
-chassis "Longbow" "mechs_old/longbow.gif"
-exact "Longbow LGB-7V" "mechs_old/longbow7v.gif"
-exact "Longbow LGB-13NAIS" "mechs_old/longbow_LGB-13NAIS.gif"
-chassis "Longshot" "mechs_old/longshot.gif"
-chassis "Lynx" "mechs_old/lynx.gif"
 chassis "Mackie" "mechs_old/mackie.gif"
 chassis "Mackie jr." "mechs_old/mackie-junior.gif"
 exact "Mackie MSK-7B" "mechs_old/mackie msk-7b.gif"
