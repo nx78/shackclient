@@ -616,6 +616,10 @@ chassis "Great Turtle" "mechs/G/Great Turtle.gif"
 chassis "Great Wyrm" "mechs/G/Great Wyrm.gif"
 exact "Great Wyrm 2" "mechs/G/Great Wyrm 2.gif"
 
+#Battlearmor with identical Name exists... => matching via exact
+#chassis "Grenadier" "mechs/G/Grenadier.gif"
+exact "Grenadier Grenadier" "mechs/G/Grenadier.gif"
+
 chassis "Griffin"       "mechs/G/Griffin.gif"
 exact "Griffin GRF-1S"  "mechs/G/Griffin GRF-1S.gif"
 exact "Griffin GRF-1DS" "mechs/G/Griffin GRF-1DS.gif"
@@ -1328,7 +1332,15 @@ exact "Ryoken (Stormcrow) H" "mechs/R/Ryoken (Stormcrow) H.gif"
 
 chassis "Sagittaire" "mechs/S/Sagittaire.gif"
 
-chassis "Salamander" "mechs/S/Salamander.gif"
+#Battlearmor with identical Name exists... => matching via exact
+#chassis "Salamander" "mechs/S/Salamander.gif"
+exact "Salamander PPR-5S" "mechs/S/Salamander.gif"
+exact "Salamander PPR-5T" "mechs/S/Salamander.gif"
+exact "Salamander PPR-6S" "mechs/S/Salamander.gif"
+exact "Salamander PPR-6T" "mechs/S/Salamander.gif"
+exact "Salamander PPR-7T" "mechs/S/Salamander.gif"
+
+
 
 chassis "Sasquatch" "mechs/S/Sasquatch.gif"
 
