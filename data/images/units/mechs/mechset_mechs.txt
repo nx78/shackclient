@@ -252,7 +252,7 @@ chassis "Cataphract"       "mechs/C/Cataphract.gif"
 exact "Cataphract CTF-2X"  "mechs/C/Cataphract CTF-2X.gif"
 exact "Cataphract CTF-3D"  "mechs/C/Cataphract CTF-3D.gif"
 exact "Cataphract CTF-3L"  "mechs/C/Cataphract CTF-3L.gif"
-exact "Cataphract CTF-3LL" "mechs/C/Cataphract CTF-LL.gif"
+exact "Cataphract CTF-3LL" "mechs/C/Cataphract CTF-3LL.gif"
 exact "Cataphract CTF-4L"  "mechs/C/Cataphract CTF-4L.gif"
 
 chassis "Catapult"        "mechs/C/Catapult.gif"
@@ -480,7 +480,7 @@ chassis "Exterminator" "mechs/E/Exterminator.gif"
 
 chassis "Exterminator IIC" "mechs/E/Exterminator IIC.gif"
 
-chassis "Executioner" "mechs/E/executioner.gif"
+chassis "Executioner" "mechs/E/Executioner.gif"
 exact "Executioner A" "mechs/E/Executioner A.gif"
 exact "Executioner B" "mechs/E/Executioner B.gif"
 exact "Executioner C" "mechs/E/Executioner C.gif"
@@ -620,7 +620,7 @@ chassis "Griffin"       "mechs/G/Griffin.gif"
 exact "Griffin GRF-1S"  "mechs/G/Griffin GRF-1S.gif"
 exact "Griffin GRF-1DS" "mechs/G/Griffin GRF-1DS.gif"
 
-chassis "Griffin IIC" "mechs/G/griffin_iic.gif"
+chassis "Griffin IIC" "mechs/G/Griffin IIC.gif"
 exact "Griffin IIC 3" "mechs/G/Griffin IIC 3.gif"
 exact "Griffin IIC 4" "mechs/G/Griffin IIC 4.gif"
 exact "Griffin IIC 5" "mechs/G/Griffin IIC 5.gif"
@@ -853,7 +853,7 @@ chassis "Karhu" "mechs/K/Karhu.gif"
 
 chassis "Katana" "mechs/K/Katana.gif"
 
-chassis "King Crab" "mechs/K/Kingcrab.gif"
+chassis "King Crab" "mechs/K/King Crab.gif"
 
 chassis "Kingfisher" "mechs/K/Kingfisher.gif"
 exact "Kingfisher A" "mechs/K/Kingfisher A.gif"
@@ -881,7 +881,7 @@ chassis "Kodiak" "mechs/K/Kodiak.gif"
 
 chassis "Komodo" "mechs/K/Komodo.gif"
 
-chassis "Koschei"      "mechs/K/koschei_5mc.gif"
+chassis "Koschei"      "mechs/K/Koschei.gif"
 exact "Koschei KSC-5L" "mechs/K/Koschei KSC-5L.gif"
 exact "Koschei KSC-3I" "mechs/K/Koschei KSC-3I.gif"
 exact "Koschei KSC-3L" "mechs/K/Koschei KSC-3L.gif"
@@ -990,7 +990,7 @@ exact "Marauder II C"      "mechs/M/Marauder II C.gif"
 exact "Marauder II MAD-4H" "mechs/M/Marauder II MAD-4H.gif"
 exact "Marauder II MAD-4S" "mechs/M/Marauder II MAD-4S.gif"
 
-chassis "Marauder IIC" "mechs/M/Marauder IIC .gif"
+chassis "Marauder IIC" "mechs/M/Marauder IIC.gif"
 exact "Marauder IIC 2" "mechs/M/Marauder IIC 2.gif"
 exact "Marauder IIC 3" "mechs/M/Marauder IIC 3.gif"
 exact "Marauder IIC 4" "mechs/M/Marauder IIC 4.gif"
@@ -1028,7 +1028,7 @@ exact "Men Shen MS1-OF" "mechs/M/Men Shen MS1-OF.gif"
 
 chassis "Mercury" "mechs/M/Mercury.gif"
 
-chassis "Mercury II" "mechs/M/MercuryII.gif"
+chassis "Mercury II" "mechs/M/Mercury II.gif"
 
 chassis "Merlin" "mechs/M/Merlin.gif"
 
@@ -1124,7 +1124,7 @@ exact "Orion ON1-K Kerensky" "mechs/O/Orion ON1-K Kerensky.gif"
 
 chassis "Osiris" "mechs/O/Osiris.gif"
 
-chassis "Osprey" "mechs/O/Ospreyp.gif"
+chassis "Osprey" "mechs/O/Osprey.gif"
 
 chassis "Ostroc" "mechs/O/Ostroc.gif"
 exact "Ostroc OSR-2L" "mechs/O/Ostroc OSR-2L.gif"
@@ -1731,7 +1731,7 @@ exact "Woodsman A" "mechs/W/Woodsman A.gif"
 
 chassis "Wraith" "mechs/W/Wraith.gif"
 
-chassis "Wyvern IIC" "mechs/W/Wyvern_iic.gif"
+chassis "Wyvern IIC" "mechs/W/Wyvern IIC.gif"
 
 chassis "Wyvern" "mechs/W/Wyvern.gif"
 
