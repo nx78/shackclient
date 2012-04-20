@@ -961,6 +961,15 @@ exact "Mackie MSK-7SL"  "mechs/M/Mackie MSK-7SL.gif"
 exact "Mackie MSK-7SUB" "mechs/M/Mackie MSK-7SUB.gif"
 exact "Mackie MSK-9H"   "mechs/M/Mackie MSK-9H.gif"
 
+chassis "Mad Dog" "mechs/M/Mad Dog.gif"
+exact "Mad Dog A" "mechs/M/Mad Dog A.gif"
+exact "Mad Dog B" "mechs/M/Mad Dog B.gif"
+exact "Mad Dog C" "mechs/M/Mad Dog C.gif"
+exact "Mad Dog D" "mechs/M/Mad Dog D.gif"
+exact "Mad Dog E" "mechs/M/Mad Dog E.gif"
+exact "Mad Dog F" "mechs/M/Mad Dog F.gif"
+exact "Mad Dog H" "mechs/M/Mad Dog H.gif"
+
 chassis "Maelstrom" "mechs/M/Maelstrom.gif"
 
 chassis "Malak"                 "mechs/M/Malak.gif"
