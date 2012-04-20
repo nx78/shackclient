@@ -2394,85 +2394,109 @@ exact "Quickdraw QKD-4H" "mechs/Q/Quickdraw QKD-4H.gif"
 ###unused definitions:
 
 
+###########
+# Mechs R #
+###########
+
+chassis "Rabid Coyote" "mechs/R/Rabid Coyote.gif"
+
+chassis "Raijin" "mechs/R/Raijin.gif"
+
+chassis "Raijin II" "mechs/R/Raijin II.gif"
+
+chassis "Rakshasa"      "mechs/R/Rakshasa.gif"
+exact "Rakshasa MDG-2A" "mechs/R/Rakshasa MDG-2A.gif"
+
+chassis "Rampage" "mechs/R/Rampage.gif"
+
+chassis "Raptor II" "mechs/R/Raptor II.gif"
+
+chassis "Raptor"       "mechs/R/Raptor.gif"
+exact "Raptor RTX1-OA" "mechs/R/Raptor RTX1-OA.gif"
+exact "Raptor RTX1-OB" "mechs/R/Raptor RTX1-OB.gif"
+exact "Raptor RTX1-OC" "mechs/R/Raptor RTX1-OC.gif"
+exact "Raptor RTX1-OD" "mechs/R/Raptor RTX1-OD.gif"
+exact "Raptor RTX1-OE" "mechs/R/Raptor RTX1-OE.gif"
+exact "Raptor RTX1-OF" "mechs/R/Raptor RTX1-OF.gif"
+
+
+chassis "Raven"      "mechs/R/Raven.gif"
+exact "Raven RVN-1X" "mechs/R/Raven RVN-1X.gif"
+exact "Raven RVN-2X" "mechs/R/Raven RVN-2X.gif"
+exact "Raven RVN-3L" "mechs/R/Raven RVN-3L.gif"
+exact "Raven RVN-3X" "mechs/R/Raven RVN-3X.gif"
+exact "Raven RVN-4X" "mechs/R/Raven RVN-4X.gif"
+
+chassis "Raven X" "mechs/R/Raven X.gif"
+
+chassis "Razorback"      "mechs/R/Razorback.gif"
+exact "Razorback RZK-9T" "mechs/R/Razorback RZK-9T.gif"
+
+chassis "Red Shift" "mechs/R/Red Shift.gif"
+
+chassis "Rifleman IIC" "mechs/R/Rifleman IIC.gif"
+exact "Rifleman IIC 3" "mechs/R/Rifleman IIC 3.gif"
+exact "Rifleman IIC 4" "mechs/R/Rifleman IIC 4.gif"
+exact "Rifleman IIC 5" "mechs/R/Rifleman IIC 5.gif"
+exact "Rifleman IIC 6" "mechs/R/Rifleman IIC 6.gif"
+
+chassis "Rifleman" "mechs/R/Rifleman.gif"
+exact "Rifleman RFL-3C" "mechs/R/Rifleman RFL-3C.gif"
+exact "Rifleman RFL-3N-2" "mechs/R/Rifleman RFL-3N-2.gif"
+exact "Rifleman RFL-6X" "mechs/R/Rifleman RFL-6X.gif"
+exact "Rifleman RFL-7M" "mechs/R/Rifleman RFL-7M.gif"
+exact "Rifleman RFL-8D" "mechs/R/Rifleman RFL-8D.gif"
+
+
+chassis "Rifleman II" "mechs/R/Rifleman II.gif"
+exact "Rifleman IIA" "mechs/R/Rifleman IIA.gif"
+exact "Rifleman IIB" "mechs/R/Rifleman IIB.gif"
+
+chassis "Ronin" "mechs/R/Ronin.gif"
+
+chassis "Rook" "mechs/R/Rook.gif"
+
+chassis "Ryoken II" "mechs/R/Ryoken II.gif"
+
+chassis "Ryoken (Stormcrow)" "mechs/R/Ryoken (Stormcrow).gif"
+exact "Ryoken (Stormcrow) A" "mechs/R/Ryoken (Stormcrow) A.gif"
+exact "Ryoken (Stormcrow) B" "mechs/R/Ryoken (Stormcrow) B.gif"
+exact "Ryoken (Stormcrow) C" "mechs/R/Ryoken (Stormcrow) C.gif"
+exact "Ryoken (Stormcrow) D" "mechs/R/Ryoken (Stormcrow) D.gif"
+exact "Ryoken (Stormcrow) E" "mechs/R/Ryoken (Stormcrow) E.gif"
+exact "Ryoken (Stormcrow) H" "mechs/R/Ryoken (Stormcrow) H.gif"
+
+
+###unused definitions:
+#chassis "Ragnark" "mechs_old/ .gif"
+#chassis "Ranger" "mechs_old/ .gif"
+#chassis "Rattler" "mechs_old/ .gif"
+#chassis "Rattlesnake" "mechs_old/jenner.gif"
+#chassis "Razor Jaw" "mechs_old/ .gif"
+#chassis "Reaper" "mechs_old/ .gif"
+#chassis "Red Back" "mechs_old/ .gif"
+#chassis "Red Cap" "mechs_old/ .gif"
+#chassis "Renegade" "mechs_old/ .gif"
+#chassis "Rhino" "mechs_old/ .gif"
+#chassis "RifleBear GB" "mechs_old/ .gif"
+#exact "Rifleman Sneede" "mechs_old/ .gif"
+#exact "Roadrunner BBP-01-TF" "mechs_old/ .gif"
+#chassis "Roadrunner" "mechs_old/ .gif"
+#chassis "Stormcrow" "mechs_old/stormcrow.gif"
+#exact "Stormcrow A" "mechs_old/stormcrow_a.gif"
+#exact "Stormcrow B" "mechs_old/stormcrow_b.gif"
+#exact "Stormcrow C" "mechs_old/stormcrow_c.gif"
+#exact "Stormcrow D" "mechs_old/stormcrow_d.gif"
+#exact "Stormcrow E" "mechs_old/stormcrow_e.gif"
+#exact "Stormcrow F" "mechs_old/stormcrow_f.gif"
+#exact "Stormcrow G" "mechs_old/stormcrow_g.gif"
+#exact "Stormcrow H" "mechs_old/stormcrow_h.gif"
+
+
 
 #Mechs_OLD
 
 
-
-
-chassis "Rabid Coyote" "mechs_old/rabidcoyote.gif"
-#chassis "Ragnark" "mechs_old/ .gif"
-chassis "Raijin" "mechs_old/raijin.gif"
-chassis "Raijin II" "mechs_old/raijinII.gif"
-chassis "Rakshasa" "mechs_old/rakshasa.gif"
-exact "Rakshasa MDG-2A" "mechs_old/rakshasa_2a.gif"
-chassis "Rampage" "mechs_old/rampage.gif"
-#chassis "Ranger" "mechs_old/ .gif"
-chassis "Raptor" "mechs_old/raptor.gif"
-chassis "Raptor II" "mechs_old/raptorII.gif"
-exact "Raptor RTX1-OA" "mechs_old/raptor_a.gif"
-exact "Raptor RTX1-OB" "mechs_old/raptor_be.gif"
-exact "Raptor RTX1-OC" "mechs_old/raptor_c.gif"
-exact "Raptor RTX1-OD" "mechs_old/raptor_d.gif"
-exact "Raptor RTX1-OE" "mechs_old/raptor_be.gif"
-exact "Raptor RTX1-OF" "mechs_old/raptor_f.gif"
-#chassis "Rattler" "mechs_old/ .gif"
-chassis "Rattlesnake" "mechs_old/jenner.gif"
-chassis "Raven" "mechs_old/raven.gif"
-chassis "Raven X" "mechs_old/raven.gif"
-exact "Raven RVN-3L" "mechs_old/ravenL.gif"
-exact "Raven RVN-1X" "mechs_old/raven1.gif"
-exact "Raven RVN-2X" "mechs_old/raven1.gif"
-exact "Raven RVN-3X" "mechs_old/raven1.gif"
-exact "Raven RVN-4X" "mechs_old/raven1.gif"
-#chassis "Razor Jaw" "mechs_old/ .gif"
-chassis "Razorback" "mechs_old/razorback.gif"
-exact "Razorback RZK-9T" "mechs_old/razorback_9t.gif"
-#chassis "Reaper" "mechs_old/ .gif"
-#chassis "Red Back" "mechs_old/ .gif"
-#chassis "Red Cap" "mechs_old/ .gif"
-chassis "Red Shift" "mechs_old/red_shift.gif"
-#chassis "Renegade" "mechs_old/ .gif"
-#chassis "Rhino" "mechs_old/ .gif"
-#chassis "RifleBear GB" "mechs_old/ .gif"
-exact "Rifleman RFL-3N-2" "mechs_old/rifleman_RFL-IIA-UK.gif"
-exact "Rifleman IIA" "mechs_old/rifleman_RFL-IIA-UK.gif"
-exact "Rifleman IIB" "mechs_old/rifleman_RFL-IIB-UK.gif"
-chassis "Rifleman IIC" "mechs_old/riflemaniic2.gif"
-exact "Rifleman IIC 3" "mechs_old/riflemaniic3.gif"
-exact "Rifleman IIC 4" "mechs_old/riflemaniic4.gif"
-exact "Rifleman IIC 5" "mechs_old/riflemaniic5.gif"
-exact "Rifleman IIC 6" "mechs_old/riflemaniic6.gif"
-#exact "Rifleman Sneede" "mechs_old/ .gif"
-chassis "Rifleman" "mechs_old/rifleman.gif"
-exact "Rifleman RFL-3C" "mechs_old/riflemanC.gif"
-exact "Rifleman RFL-6X" "mechs_old/rifleman_rfl6x.gif"
-exact "Rifleman RFL-7M" "mechs_old/rifleman_rfl7m.gif"
-exact "Rifleman RFL-8D" "mechs_old/rifleman_rfl8d.gif"
-chassis "Rifleman II" "mechs_old/rifleman.gif"
-#exact "Roadrunner BBP-01-TF" "mechs_old/ .gif"
-#chassis "Roadrunner" "mechs_old/ .gif"
-chassis "Ronin" "mechs_old/ronin.gif"
-chassis "Rook" "mechs_old/rook.gif"
-chassis "Ryoken (Stormcrow)" "mechs_old/stormcrow.gif"
-exact "Ryoken (Stormcrow) A" "mechs_old/stormcrow_a.gif"
-exact "Ryoken (Stormcrow) B" "mechs_old/stormcrow_b.gif"
-exact "Ryoken (Stormcrow) C" "mechs_old/stormcrow_c.gif"
-exact "Ryoken (Stormcrow) D" "mechs_old/stormcrow_d.gif"
-exact "Ryoken (Stormcrow) E" "mechs_old/stormcrow_e.gif"
-exact "Ryoken (Stormcrow) F" "mechs_old/stormcrow_f.gif"
-exact "Ryoken (Stormcrow) G" "mechs_old/stormcrow_g.gif"
-exact "Ryoken (Stormcrow) H" "mechs_old/stormcrow_h.gif"
-chassis "Stormcrow" "mechs_old/stormcrow.gif"
-exact "Stormcrow A" "mechs_old/stormcrow_a.gif"
-exact "Stormcrow B" "mechs_old/stormcrow_b.gif"
-exact "Stormcrow C" "mechs_old/stormcrow_c.gif"
-exact "Stormcrow D" "mechs_old/stormcrow_d.gif"
-exact "Stormcrow E" "mechs_old/stormcrow_e.gif"
-exact "Stormcrow F" "mechs_old/stormcrow_f.gif"
-exact "Stormcrow G" "mechs_old/stormcrow_g.gif"
-exact "Stormcrow H" "mechs_old/stormcrow_h.gif"
-chassis "Ryoken II" "mechs_old/ryoken_ii.gif"
 chassis "Sabre Dog" "mechs_old/sabredoga.gif"
 chassis "Sagittaire" "mechs_old/sagittaire.gif"
 chassis "Salamander" "mechs_old/salamander.gif"
