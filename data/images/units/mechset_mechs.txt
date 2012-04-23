@@ -221,7 +221,7 @@ exact "Bowman 2" "mechs/Bowman 2.gif"
 chassis "Brigand"      "mechs/Brigand.gif"
 exact "Brigand LDT-X2" "mechs/Brigand LDT-X2.gif"
 
-chassis "Bruin" "defaults/default_assault.gif"
+chassis "Bruin" "mechs/Bruin.gif"
 
 chassis "Buccaneer"      "mechs/Buccaneer.gif"
 exact "Buccaneer BCN-6W" "mechs/Buccaneer BCN-6W.gif"
