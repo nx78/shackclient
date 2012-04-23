@@ -103,7 +103,7 @@ exact "default_tele_missile" "defaults/telemissile.gif"
 # Includes #
 ############
 
-include "mechs/mechset_mechs.txt"
+include "mechset_mechs.txt"
 
 ############ End Includes
 

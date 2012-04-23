@@ -1,0 +1,1798 @@
+###########
+# Mechs A #
+###########
+
+chassis "Adder" "mechs/Adder.gif"
+exact "Adder A" "mechs/Adder A.gif"
+exact "Adder B" "mechs/Adder B.gif"
+exact "Adder C" "mechs/Adder C.gif"
+exact "Adder D" "mechs/Adder D.gif"
+exact "Adder E" "mechs/Adder E.gif"
+exact "Adder H" "mechs/Adder H.gif"
+exact "Adder J" "mechs/Adder J.gif"
+
+chassis "Akuma"       "mechs/Akuma.gif"
+exact "Akuma AKU-1XJ" "mechs/Akuma AKU-1XJ.gif"
+
+chassis "Albatross" "mechs/Albatross.gif"
+
+chassis "Alfar" "mechs/Alfar.gif"
+
+chassis "Annihilator"              "mechs/Annihilator.gif"
+exact "Annihilator ANH-2AX"        "mechs/Annihilator ANH-2AX.gif"
+exact "Annihilator C "Gausszilla"" "mechs/Annihilator C.gif"
+exact "Annihilator C 2"            "mechs/Annihilator C2.gif"
+
+chassis "Anubis" "mechs/Anubis.gif"
+
+chassis "Anvil" "mechs/Anvil.gif"
+
+chassis "Apollo" "mechs/Apollo.gif"
+
+chassis "Aquagladius" "defaults/default_medium.gif"
+
+chassis "Arbalest" "mechs/Arbalest.gif"
+
+chassis "Arcas" "mechs/Arcas.gif"
+exact "Arcas 2" "mechs/Arcas 2.gif"
+
+chassis "Archangel"                 "mechs/Archangel.gif"
+exact "Archangel C-ANG-OA Dominus"  "mechs/Archangel C-ANG-OA Dominus.gif"
+exact "Archangel C-ANG-OB Infernus" "mechs/Archangel C-ANG-OB Infernus.gif"
+exact "Archangel C-ANG-OC Comminus" "mechs/Archangel C-ANG-OC Comminus.gif"
+exact "Archangel C-ANG-OD Luminos"  "mechs/Archangel C-ANG-OD Luminos.gif"
+exact "Archangel C-ANG-OE Eminus"   "mechs/Archangel C-ANG-OE Eminus.gif"
+
+chassis "Archer" "mechs/Archer.gif"
+exact "Archer ARC-2K" "mechs/Archer ARC-2K.gif"
+exact "Archer ARC-2S" "mechs/Archer ARC-2S.gif"
+exact "Archer ARC-6S" "mechs/Archer ARC-6S.gif"
+exact "Archer ARC-6W" "mechs/Archer ARC-6W.gif"
+exact "Archer ARC-7L" "mechs/Archer ARC-7L.gif"
+exact "Archer ARC-8M" "mechs/Archer ARC-8M.gif"
+exact "Archer ARC-9K" "mechs/Archer ARC-9K.gif"
+
+chassis "Arctic Fox"    "mechs/Arctic Fox AF1.gif"
+exact "Arctic Fox AF1A" "mechs/Arctic Fox AF1A.gif"
+exact "Arctic Fox AF1B" "mechs/Arctic Fox AF1B.gif"
+exact "Arctic Fox AF1C" "mechs/Arctic Fox AF1C.gif"
+exact "Arctic Fox AF1D" "mechs/Arctic Fox AF1D.gif"
+exact "Arctic Fox AF1E" "mechs/Arctic Fox AF1E.gif"
+exact "Arctic Fox AF1F" "mechs/Arctic Fox AF1F.gif"
+
+chassis "Arctic Wolf" "mechs/Arctic Wolf.gif"
+exact "Arctic Wolf 2" "mechs/Arctic Wolf 2.gif"
+
+chassis "Argus"      "mechs/Argus.gif"
+exact "Argus AGS-2D" "mechs/Argus AGS-2D.gif"
+
+chassis "Assassin"            "mechs/Assassin.gif"
+exact "Assassin ASN-101"      "mechs/Assassin ASN-101.gif"
+exact "Assassin ASN 30 Alice" "mechs/Assassin ASN-30 Alice.gif"
+
+chassis "Atlas"      "mechs/Atlas.gif"
+exact "Atlas AS7-K"  "mechs/Atlas AS7-K.gif"
+exact "Atlas AS7-K2" "mechs/Atlas AS7-K2.gif"
+exact "Atlas AS7-K3" "mechs/Atlas AS7-K3.gif"
+
+chassis "Atlas II" "mechs/Atlas II.gif"
+
+chassis "Avatar"      "mechs/Avatar.gif"
+exact "Avatar AV1-OA" "mechs/Avatar AV1-OA.gif"
+exact "Avatar AV1-OB" "mechs/Avatar AV1-OB.gif"
+exact "Avatar AV1-OC" "mechs/Avatar AV1-OC.gif"
+exact "Avatar AV1-OD" "mechs/Avatar AV1-OD.gif"
+exact "Avatar AV1-OE" "mechs/Avatar AV1-OE.gif"
+exact "Avatar AV1-OF" "mechs/Avatar AV1-OF.gif"
+
+chassis "Awesome"          "mechs/Awesome.gif"
+exact "Awesome AWS-8R"     "mechs/Awesome AWS-8R.gif"
+exact "Awesome AWS-8T"     "mechs/Awesome AWS-8T.gif"
+exact "Awesome AWS-8V"     "mechs/Awesome AWS-8V.gif"
+exact "Awesome Jr. AWS-JR" "mechs/Awesome jr AWS-JR.gif"
+exact "Awesome AWS-9Q"     "mechs/Awesome AWS-9Q.gif"
+exact "Awesome AWS-10KM"   "mechs/Awesome AWS-10KM.gif"
+
+chassis "Axman"      "mechs/Axman.gif"
+exact "Axman AXM-2N" "mechs/Axman AXM-2N.gif"
+
+
+###########
+# Mechs B #
+###########
+
+chassis "Balius" "mechs/Balius.gif"
+exact "Balius A" "mechs/Balius A.gif"
+exact "Balius B" "mechs/Balius B.gif"
+exact "Balius C" "mechs/Balius C.gif"
+exact "Balius D" "mechs/Balius D.gif"
+
+chassis "Bandersnatch" "mechs/Bandersnatch.gif"
+
+chassis "Bane" "mechs/Bane.gif"
+exact "Bane 3" "mechs/Bane 3.gif"
+exact "Bane 4" "mechs/Bane 4.gif"
+
+chassis "Banshee"       "mechs/Banshee.gif"
+exact "Banshee BNC-3M"  "mechs/Banshee BNC-3M.gif"
+exact "Banshee BNC-3Mr" "mechs/Banshee BNC-3Mr.gif"
+exact "Banshee BNC-3Q"  "mechs/Banshee BNC-3Q.gif"
+exact "Banshee BNC-3S"  "mechs/Banshee BNC-3S.gif"
+
+chassis "Banzai" "defaults/default_assault.gif"
+
+chassis "Barghest"      "mechs/Barghest.gif"
+exact "Barghest BGS-7S" "mechs/Barghest BGS-7S.gif"
+
+chassis "Battleaxe" "mechs/Battleaxe.gif"
+
+chassis "Battle Cobra" "mechs/Battle Cobra.gif"
+exact "Battle Cobra A" "mechs/Battle Cobra A.gif"
+exact "Battle Cobra B" "mechs/Battle Cobra B.gif"
+exact "Battle Cobra C" "mechs/Battle Cobra C.gif"
+exact "Battle Cobra H" "mechs/Battle Cobra H.gif"
+
+chassis "Battle Hawk" "mechs/Battle Hawk.gif"
+
+chassis "Battlemaster"      "mechs/Battlemaster.gif"
+exact "Battlemaster BLR-1D" "mechs/Battlemaster BLR-1D.gif"
+exact "Battlemaster BLR-1S" "mechs/Battlemaster BLR-1S.gif"
+exact "Battlemaster BLR-4S" "mechs/Battlemaster BLR-4S.gif"
+
+chassis "Bear Cub" "mechs/Bear Cub.gif"
+
+chassis "Beowulf"      "mechs/Beowulf.gif"
+exact "Beowulf BEO-14" "mechs/Beowulf BEO-14.gif"
+
+chassis "Berserker" "mechs/Berserker.gif"
+
+chassis "Bishamon"       "mechs/Bishamon.gif"
+exact "Bishamon BSN-5KC" "mechs/Bishamon BSN-5KC.gif"
+
+chassis "Black Hawk" "mechs/Black Hawk.gif"
+
+chassis "Black Hawk-KU"       "mechs/Black Hawk.gif"
+exact "Black Hawk-KU BHKU-OA" "mechs/Black Hawk-KU BHKU-OA.gif"
+exact "Black Hawk-KU BHKU-OB" "mechs/Black Hawk-KU BHKU-OB.gif"
+exact "Black Hawk-KU BHKU-OC" "mechs/Black Hawk-KU BHKU-OC.gif"
+exact "Black Hawk-KU BHKU-OD" "mechs/Black Hawk-KU BHKU-OD.gif"
+exact "Black Hawk-KU BHKU-OE" "mechs/Black Hawk-KU BHKU-OE.gif"
+
+chassis "Blackjack"      "mechs/Blackjack.gif"
+exact "Blackjack BJ2-O"  "mechs/Blackjack BJ2-O.gif"
+exact "Blackjack BJ2-OA" "mechs/Blackjack BJ2-OA.gif"
+exact "Blackjack BJ2-OB" "mechs/Blackjack BJ2-OB.gif"
+exact "Blackjack BJ2-OC" "mechs/Blackjack BJ2-OC.gif"
+exact "Blackjack BJ2-OD" "mechs/Blackjack BJ2-OD.gif"
+exact "Blackjack BJ2-OE" "mechs/Blackjack BJ2-OE.gif"
+exact "Blackjack BJ2-OF" "mechs/Blackjack BJ2-OF.gif"
+exact "Blackjack BJ2-OR" "mechs/Blackjack BJ2-OR.gif"
+exact "Blackjack BJ2-OX" "mechs/Blackjack BJ2-OX.gif"
+exact "Blackjack BJ-1DB" "mechs/Blackjack BJ-1DB.gif"
+exact "Blackjack BJ-1DC" "mechs/Blackjack BJ-1DC.gif"
+
+chassis "Black Knight" "mechs/Black Knight.gif"
+
+chassis "Black Lanner" "mechs/Black Lanner.gif"
+exact "Black Lanner A" "mechs/Black Lanner A.gif"
+exact "Black Lanner B" "mechs/Black Lanner B.gif"
+exact "Black Lanner C" "mechs/Black Lanner C.gif"
+exact "Black Lanner D" "mechs/Black Lanner D.gif"
+exact "Black Lanner E" "mechs/Black Lanner E.gif"
+
+chassis "Black Python" "mechs/Black Python.gif"
+
+chassis "Black Watch"      "mechs/Black Watch.gif"
+exact "Black Watch BKW-9R" "mechs/Black Watch BKW-9R.gif"
+
+chassis "Blade" "mechs/Blade.gif"
+
+chassis "BlazeMaster" "mechs/Blazemaster.gif"
+
+chassis "Blitzkrieg"      "mechs/Blitzkrieg.gif"
+exact "Blitzkrieg BTZ-4F" "mechs/Blitzkrieg BTZ-4F.gif"
+
+chassis "Blood Asp" "mechs/Blood Asp.gif"
+exact "Blood Asp A" "mechs/Blood Asp A.gif"
+exact "Blood Asp B" "mechs/Blood Asp B.gif"
+exact "Blood Asp C" "mechs/Blood Asp C.gif"
+exact "Blood Asp D" "mechs/Blood Asp D.gif"
+exact "Blood Asp E" "mechs/Blood Asp E.gif"
+exact "Blood Asp F" "mechs/Blood Asp F.gif"
+exact "Blood Asp G" "mechs/Blood Asp G.gif"
+
+chassis "Bloodhound" "mechs/Bloodhound.gif"
+
+chassis "Blood Kite" "mechs/Blood Kite.gif"
+
+chassis "Blood Reaper" "defaults/default_heavy.gif"
+
+chassis "Blue Flame" "mechs/Blue Flame.gif"
+
+chassis "Bombard" "mechs/Bombard.gif"
+
+chassis "Bombardier"       "mechs/Bombardier.gif"
+exact "Bombardier BMB-12D" "mechs/Bombardier BMB-12D.gif"
+exact "Bombardier BMB-05A" "mechs/Bombardier BMB-05A.gif"
+
+chassis "Bowman" "mechs/Bowman.gif"
+exact "Bowman 2" "mechs/Bowman 2.gif"
+
+chassis "Brigand"      "mechs/Brigand.gif"
+exact "Brigand LDT-X2" "mechs/Brigand LDT-X2.gif"
+
+chassis "Bruin" "defaults/default_assault.gif"
+
+chassis "Buccaneer"      "mechs/Buccaneer.gif"
+exact "Buccaneer BCN-6W" "mechs/Buccaneer BCN-6W.gif"
+
+chassis "Burrock" "mechs/Burrock.gif"
+
+chassis "Bushwacker" "mechs/Bushwacker.gif"
+
+chassis "Buster Class HaulerMech" "mechs/Buster.gif"
+
+
+###########
+# Mechs C #
+###########
+
+chassis "Caesar"       "mechs/Caesar.gif"
+exact "Caeasar CES-4S" "mechs/Caeasar CES-4S.gif"
+
+chassis "Cameroon" "mechs/Cameroon.gif"
+
+chassis "Canis" "mechs/Canis.gif"
+exact "Canis 2" "mechs/Canis 2.gif"
+
+chassis "Carbine ConstructionMech"              "mechs/Carbine.gif"
+exact "Carbine ConstructionMech CON-1 (Rocket)" "mechs/Carbine ConstructionMech CON-1 (Rocket).gif"
+
+chassis "Cataphract"       "mechs/Cataphract.gif"
+exact "Cataphract CTF-2X"  "mechs/Cataphract CTF-2X.gif"
+exact "Cataphract CTF-3D"  "mechs/Cataphract CTF-3D.gif"
+exact "Cataphract CTF-3L"  "mechs/Cataphract CTF-3L.gif"
+exact "Cataphract CTF-3LL" "mechs/Cataphract CTF-3LL.gif"
+exact "Cataphract CTF-4L"  "mechs/Cataphract CTF-4L.gif"
+
+chassis "Catapult"        "mechs/Catapult.gif"
+exact "Catapult CPLT-C1"  "mechs/Catapult CPLT-C1.gif"
+exact "Catapult CPLT-C4"  "mechs/Catapult CPLT-C4.gif"
+exact "Catapult CPLT-C6"  "mechs/Catapult CPLT-C6.gif"
+exact "Catapult CPLT-K2"  "mechs/Catapult CPLT-K2.gif"
+exact "Catapult CPLT-K2K" "mechs/Catapult CPLT-K2K.gif"
+exact "Catapult CPLT-K4"  "mechs/Catapult CPLT-K4.gif"
+
+chassis "Centurion"        "mechs/Centurion.gif"
+exact "Centurion CN9-D5"   "mechs/Centurion CN9-D5.gif"
+exact "Centurion CN9-AH"   "mechs/Centurion CN9-AH.gif"
+exact "Centurion CN9-AL"   "mechs/Centurion CN9-AL.gif"
+exact "Centurion CN9-YLW"  "mechs/Centurion CN9-YLW.gif"
+exact "Centurion CN9-YLW2" "mechs/Centurion CN9-YLW2.gif"
+
+chassis "Cerberus" "mechs/Cerberus.gif"
+
+chassis "Cestus" "mechs/Cestus.gif"
+
+chassis "Chameleon"      "mechs/Chameleon.gif"
+exact "Chameleon CLN-4V" "mechs/Chameleon CLN-4V.gif"
+exact "Chameleon CLN-7Z" "mechs/Chameleon CLN-7Z.gif"
+
+chassis "Champion"      "mechs/Champion.gif"
+exact "Champion C"      "mechs/Champion C.gif"
+exact "Champion CHP-3P" "mechs/Champion CHP-3P.gif"
+exact "Champion CHP-3N" "mechs/Champion CHP-3N.gif"
+
+chassis "Charger"       "mechs/Charger.gif"
+exact "Charger CGR-1A5" "mechs/Charger CGR-1A5.gif"
+exact "Charger CGR-1A9" "mechs/Charger CGR-1A9.gif"
+exact "Charger CGR-1L"  "mechs/Charger CGR-1L.gif"
+exact "Charger CGR-SB"  "mechs/Charger CGR-SB.gif"
+
+chassis "Chimera" "mechs/Chimera.gif"
+
+chassis "Cicada"      "mechs/Cicada.gif"
+exact "Cicada CDA-2B" "mechs/Cicada CDA-2B.gif"
+exact "Cicada CDA-3C" "mechs/Cicada CDA-3C.gif"
+
+chassis "Clint"         "mechs/Clint.gif"
+exact "Clint CLNT-1-2R" "mechs/Clint CLNT-1-2R.gif"
+exact "Clint CLNT-2-4T" "mechs/Clint CLNT-2-4T.gif"
+
+chassis "Clint IIC" "mechs/Clint IIC.gif"
+
+chassis "Cobra" "mechs/Cobra.gif"
+
+chassis "Colossus" "mechs/Colossus.gif"
+
+chassis "Commando"      "mechs/Commando.gif"
+exact "Commando COM-1A" "mechs/Commando COM-1A.gif"
+exact "Commando COM-1B" "mechs/Commando COM-1B.gif"
+exact "Commando COM-1D" "mechs/Commando COM-1D.gif"
+exact "Commando COM-3A" "mechs/Commando COM-3A.gif"
+exact "Commando COM-4H" "mechs/Commando COM-4H.gif"
+
+chassis "Commando IIC" "mechs/Commando IIC.gif"
+
+chassis "Conjurer" "mechs/Conjurer.gif"
+exact "Conjurer 2" "mechs/Conjurer 2.gif"
+exact "Conjurer 3" "mechs/Conjurer 3.gif"
+exact "Conjurer 4" "mechs/Conjurer 4.gif"
+exact "Conjurer 5" "mechs/Conjurer 5.gif"
+
+Chassis "Copper SecurityMech" "mechs/Copper SecurityMech.gif"
+
+chassis "Copperhead" "mechs/Copperhead.gif"
+
+chassis "Corvis" "mechs/Corvis.gif"
+exact "Corvis 2" "mechs/Corvis 2.gif"
+
+chassis "Cossack"          "mechs/Cossack.gif"
+exact "Cossack C-1FC"      "mechs/Cossack C-1FC.gif"
+exact "Cossack MAD-COS-3C" "mechs/Cossack MAD-COS-3C.gif"
+
+chassis "Cougar" "mechs/Cougar.gif"
+exact "Cougar A" "mechs/Cougar A.gif"
+exact "Cougar B" "mechs/Cougar B.gif"
+exact "Cougar C" "mechs/Cougar C.gif"
+exact "Cougar D" "mechs/Cougar D.gif"
+exact "Cougar E" "mechs/Cougar E.gif"
+exact "Cougar F" "mechs/Cougar F.gif"
+exact "Cougar G" "mechs/Cougar G.gif"
+exact "Cougar H" "mechs/Cougar H.gif"
+
+chassis "Crab"      "mechs/Crab.gif"
+exact "Crab CRB-30" "mechs/Crab CRB-30.gif"
+exact "Crab CRB-45" "mechs/Crab CRB-45.gif"
+
+chassis "Crimson Hawk" "mechs/Crimson Hawk.gif"
+
+chassis "Crimson Langur" "mechs/Crimson Langur.gif"
+exact "Crimson Langur A" "mechs/Crimson Langur A.gif"
+exact "Crimson Langur B" "mechs/Crimson Langur B.gif"
+exact "Crimson Langur C" "mechs/Crimson Langur C.gif"
+
+chassis "Crockett"           "mechs/Crockett.gif"
+exact "Crockett CRK-5003-1b" "mechs/Crockett CRK-5003-1b.gif"
+exact "Crockett CRK-5005-1"  "mechs/Crockett CRK-5005-1.gif"
+
+chassis "Cronus" "mechs/Cronus.gif"
+
+chassis "Crossbow"      "mechs/Crossbow.gif"
+exact "Crossbow A"      "mechs/Crossbow A.gif"
+exact "Crossbow B"      "mechs/Crossbow B.gif"
+exact "Crossbow C"      "mechs/Crossbow C.gif"
+exact "Crossbow CRS-6B" "mechs/Crossbow CRS-6B.gif"
+exact "Crossbow CRS-6C" "mechs/Crossbow CRS-6C.gif"
+exact "Crossbow CRS-9A" "mechs/Crossbow CRS-9A.gif"
+exact "Crossbow CRS-X"  "mechs/Crossbow CRS-X.gif"
+exact "Crossbow H"      "mechs/Crossbow H.gif"
+
+chassis "Crosscut LoggerMech" "mechs/Crosscut LoggerMech.gif"
+
+chassis "Crusader"      "mechs/Crusader.gif"
+exact "Crusader CRD-3K" "mechs/Crusader CRD-3K.gif"
+exact "Crusader CRD-3L" "mechs/Crusader CRD-3L.gif"
+exact "Crusader CRD-8S" "mechs/Crusader CRD-8S.gif"
+
+chassis "Cudgel" "mechs/Cudgel.gif"
+
+chassis "Cyclops"       "mechs/Cyclops.gif"
+exact "Cyclops CP-10-Q" "mechs/Cyclops CP-10-Q.gif"
+exact "Cyclops CP-11-C" "mechs/Cyclops CP-11-C.gif"
+exact "Cyclops CP-11-H" "mechs/Cyclops CP-11-H.gif"
+
+chassis "Cygnus" "mechs/Cygnus.gif"
+
+
+###########
+# Mechs D #
+###########
+
+chassis "Daboku" "mechs/Daboku.gif"
+
+chassis "Daedalus"                  "mechs/Daedalus.gif"
+exact "Daedelus-Drago"              "mechs/Daedelus-Drago.gif"
+exact "Daedalus GTX2 (Militarized)" "mechs/Daedalus GTX2 (Militarized).gif"
+exact "Daedalus GTX2A Stevedore"    "mechs/Daedalus GTX2A Stevedore.gif"
+exact "Daedalus GTX2B Navvy"        "mechs/Daedalus GTX2B Navvy.gif"
+
+chassis "Daikyu" "mechs/Daikyu.gif"
+
+chassis "Daimyo" "mechs/Daimyo.gif"
+
+chassis "Dark Crow" "mechs/Dark Crow.gif"
+
+chassis "Dart" "mechs/Dart.gif"
+
+chassis "Defiance" "mechs/Defiance.gif"
+
+chassis "Dervish" "mechs/Dervish.gif"
+
+chassis "Dervish IIC" "mechs/Dervish IIC.gif"
+
+chassis "Deva"                 "mechs/Deva.gif"
+exact "Deva C-DVA-OA Dominus"  "mechs/Deva C-DVA-OA Dominus.gif"
+exact "Deva C-DVA-OB Infernus" "mechs/Deva C-DVA-OB Infernus.gif"
+exact "Deva C-DVA-OC Comminus" "mechs/Deva C-DVA-OC Comminus.gif"
+exact "Deva C-DVA-OD Luminos"  "mechs/Deva C-DVA-OD Luminos.gif"
+exact "Deva C-DVA-OE Eminus"   "mechs/Deva C-DVA-OE Eminus.gif"
+
+Chassis "Devastator"     "mechs/Devastator.gif"
+exact "Devastator DVS-2" "mechs/Devastator DVS-2.gif"
+exact "Devastator DVS-3" "mechs/Devastator DVS-3.gif"
+
+chassis "Dire Wolf"          "mechs/Dire Wolf.gif"
+exact "Dire Wolf A"          "mechs/Dire Wolf A.gif"
+exact "Dire Wolf B"          "mechs/Dire Wolf B.gif"
+exact "Dire Wolf C"          "mechs/Dire Wolf C.gif"
+exact "Dire Wolf D"          "mechs/Dire Wolf D.gif"
+exact "Dire Wolf H"          "mechs/Dire Wolf H.gif"
+exact "Dire Wolf W"          "mechs/Dire Wolf W.gif"
+exact "Dire Wolf Hohiro"     "mechs/Dire Wolf Hohiro.gif"
+exact "Dire Wolf Prometheus" "mechs/Dire Wolf Prometheus.gif"
+exact "Dire Wolf Widowmaker" "mechs/Dire Wolf Widowmaker.gif"
+
+chassis "Dragon" "mechs/Dragon.gif"
+exact "Dragon DRG-1C" "mechs/Dragon DRG-1C.gif"
+
+chassis "Dragon Fire" "mechs/Dragon Fire.gif"
+
+chassis "Duan Gung" "mechs/Duan Gung.gif"
+exact "Duan Gung D9-G10" "mechs/Duan Gung D9-G10.gif"
+
+
+###########
+# Mechs E #
+###########
+
+chassis "Eagle"      "mechs/Eagle.gif"
+exact "Eagle EGL-1M" "mechs/Eagle EGL-1M.gif"
+exact "Eagle EGL-2M" "mechs/Eagle EGL-2M.gif"
+exact "Eagle EGL-3M" "mechs/Eagle EGL-3M.gif"
+
+chassis "Ebon Jaguar" "mechs/Ebon Jaguar.gif"
+exact "Ebon Jaguar A" "mechs/Ebon Jaguar A.gif"
+exact "Ebon Jaguar B" "mechs/Ebon Jaguar B.gif" 
+exact "Ebon Jaguar C" "mechs/Ebon Jaguar C.gif"
+exact "Ebon Jaguar D" "mechs/Ebon Jaguar D.gif"
+exact "Ebon Jaguar H" "mechs/Ebon Jaguar H.gif"
+
+chassis "Eidolon" "mechs/Eidolon.gif"
+
+chassis "Eisenfaust" "mechs/Eisenfaust.gif"
+
+chassis "Emperor Dragon" "mechs/Emperor Dragon.gif"
+
+chassis "Emperor" "mechs/Emperor.gif"
+
+chassis "Enfield" "mechs/Enfield.gif"
+
+chassis "Enforcer" "mechs/Enforcer.gif"
+
+chassis "Enforcer III" "mechs/Enforcer III.gif"
+
+chassis "Excalibur"      "mechs/Excalibur.gif"
+exact "Excalibur EXC-CS" "mechs/Excalibur EXC-CS.gif"
+exact "Excalibur EXC-D1" "mechs/Excalibur EXC-D1.gif"
+
+chassis "Exterminator" "mechs/Exterminator.gif"
+
+chassis "Exterminator IIC" "mechs/Exterminator IIC.gif"
+
+chassis "Executioner" "mechs/Executioner.gif"
+exact "Executioner A" "mechs/Executioner A.gif"
+exact "Executioner B" "mechs/Executioner B.gif"
+exact "Executioner C" "mechs/Executioner C.gif"
+exact "Executioner D" "mechs/Executioner D.gif"
+exact "Executioner E" "mechs/Executioner E.gif"
+exact "Executioner H" "mechs/Executioner H.gif"
+exact "Executioner K" "mechs/Executioner K.gif"
+exact "Executioner P" "mechs/Executioner P.gif"
+
+chassis "Eyleuka" "mechs/Eyleuka.gif"
+
+
+###########
+# Mechs F #
+###########
+
+chassis "Fafnir" "mechs/Fafnir.gif"
+
+chassis "Falcon" "mechs/Falcon.gif"
+
+chassis "Falconer" "mechs/Falconer.gif"
+
+chassis "Falcon Hawk" "mechs/Falcon Hawk.gif"
+
+chassis "Fireball" "mechs/Fireball.gif"
+
+chassis "Firebee"      "mechs/Firebee.gif"
+exact "Firebee FRB-3E" "mechs/Firebee FRB-3E.gif"
+
+chassis "Fire Falcon" "mechs/Fire Falcon.gif"
+exact "Fire Falcon A" "mechs/Fire Falcon A.gif"
+exact "Fire Falcon B" "mechs/Fire Falcon B.gif"
+exact "Fire Falcon C" "mechs/Fire Falcon C.gif"
+exact "Fire Falcon D" "mechs/Fire Falcon D.gif"
+exact "Fire Falcon E" "mechs/Fire Falcon E.gif"
+exact "Fire Falcon H" "mechs/Fire Falcon H.gif"
+
+chassis "Firefly" "mechs/Firefly.gif"
+
+chassis "Firefly C" "mechs/Firefly C.gif"
+
+chassis "Fire Moth" "mechs/Fire Moth.gif"
+exact "Fire Moth A" "mechs/Fire Moth A.gif"
+exact "Fire Moth B" "mechs/Fire Moth B.gif"
+exact "Fire Moth C" "mechs/Fire Moth C.gif"
+exact "Fire Moth D" "mechs/Fire Moth D.gif"
+exact "Fire Moth E" "mechs/Fire Moth E.gif"
+exact "Fire Moth F" "mechs/Fire Moth F.gif"
+exact "Fire Moth H" "mechs/Fire Moth H.gif"
+exact "Fire Moth K" "mechs/Fire Moth K.gif"
+
+chassis "Fire Scorpion" "mechs/Fire Scorpion.gif"
+exact "Fire Scorpion 2" "mechs/Fire Scorpion 2.gif"
+
+chassis "Firestarter"      "mechs/Firestarter.gif"
+exact "Firestarter FS9-M"  "mechs/Firestarter FS9-M.gif"
+exact "Firestarter FS9-O"  "mechs/Firestarter FS9-O.gif"
+exact "Firestarter FS9-OA" "mechs/Firestarter FS9-OA.gif"
+exact "Firestarter FS9-OB" "mechs/Firestarter FS9-OB.gif"
+exact "Firestarter FS9-OC" "mechs/Firestarter FS9-OC.gif"
+exact "Firestarter FS9-OD" "mechs/Firestarter FS9-OD.gif"
+exact "Firestarter FS9-OE" "mechs/Firestarter FS9-OE.gif"
+exact "Firestarter FS9-OF" "mechs/Firestarter FS9-OF.gif"
+exact "Firestarter FS9-OG" "mechs/Firestarter FS9-OG.gif"
+exact "Firestarter FS9-OH" "mechs/Firestarter FS9-OH.gif"
+exact "Firestarter FS9-OR" "mechs/Firestarter FS9-OR.gif"
+exact "Firestarter FS9-OX" "mechs/Firestarter FS9-OX.gif"
+
+chassis "Flashfire" "mechs/Flashfire.gif"
+
+chassis "Flashman" "mechs/Flashman.gif"
+
+chassis "Flea"     "mechs/Flea.gif"
+exact "Flea FLE-4" "mechs/Flea FLE-4.gif"
+
+
+###########
+# Mechs G #
+###########
+
+chassis "Galahad" "mechs/Galahad.gif"
+
+chassis "Gallowglas" "mechs/Gallowglas.gif"
+
+chassis "Gargoyle" "mechs/Gargoyle.gif"
+exact "Gargoyle A" "mechs/Gargoyle A.gif"
+exact "Gargoyle B" "mechs/Gargoyle B.gif"
+exact "Gargoyle C" "mechs/Gargoyle C.gif"
+exact "Gargoyle D" "mechs/Gargoyle D.gif"
+exact "Gargoyle E" "mechs/Gargoyle E.gif"
+exact "Gargoyle G" "mechs/Gargoyle G.gif"
+exact "Gargoyle H" "mechs/Gargoyle H.gif"
+exact "Gargoyle M" "mechs/Gargoyle M.gif"
+
+chassis "Garm"        "mechs/Garm.gif"
+exact "Garm GRM-01A2" "mechs/Garm GRM-01A2.gif"
+exact "Garm GRM-01B"  "mechs/Garm GRM-01B.gif"
+exact "Garm GRM-01C"  "mechs/Garm GRM-01C.gif"
+
+chassis "Ghost" "mechs/Ghost.gif"
+
+chassis "Gladiator" "mechs/Gladiator.gif"
+exact "Gladiator GLD-5R" "mechs/Gladiator GLD-5R.gif"
+
+chassis "Glass Spider" "mechs/Glass Spider.gif"
+exact "Glass Spider 2" "mechs/Glass Spider 2.gif"
+exact "Glass Spider 3" "mechs/Glass Spider 3.gif"
+
+chassis "Goliath"      "mechs/Goliath.gif"
+exact "Goliath GOL-4S" "mechs/Goliath GOL-4S.gif"
+exact "Goliath GOL-5D" "mechs/Goliath GOL-5D.gif"
+
+chassis "Grand Crusader" "mechs/Grand Crusader.gif"
+
+chassis "Grand Crusader II" "mechs/Grand Crusader 2.gif"
+
+chassis "Grand Dragon" "mechs/Grand Dragon.gif"
+
+chassis "Grand Panther" "mechs/Grand Panther.gif"
+
+chassis "Grand Titan"         "mechs/Grand Titan.gif"
+exact "Grand Titan T-IT-N11M" "mechs/Grand Titan T-IT-N11M.gif"
+
+chassis "Grasshopper"      "mechs/Grasshopper.gif"
+exact "Grasshopper GHR-5N" "mechs/Grasshopper GHR-5N.gif"
+
+chassis "Grasshopper II" "mechs/Grasshopper II.gif"
+
+chassis "Great Bear" "mechs/Great Bear.gif"
+
+chassis "Great Turtle" "mechs/Great Turtle.gif"
+
+chassis "Great Wyrm" "mechs/Great Wyrm.gif"
+exact "Great Wyrm 2" "mechs/Great Wyrm 2.gif"
+
+#Battlearmor with identical Name exists... => matching via exact
+#chassis "Grenadier" "mechs/Grenadier.gif"
+exact "Grenadier Grenadier" "mechs/Grenadier.gif"
+
+chassis "Griffin"       "mechs/Griffin.gif"
+exact "Griffin GRF-1S"  "mechs/Griffin GRF-1S.gif"
+exact "Griffin GRF-1DS" "mechs/Griffin GRF-1DS.gif"
+
+chassis "Griffin IIC" "mechs/Griffin IIC.gif"
+exact "Griffin IIC 3" "mechs/Griffin IIC 3.gif"
+exact "Griffin IIC 4" "mechs/Griffin IIC 4.gif"
+exact "Griffin IIC 5" "mechs/Griffin IIC 5.gif"
+
+chassis "Grigori"                 "mechs/Grigori.gif"
+exact "Grigori C-GRG-OA Dominus"  "mechs/Grigori C-GRG-OA Dominus.gif"
+exact "Grigori C-GRG-OB Infernus" "mechs/Grigori C-GRG-OB Infernus.gif"
+exact "Grigori C-GRG-OC Comminus" "mechs/Grigori C-GRG-OC Comminus.gif"
+exact "Grigori C-GRG-OD Luminos"  "mechs/Grigori C-GRG-OD Luminos.gif"
+exact "Grigori C-GRG-OE Eminus"   "mechs/Grigori C-GRG-OE Eminus.gif"
+
+chassis "Grim Reaper" "mechs/Grim Reaper.gif"
+
+chassis "Grizzly" "mechs/Grizzly.gif"
+
+chassis "Guillotine" "mechs/Guillotine.gif"
+
+chassis "Guillotine IIC" "mechs/Guillotine IIC.gif"
+
+chassis "Gunslinger" "mechs/Gunslinger.gif"
+
+chassis "Gurkha" "mechs/Gurkha.gif"
+
+
+###########
+# Mechs H #
+###########
+
+chassis "Hachiwara" "mechs/Hachiwara.gif"
+
+chassis "Hades" "mechs/Hades.gif"
+
+chassis "Hammer" "mechs/Hammer.gif"
+
+chassis "Hammerhands" "mechs/Hammerhands.gif"
+
+chassis "Ha Otoko" "mechs/Ha Otoko.gif"
+exact "Ha Otoko 2" "mechs/Ha Otoko 2.gif"
+
+chassis "Harvester Ant" "mechs/Harvester Ant.gif"
+
+chassis "Hatamoto-Chi" "mechs/Hatamoto-Chi.gif"
+
+chassis "Hatamoto-Hi" "mechs/Hatamoto-Hi.gif"
+
+chassis "Hatamoto-Kaeru" "mechs/Hatamoto-Kaeru.gif"
+
+chassis "Hatamoto-Kaze" "mechs/Hatamoto-Kaze.gif"
+
+chassis "Hatamoto-Ku" "mechs/Hatamoto-Ku.gif"
+
+chassis "Hatamoto-Mizo" "mechs/Hatamoto-Mizo.gif"
+
+chassis "Hatchetman"       "mechs/Hatchetman.gif"
+exact "Hatchetman HCT-3NH" "mechs/Hatchetman HCT-3NH.gif"
+exact "Hatchetman HCT-5K"  "mechs/Hatchetman HCT-5K.gif"
+
+chassis "Hauptmann"      "mechs/Hauptmann.gif"
+exact "Hauptmann HA1-O"  "mechs/Hauptmann HA1-O.gif"
+exact "Hauptmann HA1-OA" "mechs/Hauptmann HA1-OA.gif"
+exact "Hauptmann HA1-OB" "mechs/Hauptmann HA1-OB.gif"
+exact "Hauptmann HA1-OC" "mechs/Hauptmann HA1-OC.gif"
+exact "Hauptmann HA1-OD" "mechs/Hauptmann HA1-OD.gif"
+exact "Hauptmann HA1-OE" "mechs/Hauptmann HA1-OE.gif"
+
+chassis "Havoc" "mechs/Havoc.gif"
+
+chassis "Hector" "mechs/Hector.gif"
+
+chassis "Helepolis" "mechs/Helepolis.gif"
+
+chassis "Helios"      "mechs/Helios.gif"
+exact "Helios HEL-6X" "mechs/Helios HEL-6X.gif"
+
+chassis "Hellbringer" "mechs/Hellbringer.gif"
+exact "Hellbringer A" "mechs/Hellbringer A.gif"
+exact "Hellbringer B" "mechs/Hellbringer B.gif"
+exact "Hellbringer C" "mechs/Hellbringer C.gif"
+exact "Hellbringer D" "mechs/Hellbringer D.gif"
+exact "Hellbringer E" "mechs/Hellbringer E.gif"
+exact "Hellbringer H" "mechs/Hellbringer H.gif"
+
+chassis "Hellfire" "mechs/Hellfire.gif"
+
+chassis "Hellion" "mechs/Hellion.gif"
+exact "Hellion A" "mechs/Hellion A.gif"
+exact "Hellion B" "mechs/Hellion B.gif"
+exact "Hellion C" "mechs/Hellion C.gif"
+
+chassis "Hellspawn" "mechs/Hellspawn.gif"
+
+chassis "Hellstar" "mechs/Hellstar.gif
+
+chassis "Hercules" "mechs/Hercules.gif"
+
+chassis "Hermes" "mechs/Hermes.gif"
+
+chassis "Hermes II"      "mechs/Hermes II.gif"
+exact "Hermes II HER-2M" "mechs/Hermes II HER-2M.gif"
+
+chassis "Hermes III" "mechs/Hermes III.gif"
+
+chassis "Highlander" "mechs/Highlander.gif"
+
+chassis "Highlander IIC" "mechs/Highlander IIC.gif"
+
+chassis "Hitman" "mechs/Hitman.gif"
+
+chassis "Hollander" "mechs/Hollander.gif"
+
+chassis "Hollander II"      "mechs/Hollander II.gif"
+exact "Hollander II BZK-F7" "mechs/Hollander II BZK-F7.gif"
+
+chassis "Hoplite"      "mechs/Hoplite.gif"
+exact "Hoplite HOP-4X" "mechs/Hoplite HOP-4X.gif"
+
+chassis "Hoplite C" "mechs/Hoplite C.gif"
+
+chassis "Horned Owl" "mechs/Horned Owl.gif"
+exact "Horned Owl 4" "mechs/Horned Owl 4.gif"
+exact "Horned Owl 5" "mechs/Horned Owl 5.gif"
+
+chassis "Hornet" "mechs/Hornet.gif"
+
+chassis "Hunchback"               "mechs/Hunchback.gif"
+exact "Hunchback HBK-4G (Blazer)" "mechs/Hunchback HBK-4G (Blazer).gif"
+exact "Hunchback HBK-4H"          "mechs/Hunchback HBK-4H.gif"
+exact "Hunchback HBK-4J"          "mechs/Hunchback HBK-4J.gif"
+exact "Hunchback HBK-4N"          "mechs/Hunchback HBK-4N.gif"
+exact "Hunchback HBK-4P"          "mechs/Hunchback HBK-4P.gif"
+exact "Hunchback HBK-4SP"         "mechs/Hunchback HBK-4SP.gif"
+exact "Hunchback HBK-5SG"         "mechs/Hunchback HBK-5SG.gif"
+
+chassis "Hunchback IIC" "mechs/Hunchback IIC.gif"
+
+chassis "Huntsman (Nobori-nin)"     "mechs/Huntsman (Nobori-nin).gif"
+exact "Huntsman (Nobori-nin) Prime" "mechs/Huntsman (Nobori-nin) Prime.gif"
+exact "Huntsman (Nobori-nin) A"     "mechs/Huntsman (Nobori-nin) A.gif"
+exact "Huntsman (Nobori-nin) B"     "mechs/Huntsman (Nobori-nin) B.gif"
+exact "Huntsman (Nobori-nin) C"     "mechs/Huntsman (Nobori-nin) C.gif"
+exact "Huntsman (Nobori-nin) D"     "mechs/Huntsman (Nobori-nin) D.gif"
+
+chassis "Huron Warrior"          "mechs/Huron Warrior.gif"
+exact "Huron Warrior HUR-W0-R4N" "mechs/Huron Warrior HUR-W0-R4N.gif"
+
+chassis "Hussar" "mechs/Hussar.gif"
+
+
+###########
+# Mechs I #
+###########
+
+chassis "Icarus" "mechs/Icarus.gif"
+
+chassis "Icarus II" "mechs/Icarus II.gif"
+
+chassis "Ice Ferret" "mechs/Ice Ferret.gif"
+exact "Ice Ferret A" "mechs/Ice Ferret A.gif"
+exact "Ice Ferret B" "mechs/Ice Ferret B.gif"
+exact "Ice Ferret C" "mechs/Ice Ferret C.gif"
+exact "Ice Ferret D" "mechs/Ice Ferret D.gif"
+exact "Ice Ferret E" "mechs/Ice Ferret E.gif"
+exact "Ice Ferret H" "mechs/Ice Ferret H.gif"
+exact "Ice Ferret L" "mechs/Ice Ferret L.gif"
+
+chassis "Icestorm" "mechs/Icestorm.gif"
+exact "Icestorm 2" "mechs/Icestorm 2.gif"
+
+chassis "Imp" "mechs/Imp.gif"
+
+chassis "Imp C" "mechs/Imp C.gif"
+
+chassis "Incubus" "mechs/Incubus.gif"
+exact "Incubus 4" "mechs/Incubus 4.gif"
+exact "Incubus 5" "mechs/Incubus 5.gif"
+
+chassis "Initiate"      "mechs/Initiate.gif"
+exact "Initiate INI-04" "mechs/Initiate INI-04.gif"
+
+chassis "Isengard" "mechs/Isengard.gif"
+
+
+###########
+# Mechs J #
+###########
+
+chassis "Jackal" "mechs/Jackal.gif"
+
+chassis "Jackrabbit"      "mechs/Jackrabbit.gif"
+exact "Jackrabbit JKR-9W" "mechs/Jackrabbit JKR-9W.gif"
+
+chassis "JagerMech IIC" "mechs/JagerMech IIC.gif"
+
+chassis "JagerMech III" "mechs/JagerMech III.gif"
+
+chassis "JagerMech"     "mechs/JagerMech.gif"
+exact "Jagermech JM6-A" "mechs/Jagermech JM6-A.gif"
+exact "Jagermech JM7-F" "mechs/Jagermech JM7-F.gif"
+
+chassis "Javelin"       "mechs/Javelin.gif"
+exact "Javelin JVN-10F" "mechs/Javelin JVN-10F.gif"
+
+chassis "Jenner IIC"  "mechs/Jenner IIC.gif"
+exact "Jenner IIC 2"  "mechs/Jenner IIC 2.gif"
+exact "Jenner IIC 3"  "mechs/Jenner IIC 3.gif"
+exact "Jenner IIC 4"  "mechs/Jenner IIC 4.gif"
+exact "Jenner JR7-C"  "mechs/Jenner JR7-C.gif"
+exact "Jenner JR7-C2" "mechs/Jenner JR7-C2.gif"
+exact "Jenner JR7-C3" "mechs/Jenner JR7-C3.gif"
+
+chassis "Jenner"     "mechs/Jenner.gif"
+exact "Jenner JR7-F" "mechs/Jenner JR7-F.gif"
+
+chassis "Jinggau" "mechs/Jinggau.gif"
+exact "Jinggau JN-G7L" "mechs/Jinggau JN-G7L.gif"
+exact "Jinggau JN-G9CC" "mechs/Jinggau JN-G9CC.gif"
+
+chassis "Juggernaut" "mechs/Juggernaut.gif"
+
+chassis "Jupiter" "mechs/Jupiter.gif"
+exact "Jupiter 2" "mechs/Jupiter 2.gif"
+
+
+###########
+# Mechs K #
+###########
+
+chassis "Kabuto" "mechs/Kabuto.gif"
+
+chassis "Karhu" "mechs/Karhu.gif"
+
+chassis "Katana" "mechs/Katana.gif"
+
+chassis "King Crab" "mechs/King Crab.gif"
+
+chassis "Kingfisher" "mechs/Kingfisher.gif"
+exact "Kingfisher A" "mechs/Kingfisher A.gif"
+exact "Kingfisher B" "mechs/Kingfisher B.gif"
+exact "Kingfisher C" "mechs/Kingfisher C.gif"
+exact "Kingfisher D" "mechs/Kingfisher D.gif"
+exact "Kingfisher E" "mechs/Kingfisher E.gif"
+exact "Kingfisher H" "mechs/Kingfisher H.gif"
+
+chassis "Kintaro"       "mechs/Kintaro.gif"
+exact "Kintaro KTO-19b" "mechs/Kintaro KTO-19b.gif"
+
+chassis "Kit Fox" "mechs/Kit Fox.gif"
+exact "Kit Fox A" "mechs/Kit Fox A.gif"
+exact "Kit Fox B" "mechs/Kit Fox B.gif"
+exact "Kit Fox C" "mechs/Kit Fox C.gif"
+exact "Kit Fox D" "mechs/Kit Fox D.gif"
+exact "Kit Fox E" "mechs/Kit Fox E.gif"
+exact "Kit Fox F" "mechs/Kit Fox F.gif"
+exact "Kit Fox H" "mechs/Kit Fox H.gif"
+exact "Kit Fox S" "mechs/Kit Fox S.gif"
+exact "Kit Fox W" "mechs/Kit Fox W.gif"
+
+chassis "Kodiak" "mechs/Kodiak.gif"
+
+chassis "Komodo" "mechs/Komodo.gif"
+
+chassis "Koschei"      "mechs/Koschei.gif"
+exact "Koschei KSC-5L" "mechs/Koschei KSC-5L.gif"
+exact "Koschei KSC-3I" "mechs/Koschei KSC-3I.gif"
+exact "Koschei KSC-3L" "mechs/Koschei KSC-3L.gif"
+exact "Koschei KSC-4I" "mechs/Koschei KSC-4I.gif"
+exact "Koschei KSC-4L" "mechs/Koschei KSC-4L.gif"
+
+chassis "Koshi" "mechs/Koshi.gif"
+
+chassis "Koto" "mechs/Koto.gif"
+
+chassis "Kyudo" "mechs/Kyudo.gif"
+
+
+###########
+# Mechs L #
+###########
+
+chassis "Lancelot"        "mechs/Lancelot.gif"
+exact "Lancelot LNC25-04" "mechs/Lancelot LNC25-04.gif"
+exact "Lancelot LNC25-06" "mechs/Lancelot LNC25-06.gif"
+
+chassis "Lao Hu" "mechs/Lao Hu.gif"
+
+chassis "Legacy"      "mechs/Legacy.gif"
+exact "Legacy LGC-02" "mechs/Legacy LGC-02.gif"
+exact "Legacy LGC-03" "mechs/Legacy LGC-03.gif"
+
+chassis "Legend Killer" "mechs/Legend Killer.gif"
+
+chassis "Legionnaire" "mechs/Legionnaire.gif"
+
+chassis "Lightray" "mechs/Lightray.gif"
+
+chassis "Linebacker" "mechs/Linebacker.gif"
+exact "Linebacker A" "mechs/Linebacker A.gif"
+exact "Linebacker B" "mechs/Linebacker B.gif"
+exact "Linebacker C" "mechs/Linebacker C.gif"
+exact "Linebacker D" "mechs/Linebacker D.gif"
+exact "Linebacker E" "mechs/Linebacker E.gif"
+
+chassis "Lineholder" "mechs/Lineholder.gif"
+
+chassis "Lobo" "mechs/Lobo.gif"
+
+chassis "Locust IIC" "mechs/Locust IIC.gif"
+exact "Locust IIC 2" "mechs/Locust IIC 2.gif"
+exact "Locust IIC 3" "mechs/Locust IIC 3.gif"
+exact "Locust IIC 4" "mechs/Locust IIC 4.gif"
+exact "Locust IIC 5" "mechs/Locust IIC 5.gif"
+
+chassis "Locust"      "mechs/Locust.gif"
+exact "Locust LCT-1E" "mechs/Locust LCT-1E.gif"
+exact "Locust LCT-1M" "mechs/Locust LCT-1M.gif"
+exact "Locust LCT-1S" "mechs/Locust LCT-1S.gif"
+exact "Locust LCT-3V" "mechs/Locust LCT-3V.gif"
+
+chassis "Longbow"          "mechs/Longbow.gif"
+exact "Longbow LGB-7V"     "mechs/Longbow LGB-7V.gif"
+exact "Longbow LGB-13NAIS" "mechs/Longbow LGB-13NAIS.gif"
+
+chassis "Longshot" "mechs/Longshot.gif"
+
+chassis "Lynx" "mechs/Lynx.gif"
+
+
+###########
+# Mechs M #
+###########
+
+chassis "Mackie jr."    "mechs/Mackie jr..gif"
+chassis "Mackie"        "mechs/Mackie.gif"
+exact "Mackie MSK-7B"   "mechs/Mackie MSK-7B.gif"
+exact "Mackie MSK-7C"   "mechs/Mackie MSK-7C.gif"
+exact "Mackie MSK-7P"   "mechs/Mackie MSK-7P.gif"
+exact "Mackie MSK-7PJ"  "mechs/Mackie MSK-7PJ.gif"
+exact "Mackie MSK-7SL"  "mechs/Mackie MSK-7SL.gif"
+exact "Mackie MSK-7SUB" "mechs/Mackie MSK-7SUB.gif"
+exact "Mackie MSK-9H"   "mechs/Mackie MSK-9H.gif"
+
+chassis "Mad Dog" "mechs/Mad Dog.gif"
+exact "Mad Dog A" "mechs/Mad Dog A.gif"
+exact "Mad Dog B" "mechs/Mad Dog B.gif"
+exact "Mad Dog C" "mechs/Mad Dog C.gif"
+exact "Mad Dog D" "mechs/Mad Dog D.gif"
+exact "Mad Dog E" "mechs/Mad Dog E.gif"
+exact "Mad Dog F" "mechs/Mad Dog F.gif"
+exact "Mad Dog H" "mechs/Mad Dog H.gif"
+
+chassis "Maelstrom" "mechs/Maelstrom.gif"
+
+chassis "Malak"                 "mechs/Malak.gif"
+exact "Malak C-MK-OA Dominus"   "mechs/Malak C-MK-OA Dominus.gif"
+exact "Malak C-MK-OC Commminus" "mechs/Malak C-MK-OC Commminus.gif"
+exact "Malak C-MK-OD Luminos"   "mechs/Malak C-MK-OD Luminos.gif"
+exact "Malak C-MK-OB Infernus"  "mechs/Malak C-MK-OB Infernus.gif"
+exact "Malak C-MK-OE Eminus"    "mechs/Malak C-MK-OE Eminus.gif"
+
+chassis "Mandrill" "mechs/Mandrill.gif"
+
+chassis "Mangonel" "mechs/Mangonel.gif"
+
+chassis "Mantis" "mechs/Mantis.gif"
+
+chassis "Marauder II"      "mechs/Marauder II.gif"
+exact "Marauder II C"      "mechs/Marauder II C.gif"
+exact "Marauder II MAD-4H" "mechs/Marauder II MAD-4H.gif"
+exact "Marauder II MAD-4S" "mechs/Marauder II MAD-4S.gif"
+
+chassis "Marauder IIC" "mechs/Marauder IIC.gif"
+exact "Marauder IIC 2" "mechs/Marauder IIC 2.gif"
+exact "Marauder IIC 3" "mechs/Marauder IIC 3.gif"
+exact "Marauder IIC 4" "mechs/Marauder IIC 4.gif"
+exact "Marauder IIC 5" "mechs/Marauder IIC 5.gif"
+exact "Marauder IIC 6" "mechs/Marauder IIC 6.gif"
+exact "Marauder IIC 7" "mechs/Marauder IIC 7.gif"
+
+chassis "Marauder"        "mechs/Marauder.gif"
+exact "Marauder MAD-3D"   "mechs/Marauder MAD-3D.gif"
+exact "Marauder MAD-3L"   "mechs/Marauder MAD-3L.gif"
+exact "Marauder MAD-3M"   "mechs/Marauder MAD-3M.gif"
+exact "Marauder MAD-3RWR" "mechs/Marauder MAD-3RWR.gif"
+exact "Marauder MAD-5L"   "mechs/Marauder MAD-5L.gif"
+exact "Marauder MAD-5R"   "mechs/Marauder MAD-5R.gif"
+exact "Marauder MAD-5T"   "mechs/Marauder MAD-5T.gif"
+exact "Marauder MAD-7D"   "mechs/Marauder MAD-7D.gif"
+exact "Marauder MAD-9S"   "mechs/Marauder MAD-9S.gif"
+exact "Marauder MAD-9M"   "mechs/Marauder MAD-9M.gif"
+
+
+chassis "Marco" "mechs/Marco.gif"
+
+chassis "Marshal" "mechs/Marshal.gif"
+
+chassis "Matador" "mechs/Matador.gif"
+exact "Matador 2" "mechs/Matador 2.gif"
+
+chassis "Mauler" "mechs/Mauler.gif"
+
+chassis "Men Shen"      "mechs/Men Shen.gif"
+exact "Men Shen MS1-OA" "mechs/Men Shen MS1-OA.gif"
+exact "Men Shen MS1-OB" "mechs/Men Shen MS1-OB.gif"
+exact "Men Shen MS1-OC" "mechs/Men Shen MS1-OC.gif"
+exact "Men Shen MS1-OD" "mechs/Men Shen MS1-OD.gif"
+exact "Men Shen MS1-OE" "mechs/Men Shen MS1-OE.gif"
+exact "Men Shen MS1-OF" "mechs/Men Shen MS1-OF.gif"
+
+chassis "Mercury" "mechs/Mercury.gif"
+
+chassis "Mercury II" "mechs/Mercury II.gif"
+
+chassis "Merlin" "mechs/Merlin.gif"
+
+chassis "Mjolnir" "mechs/Mjolnir.gif"
+
+chassis "Mongoose"       "mechs/Mongoose.gif"
+exact "Mongoose MON-66b" "mechs/Mongoose MON-66b.gif"
+exact "Mongoose MON-69"  "mechs/Mongoose MON-69.gif"
+
+chassis "Mongoose II" "mechs/Mongoose II.gif"
+
+chassis "Mongrel (Grendel)" "mechs/Mongrel (Grendel).gif"
+exact "Mongrel (Grendel) A" "mechs/Mongrel (Grendel) A.gif"
+exact "Mongrel (Grendel) B" "mechs/Mongrel (Grendel) B.gif"
+exact "Mongrel (Grendel) C" "mechs/Mongrel (Grendel) C.gif"
+exact "Mongrel (Grendel) D" "mechs/Mongrel (Grendel) D.gif"
+exact "Mongrel (Grendel) E" "mechs/Mongrel (Grendel) E.gif"
+exact "Mongrel (Grendel) H" "mechs/Mongrel (Grendel) H.gif"
+
+chassis "Morpheus" "mechs/Morpheus.gif"
+
+
+###########
+# Mechs N #
+###########
+
+chassis "Naga" "mechs/Naga.gif"
+
+chassis "Naginata" "mechs/Naginata.gif"
+
+chassis "Nexus" "mechs/Nexus.gif"
+
+chassis "Nexus II" "mechs/Nexus II.gif"
+
+chassis "Night Gyr" "mechs/Night Gyr.gif"
+exact "Night Gyr A" "mechs/Night Gyr A.gif"
+exact "Night Gyr B" "mechs/Night Gyr B.gif"
+exact "Night Gyr C" "mechs/Night Gyr C.gif"
+exact "Night Gyr D" "mechs/Night Gyr D.gif"
+exact "Night Gyr E" "mechs/Night Gyr E.gif"
+exact "Night Gyr H" "mechs/Night Gyr H.gif"
+
+chassis "Night Hawk" "mechs/Night Hawk.gif"
+
+chassis "Nightsky" "mechs/Nightsky.gif"
+
+chassis "Nightstar" "mechs/Nightstar.gif"
+
+chassis "Ninja-To" "mechs/Ninja-To.gif"
+
+chassis "No-Dachi" "mechs/No-Dachi.gif"
+
+chassis "Nova 2" "mechs/Nova 2.gif"
+exact "Nova A" "mechs/Nova A.gif"
+exact "Nova B" "mechs/Nova B.gif"
+exact "Nova C" "mechs/Nova C.gif"
+exact "Nova D" "mechs/Nova D.gif"
+exact "Nova E" "mechs/Nova E.gif"
+exact "Nova F" "mechs/Nova F.gif"
+exact "Nova H" "mechs/Nova H.gif"
+
+chassis "Nova Cat" "mechs/Nova Cat.gif"
+exact "Nova Cat A" "mechs/Nova Cat A.gif"
+exact "Nova Cat B" "mechs/Nova Cat B.gif"
+exact "Nova Cat C" "mechs/Nova Cat C.gif"
+exact "Nova Cat D" "mechs/Nova Cat D.gif"
+exact "Nova Cat E" "mechs/Nova Cat E.gif"
+exact "Nova Cat F" "mechs/Nova Cat F.gif"
+exact "Nova Cat G" "mechs/Nova Cat G.gif"
+
+chassis "Nyx" "mechs/Nyx.gif"
+
+
+###########
+# Mechs O #
+###########
+
+chassis "O-Bakemono" "mechs/O-Bakemono.gif"
+
+chassis "Ocelot" "mechs/Ocelot.gif"
+
+chassis "Omen" "mechs/Omen.gif"
+
+chassis "Onslaught" "mechs/Onslaught.gif"
+
+chassis "Orion IIC" "mechs/Orion IIC.gif"
+
+chassis "Orion"              "mechs/Orion.gif"
+exact "Orion ON1-V"          "mechs/Orion ON1-V.gif"
+exact "Orion ON1-VA"         "mechs/Orion ON1-VA.gif"
+exact "Orion ON1-K"          "mechs/Orion ON1-K.gif"
+exact "Orion ON1-K Kerensky" "mechs/Orion ON1-K Kerensky.gif"
+
+chassis "Osiris" "mechs/Osiris.gif"
+
+chassis "Osprey" "mechs/Osprey.gif"
+
+chassis "Ostroc" "mechs/Ostroc.gif"
+exact "Ostroc OSR-2L" "mechs/Ostroc OSR-2L.gif"
+exact "Ostroc OSR-2M" "mechs/Ostroc OSR-2M.gif"
+exact "Ostroc OSR-3C" "mechs/Ostroc OSR-3C.gif"
+
+chassis "Ostscout" "mechs/Ostscout.gif"
+
+chassis "Ostsol"      "mechs/Ostsol.gif"
+exact "Ostsol OTL-4F" "mechs/Ostsol OTL-4F.gif"
+
+chassis "Ostwar" "mechs/Ostwar.gif"
+
+chassis "Owens"     "mechs/Owens.gif"
+exact "Owens OW-1A" "mechs/Owens OW-1A.gif"
+exact "Owens OW-1B" "mechs/Owens OW-1B.gif"
+exact "Owens OW-1C" "mechs/Owens OW-1C.gif"
+exact "Owens OW-1D" "mechs/Owens OW-1D.gif"
+exact "Owens OW-1E" "mechs/Owens OW-1E.gif"
+
+
+###########
+# Mechs P #
+###########
+
+chassis "Pack Hunter" "mechs/Pack Hunter.gif"
+
+chassis "Pack Hunter II" "mechs/Pack Hunter II.gif"
+
+chassis "Paladin" "mechs/Paladin.gif"
+
+chassis "Panther"        "mechs/Panther.gif"
+exact "Panther PNT-10K2" "mechs/Panther PNT-10K2.gif"
+exact "Panther PNT-12K"  "mechs/Panther PNT-12K.gif"
+exact "Panther PNT-16K"  "mechs/Panther PNT-16K.gif"
+
+chassis "Pariah" "mechs/Pariah.gif"
+exact "Pariah A" "mechs/Pariah A.gif"
+exact "Pariah B" "mechs/Pariah B.gif"
+exact "Pariah C" "mechs/Pariah C.gif"
+exact "Pariah D" "mechs/Pariah D.gif"
+
+chassis "Patriot"      "mechs/Patriot.gif"
+exact "Patriot PLM-2D" "mechs/Patriot PLM-2D.gif"
+exact "Patriot PLM-2E" "mechs/Patriot PLM-2E.gif"
+
+chassis "Pendragon" "mechs/Pendragon.gif"
+
+chassis "Penetrator" "mechs/Penetrator.gif"
+
+chassis "Perseus" "mechs/Perseus.gif"
+exact "Perseus P1A" "mechs/Perseus P1A.gif"
+exact "Perseus P1B" "mechs/Perseus P1B.gif"
+exact "Perseus P1C" "mechs/Perseus P1C.gif"
+exact "Perseus P1D" "mechs/Perseus P1D.gif"
+
+chassis "Phantom" "mechs/Phantom.gif"
+exact "Phantom A" "mechs/Phantom A.gif"
+exact "Phantom B" "mechs/Phantom B.gif"
+exact "Phantom C" "mechs/Phantom C.gif"
+exact "Phantom D" "mechs/Phantom D.gif"
+exact "Phantom E" "mechs/Phantom E.gif"
+exact "Phantom H" "mechs/Phantom H.gif"
+
+chassis "Phoenix" "mechs/Phoenix.gif"
+
+chassis "Phoenix Hawk IIC" "mechs/Phoenix Hawk IIC.gif"
+exact "Phoenix Hawk IIC 2" "mechs/Phoenix Hawk IIC 2.gif"
+exact "Phoenix Hawk IIC 3" "mechs/Phoenix Hawk IIC 3.gif"
+exact "Phoenix Hawk IIC 4" "mechs/Phoenix Hawk IIC 4.gif"
+exact "Phoenix Hawk IIC 5" "mechs/Phoenix Hawk IIC 5.gif"
+exact "Phoenix Hawk IIC 6" "mechs/Phoenix Hawk IIC 6.gif"
+
+chassis "Phoenix Hawk LAM" "mechs/Phoenix Hawk LAM.gif"
+
+chassis "Phoenix Hawk"              "mechs/Phoenix Hawk.gif"
+exact "Phoenix Hawk PXH-1 (Blazer)" "mechs/Phoenix Hawk PXH-1 (Blazer).gif"
+exact "Phoenix Hawk PXH-1K"         "mechs/Phoenix Hawk PXH-1K.gif"
+exact "Phoenix Hawk PXH-3D"         "mechs/Phoenix Hawk PXH-3D.gif"
+exact "Phoenix Hawk PXH-3K"         "mechs/Phoenix Hawk PXH-3K.gif"
+exact "Phoenix Hawk PXH-3M"         "mechs/Phoenix Hawk PXH-3M.gif"
+exact "Phoenix Hawk PXH-3S"         "mechs/Phoenix Hawk PXH-3S.gif"
+
+chassis "Pillager" "mechs/Pillager.gif"
+
+chassis "Pillager Anvil" "mechs/Pillager.gif"
+
+chassis "Pinion" "mechs/Pinion.gif"
+
+chassis "Piranha" "mechs/Piranha.gif"
+
+chassis "Porcupine" "mechs/Porcupine.gif"
+
+chassis "Pouncer" "mechs/Pouncer.gif"
+exact "Pouncer A" "mechs/Pouncer A.gif"
+exact "Pouncer B" "mechs/Pouncer B.gif"
+exact "Pouncer C" "mechs/Pouncer C.gif"
+exact "Pouncer D" "mechs/Pouncer D.gif"
+exact "Pouncer E" "mechs/Pouncer E.gif"
+exact "Pouncer H" "mechs/Pouncer H.gif"
+
+chassis "Powerman LoaderMech" "mechs/Powerman LoaderMech.gif"
+
+chassis "Predator" "mechs/Predator.gif"
+exact "Predator 2" "mechs/Predator 2.gif"
+
+chassis "Preta" "mechs/Preta.gif"
+exact "Preta C-PRT-OA Dominus" "mechs/Preta C-PRT-OA Dominus.gif"
+exact "Preta C-PRT-OB Infernus" "mechs/Preta C-PRT-OB Infernus.gif"
+exact "Preta C-PRT-OC Comminus" "mechs/Preta C-PRT-OC Comminus.gif"
+exact "Preta C-PRT-OD Luminos" "mechs/Preta C-PRT-OD Luminos.gif"
+exact "Preta C-PRT-OE Eminus" "mechs/Preta C-PRT-OE Eminus.gif"
+
+chassis "Prowler" "mechs/Prowler.gif"
+
+
+###########
+# Mechs Q #
+###########
+
+chassis "Quasit" "mechs/Quasit.gif"
+
+chassis "Quasit MilitiaMech"       "mechs/Quasit MilitiaMech.gif"
+exact "Quasit MilitiaMech QUA-51M" "mechs/Quasit MilitiaMech QUA-51M.gif"
+exact "Quasit MilitiaMech QUA-51T" "mechs/Quasit MilitiaMech QUA-51T.gif"
+exact "Quasit MilitiaMech QUA-51L" "mechs/Quasit MilitiaMech QUA-51L.gif"
+
+chassis "Quickdraw IIC" "mechs/Quickdraw IIC.gif"
+
+chassis "Quickdraw"      "mechs/Quickdraw.gif"
+exact "Quickdraw QKD-5A" "mechs/Quickdraw QKD-5A.gif"
+exact "Quickdraw QKD-4H" "mechs/Quickdraw QKD-4H.gif"
+
+
+###########
+# Mechs R #
+###########
+
+chassis "Rabid Coyote" "mechs/Rabid Coyote.gif"
+
+chassis "Raijin" "mechs/Raijin.gif"
+
+chassis "Raijin II" "mechs/Raijin II.gif"
+
+chassis "Rakshasa"      "mechs/Rakshasa.gif"
+exact "Rakshasa MDG-2A" "mechs/Rakshasa MDG-2A.gif"
+
+chassis "Rampage" "mechs/Rampage.gif"
+
+chassis "Raptor II" "mechs/Raptor II.gif"
+
+chassis "Raptor"       "mechs/Raptor.gif"
+exact "Raptor RTX1-OA" "mechs/Raptor RTX1-OA.gif"
+exact "Raptor RTX1-OB" "mechs/Raptor RTX1-OB.gif"
+exact "Raptor RTX1-OC" "mechs/Raptor RTX1-OC.gif"
+exact "Raptor RTX1-OD" "mechs/Raptor RTX1-OD.gif"
+exact "Raptor RTX1-OE" "mechs/Raptor RTX1-OE.gif"
+exact "Raptor RTX1-OF" "mechs/Raptor RTX1-OF.gif"
+
+chassis "Raven"      "mechs/Raven.gif"
+exact "Raven RVN-1X" "mechs/Raven RVN-1X.gif"
+exact "Raven RVN-2X" "mechs/Raven RVN-2X.gif"
+exact "Raven RVN-3L" "mechs/Raven RVN-3L.gif"
+exact "Raven RVN-3X" "mechs/Raven RVN-3X.gif"
+exact "Raven RVN-4X" "mechs/Raven RVN-4X.gif"
+
+chassis "Raven X" "mechs/Raven X.gif"
+
+chassis "Razorback"      "mechs/Razorback.gif"
+exact "Razorback RZK-9T" "mechs/Razorback RZK-9T.gif"
+
+chassis "Red Shift" "mechs/Red Shift.gif"
+
+chassis "Rifleman IIC" "mechs/Rifleman IIC.gif"
+exact "Rifleman IIC 3" "mechs/Rifleman IIC 3.gif"
+exact "Rifleman IIC 4" "mechs/Rifleman IIC 4.gif"
+exact "Rifleman IIC 5" "mechs/Rifleman IIC 5.gif"
+exact "Rifleman IIC 6" "mechs/Rifleman IIC 6.gif"
+
+chassis "Rifleman" "mechs/Rifleman.gif"
+exact "Rifleman RFL-3C" "mechs/Rifleman RFL-3C.gif"
+exact "Rifleman RFL-3N-2" "mechs/Rifleman RFL-3N-2.gif"
+exact "Rifleman RFL-6X" "mechs/Rifleman RFL-6X.gif"
+exact "Rifleman RFL-7M" "mechs/Rifleman RFL-7M.gif"
+exact "Rifleman RFL-8D" "mechs/Rifleman RFL-8D.gif"
+
+chassis "Rifleman II" "mechs/Rifleman II.gif"
+exact "Rifleman IIA" "mechs/Rifleman IIA.gif"
+exact "Rifleman IIB" "mechs/Rifleman IIB.gif"
+
+chassis "Ronin" "mechs/Ronin.gif"
+
+chassis "Rook" "mechs/Rook.gif"
+
+chassis "Ryoken II" "mechs/Ryoken II.gif"
+
+chassis "Ryoken (Stormcrow)" "mechs/Ryoken (Stormcrow).gif"
+exact "Ryoken (Stormcrow) A" "mechs/Ryoken (Stormcrow) A.gif"
+exact "Ryoken (Stormcrow) B" "mechs/Ryoken (Stormcrow) B.gif"
+exact "Ryoken (Stormcrow) C" "mechs/Ryoken (Stormcrow) C.gif"
+exact "Ryoken (Stormcrow) D" "mechs/Ryoken (Stormcrow) D.gif"
+exact "Ryoken (Stormcrow) E" "mechs/Ryoken (Stormcrow) E.gif"
+exact "Ryoken (Stormcrow) H" "mechs/Ryoken (Stormcrow) H.gif"
+
+
+###########
+# Mechs S #
+###########
+
+chassis "Sagittaire" "mechs/Sagittaire.gif"
+
+#Battlearmor with identical Name exists... => matching via exact
+#chassis "Salamander" "mechs/Salamander.gif"
+exact "Salamander PPR-5S" "mechs/Salamander.gif"
+exact "Salamander PPR-5T" "mechs/Salamander.gif"
+exact "Salamander PPR-6S" "mechs/Salamander.gif"
+exact "Salamander PPR-6T" "mechs/Salamander.gif"
+exact "Salamander PPR-7T" "mechs/Salamander.gif"
+
+
+
+chassis "Sasquatch" "mechs/Sasquatch.gif"
+
+chassis "Savage Coyote" "mechs/Savage Coyote.gif"
+exact "Savage Coyote A" "mechs/Savage Coyote A.gif"
+exact "Savage Coyote B" "mechs/Savage Coyote B.gif"
+exact "Savage Coyote C" "mechs/Savage Coyote C.gif"
+
+chassis "Scarabus" "mechs/Scarabus.gif"
+
+chassis "Scorpion" "mechs/Scorpion.gif"
+
+chassis "Scylla" "mechs/Scylla.gif"
+
+chassis "Sentinel"      "mechs/Sentinel.gif"
+exact "Sentinel STN-4D" "mechs/Sentinel STN-4D.gif"
+
+chassis "Sentry"      "mechs/Sentry.gif"
+exact "Sentry SNT-W5" "mechs/Sentry SNT-W5.gif"
+
+chassis "Seraph"                 "mechs/Seraph.gif"
+exact "Seraph C-SRP-OA Dominus"  "mechs/Seraph C-SRP-OA Dominus.gif"
+exact "Seraph C-SRP-OB Infernus" "mechs/Seraph C-SRP-OB Infernus.gif"
+exact "Seraph C-SRP-OC Comminus" "mechs/Seraph C-SRP-OC Comminus.gif"
+exact "Seraph C-SRP-OD Luminos"  "mechs/Seraph C-SRP-OD Luminos.gif"
+exact "Seraph C-SRP-OE Eminus"   "mechs/Seraph C-SRP-OE Eminus.gif"
+
+chassis "Shadow Cat" "mechs/Shadow Cat.gif"
+exact "Shadow Cat A" "mechs/Shadow Cat A.gif"
+exact "Shadow Cat B" "mechs/Shadow Cat B.gif"
+exact "Shadow Cat C" "mechs/Shadow Cat C.gif"
+exact "Shadow Cat H" "mechs/Shadow Cat H.gif"
+
+chassis "Shadow Cat II" "mechs/Shadow Cat II.gif"
+
+chassis "Shadow Hawk IIC" "mechs/Shadow Hawk IIC.gif"
+exact "Shadow Hawk IIC 2" "mechs/Shadow Hawk IIC 2.gif"
+exact "Shadow Hawk IIC 3" "mechs/Shadow Hawk IIC 3.gif"
+
+chassis "Shadow Hawk"               "mechs/Shadow Hawk.gif"
+exact "Shadow Hawk SHD-2D"          "mechs/Shadow Hawk SHD-2D.gif"
+exact "Shadow Hawk SHD-2H"          "mechs/Shadow Hawk SHD-2H.gif"
+exact "Shadow Hawk SHD-2H (Blazer)" "mechs/Shadow Hawk SHD-2H (Blazer).gif"
+exact "Shadow Hawk SHD-2K"          "mechs/Shadow Hawk SHD-2K.gif"
+exact "Shadow Hawk SHD-5D"          "mechs/Shadow Hawk SHD-5D.gif"
+exact "Shadow Hawk SHD-5M"          "mechs/Shadow Hawk SHD-5M.gif"
+exact "Shadow Hawk SHD-7M"          "mechs/Shadow Hawk SHD-7M.gif"
+
+chassis "Sha Yu"      "mechs/Sha Yu.gif"
+exact "Sha Yu SYU-4B" "mechs/Sha Yu SYU-4B.gif"
+
+chassis "Shen Yi" "mechs/Shenyi.gif"
+
+chassis "Shockwave" "mechs/Shockwave.gif"
+
+chassis "Shogun" "mechs/Shogun.gif"
+
+chassis "Shogun C" "mechs/Shogun C.gif"
+
+chassis "Shootist"     "mechs/Shootist.gif"
+exact "Shootist ST-8A" "mechs/Shootist ST-8A.gif"
+
+chassis "Shugenja" "mechs/Shugenja.gif"
+
+chassis "Silver Fox" "mechs/Silverfox.gif"
+
+chassis "Sirocco" "mechs/Sirocco.gif"
+
+chassis "Sling" "mechs/Sling.gif"
+
+chassis "Snake" "mechs/Snake.gif"
+
+chassis "Snow Fox" "mechs/Snow Fox.gif"
+exact "Snow Fox 2" "mechs/Snow Fox 2.gif"
+exact "Snow Fox 3" "mechs/Snow Fox 3.gif"
+
+chassis "Solitaire" "mechs/Solitaire.gif"
+
+chassis "Spartan" "mechs/Spartan.gif"
+
+chassis "Spector" "mechs/Spector.gif"
+
+chassis "Spider" "mechs/Spider.gif"
+
+chassis "Spirit" "mechs/Spirit.gif"
+
+chassis "Stalker"      "mechs/Stalker.gif"
+exact "Stalker STK-3H" "mechs/Stalker STK-3H.gif"
+exact "Stalker STK-4N" "mechs/Stalker STK-4N.gif"
+exact "Stalker STK-4P" "mechs/Stalker STK-4P.gif"
+exact "Stalker STK-7D" "mechs/Stalker STK-7D.gif"
+
+chassis "Stalking Spider" "mechs/Stalking Spider.gif"
+
+chassis "Starslayer" "mechs/Starslayer.gif"
+
+chassis "Stealth" "mechs/Stealth.gif"
+
+chassis "Stiletto"      "mechs/Stiletto.gif"
+exact "Stiletto STO-4B" "mechs/Stiletto STO-4B.gif"
+exact "Stiletto STO-6X" "mechs/Stiletto STO-6X.gif"
+
+chassis "Stinger LAM" "mechs/Stinger LAM.gif"
+
+chassis "Stinger"       "mechs/Stinger.gif"
+exact "Stinger STG-3G"  "mechs/Stinger STG-3G.gif"
+exact "Stinger STG-3R"  "mechs/Stinger STG-3R.gif"
+exact "Stinger STG-3RR" "mechs/Stinger STG-3RR.gif"
+exact "Stinger STG-6L"  "mechs/Stinger STG-6L.gif"
+
+chassis "Stone Rhino" "mechs/Stone Rhino.gif"
+exact "Stone Rhino 2" "mechs/Stone Rhino 2.gif"
+exact "Stone Rhino 3" "mechs/Stone Rhino 3.gif"
+
+chassis "Stooping Hawk" "mechs/Stooping Hawk.gif"
+exact "Stooping Hawk A" "mechs/Stooping Hawk A.gif"
+exact "Stooping Hawk B" "mechs/Stooping Hawk B.gif"
+exact "Stooping Hawk C" "mechs/Stooping Hawk C.gif"
+exact "Stooping Hawk D" "mechs/Stooping Hawk D.gif"
+exact "Stooping Hawk E" "mechs/Stooping Hawk E.gif"
+
+chassis "Strider"      "mechs/Strider.gif"
+exact "Strider SR1-OA" "mechs/Strider SR1-OA.gif"
+exact "Strider SR1-OB" "mechs/Strider SR1-OB.gif"
+exact "Strider SR1-OC" "mechs/Strider SR1-OC.gif"
+exact "Strider SR1-OD" "mechs/Strider SR1-OD.gif"
+exact "Strider SR1-OE" "mechs/Strider SR1-OE.gif"
+exact "Strider SR1-OF" "mechs/Strider SR1-OF.gif"
+
+chassis "Striker" "mechs/Striker.gif"
+
+chassis "Summoner"  "mechs/Summoner.gif"
+exact "Summoner A"  "mechs/Summoner A.gif"
+exact "Summoner B"  "mechs/Summoner B.gif"
+exact "Summoner C"  "mechs/Summoner C.gif"
+exact "Summoner D"  "mechs/Summoner D.gif"
+exact "Summoner E"  "mechs/Summoner E.gif"
+exact "Summoner G"  "mechs/Summoner G.gif"
+exact "Summoner H"  "mechs/Summoner H.gif"
+exact "Summoner HH" "mechs/Summoner HH.gif"
+exact "Summoner M"  "mechs/Summoner M.gif"
+
+chassis "Sun Cobra" "mechs/Sun Cobra.gif"
+
+chassis "Sunder"      "mechs/Sunder.gif"
+exact "Sunder SD1-OA" "mechs/Sunder SD1-OA.gif"
+exact "Sunder SD1-OB" "mechs/Sunder SD1-OB.gif"
+exact "Sunder SD1-OC" "mechs/Sunder SD1-OC.gif"
+exact "Sunder SD1-OD" "mechs/Sunder SD1-OD.gif"
+
+chassis "Super Griffin" "mechs/Super Griffin.gif"
+
+chassis "Supernova" "mechs/Supernova.gif"
+exact "Supernova 2" "mechs/Supernova 2.gif"
+
+chassis "Super Wasp" "mechs/Super Wasp.gif"
+
+
+###########
+# Mechs T #
+###########
+
+chassis "Tai-sho" "mechs/Taisho.gif"
+
+chassis "Talon" "mechs/Talon.gif"
+
+chassis "Talos" "mechs/Talos.gif"
+
+chassis "Tarantula"      "mechs/Tarantula.gif"
+exact "Tarantula ZPH-4A" "mechs/tarantula_4A.gif"
+
+chassis "Targe" "mechs/Targe.gif"
+
+chassis "Tempest" "mechs/Tempest.gif"
+
+chassis "Templar"              "mechs/Templar.gif"
+exact "Templar CRD-1G"         "mechs/Templar CRD-1G.gif"
+exact "Templar CRD-6T"         "mechs/Templar CRD-6T.gif"
+exact "Templar TLR1-OA"        "mechs/Templar TLR1-OA.gif"
+exact "Templar TLR1-OB"        "mechs/Templar TLR1-OB.gif"
+exact "Templar TLR1-OC"        "mechs/Templar TLR1-OC.gif"
+exact "Templar Tancred TLR1-O" "mechs/Templar Tancred TLR1-O.gif"
+exact "Templar Grayson TLR1-O" "mechs/Templar Grayson TLR1-O.gif"
+
+chassis "Tessen" "mechs/Tessen.gif"
+
+chassis "Thanatos" "mechs/Thanatos.gif"
+
+chassis "Thorn" "mechs/Thorn.gif"
+
+chassis "Thresher" "mechs/Thresher.gif"
+
+chassis "Thug" "mechs/Thug.gif"
+
+chassis "Thunder" "mechs/Thunder.gif"
+
+chassis "Thunderbolt"        "mechs/Thunderbolt.gif"
+exact "Thunderbolt TDR-5RWR" "mechs/Thunderbolt TDR-5RWR.gif"
+exact "Thunderbolt TDR-5SE"  "mechs/Thunderbolt TDR-5SE.gif"
+exact "Thunderbolt TDR-5SS"  "mechs/Thunderbolt TDR-5SS.gif"
+exact "Thunderbolt TDR-9SE"  "mechs/Thunderbolt TDR-9SE.gif"
+exact "Thunderbolt TDR-9S"   "mechs/Thunderbolt TDR-9S.gif"
+exact "Thunderbolt TDR-10SE" "mechs/Thunderbolt TDR-10SE.gif"
+
+chassis "Thunder Hawk" "mechs/Thunder Hawk.gif"
+exact "Thunder Hawk TDK-7X" "mechs/Thunder Hawk TDK-7X.gif"
+exact "Thunder Hawk TDK-7Y" "mechs/Thunder Hawk TDK-7Y.gif"
+
+chassis "Thunder Stallion" "mechs/Thunder Stallion.gif"
+exact "Thunder Stallion 3" "mechs/Thunder Stallion 3.gif"
+
+chassis "Timber Wolf" "mechs/Timber Wolf.gif"
+exact "Timber Wolf A" "mechs/Timber Wolf A.gif"
+exact "Timber Wolf B" "mechs/Timber Wolf B.gif"
+exact "Timber Wolf C" "mechs/Timber Wolf C.gif"
+exact "Timber Wolf D" "mechs/Timber Wolf D.gif"
+
+chassis "Timber Wolf II" "mechs/Timber Wolf II.gif"
+
+chassis "Titan" "mechs/Titan.gif"
+
+chassis "Titan II"      "mechs/Titan II.gif"
+exact "Titan II TI-2PA" "mechs/Titan II TI-2PA.gif"
+
+chassis "Ti Ts'ang" "mechs/Ti Ts'ang.gif"
+
+chassis "Ti Ts'ang DDC" "mechs/Ti Ts'ang DDC.gif"
+
+chassis "Toro" "mechs/Toro.gif"
+
+chassis "Toyama" "mechs/Toyama.gif"
+
+chassis "Trebuchet"      "mechs/Trebuchet.gif"
+exact "Trebuchet TBT-5J" "mechs/Trebuchet TBT-5J.gif"
+exact "Trebuchet TBT-5K" "mechs/Trebuchet TBT-5K.gif"
+exact "Trebuchet TBT-5S" "mechs/Trebuchet TBT-5S.gif"
+exact "Trebuchet TBT-7A" "mechs/Trebuchet TBT-7A.gif"
+exact "Trebuchet TBT-7M" "mechs/Trebuchet TBT-7M.gif"
+exact "Trebuchet TBT-9K" "mechs/Trebuchet TBT-9K.gif"
+
+chassis "Tsunami" "mechs/Tsunami.gif"
+
+chassis "Tundra Wolf" "mechs/Tundra Wolf.gif"
+
+chassis "Turkina" "mechs/Turkina.gif"
+exact "Turkina A" "mechs/Turkina A.gif"
+exact "Turkina B" "mechs/Turkina B.gif"
+exact "Turkina C" "mechs/Turkina C.gif"
+exact "Turkina D" "mechs/Turkina D.gif"
+exact "Turkina H" "mechs/Turkina H.gif"
+
+
+###########
+# Mechs U #
+###########
+
+chassis "UrbanMech IIC" "mechs/UrbanMech IIC.gif"
+exact "UrbanMech IIC 2" "mechs/UrbanMech IIC 2.gif"
+
+chassis "UrbanMech"               "mechs/UrbanMech.gif"
+exact "UrbanMech UM-R60 (Quazer)" "mechs/UrbanMech UM-R60 (Quazer).gif"
+exact "Urbanmech UM-R60L"         "mechs/Urbanmech UM-R60L.gif"
+exact "Urbanmech UM-R70"          "mechs/Urbanmech UM-R70.gif"
+
+chassis "Ursus" "mechs/Ursus.gif"
+exact "Ursus 2" "mechs/Ursus 2.gif"
+
+chassis "Ursus II" "mechs/Ursus II.gif"
+
+chassis "Uziel" "mechs/Uziel.gif"
+
+
+###########
+# Mechs V #
+###########
+
+chassis "Valiant" "mechs/Valiant.gif"
+
+chassis "Valkyrie" "mechs/Valkyrie.gif"
+exact "Valkyrie VLK-QF" "mechs/Valkyrie VLK-QF.gif"
+
+exact "Vandal VD-1X" "mechs/Vandal VD-1X.gif"
+
+chassis "Vanquisher" "mechs/Vanquisher.gif"
+exact "Vanquisher VQR-2B" "mechs/Vanquisher VQR-2B.gif"
+
+chassis "Vapor Eagle" "mechs/Vapor Eagle.gif"
+exact "Vapor Eagle 3" "mechs/Vapor Eagle 3.gif"
+exact "Vapor Eagle 4" "mechs/Vapor Eagle 4.gif"
+
+chassis "Vapor Eagle II" "mechs/Vapor Eagle II.gif"
+
+chassis "Venom" "mechs/Venom.gif"
+
+chassis "Verfolger" "mechs/Verfolger.gif"
+
+chassis "Victor"       "mechs/Victor.gif"
+exact "Victor VTR-9S"  "mechs/Victor VTR-9S.gif"
+exact "Victor VTR-10L" "mechs/Victor VTR-10L.gif"
+exact "Victor VTR-9K"  "mechs/Victor VTR-9K.gif"
+
+chassis "Viking"      "mechs/Viking.gif"
+exact "Viking VKG-2G" "mechs/Viking VKG-2G.gif"
+exact "Viking VKG-3A" "mechs/Viking VKG-3A.gif"
+exact "Viking VKG-3W" "mechs/Viking VKG-3W.gif"
+
+chassis "Vindicator" "mechs/Vindicator.gif"
+
+chassis "Vindicator Dao" "mechs/Vindicator Dao.gif"
+
+chassis "Viper" "mechs/Viper.gif"
+exact "Viper A" "mechs/Viper A.gif"
+exact "Viper B" "mechs/Viper B.gif"
+exact "Viper C" "mechs/Viper C.gif"
+exact "Viper D" "mechs/Viper D.gif"
+exact "Viper E" "mechs/Viper E.gif"
+exact "Viper F" "mechs/Viper F.gif"
+exact "Viper G" "mechs/Viper G.gif"
+exact "Viper H" "mechs/Viper H.gif"
+exact "Viper I" "mechs/Viper I.gif"
+
+chassis "Volkh" "mechs/Volkh.gif"
+
+chassis "Von Rohrs" "mechs/Von Rohrs.gif"
+
+chassis "Vulcan" "mechs/Vulcan.gif"
+exact "Vulcan VL-2T" "mechs/Vulcan VL-2T.gif"
+exact "Vulcan VL-2TR" "mechs/Vulcan VL-2TR.gif"
+exact "Vulcan VL-5T" "mechs/Vulcan VL-5T.gif"
+exact "Vulcan VT-5M" "mechs/Vulcan VL-5M.gif"
+exact "Vulcan VT-5S" "mechs/Vulcan VL-5S.gif"
+exact "Vulcan VT-6C" "mechs/Vulcan VL-6C.gif"
+exact "Vulcan VT-6M" "mechs/Vulcan VL-6M.gif"
+
+
+###########
+# Mechs W #
+###########
+
+chassis "War Dog"          "mechs/War Dog.gif"
+exact "War Dog WR-DG-03FC" "mechs/War Dog WR-DG-03FC.gif"
+
+chassis "Warhammer IIC" "mechs/Warhammer IIC.gif"
+exact "Warhammer IIC 2" "mechs/Warhammer IIC 2.gif"
+exact "Warhammer IIC 3" "mechs/Warhammer IIC 3.gif"
+exact "Warhammer IIC 4" "mechs/Warhammer IIC 4.gif"
+exact "Warhammer IIC 5" "mechs/Warhammer IIC 5.gif"
+exact "Warhammer IIC 6" "mechs/Warhammer IIC 6.gif"
+
+chassis "Warhammer"        "mechs/Warhammer.gif"
+exact "Warhammer WHM-6D"   "mechs/Warhammer WHM-6D.gif"
+exact "Warhammer WHM-9D"   "mechs/Warhammer WHM-9D.gif"
+exact "Warhammer WHD-10CT" "mechs/Warhammer WHD-10CT.gif"
+
+chassis "Warhawk" "mechs/Warhawk.gif"
+exact "Warhawk A" "mechs/Warhawk A.gif"
+exact "Warhawk B" "mechs/Warhawk B.gif"
+exact "Warhawk C" "mechs/Warhawk C.gif"
+exact "Warhawk D" "mechs/Warhawk D.gif"
+exact "Warhawk E" "mechs/Warhawk E.gif"
+exact "Warhawk H" "mechs/Warhawk H.gif"
+
+Chassis "Warlord" "mechs/Warlord.gif"
+
+chassis "Wasp LAM" "mechs/Wasp LAM.gif"
+
+chassis "Wasp" "mechs/Wasp.gif"
+exact "Wasp WSP-1L" "mechs/Wasp WSP-1L.gif"
+exact "Wasp WSP-1W" "mechs/Wasp WSP-1W.gif"
+exact "Wasp WSP-3W" "mechs/Wasp WSP-3W.gif"
+
+chassis "Watchman" "mechs/Watchman.gif"
+
+chassis "Weapon Armed Mech" "mechs/Weapon Armed Mech.gif"
+
+chassis "Werewolf" "mechs/Werewolf.gif"
+
+chassis "White Flame" "mechs/White Flame.gif"
+
+chassis "Whitworth"       "mechs/Whitworth.gif"
+exact "Whitworth WTH-1S"  "mechs/Whitworth WTH-1S.gif"
+exact "Whitworth WTH-1SR" "mechs/Whitworth WTH-1SR.gif"
+
+chassis "Wight" "mechs/Wight.gif"
+
+chassis "Wolfhound IIC" "mechs/Wolfhound IIC.gif"
+
+chassis "Wolfhound"      "mechs/Wolfhound.gif"
+exact "Wolfhound WLF-2X" "mechs/Wolfhound WLF-2X.gif"
+
+chassis "Wolf Trap" "mechs/Wolf Trap.gif"
+
+chassis "Wolverine IIC" "mechs/Wolverine IIC.gif"
+
+chassis "Wolverine"      "mechs/Wolverine.gif"
+exact "Wolverine WVR-6K" "mechs/Wolverine WVR-6K.gif"
+exact "Wolverine WVR-6M" "mechs/Wolverine WVR-6M.gif"
+exact "Wolverine WVR-7K" "mechs/Wolverine WVR-7K.gif"
+exact "Wolverine WVR-8C" "mechs/Wolverine WVR-8C.gif"
+
+chassis "Wolverine II" "mechs/Wolverine II.gif"
+
+chassis "Woodsman" "mechs/Woodsman.gif"
+exact "Woodsman A" "mechs/Woodsman A.gif"
+
+chassis "Wraith" "mechs/Wraith.gif"
+
+chassis "Wyvern IIC" "mechs/Wyvern IIC.gif"
+
+chassis "Wyvern" "mechs/Wyvern.gif"
+
+
+###########
+# Mechs X #
+###########
+
+chassis "Xanthos" "mechs/Xanthos.gif"
+
+
+###########
+# Mechs Y #
+###########
+
+chassis "Yao Lien" "mechs/Yao Lien.gif"
+
+chassis "Yeoman" "mechs/Yeoman.gif"
+
+chassis "Ymir"      "mechs/Ymir.gif"
+exact "Ymir BWP-2E" "mechs/Ymir BWP-2E.gif"
+exact "Ymir BWP-3A" "mechs/Ymir BWP-3A.gif"
+
+chassis "Yu Huang" "mechs/Yu Huang.gif"
+
+
+###########
+# Mechs Z #
+###########
+
+chassis "Zeus"      "mechs/Zeus.gif"
+exact "Zeus ZEU-6T" "mechs/Zeus ZEU-6T.gif"
+exact "Zeus ZEU-9S" "mechs/Zeus ZEU-9S.gif"
+exact "Zeus ZEU-9T" "mechs/Zeus ZEU-9T.gif"
+
+chassis "Zeus X" "mechs/Zeus X.gif"
