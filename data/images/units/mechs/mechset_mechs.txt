@@ -749,13 +749,14 @@ exact "Horned Owl 5" "mechs/H/Horned Owl 5.gif"
 
 chassis "Hornet" "mechs/H/Hornet.gif"
 
-chassis "Hunchback"       "mechs/H/Hunchback.gif"
-exact "Hunchback HBK-4H"  "mechs/H/Hunchback HBK-4H.gif"
-exact "Hunchback HBK-4J"  "mechs/H/Hunchback HBK-4J.gif"
-exact "Hunchback HBK-4N"  "mechs/H/Hunchback HBK-4N.gif"
-exact "Hunchback HBK-4P"  "mechs/H/Hunchback HBK-4P.gif"
-exact "Hunchback HBK-4SP" "mechs/H/Hunchback HBK-4SP.gif"
-exact "Hunchback HBK-5SG" "mechs/H/Hunchback HBK-5SG.gif"
+chassis "Hunchback"               "mechs/H/Hunchback.gif"
+exact "Hunchback HBK-4G (Blazer)" "mechs/H/Hunchback HBK-4G (Blazer).gif"
+exact "Hunchback HBK-4H"          "mechs/H/Hunchback HBK-4H.gif"
+exact "Hunchback HBK-4J"          "mechs/H/Hunchback HBK-4J.gif"
+exact "Hunchback HBK-4N"          "mechs/H/Hunchback HBK-4N.gif"
+exact "Hunchback HBK-4P"          "mechs/H/Hunchback HBK-4P.gif"
+exact "Hunchback HBK-4SP"         "mechs/H/Hunchback HBK-4SP.gif"
+exact "Hunchback HBK-5SG"         "mechs/H/Hunchback HBK-5SG.gif"
 
 chassis "Hunchback IIC" "mechs/H/Hunchback IIC.gif"
 
@@ -1002,16 +1003,18 @@ exact "Marauder IIC 5" "mechs/M/Marauder IIC 5.gif"
 exact "Marauder IIC 6" "mechs/M/Marauder IIC 6.gif"
 exact "Marauder IIC 7" "mechs/M/Marauder IIC 7.gif"
 
-chassis "Marauder"      "mechs/M/Marauder.gif"
-exact "Marauder MAD-3D" "mechs/M/Marauder MAD-3D.gif"
-exact "Marauder MAD-3L" "mechs/M/Marauder MAD-3L.gif"
-exact "Marauder MAD-3M" "mechs/M/Marauder MAD-3M.gif"
-exact "Marauder MAD-5L" "mechs/M/Marauder MAD-5L.gif"
-exact "Marauder MAD-5R" "mechs/M/Marauder MAD-5R.gif"
-exact "Marauder MAD-5T" "mechs/M/Marauder MAD-5T.gif"
-exact "Marauder MAD-7D" "mechs/M/Marauder MAD-7D.gif"
-exact "Marauder MAD-9S" "mechs/M/Marauder MAD-9S.gif"
-exact "Marauder MAD-9M" "mechs/M/Marauder MAD-9M.gif"
+chassis "Marauder"        "mechs/M/Marauder.gif"
+exact "Marauder MAD-3D"   "mechs/M/Marauder MAD-3D.gif"
+exact "Marauder MAD-3L"   "mechs/M/Marauder MAD-3L.gif"
+exact "Marauder MAD-3M"   "mechs/M/Marauder MAD-3M.gif"
+exact "Marauder MAD-3RWR" "mechs/M/Marauder MAD-3RWR.gif"
+exact "Marauder MAD-5L"   "mechs/M/Marauder MAD-5L.gif"
+exact "Marauder MAD-5R"   "mechs/M/Marauder MAD-5R.gif"
+exact "Marauder MAD-5T"   "mechs/M/Marauder MAD-5T.gif"
+exact "Marauder MAD-7D"   "mechs/M/Marauder MAD-7D.gif"
+exact "Marauder MAD-9S"   "mechs/M/Marauder MAD-9S.gif"
+exact "Marauder MAD-9M"   "mechs/M/Marauder MAD-9M.gif"
+
 
 chassis "Marco" "mechs/M/Marco.gif"
 
@@ -1204,12 +1207,13 @@ exact "Phoenix Hawk IIC 6" "mechs/P/Phoenix Hawk IIC 6.gif"
 
 chassis "Phoenix Hawk LAM" "mechs/P/Phoenix Hawk LAM.gif"
 
-chassis "Phoenix Hawk"      "mechs/P/Phoenix Hawk.gif"
-exact "Phoenix Hawk PXH-1K" "mechs/P/Phoenix Hawk PXH-1K.gif"
-exact "Phoenix Hawk PXH-3D" "mechs/P/Phoenix Hawk PXH-3D.gif"
-exact "Phoenix Hawk PXH-3K" "mechs/P/Phoenix Hawk PXH-3K.gif"
-exact "Phoenix Hawk PXH-3M" "mechs/P/Phoenix Hawk PXH-3M.gif"
-exact "Phoenix Hawk PXH-3S" "mechs/P/Phoenix Hawk PXH-3S.gif"
+chassis "Phoenix Hawk"              "mechs/P/Phoenix Hawk.gif"
+exact "Phoenix Hawk PXH-1 (Blazer)" "mechs/P/Phoenix Hawk PXH-1 (Blazer).gif"
+exact "Phoenix Hawk PXH-1K"         "mechs/P/Phoenix Hawk PXH-1K.gif"
+exact "Phoenix Hawk PXH-3D"         "mechs/P/Phoenix Hawk PXH-3D.gif"
+exact "Phoenix Hawk PXH-3K"         "mechs/P/Phoenix Hawk PXH-3K.gif"
+exact "Phoenix Hawk PXH-3M"         "mechs/P/Phoenix Hawk PXH-3M.gif"
+exact "Phoenix Hawk PXH-3S"         "mechs/P/Phoenix Hawk PXH-3S.gif"
 
 chassis "Pillager" "mechs/P/Pillager.gif"
 
@@ -1247,6 +1251,13 @@ chassis "Prowler" "mechs/P/Prowler.gif"
 ###########
 # Mechs Q #
 ###########
+
+chassis "Quasit" "mechs/Q/Quasit.gif"
+
+chassis "Quasit MilitiaMech"       "mechs/Q/Quasit MilitiaMech.gif"
+exact "Quasit MilitiaMech QUA-51M" "mechs/Q/Quasit MilitiaMech QUA-51M.gif"
+exact "Quasit MilitiaMech QUA-51T" "mechs/Q/Quasit MilitiaMech QUA-51T.gif"
+exact "Quasit MilitiaMech QUA-51L" "mechs/Q/Quasit MilitiaMech QUA-51L.gif"
 
 chassis "Quickdraw IIC" "mechs/Q/Quickdraw IIC.gif"
 
@@ -1380,13 +1391,14 @@ chassis "Shadow Hawk IIC" "mechs/S/Shadow Hawk IIC.gif"
 exact "Shadow Hawk IIC 2" "mechs/S/Shadow Hawk IIC 2.gif"
 exact "Shadow Hawk IIC 3" "mechs/S/Shadow Hawk IIC 3.gif"
 
-chassis "Shadow Hawk" "mechs/S/Shadow Hawk.gif"
-exact "Shadow Hawk SHD-2D" "mechs/S/Shadow Hawk SHD-2D.gif"
-exact "Shadow Hawk SHD-2H" "mechs/S/Shadow Hawk SHD-2H.gif"
-exact "Shadow Hawk SHD-2K" "mechs/S/Shadow Hawk SHD-2K.gif"
-exact "Shadow Hawk SHD-5D" "mechs/S/Shadow Hawk SHD-5D.gif"
-exact "Shadow Hawk SHD-5M" "mechs/S/Shadow Hawk SHD-5M.gif"
-exact "Shadow Hawk SHD-7M" "mechs/S/Shadow Hawk SHD-7M.gif"
+chassis "Shadow Hawk"               "mechs/S/Shadow Hawk.gif"
+exact "Shadow Hawk SHD-2D"          "mechs/S/Shadow Hawk SHD-2D.gif"
+exact "Shadow Hawk SHD-2H"          "mechs/S/Shadow Hawk SHD-2H.gif"
+exact "Shadow Hawk SHD-2H (Blazer)" "mechs/S/Shadow Hawk SHD-2H (Blazer).gif"
+exact "Shadow Hawk SHD-2K"          "mechs/S/Shadow Hawk SHD-2K.gif"
+exact "Shadow Hawk SHD-5D"          "mechs/S/Shadow Hawk SHD-5D.gif"
+exact "Shadow Hawk SHD-5M"          "mechs/S/Shadow Hawk SHD-5M.gif"
+exact "Shadow Hawk SHD-7M"          "mechs/S/Shadow Hawk SHD-7M.gif"
 
 chassis "Sha Yu"      "mechs/S/Sha Yu.gif"
 exact "Sha Yu SYU-4B" "mechs/S/Sha Yu SYU-4B.gif"
@@ -1537,6 +1549,7 @@ chassis "Thug" "mechs/T/Thug.gif"
 chassis "Thunder" "mechs/T/Thunder.gif"
 
 chassis "Thunderbolt"        "mechs/T/Thunderbolt.gif"
+exact "Thunderbolt TDR-5RWR" "mechs/T/Thunderbolt TDR-5RWR.gif"
 exact "Thunderbolt TDR-5SE"  "mechs/T/Thunderbolt TDR-5SE.gif"
 exact "Thunderbolt TDR-5SS"  "mechs/T/Thunderbolt TDR-5SS.gif"
 exact "Thunderbolt TDR-9SE"  "mechs/T/Thunderbolt TDR-9SE.gif"
@@ -1598,9 +1611,10 @@ exact "Turkina H" "mechs/T/Turkina H.gif"
 chassis "UrbanMech IIC" "mechs/U/UrbanMech IIC.gif"
 exact "UrbanMech IIC 2" "mechs/U/UrbanMech IIC 2.gif"
 
-chassis "UrbanMech" "mechs/U/UrbanMech.gif"
-exact "Urbanmech UM-R60L" "mechs/U/Urbanmech UM-R60L.gif"
-exact "Urbanmech UM-R70" "mechs/U/Urbanmech UM-R70.gif"
+chassis "UrbanMech"               "mechs/U/UrbanMech.gif"
+exact "UrbanMech UM-R60 (Quazer)" "mechs/U/UrbanMech UM-R60 (Quazer).gif"
+exact "Urbanmech UM-R60L"         "mechs/U/Urbanmech UM-R60L.gif"
+exact "Urbanmech UM-R70"          "mechs/U/Urbanmech UM-R70.gif"
 
 chassis "Ursus" "mechs/U/Ursus.gif"
 exact "Ursus 2" "mechs/U/Ursus 2.gif"
@@ -1618,6 +1632,8 @@ chassis "Valiant" "mechs/V/Valiant.gif"
 
 chassis "Valkyrie" "mechs/V/Valkyrie.gif"
 exact "Valkyrie VLK-QF" "mechs/V/Valkyrie VLK-QF.gif"
+
+exact "Vandal VD-1X" "mechs/V/Vandal VD-1X.gif"
 
 chassis "Vanquisher" "mechs/V/Vanquisher.gif"
 exact "Vanquisher VQR-2B" "mechs/V/Vanquisher VQR-2B.gif"
@@ -1780,21 +1796,3 @@ exact "Zeus ZEU-9S" "mechs/Z/Zeus ZEU-9S.gif"
 exact "Zeus ZEU-9T" "mechs/Z/Zeus ZEU-9T.gif"
 
 chassis "Zeus X" "mechs/Z/Zeus X.gif"
-
-
-################
-# Mechs Custom #
-################
-
-exact "Marauder MAD-3RWR" "mechs/Custom/Marauder MAD-3RWR.gif"
-exact "Thunderbolt TDR-5RWR" "mechs/Custom/Thunderbolt TDR-5RWR.gif"
-chassis "Quasit" "mechs/Custom/Quasit.gif"
-chassis "Quasit MilitiaMech" "mechs/Custom/Quasit MilitiaMech.gif"
-exact "Quasit MilitiaMech QUA-51M" "mechs/Custom/Quasit MilitiaMech QUA-51M.gif"
-exact "Quasit MilitiaMech QUA-51T" "mechs/Custom/Quasit MilitiaMech QUA-51T.gif"
-exact "Quasit MilitiaMech QUA-51L" "mechs/Custom/Quasit MilitiaMech QUA-51L.gif"
-exact "Hunchback HBK-4G (Blazer)" "mechs/Custom/Hunchback HBK-4G (Blazer).gif"
-exact "Phoenix Hawk PXH-1 (Blazer)" "mechs/Custom/Phoenix Hawk PXH-1 (Blazer).gif"
-exact "UrbanMech UM-R60 (Quazer)" "mechs/Custom/UrbanMech UM-R60 (Quazer).gif"
-exact "Shadow Hawk SHD-2H (Blazer)" "mechs/Custom/Shadow Hawk SHD-2H (Blazer).gif"
-exact "Vandal VD-1X" "mechs/Custom/Vandal VD-1X.gif"
