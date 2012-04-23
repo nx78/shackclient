@@ -1,0 +1,21 @@
+######################
+# Unused Definitions #
+######################
+#chassis "Clan Anti-Mech Jump Point" "infantry/infjump.gif"
+#chassis "Clan Anti-Mech Motorized Point" "infantry/infmoto.gif"
+#chassis "Clan Motorized Combat Engineers"
+#chassis "Motorized Combat Engineers"
+#chassis "Mechanized Wheeled Point" "infantry/mecha_w.gif"
+#chassis "Clan" "battle armor/Clan Medium.gif"
+#chassis "Mechanized Tracked Point" "infantry/mecha_t.gif"
+#chassis "Mechanized Hover Point" "infantry/mecha_h.gif"
+#exact "Clan Field Gunners (AC2)"     "infantry/fieldgunac2.gif"
+#exact "Clan Field Gunners (AC5)"     "infantry/fieldgunac5.gif"
+#exact "Clan Field Gunners (Rotary5)" "infantry/fieldgunac5.gif"
+#exact "Clan Field Gunners (Ultra2)"  "infantry/fieldgunac2.gif"
+#exact "Clan Field Gunners (Ultra5)"  "infantry/fieldgunac5.gif"
+#exact "Clan Field Gunners (Rotary2)" "infantry/fieldgunac2.gif"
+#exact "Field Gunners (Rotary2)" "infantry/fieldgunac2.gif"
+#exact "Field Gunners (Rotary5)" "infantry/fieldgunac5.gif"
+#exact "Field Gunners (Ultra2)" "infantry/fieldgunac2.gif"
+#exact "Field Gunners (Ultra5)" "infantry/fieldgunac5.gif"

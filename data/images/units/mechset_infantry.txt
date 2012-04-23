@@ -1,0 +1,187 @@
+##############
+# Infantry A #
+##############
+
+chassis "Anti-Mech Jump Platoon" "infantry/Anti-Mech Jump Platoon.gif"
+
+chassis "Anti-Mech Motorized Platoon" "infantry/Anti-Mech Motorized Platoon.gif"
+
+
+##############
+# Infantry B #
+##############
+
+
+##############
+# Infantry C #
+##############
+
+chassis "Clan Field Artillery" "infantry/Clan Field Artillery.gif"
+
+chassis "Clan Field Gunners"      "infantry/Clan Field Gunners.gif"
+exact "Clan Field Gunners (LBX2)" "infantry/Clan Field Gunners (LBX2).gif"
+exact "Clan Field Gunners (LBX5)" "infantry/Clan Field Gunners (LBX5).gif"
+
+chassis "Clan Jump Point" "infantry/Clan Jump Point.gif"
+
+chassis "Clan Mechanized Hover Point" "infantry/Clan Mechanized Hover Point.gif"
+
+chassis "Clan Mechanized Hover Squad" "infantry/Clan Mechanized Hover Squad.gif"
+
+chassis "Clan Mechanized Tracked Point" "infantry/Clan Mechanized Tracked Point.gif"
+
+chassis "Clan Mechanized Tracked Squad" "infantry/Clan Mechanized Tracked Squad.gif"
+
+chassis "Clan Mechanized Wheeled Point" "infantry/Clan Mechanized Wheeled Point.gif"
+
+chassis "Clan Mechanized Wheeled Squad" "infantry/Clan Mechanized Wheeled Squad.gif"
+
+chassis "Clan Motorized Point" "infantry/Clan Motorized Point.gif"
+
+chassis "Clan Motorized Squad" "infantry/Clan Motorized Squad.gif"
+
+
+##############
+# Infantry D #
+##############
+
+
+##############
+# Infantry E #
+##############
+
+
+##############
+# Infantry F #
+##############
+
+chassis "Field Artillery" "infantry/Field Artillery.gif"
+
+chassis "Field Gunners"      "infantry/Field Gunners.gif"
+exact "Field Gunners (AC2)"  "infantry/Field Gunners (AC2).gif"
+exact "Field Gunners (AC5)"  "infantry/Field Gunners (AC5).gif"
+exact "Field Gunners (LBX2)" "infantry/Field Gunners (LBX2).gif"
+exact "Field Gunners (LBX5)" "infantry/Field Gunners (LBX5).gif"
+
+
+##############
+# Infantry G #
+##############
+
+
+##############
+# Infantry H #
+##############
+
+
+##############
+# Infantry I #
+##############
+
+
+##############
+# Infantry J #
+##############
+
+chassis "Jump Platoon" "infantry/Jump Platoon.gif"
+
+chassis "Jump Squad" "infantry/Jump Squad.gif"
+
+
+##############
+# Infantry K #
+##############
+
+
+##############
+# Infantry L #
+##############
+
+
+##############
+# Infantry M #
+##############
+
+chassis "MechWarrior" "infantry/MechWarrior.gif"
+
+chassis "Mechanized Hover Platoon" "infantry/Mechanized Hover Platoon.gif"
+
+chassis "Mechanized Hover Squad" "infantry/Mechanized Hover Squad.gif"
+
+chassis "Mechanized Tracked Platoon" "infantry/Mechanized Tracked Platoon.gif"
+
+chassis "Mechanized Tracked Squad" "infantry/Mechanized Tracked Squad.gif"
+
+chassis "Mechanized Wheeled Platoon" "infantry/Mechanized Wheeled Platoon.gif"
+
+chassis "Mechanized Wheeled Squad" "infantry/Mechanized Wheeled Squad.gif"
+
+chassis "Motorized Platoon" "infantry/Motorized Platoon.gif"
+
+chassis "Motorized Squad" "infantry/Motorized Squad.gif"
+
+
+##############
+# Infantry N #
+##############
+
+
+##############
+# Infantry O #
+##############
+
+
+##############
+# Infantry P #
+##############
+
+
+##############
+# Infantry Q #
+##############
+
+
+##############
+# Infantry R #
+##############
+
+
+##############
+# Infantry S #
+##############
+
+
+##############
+# Infantry T #
+##############
+
+
+##############
+# Infantry U #
+##############
+
+
+##############
+# Infantry V #
+##############
+
+
+##############
+# Infantry W #
+##############
+
+
+##############
+# Infantry X #
+##############
+
+
+##############
+# Infantry Y #
+##############
+
+
+##############
+# Infantry Z #
+##############
+
