@@ -63,6 +63,10 @@ exact "Field Gunners (AC5)"  "infantry/Field Gunners (AC5).gif"
 exact "Field Gunners (LBX2)" "infantry/Field Gunners (LBX2).gif"
 exact "Field Gunners (LBX5)" "infantry/Field Gunners (LBX5).gif"
 
+Chassis "Foot Platoon" "infantry/Foot Platoon.gif"
+
+Chassis "Foot Squad" "infantry/Foot Squad.gif"
+
 
 ##############
 # Infantry G #
