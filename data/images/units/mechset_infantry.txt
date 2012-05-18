@@ -2,9 +2,17 @@
 # Infantry A #
 ##############
 
+chassis "Anti-Mech Jump Squad" "infantry/Anti-Mech Jump Squad.gif"
+
+chassis "Anti-Mech Foot Platoon" "infantry/Anti-Mech Foot Platoon.gif"
+
+chassis "Anti-Mech Foot Squad" "infantry/Anti-Mech Foot Squad.gif"
+
 chassis "Anti-Mech Jump Platoon" "infantry/Anti-Mech Jump Platoon.gif"
 
 chassis "Anti-Mech Motorized Platoon" "infantry/Anti-Mech Motorized Platoon.gif"
+
+chassis "Anti-Mech Motorized Squad" "infantry/Anti-Mech Motorized Squad.gif"
 
 
 ##############
