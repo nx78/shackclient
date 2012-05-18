@@ -77,6 +77,10 @@ Chassis "Foot Squad" "infantry/Foot Squad.gif"
 # Infantry H #
 ##############
 
+Chassis "Heavy Platoon" "infantry/Heavy Platoon.gif"
+
+Chassis "Heavy Squad" "infantry/Heavy Squad.gif"
+
 
 ##############
 # Infantry I #
