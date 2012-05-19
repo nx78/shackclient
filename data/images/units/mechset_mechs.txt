@@ -914,8 +914,6 @@ chassis "Legacy"      "mechs/Legacy.gif"
 exact "Legacy LGC-02" "mechs/Legacy LGC-02.gif"
 exact "Legacy LGC-03" "mechs/Legacy LGC-03.gif"
 
-chassis "Legend Killer" "mechs/Legend Killer.gif"
-
 chassis "Legionnaire" "mechs/Legionnaire.gif"
 
 chassis "Lightray" "mechs/Lightray.gif"
@@ -1311,12 +1309,13 @@ exact "Rifleman IIC 4" "mechs/Rifleman IIC 4.gif"
 exact "Rifleman IIC 5" "mechs/Rifleman IIC 5.gif"
 exact "Rifleman IIC 6" "mechs/Rifleman IIC 6.gif"
 
-chassis "Rifleman" "mechs/Rifleman.gif"
-exact "Rifleman RFL-3C" "mechs/Rifleman RFL-3C.gif"
-exact "Rifleman RFL-3N-2" "mechs/Rifleman RFL-3N-2.gif"
-exact "Rifleman RFL-6X" "mechs/Rifleman RFL-6X.gif"
-exact "Rifleman RFL-7M" "mechs/Rifleman RFL-7M.gif"
-exact "Rifleman RFL-8D" "mechs/Rifleman RFL-8D.gif"
+chassis "Rifleman"             "mechs/Rifleman.gif"
+exact "Rifleman Legend Killer" "mechs/Rifleman Legend Killer.gif"
+exact "Rifleman RFL-3C"        "mechs/Rifleman RFL-3C.gif"
+exact "Rifleman RFL-3N-2"      "mechs/Rifleman RFL-3N-2.gif"
+exact "Rifleman RFL-6X"        "mechs/Rifleman RFL-6X.gif"
+exact "Rifleman RFL-7M"        "mechs/Rifleman RFL-7M.gif"
+exact "Rifleman RFL-8D"        "mechs/Rifleman RFL-8D.gif"
 
 chassis "Rifleman II" "mechs/Rifleman II.gif"
 exact "Rifleman IIA" "mechs/Rifleman IIA.gif"
