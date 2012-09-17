@@ -2,6 +2,48 @@
 # Vehicle A #
 #############
 
+chassis "AC/2 Carrier" "vehicles/AC2 Carrier.gif"
+
+chassis "Air Car" "vehicles/Air Car.gif"
+
+chassis "Ajax Assault Tank" "vehicles/Ajax Assault Tank.gif"
+exact "Ajax Assault Tank A" "vehicles/Ajax Assault Tank A.gif"
+exact "Ajax Assault Tank B" "vehicles/Ajax Assault Tank B.gif"
+
+chassis "Alacorn Heavy Tank"      "vehicles/Alacorn Heavy Tank.gif"
+exact "Alacorn Heavy Tank Mk III" "vehicles/Alacorn Heavy Tank Mk III.gif"
+exact "Alacorn Heavy Tank Mk IV"  "vehicles/Alacorn Heavy Tank Mk IV.gif"
+exact "Alacorn Heavy Tank Mk VII" "vehicles/Alacorn Heavy Tank Mk VII.gif"
+
+chassis "APC"         "vehicles/APC.gif"
+exact "APC (Hover)"   "vehicles/APC (Hover).gif"
+exact "APC (Tracked)" "vehicles/APC (Tracked).gif"
+exact "APC (Wheeled)" "vehicles/APC (Wheeled).gif"
+
+chassis "Ares Medium Tank" "vehicles/Ares Medium Tank.gif"
+
+chassis "Armored Personnel Carrier"         "vehicles/Armored Personnel Carrier.gif"
+exact "Armored Personnel Carrier (Hover)"   "vehicles/Armored Personnel Carrier (Hover).gif"
+exact "Armored Personnel Carrier (Tracked)" "vehicles/Armored Personnel Carrier (Tracked).gif"
+exact "Armored Personnel Carrier (Wheeled)" "vehicles/Armored Personnel Carrier (Wheeled).gif"
+
+chassis "Arrow IV"         "vehicles/Arrow IV.gif"
+exact "Artillery Arrow IV" "vehicles/Artillery Arrow IV.gif"
+
+chassis "Asshur Artillery Spotter" "vehicles/Asshur Artillery Spotter.gif"
+
+chassis "Asshur Fast Reconnaissance Vehicle" "vehicles/Asshur Fast Reconnaissance Vehicle.gif"
+
+chassis "Athena Combat Vehicle" "vehicles/Athena Combat Vehicle.gif"
+
+chassis "Athena Fire Direction Control Carrier" "vehicles/Athena Fire Direction Control Carrier.gif"
+
+chassis "Augustus MBT" "vehicles/Augustus MBT.gif"
+
+chassis "Axel Heavy Tank" "vehicles/Axel Heavy Tank.gif"
+
+chassis "Axel Heavy Tank IIC" "vehicles/Axel Heavy Tank IIC.gif"
+
 
 #############
 # Vehicle B #
