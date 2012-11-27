@@ -1,0 +1,151 @@
+Version:1.0
+JagerMech
+JM6-S
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3039
+Source:Star League
+Rules Level:4
+
+Mass:65
+Engine:260 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:6
+RA Armor:6
+LT Armor:13
+RT Armor:13
+CT Armor:16
+HD Armor:9
+LL Armor:11
+RL Armor:11
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:4
+LB 10-X AC Prototype, Right Arm
+LB 10-X AC Prototype, Left Arm
+Medium Laser, Right Torso
+Medium Laser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+Medium Laser
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+Medium Laser
+Communications Equipment (3 ton)
+Communications Equipment (3 ton)
+Communications Equipment (3 ton)
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
