@@ -1,0 +1,70 @@
+=-=-=-=-=-=-=-=-=-=
+JAKE'S! CAMO! PACK!
+-=-=-=-=-=-=-=-=-=-
+For Use In MegaMek!
+=-=-=-=-=-=-=-=-=-=
+Nov. 5th, 2005 ver.
+-=-=-=-=-=-=-=-=-=-
+
+NEWS:
+  This November 5th version adds over 200
+  more camos to the package, very nearly
+  completing the Inner Sphere side of all
+  canonical camo/paint schemes. The only
+  ones left are units I can't find any
+  listing of colors for (ie new FCCW units
+  built off mixed commands and the armed
+  forces of the Outworlds Alliance). Plenty
+  of old schemes have been reworked to be
+  more accurate, and many, many new ones
+  were added, including Solaris and MWDA
+  schemes.
+
+INSTALLATION:
+  Simply extract these files into your
+  camo directory. Please don't use any
+  sub-directories for organization. I
+  have found that if people do this it
+  is unlikely that you will be able to
+  see the camos on both ends of an MM
+  game. I have given them [tags] for easy
+  identification.
+
+CAMO LIST:
+  Someone asked me to make a list of all
+  the camos. If I was paid to do this, I
+  might, but since that'd be entering some
+  400-plus camo names, sorry. :) Maybe next
+  time!
+  [Note from the editor: I have added an
+  index.html file which will show all the
+  camos when opened in a browser]
+
+AND ETC:
+  All of these camos were done by myself
+  with many references taken from that tip
+  top site CamoSpecs. Feel free to do with
+  these what you will! Enjoy!
+
+  -- Jake Murrow
+
+	[cbt boards: Jake]
+	[msn: willowbeard@hotmail.com]
+	[mail: jacob.murrow@uconn.edu]
+	[aim: greystone chapel]
+
+///
+
+This work is licensed under the Creative Commons 
+Attribution-NonCommercial-ShareAlike 2.5 License. 
+To view a copy of this license, visit 
+
+http://creativecommons.org/licenses/by-nc-sa/2.5/ 
+
+or send a letter to 
+
+Creative Commons
+543 Howard Street, 5th Floor
+San Francisco, CA, 94105, USA.
+
+\\\
