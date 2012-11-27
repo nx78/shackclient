@@ -1,0 +1,151 @@
+Version:1.0
+Banshee
+BNC-4S Baccus (3039)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2750
+Rules Level:4
+
+Mass:95
+Engine:380 XL Engine(IS)
+Structure:Standard
+Myomer:Triple-Strength
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:32
+RA Armor:32
+LT Armor:30
+RT Armor:30
+CT Armor:45
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:5
+LB 10-X AC Prototype, Left Arm
+LB 10-X AC Prototype, Right Arm
+Large Laser, Left Torso
+Large Laser, Right Torso
+Small Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+ISLBXAC10Prototype
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Large Laser
+Large Laser
+TSM
+TSM
+TSM
+ISCASE
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Large Laser
+Large Laser
+TSM
+TSM
+TSM
+ISCASE
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Small Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
